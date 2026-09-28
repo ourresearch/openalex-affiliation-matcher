@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 370" width="720" height="370" role="img" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif' style="font-variant-numeric: tabular-nums">
+<title>Exact match on four benchmarks: 2023 system, new matcher, ROR's matcher</title>
+<rect x="230" y="8" width="12" height="12" rx="2" fill="#888780"/>
+<text x="248.0" y="14.0" fill="#707a84" font-size="14" font-weight="400" text-anchor="start" dominant-baseline="middle">2023 system</text>
+<rect x="357.6" y="8" width="12" height="12" rx="2" fill="#2a78d6"/>
+<text x="375.6" y="14.0" fill="#707a84" font-size="14" font-weight="400" text-anchor="start" dominant-baseline="middle">New matcher</text>
+<rect x="485.20000000000005" y="8" width="12" height="12" rx="2" fill="#199e70"/>
+<text x="503.2" y="14.0" fill="#707a84" font-size="14" font-weight="400" text-anchor="start" dominant-baseline="middle">ROR's matcher</text>
+<line x1="230.0" y1="50.0" x2="230.0" y2="366.0" stroke="#8b949e" stroke-width="1" stroke-opacity="0.8"/>
+<text x="230.0" y="40.0" fill="#707a84" font-size="12" font-weight="400" text-anchor="middle" dominant-baseline="middle">0%</text>
+<line x1="338.5" y1="50.0" x2="338.5" y2="366.0" stroke="#8b949e" stroke-width="1" stroke-opacity="0.35"/>
+<text x="338.5" y="40.0" fill="#707a84" font-size="12" font-weight="400" text-anchor="middle" dominant-baseline="middle">25%</text>
+<line x1="447.0" y1="50.0" x2="447.0" y2="366.0" stroke="#8b949e" stroke-width="1" stroke-opacity="0.35"/>
+<text x="447.0" y="40.0" fill="#707a84" font-size="12" font-weight="400" text-anchor="middle" dominant-baseline="middle">50%</text>
+<line x1="555.5" y1="50.0" x2="555.5" y2="366.0" stroke="#8b949e" stroke-width="1" stroke-opacity="0.35"/>
+<text x="555.5" y="40.0" fill="#707a84" font-size="12" font-weight="400" text-anchor="middle" dominant-baseline="middle">75%</text>
+<line x1="664.0" y1="50.0" x2="664.0" y2="366.0" stroke="#8b949e" stroke-width="1" stroke-opacity="0.35"/>
+<text x="664.0" y="40.0" fill="#707a84" font-size="12" font-weight="400" text-anchor="middle" dominant-baseline="middle">100%</text>
+<text x="0.0" y="91.0" fill="#707a84" font-size="15" font-weight="600" text-anchor="start" dominant-baseline="middle">Random OpenAlex strings</text>
+<text x="0.0" y="110.0" fill="#707a84" font-size="12.5" font-weight="400" text-anchor="start" dominant-baseline="middle">3,000, our labels</text>
+<path d="M230.0,75.0 H541.5 Q545.5,75.0 545.5,79.0 V85.0 Q545.5,89.0 541.5,89.0 H230.0 Z" fill="#888780"/>
+<text x="551.5" y="82.0" fill="#707a84" font-size="13" font-weight="400" text-anchor="start" dominant-baseline="middle">72.7</text>
+<path d="M230.0,93.0 H614.0 Q618.0,93.0 618.0,97.0 V103.0 Q618.0,107.0 614.0,107.0 H230.0 Z" fill="#2a78d6"/>
+<text x="624.0" y="100.0" fill="#707a84" font-size="13" font-weight="600" text-anchor="start" dominant-baseline="middle">89.4</text>
+<path d="M230.0,111.0 H500.7 Q504.7,111.0 504.7,115.0 V121.0 Q504.7,125.0 500.7,125.0 H230.0 Z" fill="#199e70"/>
+<text x="510.7" y="118.0" fill="#707a84" font-size="13" font-weight="400" text-anchor="start" dominant-baseline="middle">63.3</text>
+<text x="0.0" y="167.0" fill="#707a84" font-size="15" font-weight="600" text-anchor="start" dominant-baseline="middle">Crossref 2024</text>
+<text x="0.0" y="186.0" fill="#707a84" font-size="12.5" font-weight="400" text-anchor="start" dominant-baseline="middle">3,000, ROR's evaluation set</text>
+<path d="M230.0,151.0 H575.8 Q579.8,151.0 579.8,155.0 V161.0 Q579.8,165.0 575.8,165.0 H230.0 Z" fill="#888780"/>
+<text x="585.8" y="158.0" fill="#707a84" font-size="13" font-weight="400" text-anchor="start" dominant-baseline="middle">80.6</text>
+<path d="M230.0,169.0 H622.2 Q626.2,169.0 626.2,173.0 V179.0 Q626.2,183.0 622.2,183.0 H230.0 Z" fill="#2a78d6"/>
+<text x="632.2" y="176.0" fill="#707a84" font-size="13" font-weight="600" text-anchor="start" dominant-baseline="middle">91.3</text>
+<path d="M230.0,187.0 H524.2 Q528.2,187.0 528.2,191.0 V197.0 Q528.2,201.0 524.2,201.0 H230.0 Z" fill="#199e70"/>
+<text x="534.2" y="194.0" fill="#707a84" font-size="13" font-weight="400" text-anchor="start" dominant-baseline="middle">68.7</text>
+<text x="0.0" y="243.0" fill="#707a84" font-size="15" font-weight="600" text-anchor="start" dominant-baseline="middle">Springer Nature 2023</text>
+<text x="0.0" y="262.0" fill="#707a84" font-size="12.5" font-weight="400" text-anchor="start" dominant-baseline="middle">2,999</text>
+<path d="M230.0,227.0 H545.0 Q549.0,227.0 549.0,231.0 V237.0 Q549.0,241.0 545.0,241.0 H230.0 Z" fill="#888780"/>
+<text x="555.0" y="234.0" fill="#707a84" font-size="13" font-weight="400" text-anchor="start" dominant-baseline="middle">73.5</text>
+<path d="M230.0,245.0 H622.7 Q626.7,245.0 626.7,249.0 V255.0 Q626.7,259.0 622.7,259.0 H230.0 Z" fill="#2a78d6"/>
+<text x="632.7" y="252.0" fill="#707a84" font-size="13" font-weight="600" text-anchor="start" dominant-baseline="middle">91.4</text>
+<path d="M230.0,263.0 H529.8 Q533.8,263.0 533.8,267.0 V273.0 Q533.8,277.0 529.8,277.0 H230.0 Z" fill="#199e70"/>
+<text x="539.8" y="270.0" fill="#707a84" font-size="13" font-weight="400" text-anchor="start" dominant-baseline="middle">70.0</text>
+<text x="0.0" y="319.0" fill="#707a84" font-size="15" font-weight="600" text-anchor="start" dominant-baseline="middle">CWTS</text>
+<text x="0.0" y="338.0" fill="#707a84" font-size="12.5" font-weight="400" text-anchor="start" dominant-baseline="middle">952, most name 2+ institutions</text>
+<path d="M230.0,303.0 H432.6 Q436.6,303.0 436.6,307.0 V313.0 Q436.6,317.0 432.6,317.0 H230.0 Z" fill="#888780"/>
+<text x="442.6" y="310.0" fill="#707a84" font-size="13" font-weight="400" text-anchor="start" dominant-baseline="middle">47.6</text>
+<path d="M230.0,321.0 H538.9 Q542.9,321.0 542.9,325.0 V331.0 Q542.9,335.0 538.9,335.0 H230.0 Z" fill="#2a78d6"/>
+<text x="548.9" y="328.0" fill="#707a84" font-size="13" font-weight="600" text-anchor="start" dominant-baseline="middle">72.1</text>
+<path d="M230.0,339.0 H230.9 Q231.7,339.0 231.7,339.9 V352.1 Q231.7,353.0 230.9,353.0 H230.0 Z" fill="#199e70"/>
+<text x="237.7" y="346.0" fill="#707a84" font-size="13" font-weight="400" text-anchor="start" dominant-baseline="middle">0.4</text>
+</svg>
