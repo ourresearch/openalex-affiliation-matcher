@@ -7,8 +7,8 @@ How [OpenAlex](https://openalex.org) decides which institutions an affiliation s
 new string each night. It replaces our [2023 model](https://github.com/ourresearch/openalex-institution-parsing).
 This is **version 3.0.0**, after our V1 (2022) and V2 (2023); see the [changelog](CHANGELOG.md).
 
-> **This repository is growing.** The results below are final. We are adding the rest as it is ready: the code, the
-> models and every test set. Reports of what changed for individual institutions are in [institutions/](institutions/).
+> **Everything is here:** the code, the models, every test set, and [what changed for individual
+> institutions](institutions/). We keep adding to it as results come in.
 
 ## Benchmarks
 
@@ -118,10 +118,18 @@ the matcher, as before. Found a wrong match? See
 
 ## Reproduce it
 
-Coming to this repository: the code (candidates, the small model's training and inference, the chooser, the nightly
-run, scoring), the small model's weights, the choosers, our test and development sets with labels, and the 3.7 million
-Jev judgments the small model learned from. You won't need Jev: the small model and the chooser alone score 89.6%
-exact on our benchmark.
+Everything needed to check our numbers is here. On a laptop, with no GPU and no Jev:
+
+```
+pip install -r requirements.txt
+python scripts/decide.py test_v2
+python -m matcher.score test_v2 --conf high --pred new_matcher=preds/test_v2.jsonl
+```
+
+That gives 89.6% exact match on our benchmark in under a minute. With a GPU, you can recompute the small model's
+scores from the [released weights](https://github.com/ourresearch/openalex-affiliation-matcher/releases/tag/v3.0.0)
+and get the same answers. [REPRODUCE.md](REPRODUCE.md) has all three paths, including how to retrain the chooser and
+the small model on the 3.76 million Jev judgments we released.
 
 ## License and credits
 

@@ -1,0 +1,33 @@
+Source of the strings, labels and ROR's matcher answers in strings.jsonl.gz:
+
+  Crossref Marple, https://gitlab.com/crossref/marple
+  commit 9ec594e3f0134b1788ce665d380a54de1fb08c31 (27 August 2026)
+  crossref_matcher/resources/data/datasets/affiliations-springer-2023-10-31.json
+  crossref_matcher/resources/data/results/affiliation-single-search-springer-2025-01-07.json
+
+They are used here under the MIT License below, copied exactly from Marple's LICENSE file. OpenAlex added
+the OpenAlex ids and the answers of the 2023 system and the new matcher.
+
+------------------------------------------------------------------------------
+
+MIT License
+
+Copyright (c) 2025 Crossref
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

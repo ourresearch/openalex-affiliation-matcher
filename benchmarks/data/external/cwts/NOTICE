@@ -1,0 +1,25 @@
+CWTS multi-institution strings
+
+The 952 strings in strings.jsonl.gz were selected by CWTS, the Centre for Science and Technology Studies at
+Leiden University. CWTS chose strings that name two or more institutions and listed the institutions it saw
+in each. OpenAlex labelled them with OpenAlex institution ids in 2023. Credit for the curation belongs to CWTS.
+
+Original release: OurResearch published the set in 2023 as two of the test sets for OpenAlex's V2
+institution parser:
+
+  https://github.com/ourresearch/openalex-institution-parsing/tree/main/V2 (README, "Test Data")
+  files cwts_related_labeled.tsv (823 rows) and cwts_no_relation_labeled.tsv (182 rows), inside
+  institution_gold_datasets_v2.tgz in the public bucket s3://openalex-institution-tagger-model-artifacts/V2/
+  (uploaded 29 March 2023), also in the public Google Sheet "OpenAlex Benchmark Data" linked from that README
+
+The two files hold 1,005 rows and 952 distinct strings; strings.jsonl.gz has one row per distinct string,
+numbered in order of first appearance (the related file first).
+
+License: no license was attached to the data files. The repository's code is under the MIT License
+(Copyright (c) 2022 OurResearch). The strings are affiliation strings as printed in published papers, and the
+labels are OpenAlex ids (CC0). We redistribute the set here, unchanged apart from the fields OpenAlex added
+(ROR ids for the labels, the 2023 system's, the new matcher's and ROR's matcher's answers), with credit to CWTS.
+
+One change to the labels: two institution ids in the 2023 labels have since been merged into other records
+(I4210092866 into I4210094082, I4210125713 into I1294278766). "labels" uses the current records;
+"labels_as_released" keeps the 2023 ids.

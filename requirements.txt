@@ -1,0 +1,7 @@
+# The CPU check (scripts/decide.py, python -m matcher.score) needs only numpy.
+numpy>=1.24
+# Recomputing the student's scores on a GPU (scripts/student_scores.py) also needs:
+#   torch==2.6.0  transformers>=4.51,<5  sentencepiece  huggingface_hub
+# Retraining the chooser (matcher/training/train_chooser.py): scikit-learn==1.9.1
+# Training the student (matcher/training/student_xenc.py): the GPU packages plus accelerate and scikit-learn
+# Dense candidates for new strings (matcher/candidates.py): sentence-transformers

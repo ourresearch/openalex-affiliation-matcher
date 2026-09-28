@@ -1,7 +1,8 @@
 # Benchmarks
 
-Every set we scored the matcher on, every result, and how we scored. The test sets themselves, with labels, will be
-added to this directory; the external ones keep their licenses (below).
+Every set we scored the matcher on, every result, and how we scored. The sets themselves, with labels and
+candidates, are in [data/](data/); the external ones keep their licenses (below). To rerun the scoring:
+[REPRODUCE.md](../REPRODUCE.md) and `scripts/score_external.py`.
 
 ## The sets
 
@@ -25,7 +26,7 @@ added to this directory; the external ones keep their licenses (below).
   matcher's answers on test v2 were frozen before its labels existed. Nothing was trained on either test set.
 - **External labels.** They usually list one institution per string, and sometimes none, even when a string names
   more. Where any system named an institution the labels lack, Claude Opus 5.5 judged whether the string names it,
-  without knowing which system named it (2,005 such links). The ones it confirmed count as right for every system.
+  without knowing which system named it (1,785 such string and institution pairs). The ones it confirmed count as right for every system.
   Results on the labels alone are [below](#on-the-external-labels-alone).
 - **No training on test strings.** External strings found in our development sets were removed and the chooser was
   retrained without them. This mattered for CWTS, whose strings were in a development set: worth 7.0 points of exact

@@ -1,0 +1,209 @@
+{
+ "release": "v3.0.0",
+ "decider": "The frozen decider v1.1 (27 September 2026): the student cross-encoder plus the chooser with ROR relationship features. The version OpenAlex switched to on 27-28 September 2026.",
+ "files": {
+  "chooser_student.json": {
+   "sha256": "003dddfaf0a395cc5e4b6661847b4c4715918534909a7523e2f90785a5db2e74",
+   "bytes": 1110757,
+   "what": "The shipped chooser: gradient-boosted trees over 21 features, p = the student's. Test v2, high confidence: 89.6% exact set.",
+   "frozen_name": "chooser_me5b_full_ror",
+   "source_pickle_sha256": "9e9a0609f75a4e706eac483a0d967bb5984a5371d76c002449918bcbb46e95c5",
+   "trained_on": [
+    "dev_v1",
+    "dev_v2"
+   ],
+   "scikit_learn": "1.9.1",
+   "threshold": 0.5,
+   "features": [
+    "p",
+    "rank_lex2",
+    "rank_neighbour",
+    "rank_dense",
+    "rank_top5",
+    "name_hit",
+    "name_len",
+    "acronym_only",
+    "n_liked_ancestors",
+    "n_liked_descendants",
+    "max_p_liked_descendant",
+    "inside_liked_name",
+    "log_works",
+    "n_liked",
+    "string_len",
+    "n_liked_ror_children",
+    "n_liked_ror_parents",
+    "n_liked_ror_related",
+    "max_p_liked_ror_child",
+    "max_p_liked_ror_related",
+    "ror_related_liked_longer_name"
+   ]
+  },
+  "chooser_jev.json": {
+   "sha256": "9382cc697539b9e79f110cab5b4cdfd9096a7aa966d3662bf842cd2353ab8882",
+   "bytes": 1065015,
+   "what": "Reference: the same chooser trained on Jev's p (the nightly's Jev tier). Test v2, high confidence: 90.2% exact set. Needs Jev's p.",
+   "frozen_name": "chooser_jev_ror",
+   "source_pickle_sha256": "229582f06a4abe938c1456d31979e11485c0659b4606d43a6432bbf2cd50da91",
+   "trained_on": [
+    "dev_v1",
+    "dev_v2"
+   ],
+   "scikit_learn": "1.9.1",
+   "threshold": 0.5,
+   "features": [
+    "p",
+    "rank_lex2",
+    "rank_neighbour",
+    "rank_dense",
+    "rank_top5",
+    "name_hit",
+    "name_len",
+    "acronym_only",
+    "n_liked_ancestors",
+    "n_liked_descendants",
+    "max_p_liked_descendant",
+    "inside_liked_name",
+    "log_works",
+    "n_liked",
+    "string_len",
+    "n_liked_ror_children",
+    "n_liked_ror_parents",
+    "n_liked_ror_related",
+    "max_p_liked_ror_child",
+    "max_p_liked_ror_related",
+    "ror_related_liked_longer_name"
+   ]
+  },
+  "chooser_no_model.json": {
+   "sha256": "9a0ccf8185d6cacca69529a6010437df92296363a3875ee206aea6a1be486a32",
+   "bytes": 573602,
+   "what": "Fallback without any model: 13 features, no p. Test v2, high confidence: 82.5% exact set.",
+   "frozen_name": "chooser_nojev",
+   "source_pickle_sha256": "ee33df3956b2a87b208a626e3708e54c6f682e0b9ecdb728040013269f3f83a7",
+   "trained_on": [
+    "dev_v1",
+    "dev_v2"
+   ],
+   "scikit_learn": "1.9.1",
+   "threshold": 0.5,
+   "features": [
+    "rank_lex2",
+    "rank_neighbour",
+    "rank_dense",
+    "rank_top5",
+    "name_hit",
+    "name_len",
+    "acronym_only",
+    "n_liked_ancestors",
+    "n_liked_descendants",
+    "inside_liked_name",
+    "log_works",
+    "n_liked",
+    "string_len"
+   ]
+  },
+  "institutions.jsonl.gz": {
+   "sha256": "7d2c5dc0da4ba13607f47d35c025d48cbe510d1c33c635e4ba69343a8ad9a57e",
+   "bytes": 17913902,
+   "what": "Institution cards: OpenAlex institutions with their ROR names and locations, snapshot of 25 September 2026. 140,266 records; withdrawn ones are skipped on load."
+  },
+  "lineage.jsonl.gz": {
+   "sha256": "468e6636136b496a7b0ed286df7099693af9233332d92805224d25731cbab41b",
+   "bytes": 295216,
+   "what": "OpenAlex institution lineage (id, then its ancestors), 25 September 2026."
+  },
+  "ror_rel.jsonl.gz": {
+   "sha256": "eb1cff214acfd05b1ce62e66b743f1245b0a9a751ce77b658562f0c3f8951808",
+   "bytes": 455567,
+   "what": "ROR parent, child and related links between OpenAlex institutions, from the latest ROR records in OpenAlex on 27 September 2026 (69,745 links)."
+  }
+ },
+ "release_assets": {
+  "student_model.tar.gz": {
+   "url": "https://github.com/ourresearch/openalex-affiliation-matcher/releases/download/v3.0.0/student_model.tar.gz",
+   "sha256": "8180d696be44667da2e8426369489fc23903eff57bdf12717fb4efdb19ec3599",
+   "bytes": 903961340,
+   "what": "The student: multilingual-e5-base fine-tuned on 3.69M Jev-labelled pairs. Unpacks to student_model/ (model.pt, tokenizer, student.json, val.json).",
+   "model_pt_sha256": "54bfbe3f0905cddb7df65a5cc5a54f50744412ba6373010ffc3371513dc2172f",
+   "base": "intfloat/multilingual-e5-base",
+   "base_revision": "d128750597153bb5987e10b1c3493a34e5a4502a",
+   "max_tokens": 192
+  },
+  "train_v1_jev_labels.jsonl.gz": {
+   "url": "https://github.com/ourresearch/openalex-affiliation-matcher/releases/download/v3.0.0/train_v1_jev_labels.jsonl.gz",
+   "sha256": "50e32c7c567a2362c5fc0e8b8255db05280d04d0a80f775c3c9d21f6faf75f73",
+   "bytes": 202329415,
+   "what": "The student's training data: 3,763,631 (string, card) pairs from 200,000 random OpenAlex affiliation strings, each with Jev's p (3,688,731 train, 74,900 val)."
+  }
+ },
+ "benchmark_data": {
+  "benchmarks/data/dev_v1.jsonl.gz": {
+   "sha256": "acd186ab9bb670523e08295dbe0f135dcba1851cf67b1da3becde50e3b046614",
+   "bytes": 655923
+  },
+  "benchmarks/data/dev_v2.jsonl.gz": {
+   "sha256": "98a1055b82c9675edaf49ee16a192cd36e9d7ebf67746e371c5fc1082033089c",
+   "bytes": 767481
+  },
+  "benchmarks/data/jev_p/dev_v1.jsonl.gz": {
+   "sha256": "0895a4ab0ef9bd5b3dc599aa6ba9f299ed92a484bcb286d0a4d0238bc8e13306",
+   "bytes": 583796
+  },
+  "benchmarks/data/jev_p/dev_v2.jsonl.gz": {
+   "sha256": "cc1fba06fe98dd2c8dc1cc8ce1010bf7bb2348a49cca3e83b92e48d5bcf240fd",
+   "bytes": 616955
+  },
+  "benchmarks/data/jev_p/test_v1.jsonl.gz": {
+   "sha256": "4b8dfe539aea15e3807de55ad3a9673511fe426447dd9461892224ca8ed72e4e",
+   "bytes": 2088548
+  },
+  "benchmarks/data/jev_p/test_v2.jsonl.gz": {
+   "sha256": "e764d78643b376a1b09a18e910ebcb73e30c6e0f869ab06291948662368657aa",
+   "bytes": 2111210
+  },
+  "benchmarks/data/pools/dev_v1.jsonl.gz": {
+   "sha256": "405f6e4ebf330dba97d51612a4666efdc3f01476c1c745a53a2e10b551da6bd1",
+   "bytes": 547008
+  },
+  "benchmarks/data/pools/dev_v2.jsonl.gz": {
+   "sha256": "6aad88d07691c22935ce88966ee44b6f920eaa7c449bfc365e9964dc25c5e390",
+   "bytes": 581601
+  },
+  "benchmarks/data/pools/test_v1.jsonl.gz": {
+   "sha256": "e1518b7c6e8e8220684bd5348548e45c96aeb17f4fc98ae27469189e1b611709",
+   "bytes": 2013933
+  },
+  "benchmarks/data/pools/test_v2.jsonl.gz": {
+   "sha256": "f0d6dce919a9e34135dd8c0611c46ffac4ff5fa61d7fb0f447a97a9fedc4d843",
+   "bytes": 2034188
+  },
+  "benchmarks/data/student_p/dev_v1.jsonl.gz": {
+   "sha256": "78b84ef8a62b907ef9802514b21fe6f5ca16aae5927798d63e3849573c67d826",
+   "bytes": 698135
+  },
+  "benchmarks/data/student_p/dev_v2.jsonl.gz": {
+   "sha256": "02377fd6105989a22a29375723c785ad2ac28879e6216331cc1abf90e51bf7f5",
+   "bytes": 737100
+  },
+  "benchmarks/data/student_p/test_v1.jsonl.gz": {
+   "sha256": "95b6766204f5c46d06b89a91d33447552fbf02ca572dacb494b8a63e28fa6f66",
+   "bytes": 2497533
+  },
+  "benchmarks/data/student_p/test_v2.jsonl.gz": {
+   "sha256": "7dbf5bdace0f025cc3db37bc5fc3f21c460350d2a2f0f53c848ab92238d9651f",
+   "bytes": 2523319
+  },
+  "benchmarks/data/successors.json": {
+   "sha256": "aedee40fe2b90c31b25cd2094d307a4de7bea5150ea58e1fca8b507d4bb7c0ce",
+   "bytes": 29689
+  },
+  "benchmarks/data/test_v1.jsonl.gz": {
+   "sha256": "a0fc8334849753e261d6a9e26b0e84ab8eed732ca6aa9e1307ebdf300414f5a8",
+   "bytes": 2325272
+  },
+  "benchmarks/data/test_v2.jsonl.gz": {
+   "sha256": "5f6f13c5226b3daec4b7cea51261bb086a0a58df2d78e71dc1a7c113f394957b",
+   "bytes": 2352288
+  }
+ }
+}
