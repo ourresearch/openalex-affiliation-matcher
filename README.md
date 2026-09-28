@@ -5,7 +5,7 @@ How [OpenAlex](https://openalex.org) decides which institutions an affiliation s
 [institution](https://help.openalex.org/data/institutions/) Massachusetts Institute of Technology. Since
 **28 September 2026** this matcher has run on all 165 million affiliation strings in OpenAlex, and it runs on every
 new string each night. It replaces our [2023 model](https://github.com/ourresearch/openalex-institution-parsing).
-This is **version 1.0.0**; see the [changelog](CHANGELOG.md).
+This is **version 3.0.0**, after our V1 (2022) and V2 (2023); see the [changelog](CHANGELOG.md).
 
 > **This repository is growing.** The results below are final. We are adding the rest as it is ready: the code, the
 > models and every test set. Reports of what changed for individual institutions are in [institutions/](institutions/).
