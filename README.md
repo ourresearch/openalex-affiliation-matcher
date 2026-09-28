@@ -5,6 +5,7 @@ How [OpenAlex](https://openalex.org) decides which institutions an affiliation s
 [institution](https://help.openalex.org/data/institutions/) Massachusetts Institute of Technology. Since
 **28 September 2026** this matcher has run on all 165 million affiliation strings in OpenAlex, and it runs on every
 new string each night. It replaces our [2023 model](https://github.com/ourresearch/openalex-institution-parsing).
+This is **version 1.0.0**; see the [changelog](CHANGELOG.md).
 
 > **This repository is growing.** The results below are final. We are adding the rest as it is ready: the code, the
 > models and every test set. Reports of what changed for individual institutions are in [institutions/](institutions/).
@@ -23,6 +24,17 @@ and labelled by Claude Opus 5.5 under [written rules](benchmarks/README.md#what-
 benchmarks** are three sets built by others: Crossref's (2024), Springer Nature's (2023) and a set of strings naming
 several institutions chosen by CWTS at Leiden University. Every set, every result, precision and recall, and how we
 scored: [benchmarks/](benchmarks/).
+
+## These numbers will keep changing
+
+**Expect institution counts to keep changing, and mostly to grow.** That's a good thing:
+
+- **The matcher keeps improving**, in numbered releases ([semantic versioning](CHANGELOG.md)).
+- **We keep getting better at reading affiliations** from PDFs.
+- **New works arrive every day, and we keep adding sources.** Right now we are adding thousands of OJS journals that
+  don't register DOIs.
+
+This is a living index, not a snapshot.
 
 ## How it works
 
