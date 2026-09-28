@@ -1,18 +1,18 @@
 # University of Ottawa
 
-[OpenAlex I153718931](https://openalex.org/institutions/I153718931) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I153718931](https://openalex.org/institutions/I153718931) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to University of Ottawa itself): 176,836 → 174,961 (−1.1%).
-- **Counting its units and predecessors** (the `lineage` filter): 181,756 → 184,457 (+1.5%).
+- **`works_count`** (works linked to University of Ottawa itself): 176,861 → 174,989 (−1.1%).
+- **Counting its units and predecessors** (the `lineage` filter): 181,781 → 184,490 (+1.5%).
 - **Why:** most of the strings it lost now go to one of its units or predecessors, which still count for it through `lineage` (95% of lost works); the largest share of the strings it gained had no institution before (49% of gained works).
 
 ## Were the changes right?
 
 Not sampled: its works changed by less than 2%, so we did not judge a sample.
 
-**6,287 strings lost University of Ottawa** ([removed.csv.gz](removed.csv.gz)), on 12,517 works; **4,312 strings gained it** ([added.csv](added.csv)), on 6,164 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
+**6,287 strings lost University of Ottawa** ([removed.csv.gz](removed.csv.gz)), on 12,517 works; **4,317 strings gained it** ([added.csv](added.csv)), on 6,167 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
 
 ## Where the lost strings went
 

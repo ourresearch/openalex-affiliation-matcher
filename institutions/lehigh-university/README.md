@@ -1,11 +1,11 @@
 # Lehigh University
 
-[OpenAlex I186143895](https://openalex.org/institutions/I186143895) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I186143895](https://openalex.org/institutions/I186143895) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to Lehigh University itself): 44,227 → 44,151 (−0.2%).
-- **Counting its units and predecessors** (the `lineage` filter): 44,227 → 44,151 (−0.2%).
+- **`works_count`** (works linked to Lehigh University itself): 44,232 → 44,156 (−0.2%).
+- **Counting its units and predecessors** (the `lineage` filter): 44,232 → 44,156 (−0.2%).
 - **Why:** most of the strings it lost now go to other institutions (52% of lost works), mostly Pennsylvania State University, Lehigh Valley Health Network; most of the strings it gained had no institution before (67% of gained works).
 
 ## Were the changes right?

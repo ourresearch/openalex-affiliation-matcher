@@ -1,11 +1,11 @@
 # University of Sheffield
 
-[OpenAlex I91136226](https://openalex.org/institutions/I91136226) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I91136226](https://openalex.org/institutions/I91136226) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to University of Sheffield itself): 199,370 → 202,521 (+1.6%).
-- **Counting its units and predecessors** (the `lineage` filter): 199,379 → 202,531 (+1.6%).
+- **`works_count`** (works linked to University of Sheffield itself): 199,389 → 202,540 (+1.6%).
+- **Counting its units and predecessors** (the `lineage` filter): 199,398 → 202,550 (+1.6%).
 - **Why:** most of the strings it lost now have no institution (76% of lost works); most of the strings it gained had no institution before (73% of gained works).
 
 ## Were the changes right?

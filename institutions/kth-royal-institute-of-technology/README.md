@@ -1,18 +1,18 @@
 # KTH Royal Institute of Technology
 
-[OpenAlex I86987016](https://openalex.org/institutions/I86987016) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I86987016](https://openalex.org/institutions/I86987016) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to KTH Royal Institute of Technology itself): 124,297 → 124,918 (+0.5%).
-- **Counting its units and predecessors** (the `lineage` filter): 131,593 → 130,073 (−1.2%).
+- **`works_count`** (works linked to KTH Royal Institute of Technology itself): 124,318 → 124,937 (+0.5%).
+- **Counting its units and predecessors** (the `lineage` filter): 131,613 → 130,091 (−1.2%).
 - **Why:** most of the strings it lost now go to other institutions (59% of lost works), mostly Lund University, Zhejiang University; most of the strings it gained were assigned to other institutions before (51% of gained works), mostly Khyber Teaching Hospital, Kista Photonics Research Center.
 
 ## Were the changes right?
 
 Not sampled: its works changed by less than 2%, so we did not judge a sample.
 
-**1,016 strings lost KTH Royal Institute of Technology** ([removed.csv](removed.csv)), on 1,435 works; **1,316 strings gained it** ([added.csv](added.csv)), on 3,007 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
+**1,016 strings lost KTH Royal Institute of Technology** ([removed.csv](removed.csv)), on 1,435 works; **1,317 strings gained it** ([added.csv](added.csv)), on 3,008 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
 
 ## Where the lost strings went
 

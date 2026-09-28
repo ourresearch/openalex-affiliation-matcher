@@ -1,26 +1,26 @@
 # Dutch Research Council
 
-[OpenAlex I2800991832](https://openalex.org/institutions/I2800991832) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I2800991832](https://openalex.org/institutions/I2800991832) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to Dutch Research Council itself): 1,274 → 1,067 (−16.2%).
-- **Counting its units and predecessors** (the `lineage` filter): 84,054 → 80,189 (−4.6%).
-- **Why:** most of the strings it lost now go to other institutions (74% of lost works), mostly Netherlands Organisation for Applied Scientific Research, European Synchrotron Radiation Facility; most of the strings it gained had no institution before (53% of gained works).
+- **`works_count`** (works linked to Dutch Research Council itself): 1,274 → 1,070 (−16.0%).
+- **Counting its units and predecessors** (the `lineage` filter): 84,065 → 80,212 (−4.6%).
+- **Why:** most of the strings it lost now go to other institutions (75% of lost works), mostly Netherlands Organisation for Applied Scientific Research, European Synchrotron Radiation Facility; most of the strings it gained had no institution before (53% of gained works).
 
 ## Were the changes right?
 
 We did not judge a sample of the changes for Dutch Research Council.
 
-**369 strings lost Dutch Research Council** ([removed.csv](removed.csv)), on 481 works; **162 strings gained it** ([added.csv](added.csv)), on 266 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
+**369 strings lost Dutch Research Council** ([removed.csv](removed.csv)), on 478 works; **162 strings gained it** ([added.csv](added.csv)), on 266 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
 
 ## Where the lost strings went
 
 | | Share of works |
 |---|---:|
 | To one of its units or predecessors (still counts through `lineage`) | 1% |
-| To other institutions (mostly Netherlands Organisation for Applied Scientific Research, European Synchrotron Radiation Facility, Geological Survey of the Netherlands) | 74% |
-| To no institution | 25% |
+| To other institutions (mostly Netherlands Organisation for Applied Scientific Research, European Synchrotron Radiation Facility, Geological Survey of the Netherlands) | 75% |
+| To no institution | 24% |
 
 ## Where the gained strings came from
 
@@ -40,10 +40,10 @@ We did not judge a sample of the changes for Dutch Research Council.
 | Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek | 6 | Netherlands Organisation for Applied Scientific Research |
 | TNO Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek (Netherlands Organisation for Applied Scientific Research) | 5 | Netherlands Organisation for Applied Scientific Research |
 | Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek (TNO) | 4 | Netherlands Organisation for Applied Scientific Research |
-| Nederlandse Organisatie voor Wetenschappelijk Onderzoek, | 4 | no institution |
 | Centrum Wiskunde & Informatica, Nederlandse Organisatie voor Wetenschappelijk Onderzoe | 3 | Centrum Wiskunde & Informatica |
 | Nederlandse Organisatie Voor Toegepast Natuurwetenschappelijk Onderzoek TNO | 3 | Netherlands Organisation for Applied Scientific Research |
 | Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek, Utrecht, the Netherlands | 3 | Netherlands Organisation for Applied Scientific Research |
+| Nederlandse Organisatie voor Toegepast-Natuurwetenschappelijk Onderzoek (TNO), Utrecht, The Netherlands | 3 | Netherlands Organisation for Applied Scientific Research |
 
 ## Biggest gains
 

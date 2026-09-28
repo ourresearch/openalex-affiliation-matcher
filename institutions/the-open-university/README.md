@@ -1,18 +1,16 @@
 # The Open University
 
-[OpenAlex I204136569](https://openalex.org/institutions/I204136569) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I204136569](https://openalex.org/institutions/I204136569) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to The Open University itself): 55,035 → 59,241 (+7.6%).
-- **Counting its units and predecessors** (the `lineage` filter): 55,035 → 59,241 (+7.6%).
+- **`works_count`** (works linked to The Open University itself): 55,040 → 59,247 (+7.6%).
+- **Counting its units and predecessors** (the `lineage` filter): 55,040 → 59,247 (+7.6%).
 - **Why:** most of the strings it lost now go to other institutions (79% of lost works), mostly Open University of the Netherlands, San Raffaele University of Rome; most of the strings it gained had no institution before (79% of gained works).
 
 ## Were the changes right?
 
-We had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for The Open University at all, about **81% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **98% do name it** or one of its units.
-
-Net, the works that really are The Open University's (counting its units) went up by about 9.3%.
+Before the switch, we had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for The Open University at all, about **81% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **98% do name it** or one of its units.
 
 **738 strings lost The Open University** ([removed.csv](removed.csv)), on 1,455 works; **1,605 strings gained it** ([added.csv](added.csv)), on 6,606 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
 

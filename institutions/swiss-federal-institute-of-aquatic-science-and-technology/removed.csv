@@ -1,5 +1,4 @@
 raw_affiliation_string,works,now_assigned_to,now_assigned_ids,still_counts_via_lineage
-Eawag,368,,,no
 "Lib4RI - Library for the Research Institutes within the ETH Domain: Eawag, Empa, PSI & WSL",158,"Paul Scherrer Institute | Lib4RI - Library for the Research Institutes within the ETH Domain: Eawag, Empa, PSI & WSL",I2802229908 I4210116427,yes
 "Lib4RI - Library for the Research Institutes within the ETH Domain: Eawag, Empa, PSI & WSL (Dübendorf, Switzerland)",16,"Lib4RI - Library for the Research Institutes within the ETH Domain: Eawag, Empa, PSI & WSL",I4210116427,yes
 "Swiss Centre for Applied Ecotoxicology Eawag-EPFL, 8600 Dübendorf, Switzerland",15,École Polytechnique Fédérale de Lausanne | Swiss Centre for Applied Ecotoxicology,I5124864 I4405281650,yes
@@ -32,20 +31,12 @@ Swiss Centre for Applied Ecotoxicology Eawag-EPFL,3,École Polytechnique Fédér
 "Swiss Federal Institute for Environmental Science and Technology, Duebendorf, Switzerland",3,,,no
 "Swiss Federal Institute for Environmental Science and Technology, Ueberlandstrasse 133, CH-8600 Duebendorf, Switzerland",3,,,no
 "Swiss Federal Institute for Water Resources and Water Pollution Control, Swiss Federal Institutes of Technology, Dübendorf",3,,,no
-eawag,3,,,no
 "now at Department Water Resources and Drinking Water, EAWAG, Switzerland; formerly at Institute of Earth Sciences, NAWI Graz Geocenter, University of Graz, Austria",3,University of Graz | Nawi Graz,I15766117 I4210108044,no
-"Alumnus ETH Zurich, Eawag Duebendorf, Switzerland",2,ETH Zurich,I35440088,no
 "Applied Aquatic Ecology, Swiss Federal Institute for Environmental Science and Technology, Kastanienbaum, Switzerland",2,,,no
 "Aquatic Ecology and Evolution, Institute of Ecology and Evolution, University of Bern, Bern, Switzerland. ole.seehausen@eawag.ch",2,University of Bern,I118564535,no
 "Division of Aquatic Ecology and Evolution, Institute of Ecology and Evolution, University of Bern, Bern, Switzerland. philine.feulner@eawag.ch",2,University of Bern,I118564535,no
-EPFL / Eawag,2,École Polytechnique Fédérale de Lausanne,I5124864,no
-ETH Zurich & Eawag,2,ETH Zurich,I35440088,no
-Eawag & ETH Zurich;,2,ETH Zurich,I35440088,no
-"Eawag (Das Wasserforschungs-Institut des ETH-Berei, Switzerland",2,,,no
 Eawag / Univ Jyväskylä,2,University of Jyväskylä,I94722563,no
 "Eawag, CH",2,,,no
-"Eawag, das Wasserforschungsinstitut des ETH-Bereichs",2,,,no
-Eawag-Wasserforschungs-Institut des ETH-Bereichs,2,,,no
 "Ecotox Centre, Dübendorf, Switzerland",2,Swiss Centre for Applied Ecotoxicology,I4405281650,yes
 "Ecotox Centre, Überlandstrasse 133, 8600 Dübendorf, Switzerland",2,Swiss Centre for Applied Ecotoxicology,I4405281650,yes
 "EdenCT, Dübendorf, Switzerland",2,,,no
@@ -59,7 +50,6 @@ Eawag-Wasserforschungs-Institut des ETH-Bereichs,2,,,no
 Lib4RI Eawag-Empa Angemeldet,2,"Lib4RI - Library for the Research Institutes within the ETH Domain: Eawag, Empa, PSI & WSL",I4210116427,yes
 "Now at Applied Aquatic Ecology, Swiss Federal Institute for Environmental Science and Technology, Kastanienbaum, Switzerland",2,,,no
 "Particle Laboratory, Swiss Federal Institute for Environmental Science and Technology, Überlandstrasse 133, 8600 Dübendorf, Switzerland",2,,,no
-"Swiss Biodiversity Forum, University of Zürich, Eawag",2,University of Zurich,I202697423,no
 "Swiss Center for Applied Ecotoxicology Eawag/EPFL, 8600 Dübendorf, Switzerland",2,École Polytechnique Fédérale de Lausanne | Swiss Centre for Applied Ecotoxicology,I5124864 I4405281650,yes
 "Swiss Centre for Applied Ecotoxicology (Ecotox Center), EPFL ENAC IIE-GE, Station 2, CH-1015 Lausanne, Switzerland",2,École Polytechnique Fédérale de Lausanne | Swiss Centre for Applied Ecotoxicology,I5124864 I4405281650,yes
 "Swiss Centre for Applied Ecotoxicology (Ecotox Centre), Lausanne, Switzerland",2,Swiss Centre for Applied Ecotoxicology,I4405281650,yes
@@ -100,7 +90,6 @@ Swiss Federal Institute for Water Resources and Water Pollution Control Swiss Fe
 "Swiss Federal Institute of Technology, Zürich, and Swiss Federal Institute for Water Resources and Water Pollution Control, Ueberlandstrasse 133, CH - 8600 Dübendorf, Switzerland",2,ETH Zurich,I35440088,no
 "SwissDNAlysis, Duebendorf, Switzerland",2,,,no
 "University of Bern, Eawag",2,University of Bern,I118564535,no
-استاد موسسۀ علوم و فناوری آب، Eawag، دانشگاه ETH زوریخ، سوئیس,2,ETH Zurich,I35440088,no
 ) Department of Chemistry Swiss Federal Institute for Environmental Science and Technology (EA WAG) CH-8600 Diibendorf,1,,,no
 ") Prof. of Aquatic Chemistry Institute of Aquatic Sciences and Water Pollution Control (lOW) Swiss Federal Institute of Technology, ETHZ",1,ETH Zurich,I35440088,no
 ". Swiss Federal Institute for Environmental Science and Technol-ogy, Seestrasse 79, CH-6047 Kastanienbaum, Switzerland;",1,,,no
@@ -111,7 +100,6 @@ Swiss Federal Institute for Water Resources and Water Pollution Control Swiss Fe
 "<!--label omitted: 1-->Swiss Federal Institute for Environmental Sciences and Technology, CH-8600 Dübendorf, Switzerland,1 and",1,,,no
 "<!--label omitted: 4-->Swiss Federal Institute for Environmental Science and Technology CH-8600 Dübendorf, Switzerland4",1,,,no
 "AO foundation, Dübendorf, Switzerland",1,AO Foundation,I24616306,no
-"Alumnus ETH Zürich, Eawag Dübendorf, Switzerland, Zurich, Switzerland",1,ETH Zurich,I35440088,no
 Applied Aquatic Ecology Swiss Federal Institute for Environmental Science and Technology  Kastanienbaum Switzerland,1,,,no
 "Aquatic & Fishery Sciences/Department of Biology, University of Washington, USA, 22 Eawag, Kastanienbaum, Switzerland,",1,University of Washington,I201448701,no
 "Aquatic Ecology & Evolution, Institute of Ecology and Evolution, University of Bern, Bern, Switzerland. david.marques@eawag.ch",1,University of Bern,I118564535,no
@@ -134,22 +122,18 @@ Centre Ecotox Eawag,1,Swiss Centre for Applied Ecotoxicology,I4405281650,yes
 "Centre Ecotox, Eawag/EPFL, Lausanne, Switzerland",1,École Polytechnique Fédérale de Lausanne | Swiss Centre for Applied Ecotoxicology,I5124864 I4405281650,yes
 "Centre Suisse d'écotoxicologie appliquée (Centre Ecotox) , Eawag/EPFL , EPFL-ENAC-IIE-GE , Station 2 , 1015 Lausanne , Suisse",1,École Polytechnique Fédérale de Lausanne | Swiss Centre for Applied Ecotoxicology,I5124864 I4405281650,yes
 "Centre Suisse d’écotoxicologie appliquée (Centre Ecotox), Eawag/EPFL, Station 2, ENAC-IIE, CH-1015 Lausanne, Suisse",1,École Polytechnique Fédérale de Lausanne | Swiss Centre for Applied Ecotoxicology,I5124864 I4405281650,yes
-"Chimiste, Professeure à l’École Polytechnique Fédérale de Zurich, Eawag, Dübendorf, Suisse, p. 203.laura.sigg@eawag.ch",1,ETH Zurich,I35440088,no
 "Concrete and Asphalt Laboratory, Empa—Swiss Federal Laboratories for Materials Science and Technology, Überlandstrasse 129, Dübendorf 8600, Switzerland; ETH Zurich, Swiss Federal Institute of Technology Zurich, Institute of Environmental Engineering, Ecological Systems Design, John-von-Neumann-Weg 9, Zurich 8093, Switzerland",1,ETH Zurich | Swiss Federal Laboratories for Materials Science and Technology | Institute of Environmental Engineering,I35440088 I71824836 I4405253839,no
 "DUbendorf "" ) Department of Environmental Physics",1,,,no
 Das Wasserforschungs-Institut des ETH-Bereichs 8600 Dübendorf,1,,,no
-Das Wasserforschungsinstitut des ETH-Bereichs Eawag Überlandstrasse 133 8600 Dübendorf Schweiz,1,,,no
 "Department F.-A. Forel for Environmental and Aquatic Sciences, University of Geneva, Uni Carl Vogt, 66 boulevard Carl-Vogt, CH-1211 Geneva, Switzerland; Swiss Centre for Applied Ecotoxicology Eawag-EPFL (Centre Ecotox), EPFL-ENAC-IIE-GE, Station 2, 1015 Lausanne, Switzerland",1,École Polytechnique Fédérale de Lausanne | University of Geneva | Swiss Centre for Applied Ecotoxicology,I5124864 I114457229 I4405281650,yes
 "Department F.-A. Forel for Environmental and Aquatic Sciences, University of Geneva, Uni Carl Vogt, 66 boulevard Carl-Vogt, CH-1211 Geneva, Switzerland; Swiss Centre for Applied Ecotoxicology, Eawag-EPFL (Centre Ecotox), EPFL-ENAC-IIE-GE, Station 2, 1015 Lausanne, Switzerland. Electronic address: benoit.ferrari@centreecotox.ch",1,École Polytechnique Fédérale de Lausanne | University of Geneva | Swiss Centre for Applied Ecotoxicology,I5124864 I114457229 I4405281650,yes
 "Department of Aquatic Ecology (ETH Zurich, 6047 Kastanienbaum, SUISSE - Suisse)",1,ETH Zurich,I35440088,no
 "Department of Aquatic Ecology (ETH Zurich, 6047 Kastanienbaum, SUISSE - Switzerland)",1,ETH Zurich,I35440088,no
-"Department of Aquatic Ecology Eawag  Seestrasse 79, 6047 Kastanienbaum Luzern Switzerland",1,,,no
 "Department of Aquatic Ecology, Überlandstrasse, Dübendorf, Switzerland",1,,,no
 "Department of Aquatic Ecology, Überlandstrasse, Dübendorf, Switzerland",1,,,no
 "Department of Biomolecular Sciences and Biotechnology, Università degli Studi di Milano, Milan, 2 Institute of Biomedical Technologies, National Research Council (CNR), Segrate (MI), Italy and 3 EAWAG, Swiss Institute for Environmental Technology, Dübendorf, Switzerland",1,University of Milan | Institute of Biomedical Technologies | National Research Council,I189158943 I4210154278 I4210155236,no
 "Department of Earth Sciences, Swiss Federal Institute of Technology, Zurich (ETH Zurich), Zurich, Switzerland (nathalie.dubois@eawag.ch)",1,ETH Zurich,I35440088,no
 "Department of Environmental Chemistry, Überlandstrasse 133, 8600, Dübendorf, Switzerland",1,,,no
-Department of Environmental Microbiology ETH Zürich Eawag Switzerland,1,ETH Zurich,I35440088,no
 "Department of Environmental Microbiology and Molecular Ecotoxicology, Swiss Federal Institute for Environmental Science and Technology, Dübendorf, Switzerland",1,,,no
 "Department of Environmental Microbiology and Molecular Ecotoxicology, Swiss Federal Institute for Environmental Science and Technology, PO Box 611, 8600 Dübendorf, Switzerland",1,,,no
 "Department of Environmental Microbiology and Molecular Ecotoxicology, Swiss Institute for Environmental Technology, 8600 Duebendorf, Switzerland,1 and",1,,,no
@@ -178,9 +162,7 @@ Department of Environmental Microbiology ETH Zürich Eawag Switzerland,1,ETH Zur
 "Department of Microbiology, Swiss Federal Institute of Environmental Sciences and Technology, CH-8600 Dübendorf, Switzerland",1,,,no
 "Department of Microbiology, Wageningen Agricultural University, H. van Suchtelenweg 4, NL-6703 CT Wageningen, The Netherlands, and EAWAG/ETH, CH-8600 Dübendorf, Switzerland",1,,,no
 "Department of Physical & Colloid Chemistry, Wageningen Agricultural University, Dreijenplein 6, 6703 HB Wageningen, The Netherlands, and EAWAG/ETH, CH 8600, Dübendorf, Switzerland",1,,,no
-"Department of Physics, Emory University, Atlanta, GA 30322, United States; Department of Environmental Systems Sciences, ETH Zürich, 8092 Zürich, Switzerland; Department of Environmental Microbiology, Eawag 8600 Dübendorf, Switzerland. Electronic address: Guram.Gogia@emory.edu",1,ETH Zurich | Emory University,I35440088 I150468666,no
 "Department of Resource and Waste Management, Swiss Federal Institute for Environmental Science and Technology, P.O. 6111, CH-8600 Dubendorf, Switzerland",1,,,no
-"Department of Soil and Crop Sciences, Colorado State University, Fort Collins, Colorado, Department of Chemistry, Colorado State University, Fort Collins, Colorado, Institute of Biogeochemistry and Pollutant Dynamics, ETH Zurich, Switzerland, Center for Applied Geoscience, University of Tübingen, Germany, School of Earth and Atmospheric Sciences, Georgia Institute of Technology, Atlanta, Georgia, Delaware Environmental Institute, University of Delaware, Newark, Delaware, Eawag, Swiss Federal Institute of",1,University of Tübingen | ETH Zurich | University of Delaware | Colorado State University | Georgia Institute of Technology | Institute of Biogeochemistry and Pollutant Dynamics,I8087733 I35440088 I86501945 I92446798 I130701444 I4405257012,no
 "Department of Surface Waters -Research and Management, 6047 Kastanienbaum, Switzerland",1,,,no
 "Department of Surface Waters Research and Management, Kastanienbaum, 6047 Switzerland",1,,,no
 "Department of Water Resources and Drinking Water, Swiss Federal Institute of Environmental Science and Technology, P.O. Box 611, Ueberlandstrasse 133, CH-8600 Duebendorf, Switzerland",1,,,no
@@ -197,19 +179,8 @@ Dübendorf ,1,,,no
 "EC -JRC , IT Hans Sanderson , Aarhus University , DK Hanna Schreiber , Umweltbundesamt , AT Christoph Schür , Eawag , CH Paul Thomas , KREATiS , FR",1,Aarhus University,I204337017,no
 EPFL et Eawag LE LAC DE ZURICH EN LIGNE PRÉVISIONS HYDRODYNAMIQUES 3D EN TEMPS-RÉEL SUR METEOL AKES,1,École Polytechnique Fédérale de Lausanne,I5124864,no
 "ETH Zurich, Institute of Mechanical Systems, Leonhardstr. 21, 8092 Zürich, Switzerland; Empa, Swiss Federal Laboratories for Materials Science and Technology, Überlandstr. 129, 8600 Dübendorf, Switzerland. Electronic address: mazza@imes.mavt.ethz.ch",1,ETH Zurich | Swiss Federal Laboratories for Materials Science and Technology | Institute of Mechanical Systems,I35440088 I71824836 I4405255898,no
-"Eawag , ETH Zurich , EPF Lausanne",1,École Polytechnique Fédérale de Lausanne | ETH Zurich,I5124864 I35440088,no
 "Eawag , das Wasserforschungsinstitut des ETH-Bereichs ,",1,,,no
-Eawag : Das Wasserforschungs- Institut des ETH -Bereichs Seestrasse 79 CH-6047 Kastanienbaum,1,,,no
-Eawag Das Wasserforschungsinstitut des ETH-Bereichs,1,,,no
-Eawag and Institute for Integrative Biology Eidgenössische Technische Hochschule (ETH)  Zurich Switzerland,1,ETH Zurich | Institute of Integrative Biology,I35440088 I4405254264,no
-"Eawag and Institute of Biogeochemistry and Pollutant Dynamics , ETH Zürich , Zürich , Switzerland",1,ETH Zurich | Institute of Biogeochemistry and Pollutant Dynamics,I35440088 I4405257012,no
-"Eawag, 8600, Dübendorf, Switzerland, juerg.zobrist@eawag.ch",1,,,no
 "Eawag, Department of Water Resources and Drinking Water Alireza Kavousi TU Dresden, Institute of Groundwater Management",1,Technische Universität Dresden,I78650965,no
-Eawag/EPFL,1,École Polytechnique Fédérale de Lausanne,I5124864,no
-"Eawag/EPFL , Switzerland",1,École Polytechnique Fédérale de Lausanne,I5124864,no
-"Eawag/EPFL Nathalie Chèvre , Université de Lausanne",1,École Polytechnique Fédérale de Lausanne | University of Lausanne,I5124864 I97565354,no
-Eawag/ETH - Zurich;,1,ETH Zurich,I35440088,no
-"Eawag: Das Wasserforschungs-Institut des ETH-Bereichs, Seestrasse 79, CH-6047, Kastanienbaum, Schweiz",1,,,no
 "EawagSeestrasse 79, 6047 Kastanienbaum, Switzerland",1,,,no
 "Ecotox Centre - EPFL ENAC IIE, GE, Station 2, CH-1015 Lausanne, Switzerland; Ecotox Centre, Überlandstrasse 133, 8600 Dübendorf, Switzerland",1,École Polytechnique Fédérale de Lausanne | Swiss Centre for Applied Ecotoxicology,I5124864 I4405281650,yes
 "Ecotox Centre - EPFL ENAC IIE, GE, Station 2, CH-1015, Lausanne, Switzerland; Ecotox Centre, Überlandstrasse 133, 8600, Dübendorf, Switzerland",1,École Polytechnique Fédérale de Lausanne | Swiss Centre for Applied Ecotoxicology,I5124864 I4405281650,yes
@@ -233,7 +204,6 @@ Eawag/ETH - Zurich;,1,ETH Zurich,I35440088,no
 "Environmental Physics/Sedimentology, Swiss Federal Institute for Environmental Science and Technology, Überlandstrasse 133, CH-8600, Dübendorf, Switzerland, , , , , , CH",1,,,no
 "Environmental Physics/Sedimentology, Swiss Federal Institute for Environmental Science and Technology, Überlandstrasse 133, CH-8600, Dübendorf, Switzerland, , CH",1,,,no
 Environmental Social Sciences  Dübendorf Switzerland,1,,,no
-"Environmental Toxicology, Eawag , ,",1,,,no
 "Federal Institute for Environmental Science and Technology, Swiss Federal Institutes of Technology, CH-8600 Dübendorf, Switzerland",1,,,no
 "Federal Institute for Water Resources and Water Pollution Control, 6047 Kastanienbaum, Switzerland",1,,,no
 "Federal Institute for Water Resources and Water Pollution Control, Associated with the Swiss Federal Institutes of Technology, CH-8600, Dübendorf-Zürich, Switzerland",1,,,no
@@ -242,7 +212,6 @@ Environmental Social Sciences  Dübendorf Switzerland,1,,,no
 "Federal Institute of Environmental Science and Technology, Limnological Research Center, 6047 Kastanienbaum, Switzerland",1,,,no
 "Federal Institute of Technology (ETH), Limnological Research Center, CH-6047 Kastanienbaum, Switzerland",1,,,no
 "General Internal Medicine Practice, CH-8600 Dübendorf, Switzerland",1,,,no
-"Griffith University, Environmental Futures Research Institute, Southern Ocean Persistent Organic Pollutants Program, Brisbane, QLD, Australia; Eawag, Swiss Federal Institute of Technology, Dübendorf, Switzerland. Electronic address: Michael.burkard@eawag.ch",1,Griffith University,I11701301,no
 "Grundstraße 24, 8600, Dübendorf, Switzerland",1,,,no
 "Human Ecology Group , Swiss Federal Institute of Environmental Science and Technology",1,,,no
 "Human Ecology Group, Swiss Federal Institute of Environmental Science and Technology",1,,,no
@@ -259,9 +228,7 @@ Institute for Aquatic Sciences of the Swiss Federal Institute of Technology (IGW
 "Institute for Water Resources and Water Pollution Control (EAW.4.G), and Institute of Aquatic Sciences, Swiss Federal Institute of Technology (ETH), Zurich, Switzerland",1,ETH Zurich,I35440088,no
 "Institute of Aerospace Medicine, University of Zurich, Wangenstrasse 68, 8600 Dübendorf, Switzerland",1,University of Zurich,I202697423,no
 "Institute of Biochemistry and Physiology of Microorganisms, Russian Academy of Sciences, 142292 Pushchino, Moscow Region, Russia, and Department of Microbiology, Swiss Federal Institute for Environmental Science and Technology (EAWAG), P.O. Box 611, CH-8600 Dübendorf, Switzerland",1,Russian Academy of Sciences | G. K. Skryabin Institute of Biochemistry and Physiology of Microorganisms,I1313323035 I4210158654,no
-"Institute of Biogeochemistry and Pollutant Dynamics, ETH Zürich and Department of Environmental Microbiology, Eawag, Switzerland",1,ETH Zurich | Institute of Biogeochemistry and Pollutant Dynamics,I35440088 I4405257012,no
 "Institute of Biogeochemistry and Pollutant Dynamics, Swiss Federal Institute of Technology Zurich (ETH Zurich), Zurich, Switzerland (xingguo.han@usys.ethz.ch;  Julie.Tolu@eawag.ch;  longhui.deng@usys.ethz.ch; Fiskal@bafg.de; carsten.schubert@eawag.ch; len",1,ETH Zurich | Institute of Biogeochemistry and Pollutant Dynamics,I35440088 I4405257012,no
-"Institute of Ecology and Evolution, University of Bern, Switzerland; and Eawag Centre of Ecology, Evolution and Biogeochemistry, Kastanienbaum, Switzerland",1,University of Bern,I118564535,no
 "Institute of Environmental Systems Science, Swiss Federal Institute of Technology Zurich (ETHZ), Zurich, Switzerland (carsten.schubert@eawag.ch)",1,ETH Zurich,I35440088,no
 "Institute of Inorganic Chemistry, Department of Chemistry and Applied Biosciences, ETH Zürich, Vladimir Prelog Weg 1, CH-8093, Switzerland, and at Empa, Swiss Federal Laboratories for Materials Science and Technology, Dübendorf, Überlandstrasse 129, CH-8600, Switzerland",1,ETH Zurich | Swiss Federal Laboratories for Materials Science and Technology,I35440088 I71824836,no
 "Institute of Integrative Biology, ETH Zurich, ETH Zentrum, CHN H76.2, Universitaetsstr. 16, CH-8092 Zurich, Switzerland; Eawag, Dübendorf, Switzerland",1,ETH Zurich | Institute of Integrative Biology,I35440088 I4405254264,no
@@ -274,9 +241,7 @@ Institute for Aquatic Sciences of the Swiss Federal Institute of Technology (IGW
 "Institutes of Aquatic Sciences and Biotechnology, Swiss Federal Institute of Technology, Zurich, Ueberlandstrasse 133, CH-8600 Dübendorf, Switzerland",1,ETH Zurich,I35440088,no
 "Institutes of Aquatic Sciences and Biotechnology, Swiss Federal Institute of Technology, Zürich, Ueberlandstraße 133, CH-8600 Dübendorf, Swizerland",1,ETH Zurich,I35440088,no
 "Institutes of Aquatic Sciences and of Biotechnology, Swiss Federal Institute of Technology Zurich, Ueberlandstrasse 133, CH-8600 Dubendorf, Switzerland",1,ETH Zurich,I35440088,no
-"Laboratoire Dynamique de la Biodiversité, UMR 5172 CNRS-UPS, 29, rue Jeanne Marvig, 31055 Toulouse Cedex, France Department of Limnology, Eawag/ETH, 6047 Kastanienbaum, Switzerland",1,Centre National de la Recherche Scientifique | Laboratoire Dynamique de la Biodiversité,I1294671590 I4210132577,no
 "Laboratory of Organic Chemistry, Swiss Federal Institute for Materials Science and Technology (Empa), Überlandstrasse 129, 8600 Dübendorf, Switzerland, and Swiss Federal Institute for Environmental Science and Technology (EAWAG), Überlandstrasse 133, 8600 Dübendorf, Switzerland",1,Swiss Federal Laboratories for Materials Science and Technology,I71824836,no
-"Lake Research Laboratory, EA WAG / ETH, CH‐6047 Kastanienbaum, Switzerland",1,,,no
 "Lamont-Doherty Geological Observatory of Columbia University, Palisades, New York 10964 U.S.A.ddPresent address: EAWAG, Swiss Federal Institute of Technology, Ueberlandstrasse, CH-8600 Duebeudorf, Switzerland",1,Columbia University,I78577930,no
 "Lib4RI - Library for the Research Institutes within the ETH Domain: Eawag, Empa, PSI & WSL, 8600 Dübendorf, Switzerland",1,"Lib4RI - Library for the Research Institutes within the ETH Domain: Eawag, Empa, PSI & WSL",I4210116427,yes
 "Lib4RI -Library for the Research Institutes within the ETH Domain: Eawag , Empa , PSI & WSL Dübendorf , Schweiz",1,"Lib4RI - Library for the Research Institutes within the ETH Domain: Eawag, Empa, PSI & WSL",I4210116427,yes
@@ -489,7 +454,6 @@ Swiss Federal Institute of Environmental Science and Technology  Kastanienbaum S
 "Swiss Federal Institute of Technology, 8600 Dübendorf, Switzerland",1,,,no
 "Swiss Federal Institute of Technology, Dübendorf",1,,,no
 "Swiss Federal Institute of Technology, Institute for Terrestrial Ecology, Grabenstrasse 3, 8952 Schlieren, Switzerland",1,,,no
-"Swiss Federal Institute of Technology, Zürich, Environmental Physics, Institute for Aquatic Sciences, Dübendorf, Switzerland",1,ETH Zurich,I35440088,no
 "Swiss Federal Institute of Technology, Zürich, and Federal Institute for Water Resources and Water Pollution Control, CH-8600 Dubendorf, Switzerland",1,ETH Zurich,I35440088,no
 "Swiss Federal Institute of Water Resources and Water Pollution Control, Lake Research Laboratory, CH-6047 Kastanienbaum, Switzerland",1,,,no
 "Swiss Federal Institute of Water Resources and Water Pollution Control, Lake Research Laboratory, CH‐6047 Kastanienbaum, Switzerland",1,,,no
@@ -508,7 +472,6 @@ Swiss Federal Institute of Environmental Science and Technology  Kastanienbaum S
 "Ueberlandstrasse 138, CH-8600 Dübendorf-Zurich",1,,,no
 "Umwe/tphysik, Eidgenössische Technische Hochschule Zürich, EA WAG, CH-8600 Dubendorf, Switzerland",1,ETH Zurich,I35440088,no
 Unilabs Dübendorf  Dübendorf Switzerland,1,Unilabs (Switzerland),I4405259590,no
-"University of Bern, Eawag, Switzerland",1,University of Bern,I118564535,no
 "Überlandstrasse 138, CH-8600 Dübendorf, Switzerland",1,,,no
 "WasserCluster Lunz -Biologische Station, Lunz am See, Austria | Eawag, Duebendorf, Switzerland",1,Wasser Cluster Lunz,I4210108751,no
 "ZHAW School of Life Sciences and Facility Management, Department of Environmental Biotechnology, Einsiedlerstraße 29, 8820 Wädenswil, Switzerland",1,ZHAW Zurich University of Applied Sciences,I858936495,no

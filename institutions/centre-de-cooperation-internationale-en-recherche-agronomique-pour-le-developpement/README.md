@@ -1,18 +1,16 @@
 # Centre de Coopération Internationale en Recherche Agronomique pour le Développement
 
-[OpenAlex I131077856](https://openalex.org/institutions/I131077856) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I131077856](https://openalex.org/institutions/I131077856) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to Centre de Coopération Internationale en Recherche Agronomique pour le Développement itself): 57,318 → 55,000 (−4.0%).
-- **Counting its units and predecessors** (the `lineage` filter): 107,708 → 100,490 (−6.7%).
-- **Why:** most of the strings it lost now go to one of its units or predecessors, which still count for it through `lineage` (64% of lost works); most of the strings it gained moved up from one of its units (64% of gained works).
+- **`works_count`** (works linked to Centre de Coopération Internationale en Recherche Agronomique pour le Développement itself): 57,327 → 55,009 (−4.0%).
+- **Counting its units and predecessors** (the `lineage` filter): 107,719 → 100,546 (−6.7%).
+- **Why:** most of the strings it lost now go to one of its units or predecessors, which still count for it through `lineage` (65% of lost works); most of the strings it gained moved up from one of its units (64% of gained works).
 
 ## Were the changes right?
 
-We had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Centre de Coopération Internationale en Recherche Agronomique pour le Développement at all, about **63% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **96% do name it** or one of its units.
-
-Net, the works that really are Centre de Coopération Internationale en Recherche Agronomique pour le Développement's (counting its units) went down by about 0.7%.
+Before the switch, we had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Centre de Coopération Internationale en Recherche Agronomique pour le Développement at all, about **63% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **96% do name it** or one of its units.
 
 **2,535 strings lost Centre de Coopération Internationale en Recherche Agronomique pour le Développement** ([removed.csv](removed.csv)), on 6,307 works; **1,329 strings gained it** ([added.csv](added.csv)), on 1,935 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
 
@@ -20,7 +18,7 @@ Net, the works that really are Centre de Coopération Internationale en Recherch
 
 | | Share of works |
 |---|---:|
-| To one of its units or predecessors (still counts through `lineage`) | 64% |
+| To one of its units or predecessors (still counts through `lineage`) | 65% |
 | To other institutions (mostly Université de Montpellier, Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement, Institut de Recherche pour le Développement) | 13% |
 | To no institution | 22% |
 

@@ -1,20 +1,18 @@
 # Nantes Université
 
-[OpenAlex I97188460](https://openalex.org/institutions/I97188460) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I97188460](https://openalex.org/institutions/I97188460) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to Nantes Université itself): 116,314 → 96,042 (−17.4%).
-- **Counting its units and predecessors** (the `lineage` filter): 178,772 → 163,882 (−8.3%).
+- **`works_count`** (works linked to Nantes Université itself): 116,319 → 96,051 (−17.4%).
+- **Counting its units and predecessors** (the `lineage` filter): 178,782 → 163,898 (−8.3%).
 - **Why:** most of the strings it lost now go to one of its units or predecessors, which still count for it through `lineage` (84% of lost works); the largest share of the strings it gained moved up from one of its units (44% of gained works).
 
 ## Were the changes right?
 
-We had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Nantes Université at all, about **81% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **83% do name it** or one of its units.
+Before the switch, we had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Nantes Université at all, about **81% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **83% do name it** or one of its units.
 
-Net, the works that really are Nantes Université's (counting its units) went up by about 1.1%.
-
-**5,375 strings lost Nantes Université** ([removed.csv](removed.csv)), on 32,658 works; **6,394 strings gained it** ([added.csv.gz](added.csv.gz)), on 7,607 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
+**5,375 strings lost Nantes Université** ([removed.csv](removed.csv)), on 32,658 works; **6,405 strings gained it** ([added.csv.gz](added.csv.gz)), on 7,613 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
 
 ## Where the lost strings went
 

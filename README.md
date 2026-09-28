@@ -63,8 +63,8 @@ Registry.
 We showed Claude Opus 5.5 the old and new answers for 300 changed strings, without saying which was which. It
 preferred the new answer for 81% and the old one for 11%.
 
-In all, 118 million institution assignments changed (60.0 million added, 58.2 million removed) on 54 million works.
-These counts come from the full dry run on 27 September; we will replace them with the final ones.
+In all, about 118 million institution assignments changed (60 million added, 58 million removed) on 54 million
+works.
 
 **If you keep a copy of OpenAlex, reload it in full.** Works whose institutions changed kept their `updated_date`,
 because the works themselves did not change.
@@ -104,7 +104,9 @@ records are matched automatically: on new works the night after they appear, and
 
 **Your corrections still win.** Links added or removed in the
 [Affiliation Editor](https://help.openalex.org/access/fixing-errors/affiliations/) or by our support team override
-the matcher, as before. Found a wrong match? See
+the matcher, as before. Thank you to the librarians and curators who made them: they showed us where the old matcher
+failed, and they helped us check our benchmark (our labels agree with their decisions on 98.4% of 500 curated
+strings). Found a wrong match? See
 [fixing affiliations](https://help.openalex.org/access/fixing-errors/affiliations/) or
 [tell us](https://openalex.org/contact).
 

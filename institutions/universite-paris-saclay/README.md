@@ -1,26 +1,24 @@
 # Université Paris-Saclay
 
-[OpenAlex I277688954](https://openalex.org/institutions/I277688954) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I277688954](https://openalex.org/institutions/I277688954) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to Université Paris-Saclay itself): 209,320 → 167,467 (−20.0%).
-- **Counting its units and predecessors** (the `lineage` filter): 680,126 → 620,812 (−8.7%).
-- **Why:** most of the strings it lost now go to one of its units or predecessors, which still count for it through `lineage` (77% of lost works); most of the strings it gained moved up from one of its units (62% of gained works).
+- **`works_count`** (works linked to Université Paris-Saclay itself): 209,367 → 167,514 (−20.0%).
+- **Counting its units and predecessors** (the `lineage` filter): 680,190 → 621,316 (−8.7%).
+- **Why:** most of the strings it lost now go to one of its units or predecessors, which still count for it through `lineage` (78% of lost works); most of the strings it gained moved up from one of its units (62% of gained works).
 
 ## Were the changes right?
 
-We had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Université Paris-Saclay at all, about **72% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **77% do name it** or one of its units.
+Before the switch, we had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Université Paris-Saclay at all, about **72% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **77% do name it** or one of its units.
 
-Net, the works that really are Université Paris-Saclay's (counting its units) went up by about 0.6%.
-
-**33,928 strings lost Université Paris-Saclay** ([removed.csv.gz](removed.csv.gz)), on 61,466 works; **5,742 strings gained it** ([added.csv.gz](added.csv.gz)), on 7,744 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
+**33,931 strings lost Université Paris-Saclay** ([removed.csv.gz](removed.csv.gz)), on 61,467 works; **5,753 strings gained it** ([added.csv.gz](added.csv.gz)), on 7,749 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
 
 ## Where the lost strings went
 
 | | Share of works |
 |---|---:|
-| To one of its units or predecessors (still counts through `lineage`) | 77% |
+| To one of its units or predecessors (still counts through `lineage`) | 78% |
 | To other institutions (mostly Centre National de la Recherche Scientifique, Inserm, Assistance Publique – Hôpitaux de Paris) | 14% |
 | To no institution | 9% |
 

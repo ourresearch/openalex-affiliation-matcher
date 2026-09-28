@@ -1,11 +1,11 @@
 # University of California, Riverside
 
-[OpenAlex I103635307](https://openalex.org/institutions/I103635307) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I103635307](https://openalex.org/institutions/I103635307) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to University of California, Riverside itself): 110,665 → 110,596 (−0.1%).
-- **Counting its units and predecessors** (the `lineage` filter): 110,665 → 110,904 (+0.2%).
+- **`works_count`** (works linked to University of California, Riverside itself): 110,698 → 110,629 (−0.1%).
+- **Counting its units and predecessors** (the `lineage` filter): 110,698 → 110,937 (+0.2%).
 - **Why:** most of the strings it lost now have no institution (62% of lost works); most of the strings it gained had no institution before (74% of gained works).
 
 ## Were the changes right?

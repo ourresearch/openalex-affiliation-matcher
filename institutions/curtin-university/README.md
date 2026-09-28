@@ -1,18 +1,18 @@
 # Curtin University
 
-[OpenAlex I205640436](https://openalex.org/institutions/I205640436) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I205640436](https://openalex.org/institutions/I205640436) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to Curtin University itself): 100,960 → 101,802 (+0.8%).
-- **Counting its units and predecessors** (the `lineage` filter): 104,243 → 105,084 (+0.8%).
+- **`works_count`** (works linked to Curtin University itself): 100,973 → 101,819 (+0.8%).
+- **Counting its units and predecessors** (the `lineage` filter): 104,256 → 105,101 (+0.8%).
 - **Why:** most of the strings it lost now go to other institutions (79% of lost works), mostly Curtin University Sarawak, The University of Western Australia; most of the strings it gained were assigned to other institutions before (65% of gained works), mostly Curtin University Sarawak, National Drug Research Institute.
 
 ## Were the changes right?
 
 Not sampled: its works changed by less than 2%, so we did not judge a sample.
 
-**744 strings lost Curtin University** ([removed.csv](removed.csv)), on 1,311 works; **1,772 strings gained it** ([added.csv](added.csv)), on 2,974 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
+**744 strings lost Curtin University** ([removed.csv](removed.csv)), on 1,311 works; **1,777 strings gained it** ([added.csv](added.csv)), on 2,978 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
 
 ## Where the lost strings went
 

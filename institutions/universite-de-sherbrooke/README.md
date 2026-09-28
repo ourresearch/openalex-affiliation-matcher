@@ -1,18 +1,18 @@
 # Université de Sherbrooke
 
-[OpenAlex I135117807](https://openalex.org/institutions/I135117807) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I135117807](https://openalex.org/institutions/I135117807) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to Université de Sherbrooke itself): 61,636 → 61,687 (+0.1%).
-- **Counting its units and predecessors** (the `lineage` filter): 61,752 → 61,953 (+0.3%).
+- **`works_count`** (works linked to Université de Sherbrooke itself): 61,642 → 61,693 (+0.1%).
+- **Counting its units and predecessors** (the `lineage` filter): 61,759 → 61,960 (+0.3%).
 - **Why:** most of the strings it lost now go to other institutions (56% of lost works), mostly Université de Montréal, Centre Hospitalier Universitaire de Sherbrooke; most of the strings it gained were assigned to other institutions before (55% of gained works), mostly Centre Hospitalier Universitaire de Sherbrooke, Hôpital Charles-Le Moyne.
 
 ## Were the changes right?
 
 Not sampled: its works changed by less than 2%, so we did not judge a sample.
 
-**829 strings lost Université de Sherbrooke** ([removed.csv](removed.csv)), on 1,299 works; **1,728 strings gained it** ([added.csv](added.csv)), on 1,874 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
+**829 strings lost Université de Sherbrooke** ([removed.csv](removed.csv)), on 1,299 works; **1,729 strings gained it** ([added.csv](added.csv)), on 1,874 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
 
 ## Where the lost strings went
 

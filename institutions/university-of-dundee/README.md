@@ -1,20 +1,18 @@
 # University of Dundee
 
-[OpenAlex I177639307](https://openalex.org/institutions/I177639307) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I177639307](https://openalex.org/institutions/I177639307) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to University of Dundee itself): 65,984 → 67,982 (+3.0%).
-- **Counting its units and predecessors** (the `lineage` filter): 66,715 → 68,068 (+2.0%).
+- **`works_count`** (works linked to University of Dundee itself): 65,988 → 67,986 (+3.0%).
+- **Counting its units and predecessors** (the `lineage` filter): 66,719 → 68,072 (+2.0%).
 - **Why:** most of the strings it lost now have no institution (72% of lost works); the largest share of the strings it gained were assigned to other institutions before (46% of gained works), mostly Ninewells Hospital, Dundee Dental Hospital.
 
 ## Were the changes right?
 
-We had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for University of Dundee at all, about **96% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **89% do name it** or one of its units.
+Before the switch, we had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for University of Dundee at all, about **96% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **89% do name it** or one of its units.
 
-Net, the works that really are University of Dundee's (counting its units) went up by about 3.1%.
-
-**720 strings lost University of Dundee** ([removed.csv](removed.csv)), on 978 works; **2,950 strings gained it** ([added.csv](added.csv)), on 4,331 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
+**720 strings lost University of Dundee** ([removed.csv](removed.csv)), on 978 works; **2,951 strings gained it** ([added.csv](added.csv)), on 4,332 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
 
 ## Where the lost strings went
 

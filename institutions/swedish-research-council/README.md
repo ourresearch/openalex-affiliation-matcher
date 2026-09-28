@@ -1,6 +1,6 @@
 # Swedish Research Council
 
-[OpenAlex I2802499594](https://openalex.org/institutions/I2802499594) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I2802499594](https://openalex.org/institutions/I2802499594) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
@@ -10,9 +10,7 @@
 
 ## Were the changes right?
 
-We had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Swedish Research Council at all, about **58% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **84% do name it** or one of its units.
-
-Net, the works that really are Swedish Research Council's (counting its units) went down by about 5.9%.
+Before the switch, we had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Swedish Research Council at all, about **58% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **84% do name it** or one of its units.
 
 **884 strings lost Swedish Research Council** ([removed.csv](removed.csv)), on 1,213 works; **12 strings gained it** ([added.csv](added.csv)), on 12 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
 

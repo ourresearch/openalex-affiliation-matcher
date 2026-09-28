@@ -201,7 +201,7 @@ F-87068 Limoges Cedex,3,,,no
 "Heterogeneous Materials Research Group, Centre Européen de la Céramique, F-87068 Limoges, France",3,Centre Européen de la Céramique,I4210142900,no
 "I.R.C.O.M., Faculté des Sciences, 123 av. A. Thomas, 87060 Limoges, France",3,,,no
 "I.R.C.O.M.-UMR CNRS n°6615, Limoges, France",3,Centre National de la Recherche Scientifique,I1294671590,no
-"INRA, UMR 1061, F-87000 Limoges, France",3,,,no
+"INRA, UMR 1061, F-87000 Limoges, France",3,Institut National de la Recherche Agronomique,I4387154544,no
 INSEM 1094 Limoges,3,,,no
 "INSERM 1094, Faculté de médecine de Limoges, Limoges, France",3,Inserm,I154526488,no
 "INSERM UMR 1092, Limoges, France",3,Inserm | Anti-infectieux : supports moléculaires des résistances et innovations thérapeutiques,I154526488 I4387155602,yes
@@ -1656,7 +1656,7 @@ Department of pharmacy University Hospital of Limoges  Limoges France,1,Centre H
 "Departments of Pathology, University Hospital 87 031 Limoges, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "Departments of Pathology, University Hospital87 031 Limoges, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "Departments of †Orthopedics and Traumatology *Pediatric Surgery, Limoges University Hospital, Limoges, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
-"Dept of Anesthesie, INRA Surgères∗, University of Poitiers and Limoges, France",1,Université de Poitiers,I32881790,no
+"Dept of Anesthesie, INRA Surgères∗, University of Poitiers and Limoges, France",1,Université de Poitiers | Institut National de la Recherche Agronomique,I32881790 I4387154544,no
 "Dept of Hematology, Limoges Hospital, Limoges, France,",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 Dermatology Department University Hospital of Limoges  Limoges France,1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "Dermatology Department, Limoges University Hospital, Limoges, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
@@ -1823,7 +1823,7 @@ FHU SUPORT Limoges France,1,,,no
 "Fac. des Sciences, LEPOFI, 123 Av.Alberth Thomas, 87060, Limoges CEDEX, France",1,,,no
 "Faculte des Sciences, I. R. C. O. M.-CNRS UMR, Limoges, France",1,Centre National de la Recherche Scientifique,I1294671590,no
 "Faculté des Sciences, IRCOM-UMR CNRS n°6615, 123, avenue Albert Thomas, 87060 Limoges Cédex, France",1,Centre National de la Recherche Scientifique,I1294671590,no
-"Faculty of Pharmacy and Faculty of Medicine, UPRES EA 3174/USC INRA, 87025 Limoges, France",1,,,no
+"Faculty of Pharmacy and Faculty of Medicine, UPRES EA 3174/USC INRA, 87025 Limoges, France",1,Institut National de la Recherche Agronomique,I4387154544,no
 "Faculty of Sciences, SPCTS - UMR CNRS, 87060, Limoges, France",1,Centre National de la Recherche Scientifique | Institut de Recherche sur les Céramiques,I1294671590 I4210153401,yes
 "Faculté de Médecine et de Pharmacie de Limoges INSERM UMR‐1248 2, rue Docteur Marcland 87042 Limoges France",1,Inserm,I154526488,no
 "Faculté de Médecine, Inserm UMR 1094 NET, rue du Dr Marcland, 87032, Limoges cedex, France",1,Inserm,I154526488,no
@@ -2017,9 +2017,9 @@ I.R.C.O.M.- UMR CNRS n°6615 - 87060 LIMOGES CEDEX - France - Tel: +(33) 5 55 45
 "IDepartment of Internal Medicine, Limoges University Hospital Center, Limoges, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "IMRO, Limoges, France",1,,,no
 "IMT (UMR CNRS 5219), Université Paul Sabatier, Toulouse Cedex, 31062, France ; IUFM du Limousin, 209 boulevard de Vanteaux, 87036 Limoges Cedex 87036, France",1,Institut de Mathématiques de Toulouse | Université Toulouse III - Paul Sabatier | Centre National de la Recherche Scientifique,I84500057 I134560555 I1294671590,no
-INRA UMR 1061 87000 Limoges France,1,,,no
-"INRA, UMR 1061, 87000 Limoges, France",1,,,no
-"INRA, UMR 1061, F-87060 Limoges, France",1,,,no
+INRA UMR 1061 87000 Limoges France,1,Institut National de la Recherche Agronomique,I4387154544,no
+"INRA, UMR 1061, 87000 Limoges, France",1,Institut National de la Recherche Agronomique,I4387154544,no
+"INRA, UMR 1061, F-87060 Limoges, France",1,Institut National de la Recherche Agronomique,I4387154544,no
 INSERM  U1092 Limoges France,1,Inserm,I154526488,no
 "INSERM , IPPRITT , U1248 , Limoges , France;",1,Inserm,I154526488,no
 "INSERM 1094 , Faculties of Medicine and Pharmacy , 2 rue du Docteur Raymond Marcland , 87025 Limoges Cedex , France",1,Inserm,I154526488,no
@@ -2740,7 +2740,7 @@ Parasitology laboratory University Hospital Center of Limoges Limoges France,1,C
 "Parasitology laboratory, University Hospital Center of Limoges, Limoges, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "Paris-Sud University, Orsay, IMNC Lab, UMR 8165, FrancebLimoges University, Limoges F-87060, France",1,Université Paris-Sud | Imagerie et Modélisation en Neurobiologie et Cancérologie,I102197404 I4387156337,no
 Parkinson Expert Center Limoges University Hospital  Limoges France,1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
-"Parkinson Expert Center, Neurology Department, Limoges University Hospital, U1094 Inserm UMR270 IRD USC1501 INRAE Epidémiologie des Maladies Chroniques en Zone Tropicale EpiMaCT, Limoges, France",1,Inserm | Centre Hospitalier Universitaire de Limoges,I154526488 I4210118469,no
+"Parkinson Expert Center, Neurology Department, Limoges University Hospital, U1094 Inserm UMR270 IRD USC1501 INRAE Epidémiologie des Maladies Chroniques en Zone Tropicale EpiMaCT, Limoges, France",1,"Inserm | Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement | Centre Hospitalier Universitaire de Limoges",I154526488 I4210088668 I4210118469,no
 "Pathology Department – Limoges Hospital, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "Pathology Department, University Hospital, Limoges, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "Pathology Department, University Hospital, Limoges, France. Electronic address: laura.mesturoux@gmail.com",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
@@ -3167,8 +3167,8 @@ UER de M6decine et de Pharmacie - Laboratoire de Physiologie - 2 rue du Dr March
 "UMOP, CNRS—FRE 2701, Faculté des Sciences et Techniques, 87060 Limoges cedex, France",1,Centre National de la Recherche Scientifique,I1294671590,no
 "UMOP, Faculté des Sciences, 123 Avenue Albert Thomas, F-87060 Limoges, France",1,,,no
 "UMOP/OCMP - Faculté des Sciences, 123 av. Albert Thomas, 87060 Limoges France",1,,,no
-"UMR 1061 INRA , 123, av. A. Thomas, Limoges Cedex , 87060 , France",1,,,no
-"UMR 1061 INRA, 123, av. A. Thomas, Limoges Cedex, 87060, France",1,,,no
+"UMR 1061 INRA , 123, av. A. Thomas, Limoges Cedex , 87060 , France",1,Institut National de la Recherche Agronomique,I4387154544,no
+"UMR 1061 INRA, 123, av. A. Thomas, Limoges Cedex, 87060, France",1,Institut National de la Recherche Agronomique,I4387154544,no
 "UMR 1094 Inserm, Limoges, France",1,Inserm,I154526488,no
 "UMR 1094, Inserm, faculté de médecine de Limoges, 2, rue du Docteur-Marcland, 87025 Limoges cedex, France",1,Inserm,I154526488,no
 "UMR 1094, Limoges",1,,,no
@@ -3235,16 +3235,16 @@ UMR‐850 INSERM University of Medicine  Limoges France,1,Inserm,I154526488,no
 "UOTC, Limoges University Hospital, Limoges,  France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "UPRES A 6090 , 123 Avenue Albert Thomas , Limoges cedex 87060 , France",1,,,no
 "UPRES EA 1085, Limoges, France",1,,,no
-"UPRES EA 3174 / USC INRA, Faculties of Pharmacy and of Medicine, 87025 Limoges, France",1,,,no
-"UPRES EA 3174/USC INRA, Faculties of Pharmacy and Medicine, 87025 Limoges, France",1,,,no
-"UPRES EA 3174/USC INRA, Faculty of Medicine and Faculty of Pharmacy, 2 rue du Docteur Raymond Marcland, 87025 Limoges, France. daniel.rondelaud@unilim.fr",1,,,no
-"UPRES EA 3174/USC INRA, Faculté de Médecine, 87025 Limoges, France",1,,,no
-"UPRES EA no. 3174 / USC INRA, Faculties of Pharmacy and Medicine, 87025 Limoges Cedex, France",1,,,no
-"UPRES EA no. 3174 / USC INRA, Faculties of Pharmacy and Medicine, 87025, Limoges Cedex, France",1,,,no
-"UPRES EA no. 3174/USC INRA, Faculties of Medicine and Pharmacy, 87025, Limoges Cedex, France",1,,,no
-"UPRES EA no. 3174/USC INRA, Faculties of Medicine and Pharmacy, 87025, Limoges Cedex, France. daniel.rondelaud@unilim.fr",1,,,no
-"UPRES EA n° 3174 / USC INRA, Faculties of Medicine and Pharmacy, 87025 Limoges, France",1,,,no
-"UPRES EA n° 3174 / USC INRA, Facultés de Pharmacie et de Médecine, 87025 Limoges, France",1,,,no
+"UPRES EA 3174 / USC INRA, Faculties of Pharmacy and of Medicine, 87025 Limoges, France",1,Institut National de la Recherche Agronomique,I4387154544,no
+"UPRES EA 3174/USC INRA, Faculties of Pharmacy and Medicine, 87025 Limoges, France",1,Institut National de la Recherche Agronomique,I4387154544,no
+"UPRES EA 3174/USC INRA, Faculty of Medicine and Faculty of Pharmacy, 2 rue du Docteur Raymond Marcland, 87025 Limoges, France. daniel.rondelaud@unilim.fr",1,Institut National de la Recherche Agronomique,I4387154544,no
+"UPRES EA 3174/USC INRA, Faculté de Médecine, 87025 Limoges, France",1,Institut National de la Recherche Agronomique,I4387154544,no
+"UPRES EA no. 3174 / USC INRA, Faculties of Pharmacy and Medicine, 87025 Limoges Cedex, France",1,Institut National de la Recherche Agronomique,I4387154544,no
+"UPRES EA no. 3174 / USC INRA, Faculties of Pharmacy and Medicine, 87025, Limoges Cedex, France",1,Institut National de la Recherche Agronomique,I4387154544,no
+"UPRES EA no. 3174/USC INRA, Faculties of Medicine and Pharmacy, 87025, Limoges Cedex, France",1,Institut National de la Recherche Agronomique,I4387154544,no
+"UPRES EA no. 3174/USC INRA, Faculties of Medicine and Pharmacy, 87025, Limoges Cedex, France. daniel.rondelaud@unilim.fr",1,Institut National de la Recherche Agronomique,I4387154544,no
+"UPRES EA n° 3174 / USC INRA, Faculties of Medicine and Pharmacy, 87025 Limoges, France",1,Institut National de la Recherche Agronomique,I4387154544,no
+"UPRES EA n° 3174 / USC INRA, Facultés de Pharmacie et de Médecine, 87025 Limoges, France",1,Institut National de la Recherche Agronomique,I4387154544,no
 "UPRES-EA no. 3174, Facultés de Pharmacie et de Médecine, 2 rue du Docteur Marcland, 87025 Cedex, France",1,,,no
 "UPRESA CNRS 6090, Faculté des Sciences, 123 Avenue Albert Thomas, F-87060, Limoges Cedex, France",1,Centre National de la Recherche Scientifique,I1294671590,no
 "URA 1586 CNRS, Faculté des Sciences, 123 Avenue Albert Thomas, 87060, Limoges Cedex, France",1,Centre National de la Recherche Scientifique,I1294671590,no

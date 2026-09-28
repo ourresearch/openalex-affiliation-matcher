@@ -1,18 +1,16 @@
 # Université de Limoges
 
-[OpenAlex I65806277](https://openalex.org/institutions/I65806277) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I65806277](https://openalex.org/institutions/I65806277) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to Université de Limoges itself): 36,396 → 30,639 (−15.8%).
+- **`works_count`** (works linked to Université de Limoges itself): 36,398 → 30,639 (−15.8%).
 - **Counting its units and predecessors** (the `lineage` filter): 47,590 → 44,669 (−6.1%).
 - **Why:** the largest share of the strings it lost now go to one of its units or predecessors, which still count for it through `lineage` (38% of lost works); most of the strings it gained had no institution before (56% of gained works).
 
 ## Were the changes right?
 
-We had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Université de Limoges at all, about **79% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **88% do name it** or one of its units.
-
-Net, the works that really are Université de Limoges's (counting its units) went up by about 2.4%.
+Before the switch, we had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Université de Limoges at all, about **79% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **88% do name it** or one of its units.
 
 **3,423 strings lost Université de Limoges** ([removed.csv](removed.csv)), on 11,396 works; **2,710 strings gained it** ([added.csv](added.csv)), on 3,854 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
 

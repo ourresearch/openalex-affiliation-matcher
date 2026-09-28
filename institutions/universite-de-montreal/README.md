@@ -1,20 +1,18 @@
 # Université de Montréal
 
-[OpenAlex I70931966](https://openalex.org/institutions/I70931966) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I70931966](https://openalex.org/institutions/I70931966) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to Université de Montréal itself): 193,243 → 201,850 (+4.5%).
-- **Counting its units and predecessors** (the `lineage` filter): 198,800 → 207,322 (+4.3%).
+- **`works_count`** (works linked to Université de Montréal itself): 192,796 → 201,405 (+4.5%).
+- **Counting its units and predecessors** (the `lineage` filter): 198,352 → 206,877 (+4.3%).
 - **Why:** most of the strings it lost now go to other institutions (73% of lost works), mostly Université du Québec à Montréal, Centre Hospitalier de l’Université de Montréal; most of the strings it gained were assigned to other institutions before (76% of gained works), mostly Centre Hospitalier de l’Université de Montréal, Hôpital Notre-Dame.
 
 ## Were the changes right?
 
-We had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Université de Montréal at all, about **73% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **43% do name it** or one of its units.
+Before the switch, we had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Université de Montréal at all, about **73% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **43% do name it** or one of its units.
 
-Net, the works that really are Université de Montréal's (counting its units) went up by about 2.0%.
-
-**2,122 strings lost Université de Montréal** ([removed.csv](removed.csv)), on 2,594 works; **19,010 strings gained it** ([added.csv.gz](added.csv.gz)), on 24,116 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
+**2,123 strings lost Université de Montréal** ([removed.csv](removed.csv)), on 2,594 works; **19,026 strings gained it** ([added.csv.gz](added.csv.gz)), on 24,126 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
 
 ## Where the lost strings went
 

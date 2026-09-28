@@ -1,11 +1,11 @@
 # Polytechnique Montréal
 
-[OpenAlex I45683168](https://openalex.org/institutions/I45683168) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I45683168](https://openalex.org/institutions/I45683168) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to Polytechnique Montréal itself): 40,186 → 40,018 (−0.4%).
-- **Counting its units and predecessors** (the `lineage` filter): 42,260 → 41,429 (−2.0%).
+- **`works_count`** (works linked to Polytechnique Montréal itself): 40,189 → 40,021 (−0.4%).
+- **Counting its units and predecessors** (the `lineage` filter): 42,263 → 41,431 (−2.0%).
 - **Why:** most of the strings it lost now go to other institutions (53% of lost works), mostly Université de Montréal, École Polytechnique; most of the strings it gained had no institution before (61% of gained works).
 
 ## Were the changes right?

@@ -1,11 +1,11 @@
 # Technische Informationsbibliothek (TIB)
 
-[OpenAlex I2802635041](https://openalex.org/institutions/I2802635041) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I2802635041](https://openalex.org/institutions/I2802635041) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to Technische Informationsbibliothek (TIB) itself): 5,451 → 5,435 (−0.3%).
-- **Counting its units and predecessors** (the `lineage` filter): 5,453 → 5,437 (−0.3%).
+- **`works_count`** (works linked to Technische Informationsbibliothek (TIB) itself): 5,452 → 5,436 (−0.3%).
+- **Counting its units and predecessors** (the `lineage` filter): 5,454 → 5,438 (−0.3%).
 - **Why:** most of the strings it lost now go to other institutions (60% of lost works), mostly FernUniversität in Hagen, Niedersächsische Staats- und Universitätsbibliothek Göttingen; most of the strings it gained were assigned to other institutions before (56% of gained works), mostly Ludwig-Maximilians-Universität München, Goethe University Frankfurt.
 
 ## Were the changes right?

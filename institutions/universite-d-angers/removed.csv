@@ -747,6 +747,7 @@ UCO, Angers
 "1Department of Respiratory and Sleep Medicine, Angers, France",1,,,no
 "1Hematology Clinic, Angers University Hospital, Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "1Laboratoire d’Oncopharmacologie-INSERM U564, ANGERS Cedex 01, and",1,Inserm,I154526488,no
+"1Microbiology Laboratory, Angers University Hospital, Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "1Reference Centre for Rare Diseases of Hormonal Sensitivity, CHU d’Angers, Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "1Univ Angers, Nantes Université, CHU Angers, Inserm, CNRS, CRCI2NA, Angers, France",1,Nantes Université | Inserm | Centre National de la Recherche Scientifique | Centre de Recherche en Cancérologie et Immunologie Intégrée Nantes Angers | Centre Hospitalier Universitaire d'Angers,I97188460 I154526488 I1294671590 I4210092509 I4210112910,yes
 "1] Cellular and Tissue Pathology Department, University Hospital, CHU, Angers, France [2] HIFIH Laboratory, UPRES 3859, SFR 4208, LUNAM University, Angers, France",1,Université Nantes Angers Le Mans | Centre Hospitalier Universitaire d'Angers,I234216984 I4210112910,no
@@ -1197,6 +1198,7 @@ CHU Angers Paediatric Unit Angers,1,Centre Hospitalier Universitaire d'Angers,I4
 "CHU Angers, Laboratoire d'Hématologie, 4 Rue Larrey, 49933, Angers Cedex 9, France. valerie.ugo@chu-angers.fr",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "CHU Angers, Laboratoire d'Hématologie, Angers, France. valerie.ugo@chu-angers.fr",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "CHU Angers, Laboratoire d'Hématologie, France valerie.ugo@univ-angers.fr",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
+"CHU Angers, Laboratoire d'Immunologie et d'Allergologie, Angers, France; Univ Angers, Nantes Université, CHU Angers, Inserm, CNRS, CRCI2NA, SFR ICAT, F-49000 Angers, France",1,Nantes Université | Inserm | Centre National de la Recherche Scientifique | Centre de Recherche en Cancérologie et Immunologie Intégrée Nantes Angers | Centre Hospitalier Universitaire d'Angers,I97188460 I154526488 I1294671590 I4210092509 I4210112910,yes
 "CHU Angers, Laboratoire de Biochimie et Biologie moléculaire, Angers, F-49033, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "CHU Angers, Laboratory for Vascular Investigations, University Hospital, 4 rue Larrey, 49933, Angers Cedex 09, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "CHU Angers, Laboratory for Vascular Investigations, University Hospital, Angers Cedex 09, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
@@ -3252,7 +3254,7 @@ IAE Angers et GRANEM (EA 7456),1,,,no
 "IMMO, UMR CNRS 6501, 2 Bd Lavoisier, F49045 Angers Cedex, France",1,Centre National de la Recherche Scientifique,I1294671590,no
 "INRA, UMR 1345 IRHS, 16 Bd Lavoisier, Angers cedex, F-49045, France",1,Institut de Recherche en Horticulture et Semences,I4210125447,yes
 "INRA, UMR 1345 IRHS, 2 Bd Lavoisier, 49045, Angers, France",1,Institut de Recherche en Horticulture et Semences,I4210125447,yes
-"INRA, UMR1345 IRHS, F-49071 Angers, France",1,,,no
+"INRA, UMR1345 IRHS, F-49071 Angers, France",1,Institut de Recherche en Horticulture et Semences,I4210125447,yes
 INRAE  Angers France,1,"Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",I4210088668,no
 INRAE IRHS SFR 4207 QuaSaV Institut Agro Univ. Angers Angers 49000 France,1,"Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement | Institut de Recherche en Horticulture et Semences | L'Institut Agro",I4210088668 I4210125447 I4399657933,yes
 INRAE PSH  Angers France,1,"Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",I4210088668,no
@@ -3647,10 +3649,10 @@ Infectious and Tropical Diseases Department Angers University Hospital Angers Fr
 "Institut MITOVASC, Laboratoire EA3860, Cardioprotection, Remodelage et Thrombose, Rue Haute de Reculée, FR-49045, Angers, France",1,Mitochondrial and Cardiovascular Physiopathology,I4387155524,yes
 "Institut MITOVASC, UMR INSERM U1083 and CNRS 6015, Angers, France",1,Inserm | Centre National de la Recherche Scientifique | Mitochondrial and Cardiovascular Physiopathology,I154526488 I1294671590 I4387155524,yes
 "Institut MitoVasc, UMR CNRS 6215 INSERM 1083, Angers, France",1,Inserm | Centre National de la Recherche Scientifique | Mitochondrial and Cardiovascular Physiopathology,I154526488 I1294671590 I4387155524,yes
-"Institut National d'Horticulture I.N.H (UMR _A462 SAGAH (INRA-INH-Univ Angers)), 2, rue Le Nôtre, 49045 Angers, FRANCE",1,,,no
+"Institut National d'Horticulture I.N.H (UMR _A462 SAGAH (INRA-INH-Univ Angers)), 2, rue Le Nôtre, 49045 Angers, FRANCE",1,Institut National de la Recherche Agronomique,I4387154544,no
 "Institut National de la Santé et de la Recherche Médicale (INSERM), U564, University Hospital of Angers, CHU Angers, Immunology and Allergology Laboratory, Angers, France;",1,Inserm | Centre Hospitalier Universitaire d'Angers,I154526488 I4210112910,no
 "Institut National de la Santé et de la Recherche Médicale, U564, University Hospital of Angers, France. pascale.jeannin@univ-angers.fr",1,Inserm | Centre Hospitalier Universitaire d'Angers,I154526488 I4210112910,no
-"Institut National d’Horticulture, Département de Sciences Biologiques, U.M.R. A 462, Angers, “SAGAH” INRA/INH/University, Angers-2, rue Le Nôtre, F-49045 Angers Cedex 01, France",1,,,no
+"Institut National d’Horticulture, Département de Sciences Biologiques, U.M.R. A 462, Angers, “SAGAH” INRA/INH/University, Angers-2, rue Le Nôtre, F-49045 Angers Cedex 01, France",1,Institut National de la Recherche Agronomique,I4387154544,no
 "Institut de Biologie en Santé, Inserm, Angers, France",1,Inserm,I154526488,no
 Institut de Formation en Education Physique et en Sport d'Angers - Angers - France,1,,,no
 "Institut de Recherche INSERM d'Angers, Angers, France",1,Inserm,I154526488,no
@@ -4623,6 +4625,7 @@ Reproductive Biology Laboratory Angers University Hospital  Angers France,1,Cent
 "Research Department Unit University Hospital Angers, 4 rue Larrey, 49000 Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Research Department Unit University Hospital Angers, France, Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Research Department Unit, University Hospital Angers, Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
+"Research Institute MitoVasc, UMR CNRS 6214 INSERM 1083, 49100 Angers, France",1,Inserm | Centre National de la Recherche Scientifique | Mitochondrial and Cardiovascular Physiopathology,I154526488 I1294671590 I4387155524,yes
 "Research Institute for Environmental and Occupational Health (Irset-Inserm UMR1085), Ester Team - UFR Santé - Département de Médecine, Rue Haute de Reculée, 49045, ANGERS Cedex01, France. chloegerves@gmail.com",1,"Inserm | Institut de Recherche en Santé, Environnement et Travail",I154526488 I4210108239,yes
 "Research Institute for Environmental and Occupational Health–Unité Mixte de Recherche (UMR)_S 1085, France Emergency Department, Angers University Hospital, Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Research Institute for Sustainable Food Systems, Angers Institute of Agriculture, Angers, 49000, France",1,,,no
@@ -5057,8 +5060,8 @@ UMR‐CNRS 6214; INSERM 771 angers France,1,Inserm | Centre National de la Reche
 "UTET (Unité transversale éducation thérapeutique), CHU d’Angers, Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 UTTIOM Unit for Innovate Therapy in Medical Oncology Hospital of Angers  Angers Cedex 09 F‐49933 France,1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "UTTIOM Unit for Innovate Therapy in Medical Oncology, Hospital of Angers, Angers Cedex 09, F-49933 France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
-"UVV-INRA , Angers , France",1,,,no
-"UVV-INRA, Angers, France",1,,,no
+"UVV-INRA , Angers , France",1,Institut National de la Recherche Agronomique,I4387154544,no
+"UVV-INRA, Angers, France",1,Institut National de la Recherche Agronomique,I4387154544,no
 "Unam, Inserm, U922, service de rhumatologie, CHU d’Angers, 49933 Angers cedex 9, France",1,Inserm | Centre Hospitalier Universitaire d'Angers,I154526488 I4210112910,no
 "Unit 892, Inserm, CHU d'Angers, Angers, France",1,Inserm | Centre Hospitalier Universitaire d'Angers,I154526488 I4210112910,no
 "Unit of Allergology, Angers University Hospital, 49933 Angers cedex 9, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
@@ -5124,6 +5127,7 @@ Univ Angers Nantes Université CHU Angers INSERM CNRS CRCI2NA SFR ICAT Angers Fr
 "Univ Angers, Inserm, CHU Angers, CRCINA, Angers, France",1,Inserm | Centre de Recherche en Cancérologie et Immunologie Intégrée Nantes Angers | Centre Hospitalier Universitaire d'Angers,I154526488 I4210092509 I4210112910,yes
 "Univ Angers, Nantes Université, CHU Angers, INSERM, CNRS, CRCI2NA, SFR ICAT, F-49000 Angers, France",1,Nantes Université | Inserm | Centre National de la Recherche Scientifique | Centre de Recherche en Cancérologie et Immunologie Intégrée Nantes Angers | Centre Hospitalier Universitaire d'Angers,I97188460 I154526488 I1294671590 I4210092509 I4210112910,yes
 "Univ Angers, Nantes Université, CHU Angers, INSERM, CNRS, Immunology and New Concepts in ImmunoTherapy, INCIT, UMR 1302, F-49000 Angers, France",1,Nantes Université | Inserm | Centre National de la Recherche Scientifique | Centre Hospitalier Universitaire d'Angers | Immunologie et Nouveaux Concepts en Immunothérapie,I97188460 I154526488 I1294671590 I4210112910 I4392021193,yes
+"Univ Angers, Nantes Université, CHU Angers, Inserm, CNRS, CRCI2NA, SFR ICAT, F-49000 Angers, France; CHU Angers, Service des Maladies du Sang, Angers, France; Fédération Hospitalo-Universitaire ""Grand Ouest Against Leukemia"" (FHU GOAL), France",1,Nantes Université | Inserm | Centre de Recherche en Cancérologie et Immunologie Intégrée Nantes Angers | Centre Hospitalier Universitaire d'Angers,I97188460 I154526488 I4210092509 I4210112910,yes
 "Univ Angers, Nantes Université, CHU Angers, Inserm, CNRS, CRCINA, F-49000, Angers, France",1,Nantes Université | Inserm | Centre National de la Recherche Scientifique | Centre de Recherche en Cancérologie et Immunologie Intégrée Nantes Angers | Centre Hospitalier Universitaire d'Angers,I97188460 I154526488 I1294671590 I4210092509 I4210112910,yes
 "Univ Angers, Nantes Université, CHU Angers, Inserm, CNRS, France",1,Nantes Université | Inserm | Centre National de la Recherche Scientifique | Centre Hospitalier Universitaire d'Angers,I97188460 I154526488 I1294671590 I4210112910,no
 "Univ Angers, Nantes Université, CHU Angers, Inserm, CNRS, INCIT  Angers France",1,Nantes Université | Inserm | Centre National de la Recherche Scientifique | Centre Hospitalier Universitaire d'Angers | Immunologie et Nouveaux Concepts en Immunothérapie,I97188460 I154526488 I1294671590 I4210112910 I4392021193,yes
@@ -5477,3 +5481,8 @@ nina.aubry@univ-angers.fr,1,,,no
 "‘Grand Ouest’ Poison Control Center, University Hospital of Angers, CEDEX 9, 49933 Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "†INSERM Unit 892, 49933 Angers, France;",1,Inserm,I154526488,no
 "∥∥Department of Digestive Surgery, University Hospital Center of Angers, Angers",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
+"CHU Angers, Cell and tissue pathology, Bone pathology unit, F-49000 Angers, France;",0,Centre Hospitalier Universitaire d'Angers,I4210112910,no
+"Department of Virology, Angers University Hospital, 4 Rue Larrey, 49933
+, Angers, France",0,Centre Hospitalier Universitaire d'Angers,I4210112910,no
+"Univ Angers, Institut Agro, INRAE, IRHS, SFR QUASAV, Angers;",0,"Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement | Institut de Recherche en Horticulture et Semences",I4210088668 I4210125447,yes
+"Univ Angers, Nantes Universite, Oniris, Inserm, RMeS, REGOS, SFR ICAT, F-49000 Angers, France;",0,Nantes Université | Inserm | Oniris,I97188460 I154526488 I4210157468,no

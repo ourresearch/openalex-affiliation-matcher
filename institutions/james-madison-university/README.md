@@ -1,11 +1,11 @@
 # James Madison University
 
-[OpenAlex I11883440](https://openalex.org/institutions/I11883440) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I11883440](https://openalex.org/institutions/I11883440) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to James Madison University itself): 15,435 → 15,632 (+1.3%).
-- **Counting its units and predecessors** (the `lineage` filter): 15,435 → 15,632 (+1.3%).
+- **`works_count`** (works linked to James Madison University itself): 15,436 → 15,633 (+1.3%).
+- **Counting its units and predecessors** (the `lineage` filter): 15,436 → 15,633 (+1.3%).
 - **Why:** most of the strings it lost now go to other institutions (50% of lost works), mostly Madison Area Technical College, Michigan State University; most of the strings it gained had no institution before (85% of gained works).
 
 ## Were the changes right?

@@ -1,20 +1,18 @@
 # University of California System
 
-[OpenAlex I2803209242](https://openalex.org/institutions/I2803209242) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I2803209242](https://openalex.org/institutions/I2803209242) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to University of California System itself): 70,045 → 31,140 (−55.5%).
-- **Counting its units and predecessors** (the `lineage` filter): 2,625,300 → 2,726,827 (+3.9%).
+- **`works_count`** (works linked to University of California System itself): 70,049 → 31,139 (−55.5%).
+- **Counting its units and predecessors** (the `lineage` filter): 2,626,741 → 2,728,313 (+3.9%).
 - **Why:** most of the strings it lost now have no institution (65% of lost works); most of the strings it gained had no institution before (55% of gained works).
 
 ## Were the changes right?
 
-We had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for University of California System at all, about **31% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **95% do name it** or one of its units.
+Before the switch, we had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for University of California System at all, about **31% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **95% do name it** or one of its units.
 
-Net, the works that really are University of California System's (counting its units) went up by about 4.1%.
-
-**15,640 strings lost University of California System** ([removed.csv.gz](removed.csv.gz)), on 63,406 works; **17,501 strings gained it** ([added.csv.gz](added.csv.gz)), on 28,264 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
+**15,648 strings lost University of California System** ([removed.csv.gz](removed.csv.gz)), on 63,410 works; **17,502 strings gained it** ([added.csv.gz](added.csv.gz)), on 28,266 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
 
 ## Where the lost strings went
 

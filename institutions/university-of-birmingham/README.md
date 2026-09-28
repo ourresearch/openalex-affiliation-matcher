@@ -1,27 +1,25 @@
 # University of Birmingham
 
-[OpenAlex I79619799](https://openalex.org/institutions/I79619799) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I79619799](https://openalex.org/institutions/I79619799) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to University of Birmingham itself): 228,857 → 242,337 (+5.9%).
-- **Counting its units and predecessors** (the `lineage` filter): 230,678 → 243,105 (+5.4%).
-- **Why:** most of the strings it lost now go to other institutions (73% of lost works), mostly Queen Elizabeth Hospital Birmingham, University Hospitals Birmingham NHS Foundation Trust; most of the strings it gained had no institution before (53% of gained works).
+- **`works_count`** (works linked to University of Birmingham itself): 228,881 → 242,366 (+5.9%).
+- **Counting its units and predecessors** (the `lineage` filter): 230,703 → 243,134 (+5.4%).
+- **Why:** most of the strings it lost now go to other institutions (74% of lost works), mostly Queen Elizabeth Hospital Birmingham, University Hospitals Birmingham NHS Foundation Trust; most of the strings it gained had no institution before (53% of gained works).
 
 ## Were the changes right?
 
-We had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for University of Birmingham at all, about **81% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **83% do name it** or one of its units.
+Before the switch, we had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for University of Birmingham at all, about **81% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **83% do name it** or one of its units.
 
-Net, the works that really are University of Birmingham's (counting its units) went up by about 4.9%.
-
-**993 strings lost University of Birmingham** ([removed.csv](removed.csv)), on 1,552 works; **5,795 strings gained it** ([added.csv](added.csv)), on 11,416 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
+**992 strings lost University of Birmingham** ([removed.csv](removed.csv)), on 1,551 works; **5,805 strings gained it** ([added.csv](added.csv)), on 11,419 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
 
 ## Where the lost strings went
 
 | | Share of works |
 |---|---:|
-| To other institutions (mostly Queen Elizabeth Hospital Birmingham, University Hospitals Birmingham NHS Foundation Trust, University of Alabama at Birmingham) | 73% |
-| To no institution | 27% |
+| To other institutions (mostly Queen Elizabeth Hospital Birmingham, University Hospitals Birmingham NHS Foundation Trust, University of Alabama at Birmingham) | 74% |
+| To no institution | 26% |
 
 ## Where the gained strings came from
 

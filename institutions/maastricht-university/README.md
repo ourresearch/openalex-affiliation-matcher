@@ -1,18 +1,18 @@
 # Maastricht University
 
-[OpenAlex I34352273](https://openalex.org/institutions/I34352273) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I34352273](https://openalex.org/institutions/I34352273) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to Maastricht University itself): 135,289 → 133,895 (−1.0%).
-- **Counting its units and predecessors** (the `lineage` filter): 137,093 → 135,642 (−1.1%).
+- **`works_count`** (works linked to Maastricht University itself): 135,307 → 133,916 (−1.0%).
+- **Counting its units and predecessors** (the `lineage` filter): 137,111 → 135,663 (−1.1%).
 - **Why:** the largest share of the strings it lost now have no institution (50% of lost works); most of the strings it gained were assigned to other institutions before (55% of gained works), mostly Maastricht University Medical Centre, Transnational University Limburg.
 
 ## Were the changes right?
 
 Not sampled: its works changed by less than 2%, so we did not judge a sample.
 
-**5,992 strings lost Maastricht University** ([removed.csv.gz](removed.csv.gz)), on 9,184 works; **7,190 strings gained it** ([added.csv.gz](added.csv.gz)), on 8,473 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
+**5,993 strings lost Maastricht University** ([removed.csv.gz](removed.csv.gz)), on 9,184 works; **7,197 strings gained it** ([added.csv.gz](added.csv.gz)), on 8,476 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
 
 ## Where the lost strings went
 
@@ -26,7 +26,7 @@ Not sampled: its works changed by less than 2%, so we did not judge a sample.
 
 | | Share of works |
 |---|---:|
-| From no institution | 36% |
+| From no institution | 37% |
 | Up from one of its units or predecessors | 8% |
 | From other institutions (mostly Maastricht University Medical Centre, Transnational University Limburg, Maastro Clinic) | 55% |
 

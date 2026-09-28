@@ -1,6 +1,6 @@
 # The Francis Crick Institute
 
-[OpenAlex I2801081054](https://openalex.org/institutions/I2801081054) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I2801081054](https://openalex.org/institutions/I2801081054) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
@@ -12,7 +12,7 @@
 
 Not sampled: its works changed by less than 2%, so we did not judge a sample.
 
-**205 strings lost The Francis Crick Institute** ([removed.csv](removed.csv)), on 274 works; **142 strings gained it** ([added.csv](added.csv)), on 150 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
+**205 strings lost The Francis Crick Institute** ([removed.csv](removed.csv)), on 274 works; **143 strings gained it** ([added.csv](added.csv)), on 150 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
 
 ## Where the lost strings went
 

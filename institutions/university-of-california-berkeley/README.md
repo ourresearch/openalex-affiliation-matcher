@@ -1,18 +1,18 @@
 # University of California, Berkeley
 
-[OpenAlex I95457486](https://openalex.org/institutions/I95457486) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I95457486](https://openalex.org/institutions/I95457486) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to University of California, Berkeley itself): 500,173 → 508,008 (+1.6%).
-- **Counting its units and predecessors** (the `lineage` filter): 519,190 → 517,976 (−0.2%).
+- **`works_count`** (works linked to University of California, Berkeley itself): 500,772 → 508,609 (+1.6%).
+- **Counting its units and predecessors** (the `lineage` filter): 519,789 → 518,579 (−0.2%).
 - **Why:** most of the strings it lost now have no institution (58% of lost works); most of the strings it gained were assigned to other institutions before (52% of gained works), mostly Lawrence Berkeley National Laboratory, Museum of Vertebrate Zoology.
 
 ## Were the changes right?
 
 Not sampled: its works changed by less than 2%, so we did not judge a sample.
 
-**3,238 strings lost University of California, Berkeley** ([removed.csv](removed.csv)), on 8,291 works; **15,258 strings gained it** ([added.csv.gz](added.csv.gz)), on 24,067 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
+**3,238 strings lost University of California, Berkeley** ([removed.csv](removed.csv)), on 8,291 works; **15,263 strings gained it** ([added.csv.gz](added.csv.gz)), on 24,070 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
 
 ## Where the lost strings went
 

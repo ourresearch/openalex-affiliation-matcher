@@ -1,11 +1,11 @@
 # Colorado State University
 
-[OpenAlex I92446798](https://openalex.org/institutions/I92446798) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I92446798](https://openalex.org/institutions/I92446798) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to Colorado State University itself): 132,837 → 133,329 (+0.4%).
-- **Counting its units and predecessors** (the `lineage` filter): 133,175 → 134,068 (+0.7%).
+- **`works_count`** (works linked to Colorado State University itself): 132,992 → 133,484 (+0.4%).
+- **Counting its units and predecessors** (the `lineage` filter): 133,330 → 134,223 (+0.7%).
 - **Why:** most of the strings it lost now have no institution (56% of lost works); most of the strings it gained had no institution before (58% of gained works).
 
 ## Were the changes right?

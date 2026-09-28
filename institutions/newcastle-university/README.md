@@ -1,20 +1,18 @@
 # Newcastle University
 
-[OpenAlex I84884186](https://openalex.org/institutions/I84884186) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I84884186](https://openalex.org/institutions/I84884186) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to Newcastle University itself): 158,374 → 164,677 (+4.0%).
-- **Counting its units and predecessors** (the `lineage` filter): 159,678 → 165,500 (+3.6%).
+- **`works_count`** (works linked to Newcastle University itself): 158,386 → 164,690 (+4.0%).
+- **Counting its units and predecessors** (the `lineage` filter): 159,691 → 165,514 (+3.6%).
 - **Why:** most of the strings it lost now go to other institutions (52% of lost works), mostly University of Newcastle Australia, Durham University; most of the strings it gained were assigned to other institutions before (54% of gained works), mostly University of Newcastle Australia, Newcastle Dental Hospital.
 
 ## Were the changes right?
 
-We had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Newcastle University at all, about **56% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **84% do name it** or one of its units.
+Before the switch, we had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Newcastle University at all, about **56% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **84% do name it** or one of its units.
 
-Net, the works that really are Newcastle University's (counting its units) went up by about 3.5%.
-
-**1,335 strings lost Newcastle University** ([removed.csv](removed.csv)), on 1,810 works; **8,172 strings gained it** ([added.csv.gz](added.csv.gz)), on 12,579 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
+**1,335 strings lost Newcastle University** ([removed.csv](removed.csv)), on 1,810 works; **8,175 strings gained it** ([added.csv.gz](added.csv.gz)), on 12,582 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
 
 ## Where the lost strings went
 
@@ -27,7 +25,7 @@ Net, the works that really are Newcastle University's (counting its units) went 
 
 | | Share of works |
 |---|---:|
-| From no institution | 44% |
+| From no institution | 43% |
 | Up from one of its units or predecessors | 3% |
 | From other institutions (mostly University of Newcastle Australia, Newcastle Dental Hospital, Universities UK) | 54% |
 

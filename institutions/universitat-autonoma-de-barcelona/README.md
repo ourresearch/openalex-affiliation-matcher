@@ -1,18 +1,18 @@
 # Universitat Autònoma de Barcelona
 
-[OpenAlex I123044942](https://openalex.org/institutions/I123044942) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I123044942](https://openalex.org/institutions/I123044942) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to Universitat Autònoma de Barcelona itself): 181,004 → 182,435 (+0.8%).
-- **Counting its units and predecessors** (the `lineage` filter): 185,623 → 186,964 (+0.7%).
+- **`works_count`** (works linked to Universitat Autònoma de Barcelona itself): 181,305 → 182,739 (+0.8%).
+- **Counting its units and predecessors** (the `lineage` filter): 185,926 → 187,269 (+0.7%).
 - **Why:** most of the strings it lost now go to other institutions (64% of lost works), mostly Consejo Superior de Investigaciones Científicas, Hospital de Sant Pau; most of the strings it gained were assigned to other institutions before (51% of gained works), mostly Centre de Recerca Matemàtica, Centre for Research on Ecology and Forestry Applications.
 
 ## Were the changes right?
 
 Not sampled: its works changed by less than 2%, so we did not judge a sample.
 
-**2,692 strings lost Universitat Autònoma de Barcelona** ([removed.csv](removed.csv)), on 3,507 works; **4,380 strings gained it** ([added.csv](added.csv)), on 5,967 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
+**2,692 strings lost Universitat Autònoma de Barcelona** ([removed.csv](removed.csv)), on 3,507 works; **4,393 strings gained it** ([added.csv](added.csv)), on 5,976 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
 
 ## Where the lost strings went
 

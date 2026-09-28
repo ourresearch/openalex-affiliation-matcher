@@ -1,18 +1,18 @@
 # Georgia Institute of Technology
 
-[OpenAlex I130701444](https://openalex.org/institutions/I130701444) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I130701444](https://openalex.org/institutions/I130701444) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to Georgia Institute of Technology itself): 205,429 → 205,811 (+0.2%).
-- **Counting its units and predecessors** (the `lineage` filter): 207,420 → 208,642 (+0.6%).
+- **`works_count`** (works linked to Georgia Institute of Technology itself): 205,477 → 205,862 (+0.2%).
+- **Counting its units and predecessors** (the `lineage` filter): 207,468 → 208,692 (+0.6%).
 - **Why:** most of the strings it lost now go to one of its units or predecessors, which still count for it through `lineage` (86% of lost works); the largest share of the strings it gained moved up from one of its units (42% of gained works).
 
 ## Were the changes right?
 
 We did not judge a sample of the changes for Georgia Institute of Technology.
 
-**1,570 strings lost Georgia Institute of Technology** ([removed.csv](removed.csv)), on 4,040 works; **6,211 strings gained it** ([added.csv.gz](added.csv.gz)), on 7,918 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
+**1,570 strings lost Georgia Institute of Technology** ([removed.csv](removed.csv)), on 4,040 works; **6,220 strings gained it** ([added.csv.gz](added.csv.gz)), on 7,921 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
 
 ## Where the lost strings went
 

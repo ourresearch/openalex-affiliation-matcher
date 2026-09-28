@@ -1,20 +1,18 @@
 # École Polytechnique Fédérale de Lausanne
 
-[OpenAlex I5124864](https://openalex.org/institutions/I5124864) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I5124864](https://openalex.org/institutions/I5124864) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to École Polytechnique Fédérale de Lausanne itself): 179,090 → 160,521 (−10.4%).
-- **Counting its units and predecessors** (the `lineage` filter): 180,884 → 161,551 (−10.7%).
+- **`works_count`** (works linked to École Polytechnique Fédérale de Lausanne itself): 179,126 → 160,557 (−10.4%).
+- **Counting its units and predecessors** (the `lineage` filter): 180,921 → 161,587 (−10.7%).
 - **Why:** most of the strings it lost now go to other institutions (95% of lost works), mostly ETH Zurich, Laboratory of Physical Chemistry; most of the strings it gained were assigned to other institutions before (56% of gained works), mostly École Normale Supérieure - PSL, École Polytechnique.
 
 ## Were the changes right?
 
-We had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for École Polytechnique Fédérale de Lausanne at all, about **96% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **90% do name it** or one of its units.
+Before the switch, we had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for École Polytechnique Fédérale de Lausanne at all, about **96% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **90% do name it** or one of its units.
 
-Net, the works that really are École Polytechnique Fédérale de Lausanne's (counting its units) went up by about 0.3%.
-
-**17,059 strings lost École Polytechnique Fédérale de Lausanne** ([removed.csv.gz](removed.csv.gz)), on 26,058 works; **2,391 strings gained it** ([added.csv](added.csv)), on 3,306 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
+**17,061 strings lost École Polytechnique Fédérale de Lausanne** ([removed.csv.gz](removed.csv.gz)), on 26,059 works; **2,394 strings gained it** ([added.csv](added.csv)), on 3,308 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
 
 ## Where the lost strings went
 

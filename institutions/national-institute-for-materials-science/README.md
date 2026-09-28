@@ -1,11 +1,11 @@
 # National Institute for Materials Science
 
-[OpenAlex I205401836](https://openalex.org/institutions/I205401836) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I205401836](https://openalex.org/institutions/I205401836) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to National Institute for Materials Science itself): 80,621 → 81,604 (+1.2%).
-- **Counting its units and predecessors** (the `lineage` filter): 80,629 → 81,626 (+1.2%).
+- **`works_count`** (works linked to National Institute for Materials Science itself): 80,624 → 81,607 (+1.2%).
+- **Counting its units and predecessors** (the `lineage` filter): 80,632 → 81,629 (+1.2%).
 - **Why:** most of the strings it lost now have no institution (92% of lost works); most of the strings it gained had no institution before (74% of gained works).
 
 ## Were the changes right?

@@ -1,20 +1,18 @@
 # University of Groningen
 
-[OpenAlex I169381384](https://openalex.org/institutions/I169381384) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I169381384](https://openalex.org/institutions/I169381384) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to University of Groningen itself): 194,412 → 205,566 (+5.7%).
-- **Counting its units and predecessors** (the `lineage` filter): 197,566 → 209,114 (+5.8%).
+- **`works_count`** (works linked to University of Groningen itself): 194,428 → 205,586 (+5.7%).
+- **Counting its units and predecessors** (the `lineage` filter): 197,582 → 209,135 (+5.8%).
 - **Why:** most of the strings it lost now go to other institutions (85% of lost works), mostly University Medical Center Groningen, Beatrix Kinderziekenhuis; most of the strings it gained had no institution before (59% of gained works).
 
 ## Were the changes right?
 
-We had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for University of Groningen at all, about **95% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **72% do name it** or one of its units.
+Before the switch, we had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for University of Groningen at all, about **95% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **72% do name it** or one of its units.
 
-Net, the works that really are University of Groningen's (counting its units) went up by about 5.9%.
-
-**5,875 strings lost University of Groningen** ([removed.csv](removed.csv)), on 9,593 works; **9,172 strings gained it** ([added.csv.gz](added.csv.gz)), on 21,950 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
+**5,876 strings lost University of Groningen** ([removed.csv](removed.csv)), on 9,593 works; **9,187 strings gained it** ([added.csv.gz](added.csv.gz)), on 21,961 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
 
 ## Where the lost strings went
 

@@ -1,20 +1,18 @@
 # Inserm
 
-[OpenAlex I154526488](https://openalex.org/institutions/I154526488) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I154526488](https://openalex.org/institutions/I154526488) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to Inserm itself): 507,629 → 509,899 (+0.4%).
-- **Counting its units and predecessors** (the `lineage` filter): 823,805 → 649,960 (−21.1%).
+- **`works_count`** (works linked to Inserm itself): 507,649 → 509,920 (+0.4%).
+- **Counting its units and predecessors** (the `lineage` filter): 823,846 → 651,174 (−21.0%).
 - **Why:** most of the strings it lost now go to one of its units or predecessors, which still count for it through `lineage` (80% of lost works); the largest share of the strings it gained moved up from one of its units (41% of gained works).
 
 ## Were the changes right?
 
-We had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Inserm at all, about **98% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **47% do name it** or one of its units.
+Before the switch, we had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Inserm at all, about **98% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **47% do name it** or one of its units.
 
-Net, the works that really are Inserm's (counting its units) went up by about 1.0%.
-
-**11,593 strings lost Inserm** ([removed.csv.gz](removed.csv.gz)), on 14,549 works; **18,472 strings gained it** ([added.csv.gz](added.csv.gz)), on 20,074 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
+**11,600 strings lost Inserm** ([removed.csv.gz](removed.csv.gz)), on 14,552 works; **18,480 strings gained it** ([added.csv.gz](added.csv.gz)), on 20,078 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
 
 ## Where the lost strings went
 
@@ -22,7 +20,7 @@ Net, the works that really are Inserm's (counting its units) went up by about 1.
 |---|---:|
 | To one of its units or predecessors (still counts through `lineage`) | 80% |
 | To other institutions (mostly Centre National de la Recherche Scientifique, Assistance Publique – Hôpitaux de Paris, German Cancer Research Center) | 17% |
-| To no institution | 4% |
+| To no institution | 3% |
 
 ## Where the gained strings came from
 

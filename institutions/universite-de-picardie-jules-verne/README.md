@@ -1,20 +1,18 @@
 # Université de Picardie Jules Verne
 
-[OpenAlex I4647051](https://openalex.org/institutions/I4647051) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I4647051](https://openalex.org/institutions/I4647051) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to Université de Picardie Jules Verne itself): 35,654 → 37,022 (+3.8%).
-- **Counting its units and predecessors** (the `lineage` filter): 45,606 → 43,036 (−5.6%).
+- **`works_count`** (works linked to Université de Picardie Jules Verne itself): 35,656 → 37,024 (+3.8%).
+- **Counting its units and predecessors** (the `lineage` filter): 45,608 → 43,040 (−5.6%).
 - **Why:** most of the strings it lost now go to one of its units or predecessors, which still count for it through `lineage` (66% of lost works); the largest share of the strings it gained were assigned to other institutions before (41% of gained works), mostly Centre Hospitalier Universitaire Amiens-Picardie, Inserm.
 
 ## Were the changes right?
 
-We had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Université de Picardie Jules Verne at all, about **94% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **72% do name it** or one of its units.
+Before the switch, we had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Université de Picardie Jules Verne at all, about **94% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **72% do name it** or one of its units.
 
-Net, the works that really are Université de Picardie Jules Verne's (counting its units) went up by about 3.5%.
-
-**305 strings lost Université de Picardie Jules Verne** ([removed.csv](removed.csv)), on 469 works; **2,326 strings gained it** ([added.csv](added.csv)), on 3,017 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
+**305 strings lost Université de Picardie Jules Verne** ([removed.csv](removed.csv)), on 469 works; **2,327 strings gained it** ([added.csv](added.csv)), on 3,017 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
 
 ## Where the lost strings went
 

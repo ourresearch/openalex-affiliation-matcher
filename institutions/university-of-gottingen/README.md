@@ -1,20 +1,18 @@
 # University of Göttingen
 
-[OpenAlex I74656192](https://openalex.org/institutions/I74656192) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I74656192](https://openalex.org/institutions/I74656192) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to University of Göttingen itself): 174,893 → 205,841 (+17.7%).
-- **Counting its units and predecessors** (the `lineage` filter): 178,223 → 209,496 (+17.5%).
+- **`works_count`** (works linked to University of Göttingen itself): 174,915 → 205,865 (+17.7%).
+- **Counting its units and predecessors** (the `lineage` filter): 178,246 → 209,520 (+17.5%).
 - **Why:** most of the strings it lost now go to other institutions (78% of lost works), mostly Universitätsmedizin Göttingen, German Centre for Cardiovascular Research; most of the strings it gained were assigned to other institutions before (64% of gained works), mostly Universitätsmedizin Göttingen, Max Planck Institute of Experimental Medicine.
 
 ## Were the changes right?
 
-We had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for University of Göttingen at all, about **94% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **53% do name it** or one of its units.
+Before the switch, we had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for University of Göttingen at all, about **94% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **53% do name it** or one of its units.
 
-Net, the works that really are University of Göttingen's (counting its units) went up by about 9.9%.
-
-**1,224 strings lost University of Göttingen** ([removed.csv](removed.csv)), on 3,251 works; **32,135 strings gained it** ([added.csv.gz](added.csv.gz)), on 55,768 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
+**1,225 strings lost University of Göttingen** ([removed.csv](removed.csv)), on 3,252 works; **32,140 strings gained it** ([added.csv.gz](added.csv.gz)), on 55,770 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
 
 ## Where the lost strings went
 

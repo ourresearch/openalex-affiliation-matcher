@@ -1,18 +1,16 @@
 # Ministère de l'Enseignement Supérieur, de la Recherche et de l'Espace
 
-[OpenAlex I4210131494](https://openalex.org/institutions/I4210131494) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I4210131494](https://openalex.org/institutions/I4210131494) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to Ministère de l'Enseignement Supérieur, de la Recherche et de l'Espace itself): 2,289 → 1,943 (−15.1%).
-- **Counting its units and predecessors** (the `lineage` filter): 331,380 → 339,136 (+2.3%).
+- **`works_count`** (works linked to Ministère de l'Enseignement Supérieur, de la Recherche et de l'Espace itself): 2,291 → 1,943 (−15.2%).
+- **Counting its units and predecessors** (the `lineage` filter): 331,391 → 339,504 (+2.4%).
 - **Why:** most of the strings it lost now go to other institutions (74% of lost works), mostly Ministere de l'Education Nationale, Ministry of Higher Education; most of the strings it gained were assigned to other institutions before (64% of gained works), mostly Institut Universitaire de France, Ministere de l'Education Nationale.
 
 ## Were the changes right?
 
-We had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Ministère de l'Enseignement Supérieur, de la Recherche et de l'Espace at all, about **73% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **61% do name it** or one of its units.
-
-Net, the works that really are Ministère de l'Enseignement Supérieur, de la Recherche et de l'Espace's (counting its units) went up by about 5.6%.
+Before the switch, we had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Ministère de l'Enseignement Supérieur, de la Recherche et de l'Espace at all, about **73% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **61% do name it** or one of its units.
 
 **284 strings lost Ministère de l'Enseignement Supérieur, de la Recherche et de l'Espace** ([removed.csv](removed.csv)), on 843 works; **53 strings gained it** ([added.csv](added.csv)), on 66 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
 
@@ -22,7 +20,7 @@ Net, the works that really are Ministère de l'Enseignement Supérieur, de la Re
 |---|---:|
 | To one of its units or predecessors (still counts through `lineage`) | 0% |
 | To other institutions (mostly Ministere de l'Education Nationale, Ministry of Higher Education, Centre National de la Recherche Scientifique) | 74% |
-| To no institution | 26% |
+| To no institution | 25% |
 
 ## Where the gained strings came from
 

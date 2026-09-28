@@ -1,18 +1,18 @@
 # Virginia Tech
 
-[OpenAlex I859038795](https://openalex.org/institutions/I859038795) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I859038795](https://openalex.org/institutions/I859038795) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to Virginia Tech itself): 178,089 → 180,770 (+1.5%).
-- **Counting its units and predecessors** (the `lineage` filter): 184,295 → 185,164 (+0.5%).
+- **`works_count`** (works linked to Virginia Tech itself): 178,105 → 180,790 (+1.5%).
+- **Counting its units and predecessors** (the `lineage` filter): 184,311 → 185,183 (+0.5%).
 - **Why:** most of the strings it lost now go to one of its units or predecessors, which still count for it through `lineage` (59% of lost works); most of the strings it gained moved up from one of its units (55% of gained works).
 
 ## Were the changes right?
 
 Not sampled: its works changed by less than 2%, so we did not judge a sample.
 
-**960 strings lost Virginia Tech** ([removed.csv](removed.csv)), on 2,245 works; **7,150 strings gained it** ([added.csv.gz](added.csv.gz)), on 9,726 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
+**960 strings lost Virginia Tech** ([removed.csv](removed.csv)), on 2,245 works; **7,155 strings gained it** ([added.csv.gz](added.csv.gz)), on 9,731 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
 
 ## Where the lost strings went
 

@@ -1,20 +1,18 @@
 # Boston University
 
-[OpenAlex I111088046](https://openalex.org/institutions/I111088046) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I111088046](https://openalex.org/institutions/I111088046) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to Boston University itself): 247,842 → 235,265 (−5.1%).
-- **Counting its units and predecessors** (the `lineage` filter): 248,868 → 236,201 (−5.1%).
+- **`works_count`** (works linked to Boston University itself): 247,864 → 235,289 (−5.1%).
+- **Counting its units and predecessors** (the `lineage` filter): 248,890 → 236,225 (−5.1%).
 - **Why:** most of the strings it lost now go to other institutions (87% of lost works), mostly Harvard University, University of Massachusetts Boston; most of the strings it gained had no institution before (67% of gained works).
 
 ## Were the changes right?
 
-We had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Boston University at all, about **96% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **96% do name it** or one of its units.
+Before the switch, we had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Boston University at all, about **96% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **96% do name it** or one of its units.
 
-Net, the works that really are Boston University's (counting its units) went up by about 1.5%.
-
-**11,886 strings lost Boston University** ([removed.csv.gz](removed.csv.gz)), on 20,738 works; **3,618 strings gained it** ([added.csv](added.csv)), on 8,597 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
+**11,886 strings lost Boston University** ([removed.csv.gz](removed.csv.gz)), on 20,738 works; **3,627 strings gained it** ([added.csv](added.csv)), on 8,603 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
 
 ## Where the lost strings went
 

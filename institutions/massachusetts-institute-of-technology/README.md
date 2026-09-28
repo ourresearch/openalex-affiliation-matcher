@@ -1,20 +1,18 @@
 # Massachusetts Institute of Technology
 
-[OpenAlex I63966007](https://openalex.org/institutions/I63966007) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I63966007](https://openalex.org/institutions/I63966007) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to Massachusetts Institute of Technology itself): 405,885 → 439,603 (+8.3%).
-- **Counting its units and predecessors** (the `lineage` filter): 431,638 → 460,514 (+6.7%).
+- **`works_count`** (works linked to Massachusetts Institute of Technology itself): 405,944 → 439,668 (+8.3%).
+- **Counting its units and predecessors** (the `lineage` filter): 431,707 → 460,589 (+6.7%).
 - **Why:** the largest share of the strings it lost now go to one of its units or predecessors, which still count for it through `lineage` (43% of lost works); most of the strings it gained were assigned to other institutions before (64% of gained works), mostly Moscow Institute of Thermal Technology, Broad Institute.
 
 ## Were the changes right?
 
-We had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Massachusetts Institute of Technology at all, about **77% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **70% do name it** or one of its units.
+Before the switch, we had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Massachusetts Institute of Technology at all, about **77% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **70% do name it** or one of its units.
 
-Net, the works that really are Massachusetts Institute of Technology's (counting its units) went up by about 5.4%.
-
-**2,988 strings lost Massachusetts Institute of Technology** ([removed.csv](removed.csv)), on 9,720 works; **24,932 strings gained it** ([added.csv.gz](added.csv.gz)), on 60,179 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
+**2,988 strings lost Massachusetts Institute of Technology** ([removed.csv](removed.csv)), on 9,720 works; **24,939 strings gained it** ([added.csv.gz](added.csv.gz)), on 60,183 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
 
 ## Where the lost strings went
 

@@ -1,18 +1,16 @@
 # University Hospitals Sussex NHS Foundation Trust
 
-[OpenAlex I4210151332](https://openalex.org/institutions/I4210151332) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I4210151332](https://openalex.org/institutions/I4210151332) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
 - **`works_count`** (works linked to University Hospitals Sussex NHS Foundation Trust itself): 7,651 → 4,822 (−37.0%).
-- **Counting its units and predecessors** (the `lineage` filter): 14,555 → 13,051 (−10.3%).
+- **Counting its units and predecessors** (the `lineage` filter): 14,556 → 13,053 (−10.3%).
 - **Why:** most of the strings it lost now go to one of its units or predecessors, which still count for it through `lineage` (92% of lost works); the largest share of the strings it gained moved up from one of its units (47% of gained works).
 
 ## Were the changes right?
 
-We had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for University Hospitals Sussex NHS Foundation Trust at all, about **76% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **98% do name it** or one of its units.
-
-Net, the works that really are University Hospitals Sussex NHS Foundation Trust's (counting its units) went up by about 1.8%.
+Before the switch, we had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for University Hospitals Sussex NHS Foundation Trust at all, about **76% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **98% do name it** or one of its units.
 
 **2,275 strings lost University Hospitals Sussex NHS Foundation Trust** ([removed.csv](removed.csv)), on 4,097 works; **226 strings gained it** ([added.csv](added.csv)), on 270 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
 

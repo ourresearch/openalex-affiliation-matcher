@@ -1,27 +1,25 @@
 # Université Grenoble Alpes
 
-[OpenAlex I899635006](https://openalex.org/institutions/I899635006) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I899635006](https://openalex.org/institutions/I899635006) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to Université Grenoble Alpes itself): 189,182 → 127,777 (−32.5%).
-- **Counting its units and predecessors** (the `lineage` filter): 372,964 → 337,562 (−9.5%).
-- **Why:** most of the strings it lost now go to one of its units or predecessors, which still count for it through `lineage` (72% of lost works); the largest share of the strings it gained had no institution before (47% of gained works).
+- **`works_count`** (works linked to Université Grenoble Alpes itself): 189,214 → 127,789 (−32.5%).
+- **Counting its units and predecessors** (the `lineage` filter): 372,992 → 340,397 (−8.7%).
+- **Why:** most of the strings it lost now go to one of its units or predecessors, which still count for it through `lineage` (74% of lost works); the largest share of the strings it gained had no institution before (47% of gained works).
 
 ## Were the changes right?
 
-We had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Université Grenoble Alpes at all, about **66% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **52% do name it** or one of its units.
+Before the switch, we had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Université Grenoble Alpes at all, about **66% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **52% do name it** or one of its units.
 
-Net, the works that really are Université Grenoble Alpes's (counting its units) went down by about 2.3%.
-
-**55,738 strings lost Université Grenoble Alpes** ([removed.csv.gz](removed.csv.gz)), on 95,696 works; **1,921 strings gained it** ([added.csv](added.csv)), on 4,006 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
+**55,745 strings lost Université Grenoble Alpes** ([removed.csv.gz](removed.csv.gz)), on 95,702 works; **1,921 strings gained it** ([added.csv](added.csv)), on 4,006 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
 
 ## Where the lost strings went
 
 | | Share of works |
 |---|---:|
-| To one of its units or predecessors (still counts through `lineage`) | 72% |
-| To other institutions (mostly Centre Hospitalier Universitaire de Grenoble, Commissariat à l'Énergie Atomique et aux Énergies Alternatives, Laboratoire d'Électronique des Technologies de l'Information) | 25% |
+| To one of its units or predecessors (still counts through `lineage`) | 74% |
+| To other institutions (mostly Centre Hospitalier Universitaire de Grenoble, Commissariat à l'Énergie Atomique et aux Énergies Alternatives, Laboratoire d'Électronique des Technologies de l'Information) | 24% |
 | To no institution | 2% |
 
 ## Where the gained strings came from

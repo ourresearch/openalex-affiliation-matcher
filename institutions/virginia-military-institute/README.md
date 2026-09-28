@@ -1,6 +1,6 @@
 # Virginia Military Institute
 
-[OpenAlex I185641255](https://openalex.org/institutions/I185641255) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I185641255](https://openalex.org/institutions/I185641255) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 

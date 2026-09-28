@@ -1,27 +1,25 @@
 # University of Manchester
 
-[OpenAlex I28407311](https://openalex.org/institutions/I28407311) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I28407311](https://openalex.org/institutions/I28407311) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to University of Manchester itself): 336,440 → 351,275 (+4.4%).
-- **Counting its units and predecessors** (the `lineage` filter): 343,626 → 357,301 (+4.0%).
-- **Why:** most of the strings it lost now go to other institutions (52% of lost works), mostly Manchester Academic Health Science Centre, Manchester University NHS Foundation Trust; the largest share of the strings it gained had no institution before (49% of gained works).
+- **`works_count`** (works linked to University of Manchester itself): 336,466 → 351,309 (+4.4%).
+- **Counting its units and predecessors** (the `lineage` filter): 343,652 → 357,335 (+4.0%).
+- **Why:** most of the strings it lost now go to other institutions (53% of lost works), mostly Manchester Academic Health Science Centre, Manchester University NHS Foundation Trust; the largest share of the strings it gained had no institution before (49% of gained works).
 
 ## Were the changes right?
 
-We had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for University of Manchester at all, about **85% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **91% do name it** or one of its units.
+Before the switch, we had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for University of Manchester at all, about **85% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **91% do name it** or one of its units.
 
-Net, the works that really are University of Manchester's (counting its units) went up by about 4.2%.
-
-**3,061 strings lost University of Manchester** ([removed.csv](removed.csv)), on 4,978 works; **14,716 strings gained it** ([added.csv.gz](added.csv.gz)), on 27,018 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
+**3,060 strings lost University of Manchester** ([removed.csv](removed.csv)), on 4,977 works; **14,730 strings gained it** ([added.csv.gz](added.csv.gz)), on 27,029 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
 
 ## Where the lost strings went
 
 | | Share of works |
 |---|---:|
 | To one of its units or predecessors (still counts through `lineage`) | 0% |
-| To other institutions (mostly Manchester Academic Health Science Centre, Manchester University NHS Foundation Trust, Wythenshawe Hospital) | 52% |
+| To other institutions (mostly Manchester Academic Health Science Centre, Manchester University NHS Foundation Trust, Wythenshawe Hospital) | 53% |
 | To no institution | 47% |
 
 ## Where the gained strings came from
@@ -30,7 +28,7 @@ Net, the works that really are University of Manchester's (counting its units) w
 |---|---:|
 | From no institution | 49% |
 | Up from one of its units or predecessors | 13% |
-| From other institutions (mostly Manchester University NHS Foundation Trust, Manchester University, Manchester Academic Health Science Centre) | 38% |
+| From other institutions (mostly Manchester University NHS Foundation Trust, Manchester University, Manchester Academic Health Science Centre) | 39% |
 
 ## Biggest losses
 

@@ -1,27 +1,25 @@
 # Université de Lorraine
 
-[OpenAlex I90183372](https://openalex.org/institutions/I90183372) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I90183372](https://openalex.org/institutions/I90183372) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to Université de Lorraine itself): 177,759 → 150,620 (−15.3%).
-- **Counting its units and predecessors** (the `lineage` filter): 235,961 → 243,136 (+3.0%).
+- **`works_count`** (works linked to Université de Lorraine itself): 177,766 → 150,626 (−15.3%).
+- **Counting its units and predecessors** (the `lineage` filter): 235,967 → 243,185 (+3.1%).
 - **Why:** most of the strings it lost now go to one of its units or predecessors, which still count for it through `lineage` (85% of lost works); the largest share of the strings it gained had no institution before (41% of gained works).
 
 ## Were the changes right?
 
-We had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Université de Lorraine at all, about **30% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **97% do name it** or one of its units.
+Before the switch, we had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Université de Lorraine at all, about **30% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **97% do name it** or one of its units.
 
-Net, the works that really are Université de Lorraine's (counting its units) went up by about 3.8%.
-
-**22,174 strings lost Université de Lorraine** ([removed.csv.gz](removed.csv.gz)), on 40,788 works; **5,095 strings gained it** ([added.csv.gz](added.csv.gz)), on 6,324 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
+**22,174 strings lost Université de Lorraine** ([removed.csv.gz](removed.csv.gz)), on 40,788 works; **5,100 strings gained it** ([added.csv.gz](added.csv.gz)), on 6,327 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
 
 ## Where the lost strings went
 
 | | Share of works |
 |---|---:|
 | To one of its units or predecessors (still counts through `lineage`) | 85% |
-| To other institutions (mostly Centre National de la Recherche Scientifique, École Nationale Supérieure des Mines de Nancy, Centre Hospitalier Régional et Universitaire de Nancy) | 9% |
+| To other institutions (mostly Centre National de la Recherche Scientifique, École Nationale Supérieure des Mines de Nancy, Centre Hospitalier Régional et Universitaire de Nancy) | 10% |
 | To no institution | 5% |
 
 ## Where the gained strings came from

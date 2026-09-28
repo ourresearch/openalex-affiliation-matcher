@@ -1,18 +1,18 @@
 # University of California, Santa Barbara
 
-[OpenAlex I154570441](https://openalex.org/institutions/I154570441) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I154570441](https://openalex.org/institutions/I154570441) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to University of California, Santa Barbara itself): 148,253 → 149,027 (+0.5%).
-- **Counting its units and predecessors** (the `lineage` filter): 156,564 → 157,145 (+0.4%).
+- **`works_count`** (works linked to University of California, Santa Barbara itself): 148,277 → 149,052 (+0.5%).
+- **Counting its units and predecessors** (the `lineage` filter): 156,588 → 157,177 (+0.4%).
 - **Why:** most of the strings it lost now have no institution (56% of lost works); the largest share of the strings it gained had no institution before (40% of gained works).
 
 ## Were the changes right?
 
 Not sampled: its works changed by less than 2%, so we did not judge a sample.
 
-**716 strings lost University of California, Santa Barbara** ([removed.csv](removed.csv)), on 872 works; **1,716 strings gained it** ([added.csv](added.csv)), on 2,425 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
+**716 strings lost University of California, Santa Barbara** ([removed.csv](removed.csv)), on 872 works; **1,720 strings gained it** ([added.csv](added.csv)), on 2,428 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
 
 ## Where the lost strings went
 

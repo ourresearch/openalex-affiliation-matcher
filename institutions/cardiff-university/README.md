@@ -1,20 +1,18 @@
 # Cardiff University
 
-[OpenAlex I79510175](https://openalex.org/institutions/I79510175) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I79510175](https://openalex.org/institutions/I79510175) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to Cardiff University itself): 134,377 → 140,467 (+4.5%).
-- **Counting its units and predecessors** (the `lineage` filter): 134,389 → 140,512 (+4.6%).
+- **`works_count`** (works linked to Cardiff University itself): 134,385 → 140,476 (+4.5%).
+- **Counting its units and predecessors** (the `lineage` filter): 134,397 → 140,521 (+4.6%).
 - **Why:** most of the strings it lost now have no institution (70% of lost works); most of the strings it gained were assigned to other institutions before (54% of gained works), mostly University of Wales, Welsh Government.
 
 ## Were the changes right?
 
-We had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Cardiff University at all, about **63% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **98% do name it** or one of its units.
+Before the switch, we had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Cardiff University at all, about **63% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **98% do name it** or one of its units.
 
-Net, the works that really are Cardiff University's (counting its units) went up by about 6.7%.
-
-**3,660 strings lost Cardiff University** ([removed.csv](removed.csv)), on 6,727 works; **6,921 strings gained it** ([added.csv](added.csv)), on 14,799 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
+**3,660 strings lost Cardiff University** ([removed.csv](removed.csv)), on 6,727 works; **6,925 strings gained it** ([added.csv](added.csv)), on 14,802 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
 
 ## Where the lost strings went
 

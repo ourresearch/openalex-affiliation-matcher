@@ -1,18 +1,18 @@
 # North Carolina State University
 
-[OpenAlex I137902535](https://openalex.org/institutions/I137902535) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I137902535](https://openalex.org/institutions/I137902535) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to North Carolina State University itself): 192,443 → 194,617 (+1.1%).
-- **Counting its units and predecessors** (the `lineage` filter): 221,650 → 223,898 (+1.0%).
+- **`works_count`** (works linked to North Carolina State University itself): 192,469 → 194,645 (+1.1%).
+- **Counting its units and predecessors** (the `lineage` filter): 221,679 → 223,931 (+1.0%).
 - **Why:** the largest share of the strings it lost now have no institution (49% of lost works); most of the strings it gained were assigned to other institutions before (57% of gained works), mostly Norfolk State University, North Central State College.
 
 ## Were the changes right?
 
 Not sampled: its works changed by less than 2%, so we did not judge a sample.
 
-**647 strings lost North Carolina State University** ([removed.csv](removed.csv)), on 822 works; **3,233 strings gained it** ([added.csv](added.csv)), on 4,833 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
+**646 strings lost North Carolina State University** ([removed.csv](removed.csv)), on 821 works; **3,235 strings gained it** ([added.csv](added.csv)), on 4,834 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
 
 ## Where the lost strings went
 

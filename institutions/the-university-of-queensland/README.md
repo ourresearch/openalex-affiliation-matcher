@@ -1,18 +1,18 @@
 # The University of Queensland
 
-[OpenAlex I165143802](https://openalex.org/institutions/I165143802) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I165143802](https://openalex.org/institutions/I165143802) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to The University of Queensland itself): 293,181 → 294,678 (+0.5%).
-- **Counting its units and predecessors** (the `lineage` filter): 298,750 → 297,289 (−0.5%).
-- **Why:** most of the strings it lost now go to other institutions (71% of lost works), mostly Queensland University of Technology, Ochsner Medical Center; most of the strings it gained had no institution before (53% of gained works).
+- **`works_count`** (works linked to The University of Queensland itself): 293,273 → 294,777 (+0.5%).
+- **Counting its units and predecessors** (the `lineage` filter): 298,842 → 297,388 (−0.5%).
+- **Why:** most of the strings it lost now go to other institutions (71% of lost works), mostly Queensland University of Technology, Ochsner Medical Center; most of the strings it gained had no institution before (52% of gained works).
 
 ## Were the changes right?
 
 Not sampled: its works changed by less than 2%, so we did not judge a sample.
 
-**1,361 strings lost The University of Queensland** ([removed.csv](removed.csv)), on 1,559 works; **4,288 strings gained it** ([added.csv](added.csv)), on 5,705 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
+**1,361 strings lost The University of Queensland** ([removed.csv](removed.csv)), on 1,559 works; **4,304 strings gained it** ([added.csv](added.csv)), on 5,715 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
 
 ## Where the lost strings went
 
@@ -26,7 +26,7 @@ Not sampled: its works changed by less than 2%, so we did not judge a sample.
 
 | | Share of works |
 |---|---:|
-| From no institution | 53% |
+| From no institution | 52% |
 | Up from one of its units or predecessors | 6% |
 | From other institutions (mostly Ochsner Medical Center, Indian Institute of Technology Delhi, Royal Brisbane and Women's Hospital) | 41% |
 

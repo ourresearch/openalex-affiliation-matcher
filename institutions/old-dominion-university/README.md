@@ -1,11 +1,11 @@
 # Old Dominion University
 
-[OpenAlex I81365321](https://openalex.org/institutions/I81365321) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I81365321](https://openalex.org/institutions/I81365321) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to Old Dominion University itself): 50,133 → 50,702 (+1.1%).
-- **Counting its units and predecessors** (the `lineage` filter): 50,142 → 50,711 (+1.1%).
+- **`works_count`** (works linked to Old Dominion University itself): 50,137 → 50,706 (+1.1%).
+- **Counting its units and predecessors** (the `lineage` filter): 50,146 → 50,715 (+1.1%).
 - **Why:** most of the strings it lost now have no institution (66% of lost works); most of the strings it gained had no institution before (81% of gained works).
 
 ## Were the changes right?

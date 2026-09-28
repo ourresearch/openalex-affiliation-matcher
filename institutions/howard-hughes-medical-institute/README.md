@@ -1,18 +1,18 @@
 # Howard Hughes Medical Institute
 
-[OpenAlex I1344073410](https://openalex.org/institutions/I1344073410) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I1344073410](https://openalex.org/institutions/I1344073410) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to Howard Hughes Medical Institute itself): 112,282 → 110,685 (−1.4%).
-- **Counting its units and predecessors** (the `lineage` filter): 112,679 → 110,698 (−1.8%).
+- **`works_count`** (works linked to Howard Hughes Medical Institute itself): 112,303 → 110,707 (−1.4%).
+- **Counting its units and predecessors** (the `lineage` filter): 112,702 → 110,721 (−1.8%).
 - **Why:** most of the strings it lost now go to other institutions (94% of lost works), mostly Duke Medical Center, University of California, San Francisco; most of the strings it gained were assigned to other institutions before (60% of gained works), mostly University of Utah, Rockefeller University.
 
 ## Were the changes right?
 
 Not sampled: its works changed by less than 2%, so we did not judge a sample.
 
-**2,627 strings lost Howard Hughes Medical Institute** ([removed.csv](removed.csv)), on 3,844 works; **989 strings gained it** ([added.csv](added.csv)), on 1,131 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
+**2,627 strings lost Howard Hughes Medical Institute** ([removed.csv](removed.csv)), on 3,844 works; **996 strings gained it** ([added.csv](added.csv)), on 1,135 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
 
 ## Where the lost strings went
 

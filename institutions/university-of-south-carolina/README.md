@@ -1,18 +1,18 @@
 # University of South Carolina
 
-[OpenAlex I155781252](https://openalex.org/institutions/I155781252) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I155781252](https://openalex.org/institutions/I155781252) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to University of South Carolina itself): 111,547 → 112,382 (+0.7%).
-- **Counting its units and predecessors** (the `lineage` filter): 111,547 → 112,382 (+0.7%).
+- **`works_count`** (works linked to University of South Carolina itself): 111,557 → 112,394 (+0.8%).
+- **Counting its units and predecessors** (the `lineage` filter): 111,557 → 112,394 (+0.8%).
 - **Why:** most of the strings it lost now go to other institutions (76% of lost works), mostly Medical University of South Carolina, University of South Carolina Lancaster; most of the strings it gained had no institution before (62% of gained works).
 
 ## Were the changes right?
 
 Not sampled: its works changed by less than 2%, so we did not judge a sample.
 
-**586 strings lost University of South Carolina** ([removed.csv](removed.csv)), on 759 works; **1,286 strings gained it** ([added.csv](added.csv)), on 2,017 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
+**586 strings lost University of South Carolina** ([removed.csv](removed.csv)), on 759 works; **1,287 strings gained it** ([added.csv](added.csv)), on 2,018 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
 
 ## Where the lost strings went
 

@@ -1,18 +1,18 @@
 # University of Kentucky
 
-[OpenAlex I143302722](https://openalex.org/institutions/I143302722) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I143302722](https://openalex.org/institutions/I143302722) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to University of Kentucky itself): 173,509 → 175,813 (+1.3%).
-- **Counting its units and predecessors** (the `lineage` filter): 173,608 → 175,950 (+1.3%).
+- **`works_count`** (works linked to University of Kentucky itself): 173,529 → 175,833 (+1.3%).
+- **Counting its units and predecessors** (the `lineage` filter): 173,628 → 175,970 (+1.3%).
 - **Why:** most of the strings it lost now have no institution (71% of lost works); most of the strings it gained were assigned to other institutions before (57% of gained works), mostly Albert B. Chandler Hospital, University of Kentucky HealthCare.
 
 ## Were the changes right?
 
 Not sampled: its works changed by less than 2%, so we did not judge a sample.
 
-**537 strings lost University of Kentucky** ([removed.csv](removed.csv)), on 697 works; **4,267 strings gained it** ([added.csv](added.csv)), on 5,788 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
+**537 strings lost University of Kentucky** ([removed.csv](removed.csv)), on 697 works; **4,268 strings gained it** ([added.csv](added.csv)), on 5,789 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
 
 ## Where the lost strings went
 

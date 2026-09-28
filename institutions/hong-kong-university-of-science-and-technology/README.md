@@ -1,20 +1,18 @@
 # Hong Kong University of Science and Technology
 
-[OpenAlex I200769079](https://openalex.org/institutions/I200769079) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I200769079](https://openalex.org/institutions/I200769079) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to Hong Kong University of Science and Technology itself): 98,571 → 97,806 (−0.8%).
-- **Counting its units and predecessors** (the `lineage` filter): 105,665 → 101,029 (−4.4%).
-- **Why:** most of the strings it lost now go to other institutions (88% of lost works), mostly The Hong Kong University of Science and Technology (Guangzhou), South China University of Technology; most of the strings it gained were assigned to other institutions before (56% of gained works), mostly Peking University Shenzhen Hospital, University of Hong Kong - Shenzhen Hospital.
+- **`works_count`** (works linked to Hong Kong University of Science and Technology itself): 98,597 → 97,833 (−0.8%).
+- **Counting its units and predecessors** (the `lineage` filter): 105,690 → 101,055 (−4.4%).
+- **Why:** most of the strings it lost now go to other institutions (88% of lost works), mostly The Hong Kong University of Science and Technology (Guangzhou), South China University of Technology; most of the strings it gained were assigned to other institutions before (56% of gained works), mostly Peking University Shenzhen Hospital, University of Hong Kong.
 
 ## Were the changes right?
 
-We had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Hong Kong University of Science and Technology at all, about **85% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **52% do name it** or one of its units.
+Before the switch, we had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Hong Kong University of Science and Technology at all, about **85% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **52% do name it** or one of its units.
 
-Net, the works that really are Hong Kong University of Science and Technology's (counting its units) went down by about 0.2%.
-
-**2,020 strings lost Hong Kong University of Science and Technology** ([removed.csv](removed.csv)), on 3,693 works; **2,329 strings gained it** ([added.csv](added.csv)), on 3,634 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
+**2,021 strings lost Hong Kong University of Science and Technology** ([removed.csv](removed.csv)), on 3,693 works; **2,331 strings gained it** ([added.csv](added.csv)), on 3,636 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
 
 ## Where the lost strings went
 
@@ -30,7 +28,7 @@ Net, the works that really are Hong Kong University of Science and Technology's 
 |---|---:|
 | From no institution | 8% |
 | Up from one of its units or predecessors | 36% |
-| From other institutions (mostly Peking University Shenzhen Hospital, University of Hong Kong - Shenzhen Hospital, University of Hong Kong) | 56% |
+| From other institutions (mostly Peking University Shenzhen Hospital, University of Hong Kong, University of Hong Kong - Shenzhen Hospital) | 56% |
 
 ## Biggest losses
 

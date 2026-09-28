@@ -1,18 +1,18 @@
 # University of Arizona
 
-[OpenAlex I138006243](https://openalex.org/institutions/I138006243) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I138006243](https://openalex.org/institutions/I138006243) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to University of Arizona itself): 283,916 → 280,877 (−1.1%).
-- **Counting its units and predecessors** (the `lineage` filter): 284,378 → 287,370 (+1.1%).
+- **`works_count`** (works linked to University of Arizona itself): 284,032 → 280,994 (−1.1%).
+- **Counting its units and predecessors** (the `lineage` filter): 284,494 → 287,487 (+1.1%).
 - **Why:** most of the strings it lost now go to one of its units or predecessors, which still count for it through `lineage` (68% of lost works); most of the strings it gained had no institution before (60% of gained works).
 
 ## Were the changes right?
 
 Not sampled: its works changed by less than 2%, so we did not judge a sample.
 
-**7,861 strings lost University of Arizona** ([removed.csv.gz](removed.csv.gz)), on 14,059 works; **5,418 strings gained it** ([added.csv](added.csv)), on 8,327 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
+**7,862 strings lost University of Arizona** ([removed.csv.gz](removed.csv.gz)), on 14,060 works; **5,419 strings gained it** ([added.csv](added.csv)), on 8,328 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
 
 ## Where the lost strings went
 

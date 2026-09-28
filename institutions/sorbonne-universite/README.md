@@ -1,43 +1,41 @@
 # Sorbonne Université
 
-[OpenAlex I39804081](https://openalex.org/institutions/I39804081) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I39804081](https://openalex.org/institutions/I39804081) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to Sorbonne Université itself): 365,154 → 184,516 (−49.5%).
-- **Counting its units and predecessors** (the `lineage` filter): 627,718 → 531,817 (−15.3%).
-- **Why:** most of the strings it lost now go to one of its units or predecessors, which still count for it through `lineage` (74% of lost works); most of the strings it gained moved up from one of its units (62% of gained works).
+- **`works_count`** (works linked to Sorbonne Université itself): 365,179 → 188,116 (−48.5%).
+- **Counting its units and predecessors** (the `lineage` filter): 627,738 → 559,293 (−10.9%).
+- **Why:** most of the strings it lost now go to one of its units or predecessors, which still count for it through `lineage` (86% of lost works); most of the strings it gained moved up from one of its units (64% of gained works).
 
 ## Were the changes right?
 
-We had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Sorbonne Université at all, about **61% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **67% do name it** or one of its units.
+Before the switch, we had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Sorbonne Université at all, about **61% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **67% do name it** or one of its units.
 
-Net, the works that really are Sorbonne Université's (counting its units) went down by about 5.0%.
-
-**186,124 strings lost Sorbonne Université** ([removed.csv.gz](removed.csv.gz)), on 266,928 works; **1,639 strings gained it** ([added.csv](added.csv)), on 5,595 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
+**182,287 strings lost Sorbonne Université** ([removed.csv.gz](removed.csv.gz)), on 262,417 works; **1,856 strings gained it** ([added.csv](added.csv)), on 5,848 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
 
 ## Where the lost strings went
 
 | | Share of works |
 |---|---:|
-| To one of its units or predecessors (still counts through `lineage`) | 74% |
-| To other institutions (mostly Pitié-Salpêtrière Hospital, Centre National de la Recherche Scientifique, Inserm) | 20% |
-| To no institution | 7% |
+| To one of its units or predecessors (still counts through `lineage`) | 86% |
+| To other institutions (mostly Pitié-Salpêtrière Hospital, Inserm, Centre National de la Recherche Scientifique) | 13% |
+| To no institution | 1% |
 
 ## Where the gained strings came from
 
 | | Share of works |
 |---|---:|
-| From no institution | 22% |
-| Up from one of its units or predecessors | 62% |
-| From other institutions (mostly Université Paris 1 Panthéon-Sorbonne, Université Paris Cité, Centre d'Économie de la Sorbonne) | 16% |
+| From no institution | 21% |
+| Up from one of its units or predecessors | 64% |
+| From other institutions (mostly Université Paris 1 Panthéon-Sorbonne, Université Paris Cité, Centre d'Économie de la Sorbonne) | 15% |
 
 ## Biggest losses
 
 | String | Works | Now |
 |---|---:|---|
-| Paris 6 | 2,928 | no institution |
-| Paris 4 | 2,225 | no institution |
+| Paris 6 | 2,928 | Université Pierre-et-Marie-Curie |
+| Paris 4 | 2,225 | Paris-Sorbonne University |
 | Université Pierre et Marie Curie, Paris, France | 1,398 | Université Pierre-et-Marie-Curie |
 | LESIA, Observatoire Paris-Site de Meudon, Meudon, France | 1,349 | Observatoire de Paris, Laboratoire d’études spatiales et d’instrumentation en astrophysique |
 | Universite Pierre et Marie Curie | 1,130 | Université Pierre-et-Marie-Curie |

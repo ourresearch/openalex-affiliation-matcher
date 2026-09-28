@@ -1,20 +1,18 @@
 # Leeds Beckett University
 
-[OpenAlex I84027002](https://openalex.org/institutions/I84027002) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I84027002](https://openalex.org/institutions/I84027002) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to Leeds Beckett University itself): 18,032 → 17,412 (−3.4%).
-- **Counting its units and predecessors** (the `lineage` filter): 18,032 → 17,412 (−3.4%).
+- **`works_count`** (works linked to Leeds Beckett University itself): 18,033 → 17,411 (−3.4%).
+- **Counting its units and predecessors** (the `lineage` filter): 18,033 → 17,411 (−3.4%).
 - **Why:** most of the strings it lost now go to other institutions (84% of lost works), mostly University of Leeds, Leeds Teaching Hospitals NHS Trust; most of the strings it gained had no institution before (76% of gained works).
 
 ## Were the changes right?
 
-We had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Leeds Beckett University at all, about **92% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **95% do name it** or one of its units.
+Before the switch, we had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Leeds Beckett University at all, about **92% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **95% do name it** or one of its units.
 
-Net, the works that really are Leeds Beckett University's (counting its units) went up by about 0.5%.
-
-**747 strings lost Leeds Beckett University** ([removed.csv](removed.csv)), on 876 works; **149 strings gained it** ([added.csv](added.csv)), on 213 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
+**748 strings lost Leeds Beckett University** ([removed.csv](removed.csv)), on 876 works; **149 strings gained it** ([added.csv](added.csv)), on 213 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
 
 ## Where the lost strings went
 

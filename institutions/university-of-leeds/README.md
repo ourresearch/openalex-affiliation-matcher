@@ -1,18 +1,18 @@
 # University of Leeds
 
-[OpenAlex I130828816](https://openalex.org/institutions/I130828816) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I130828816](https://openalex.org/institutions/I130828816) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to University of Leeds itself): 205,293 → 208,746 (+1.7%).
-- **Counting its units and predecessors** (the `lineage` filter): 205,914 → 209,106 (+1.6%).
+- **`works_count`** (works linked to University of Leeds itself): 205,302 → 208,755 (+1.7%).
+- **Counting its units and predecessors** (the `lineage` filter): 205,923 → 209,115 (+1.6%).
 - **Why:** most of the strings it lost now have no institution (88% of lost works); most of the strings it gained had no institution before (57% of gained works).
 
 ## Were the changes right?
 
 Not sampled: its works changed by less than 2%, so we did not judge a sample.
 
-**691 strings lost University of Leeds** ([removed.csv](removed.csv)), on 1,806 works; **4,227 strings gained it** ([added.csv](added.csv)), on 7,523 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
+**691 strings lost University of Leeds** ([removed.csv](removed.csv)), on 1,806 works; **4,228 strings gained it** ([added.csv](added.csv)), on 7,524 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
 
 ## Where the lost strings went
 

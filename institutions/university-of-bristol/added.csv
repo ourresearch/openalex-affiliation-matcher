@@ -1203,6 +1203,7 @@ Bristol Composites Institute School of Civil Aerospace and Design Engineering (C
 Bristol Cyber Security Group Bristol University Bristol United Kingdom,1,,,no
 "Bristol Cyber Security Group, Bristol University, United Kingdom",1,,,no
 "Bristol Cyber Security Group, School of Computer Science, Universisty of Bristol, Bristol, UK",1,At Bristol,I2801520950,no
+Bristol Dental School University of Bristol  Bristol England,1,University Of Bristol Dental Hospital,I2800072022,no
 "Bristol Dental School, Bristol University , Bristol,",1,University Of Bristol Dental Hospital,I2800072022,no
 "Bristol Dental School, Bristol University, Bristol, UK",1,University Of Bristol Dental Hospital,I2800072022,no
 "Bristol Dental School, Bristol, BS1 2LY, UK. simon.haworth@bristol.ac.uk",1,University Of Bristol Dental Hospital | At Bristol,I2800072022 I2801520950,no
@@ -1246,6 +1247,8 @@ Bristol Dental School; Department of Oral & Dental Science; Lower Maudlin Street
 "Bristol Heart Institute, Faculty Of Medicine a",1,NIHR Bristol Cardiovascular Biomedical Research Unit,I4210132465,no
 "Bristol Heart Institute, Sch of Clinical Sciences, Univ of Bristol, Bristol, United Kingdom",1,NIHR Bristol Cardiovascular Biomedical Research Unit,I4210132465,no
 "Bristol Heart Institute, School of Clinical Sciences, University of BristolBristol United Kingdom",1,NIHR Bristol Cardiovascular Biomedical Research Unit,I4210132465,no
+"Bristol Heart Institute, Translational Health Sciences, Bristol Medical School, University of Bristol, Bristol, United Kingdom; Bristol Heart Institute, Bristol Royal Infirmary, University Hospitals Bristol and Weston NHS Foundation Trust, Bristol, United Kingdom",1,University Hospitals Bristol NHS Foundation Trust | NIHR Bristol Cardiovascular Biomedical Research Unit,I2800789647 I4210132465,no
+"Bristol Heart Institute, Translational Health Sciences, Bristol Medical School, University of Bristol, Bristol, United Kingdom; Department of Cardiothoracic Surgery, Faculty of Medicine, Assiut University, Assiut, Egypt; Bristol Heart Institute, Bristol Royal Infirmary, University Hospitals Bristol and Weston NHS Foundation Trust, Bristol, United Kingdom",1,University Hospitals Bristol NHS Foundation Trust | NIHR Bristol Cardiovascular Biomedical Research Unit,I2800789647 I4210132465,no
 "Bristol Heart Institute, Univ of Bristol, Univ of Bristol, Bristol, United Kingdom",1,NIHR Bristol Cardiovascular Biomedical Research Unit,I4210132465,no
 "Bristol Heart Institute, Univerisity of Bristol, Bristol, UK",1,NIHR Bristol Cardiovascular Biomedical Research Unit,I4210132465,no
 "Bristol Heart Institute, Universig of Bristol, Bristol",1,NIHR Bristol Cardiovascular Biomedical Research Unit,I4210132465,no
@@ -4748,3 +4751,8 @@ the School of Biochemistry and ian.collinson@bristol.ac.uk,1,,,no
 イギリスブリストル大学,1,,,no
 ブリストル大学大学院,1,,,no
 英国Bristol大学有机地球化学实验室,1,World Wide Web Consortium,I4210087207,no
+"Bristol Dental School, University of Bristol, 1 Trinity Walk, Avon St, Bristol, BS2 0PT, UK",0,University Of Bristol Dental Hospital,I2800072022,no
+"Bristol Dental School, University of Bristol, Bristol, UK; Cardiff Metropolitan University, Cardiff, Wales, UK; Bristol Speech and Language Therapy Research Unit, North Bristol NHS Trust, Bristol, UK;",0,North Bristol NHS Trust | University Of Bristol Dental Hospital | At Bristol,I1307034911 I2800072022 I2801520950,no
+"Language and Genetics Department, Max Planck Institute for Psycholinguistics, Nijmegen, The Netherlands; MRC Integrative Epidemiology Unit, Bristol Medical School, University of Bristol, Bristol, UK; Donders Institute for Brain, Cognition, and Behaviour,;",0,Max Planck Institute for Psycholinguistics,I4210089003,no
+"Nutrition and Behaviour Unit, School of Psychology and Neuroscience, University of Bristol, 12a Priory Road, Bristol, BS8 1TU, UK; NIHR Bristol Biomedical Research Centre, University Hospitals Bristol and Weston, NHS Foundation Trust and University of Bristol",0,University Hospitals Bristol NHS Foundation Trust,I2800789647,no
+"Nutrition and Behaviour Unit, School of Psychology and Neuroscience, University of Bristol, 12a Priory Road, Bristol, BS8 1TU, UK; NIHR Bristol Biomedical Research Centre, University Hospitals Bristol and Weston, NHS Foundation Trust and University of Bristol. Electronic address: annika.flynn@bristol.ac.uk",0,University Hospitals Bristol NHS Foundation Trust,I2800789647,no

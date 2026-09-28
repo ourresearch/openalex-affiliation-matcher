@@ -1,11 +1,11 @@
 # University of Strathclyde
 
-[OpenAlex I181647926](https://openalex.org/institutions/I181647926) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I181647926](https://openalex.org/institutions/I181647926) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to University of Strathclyde itself): 91,645 → 91,746 (+0.1%).
-- **Counting its units and predecessors** (the `lineage` filter): 91,649 → 91,750 (+0.1%).
+- **`works_count`** (works linked to University of Strathclyde itself): 91,655 → 91,756 (+0.1%).
+- **Counting its units and predecessors** (the `lineage` filter): 91,659 → 91,760 (+0.1%).
 - **Why:** most of the strings it lost now have no institution (58% of lost works); most of the strings it gained had no institution before (71% of gained works).
 
 ## Were the changes right?

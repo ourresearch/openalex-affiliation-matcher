@@ -1,18 +1,18 @@
 # Université d'Angers
 
-[OpenAlex I49451733](https://openalex.org/institutions/I49451733) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I49451733](https://openalex.org/institutions/I49451733) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to Université d'Angers itself): 32,707 → 32,895 (+0.6%).
-- **Counting its units and predecessors** (the `lineage` filter): 78,082 → 64,545 (−17.3%).
+- **`works_count`** (works linked to Université d'Angers itself): 32,707 → 32,897 (+0.6%).
+- **Counting its units and predecessors** (the `lineage` filter): 78,086 → 64,549 (−17.3%).
 - **Why:** most of the strings it lost now go to other institutions (64% of lost works), mostly Centre Hospitalier Universitaire d'Angers, Inserm; the largest share of the strings it gained moved up from one of its units (41% of gained works).
 
 ## Were the changes right?
 
 We did not judge a sample of the changes for Université d'Angers.
 
-**5,458 strings lost Université d'Angers** ([removed.csv](removed.csv)), on 8,303 works; **5,120 strings gained it** ([added.csv.gz](added.csv.gz)), on 8,082 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
+**5,466 strings lost Université d'Angers** ([removed.csv](removed.csv)), on 8,307 works; **5,122 strings gained it** ([added.csv.gz](added.csv.gz)), on 8,082 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
 
 ## Where the lost strings went
 

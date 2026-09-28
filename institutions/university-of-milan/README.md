@@ -1,26 +1,26 @@
 # University of Milan
 
-[OpenAlex I189158943](https://openalex.org/institutions/I189158943) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I189158943](https://openalex.org/institutions/I189158943) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to University of Milan itself): 407,713 → 412,790 (+1.2%).
-- **Counting its units and predecessors** (the `lineage` filter): 408,379 → 412,810 (+1.1%).
-- **Why:** most of the strings it lost now go to other institutions (60% of lost works), mostly Università Cattolica del Sacro Cuore, University of Milano-Bicocca; most of the strings it gained were assigned to other institutions before (71% of gained works), mostly Istituto Nazionale di Fisica Nucleare, Sezione di Milano, University of Milano-Bicocca.
+- **`works_count`** (works linked to University of Milan itself): 407,744 → 416,588 (+2.2%).
+- **Counting its units and predecessors** (the `lineage` filter): 408,411 → 416,608 (+2.0%).
+- **Why:** most of the strings it lost now go to other institutions (88% of lost works), mostly Università Cattolica del Sacro Cuore, University of Milano-Bicocca; most of the strings it gained were assigned to other institutions before (71% of gained works), mostly Istituto Nazionale di Fisica Nucleare, Sezione di Milano, University of Milano-Bicocca.
 
 ## Were the changes right?
 
 Not sampled: its works changed by less than 2%, so we did not judge a sample.
 
-**4,078 strings lost University of Milan** ([removed.csv](removed.csv)), on 11,640 works; **19,898 strings gained it** ([added.csv.gz](added.csv.gz)), on 25,657 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
+**4,078 strings lost University of Milan** ([removed.csv](removed.csv)), on 7,881 works; **19,912 strings gained it** ([added.csv.gz](added.csv.gz)), on 25,668 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
 
 ## Where the lost strings went
 
 | | Share of works |
 |---|---:|
 | To one of its units or predecessors (still counts through `lineage`) | 0% |
-| To other institutions (mostly Università Cattolica del Sacro Cuore, University of Milano-Bicocca, Politecnico di Milano) | 60% |
-| To no institution | 40% |
+| To other institutions (mostly Università Cattolica del Sacro Cuore, University of Milano-Bicocca, Politecnico di Milano) | 88% |
+| To no institution | 12% |
 
 ## Where the gained strings came from
 
@@ -34,7 +34,6 @@ Not sampled: its works changed by less than 2%, so we did not judge a sample.
 
 | String | Works | Now |
 |---|---:|---|
-| unimi | 3,759 | no institution |
 | Catholic University of Milan | 387 | Università Cattolica del Sacro Cuore |
 | Department of Psychology, Catholic University of Milan, Milan, Italy | 328 | Università Cattolica del Sacro Cuore |
 | Technical University of Milan | 177 | Politecnico di Milano |
@@ -44,6 +43,7 @@ Not sampled: its works changed by less than 2%, so we did not judge a sample.
 | Universita degli Studi di Milano-Bicocca, Dipartimento di Scienze dell'Ambiente e della Terra, Milano, Italy | 112 | University of Milano-Bicocca |
 | Catholic University of Milan, Milan, Italy | 86 | Università Cattolica del Sacro Cuore |
 | Catholic University of Milan ** | 75 | Università Cattolica del Sacro Cuore |
+| Catholic University of Milan, Largo Gemelli 1, Milan, MI Milano 20123, Italy | 63 | Università Cattolica del Sacro Cuore |
 
 ## Biggest gains
 

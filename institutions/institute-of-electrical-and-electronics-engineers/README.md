@@ -1,6 +1,6 @@
 # Institute of Electrical and Electronics Engineers
 
-[OpenAlex I3132238960](https://openalex.org/institutions/I3132238960) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I3132238960](https://openalex.org/institutions/I3132238960) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
@@ -10,9 +10,7 @@
 
 ## Were the changes right?
 
-We had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Institute of Electrical and Electronics Engineers at all, about **59% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **61% do name it** or one of its units.
-
-Net, the works that really are Institute of Electrical and Electronics Engineers's (counting its units) went up by about 0.4%.
+Before the switch, we had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Institute of Electrical and Electronics Engineers at all, about **59% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **61% do name it** or one of its units.
 
 **2,470 strings lost Institute of Electrical and Electronics Engineers** ([removed.csv](removed.csv)), on 4,252 works; **619 strings gained it** ([added.csv](added.csv)), on 2,260 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first.
 

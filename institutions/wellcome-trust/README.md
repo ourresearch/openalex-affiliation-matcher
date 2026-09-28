@@ -1,20 +1,18 @@
 # Wellcome Trust
 
-[OpenAlex I87048295](https://openalex.org/institutions/I87048295) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I87048295](https://openalex.org/institutions/I87048295) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to Wellcome Trust itself): 34,575 → 21,053 (−39.1%).
-- **Counting its units and predecessors** (the `lineage` filter): 131,745 → 111,960 (−15.0%).
+- **`works_count`** (works linked to Wellcome Trust itself): 34,576 → 21,056 (−39.1%).
+- **Counting its units and predecessors** (the `lineage` filter): 131,753 → 111,975 (−15.0%).
 - **Why:** most of the strings it lost now go to one of its units or predecessors, which still count for it through `lineage` (67% of lost works); the largest share of the strings it gained were assigned to other institutions before (46% of gained works), mostly European Bioinformatics Institute, Wellcome Library.
 
 ## Were the changes right?
 
-We had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Wellcome Trust at all, about **81% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **72% do name it** or one of its units.
+Before the switch, we had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Wellcome Trust at all, about **81% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **72% do name it** or one of its units.
 
-Net, the works that really are Wellcome Trust's (counting its units) went down by about 1.4%.
-
-**12,549 strings lost Wellcome Trust** ([removed.csv.gz](removed.csv.gz)), on 22,942 works; **2,482 strings gained it** ([added.csv](added.csv)), on 4,220 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
+**12,550 strings lost Wellcome Trust** ([removed.csv.gz](removed.csv.gz)), on 22,942 works; **2,483 strings gained it** ([added.csv](added.csv)), on 4,221 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
 
 ## Where the lost strings went
 

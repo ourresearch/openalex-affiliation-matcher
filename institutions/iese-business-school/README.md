@@ -1,11 +1,11 @@
 # IESE Business School
 
-[OpenAlex I4405253577](https://openalex.org/institutions/I4405253577) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I4405253577](https://openalex.org/institutions/I4405253577) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to IESE Business School itself): 4,870 → 4,890 (+0.4%).
-- **Counting its units and predecessors** (the `lineage` filter): 4,870 → 4,890 (+0.4%).
+- **`works_count`** (works linked to IESE Business School itself): 4,870 → 4,891 (+0.4%).
+- **Counting its units and predecessors** (the `lineage` filter): 4,870 → 4,891 (+0.4%).
 - **Why:** most of the strings it lost now go to other institutions (88% of lost works), mostly INSEAD, University of California, Berkeley; most of the strings it gained had no institution before (74% of gained works).
 
 ## Were the changes right?
@@ -38,7 +38,7 @@ Not sampled: its works changed by less than 2%, so we did not judge a sample.
 | California-Catalonia Program for Engineering , ESADE , IESE | 1 | no institution |
 | Federal Reserve Bank of Dallas-University of Houston-Banco de Mexico 3rd International Conference on International Economics , Banque de Fra | 1 | Bank of Mexico, University of Houston, Federal Reserve Bank of Dallas, Boston College, Stockholm University, University of Oslo, Banque de France |
 | HEC Paris, IESE Business School, London School of Economics, University of Cambridge, and | 1 | University of Cambridge, HEC Paris, London School of Economics and Political Science |
-| Heriot-Watt University (Edinburgh), Université Paris-Sorbonne, Universit e Paris-Dauphine, Technische Universität Berlin, IESE (Barcelona),  | 1 | Technische Universität Berlin, Heriot-Watt University |
+| Heriot-Watt University (Edinburgh), Université Paris-Sorbonne, Universit e Paris-Dauphine, Technische Universität Berlin, IESE (Barcelona),  | 1 | Technische Universität Berlin, Heriot-Watt University, Paris-Sorbonne University |
 | IESE Business School Lluís Torrens , ESCI , Universitat Pompeu Fabra www.cidob.org | 1 | Universitat Pompeu Fabra |
 | IESE Business School and CEPR; 165 West 57th Street, New York, New York 10019, U.S.A.e-mail: [email protected] | 1 | Center for Economic and Policy Research |
 | IESE Business School de Barcelona. Colabora con DigiDoc de la UPF y con el Observ. Comunicación y Salud de la Universitat Autònoma de Barcel | 1 | Universitat Autònoma de Barcelona |

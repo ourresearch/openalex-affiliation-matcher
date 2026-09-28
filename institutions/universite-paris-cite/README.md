@@ -1,28 +1,26 @@
 # Université Paris Cité
 
-[OpenAlex I204730241](https://openalex.org/institutions/I204730241) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I204730241](https://openalex.org/institutions/I204730241) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to Université Paris Cité itself): 392,227 → 123,670 (−68.5%).
-- **Counting its units and predecessors** (the `lineage` filter): 569,923 → 460,175 (−19.3%).
-- **Why:** most of the strings it lost now go to one of its units or predecessors, which still count for it through `lineage` (65% of lost works); most of the strings it gained moved up from one of its units (54% of gained works).
+- **`works_count`** (works linked to Université Paris Cité itself): 392,251 → 124,319 (−68.3%).
+- **Counting its units and predecessors** (the `lineage` filter): 569,945 → 504,476 (−11.5%).
+- **Why:** most of the strings it lost now go to one of its units or predecessors, which still count for it through `lineage` (80% of lost works); most of the strings it gained moved up from one of its units (54% of gained works).
 
 ## Were the changes right?
 
-We had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Université Paris Cité at all, about **66% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **50% do name it** or one of its units.
+Before the switch, we had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Université Paris Cité at all, about **66% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **50% do name it** or one of its units.
 
-Net, the works that really are Université Paris Cité's (counting its units) went down by about 5.6%.
-
-**251,305 strings lost Université Paris Cité** ([removed.csv.gz](removed.csv.gz)), on 399,564 works; **8,641 strings gained it** ([added.csv.gz](added.csv.gz)), on 10,450 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
+**250,411 strings lost Université Paris Cité** ([removed.csv.gz](removed.csv.gz)), on 398,444 works; **8,681 strings gained it** ([added.csv.gz](added.csv.gz)), on 10,479 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
 
 ## Where the lost strings went
 
 | | Share of works |
 |---|---:|
-| To one of its units or predecessors (still counts through `lineage`) | 65% |
-| To other institutions (mostly Centre National de la Recherche Scientifique, Université Paris-Sud, Assistance Publique – Hôpitaux de Paris) | 25% |
-| To no institution | 10% |
+| To one of its units or predecessors (still counts through `lineage`) | 80% |
+| To other institutions (mostly Centre National de la Recherche Scientifique, Université Paris-Sud, Université Pierre-et-Marie-Curie) | 18% |
+| To no institution | 2% |
 
 ## Where the gained strings came from
 
@@ -30,13 +28,13 @@ Net, the works that really are Université Paris Cité's (counting its units) we
 |---|---:|
 | From no institution | 20% |
 | Up from one of its units or predecessors | 54% |
-| From other institutions (mostly Assistance Publique – Hôpitaux de Paris, Centre National de la Recherche Scientifique, Sorbonne Université) | 26% |
+| From other institutions (mostly Assistance Publique – Hôpitaux de Paris, Centre National de la Recherche Scientifique, Sorbonne Université) | 25% |
 
 ## Biggest losses
 
 | String | Works | Now |
 |---|---:|---|
-| University of Paris VII, Paris, France | 12,530 | no institution |
+| University of Paris VII, Paris, France | 12,530 | Université Paris Diderot |
 | Sorbonne Paris Cité | 4,191 | Sorbonne Paris Cité |
 | Université Denis Diderot Paris 7, Paris, France | 2,820 | Université Paris Diderot |
 | ITODYS, Université Denis Diderot Paris 7, Paris, France | 2,802 | Interfaces Traitements Organisation et Dynamique des Systèmes, Université Paris Diderot |

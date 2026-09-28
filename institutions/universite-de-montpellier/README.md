@@ -1,20 +1,18 @@
 # Université de Montpellier
 
-[OpenAlex I19894307](https://openalex.org/institutions/I19894307) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) on 28 September 2026. Numbers from the final dry run on 27 September; we will refresh them from live data after the switch.
+[OpenAlex I19894307](https://openalex.org/institutions/I19894307) · what changed when OpenAlex switched to its [new affiliation matcher](../../README.md) (version 3.0) on 28 September 2026. Measured on the live data on 28 September, against the assignments just before the switch.
 
 ## In short
 
-- **`works_count`** (works linked to Université de Montpellier itself): 155,811 → 116,817 (−25.0%).
-- **Counting its units and predecessors** (the `lineage` filter): 264,071 → 250,685 (−5.1%).
+- **`works_count`** (works linked to Université de Montpellier itself): 155,826 → 116,836 (−25.0%).
+- **Counting its units and predecessors** (the `lineage` filter): 264,092 → 250,989 (−5.0%).
 - **Why:** most of the strings it lost now go to one of its units or predecessors, which still count for it through `lineage` (78% of lost works); the largest share of the strings it gained moved up from one of its units (48% of gained works).
 
 ## Were the changes right?
 
-We had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Université de Montpellier at all, about **69% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **92% do name it** or one of its units.
+Before the switch, we had Claude Opus 5.5 judge random samples of these strings, without saying whether each was added or removed: of the works that no longer count for Université de Montpellier at all, about **69% did not name it** or any of its units, so losing them fixed an error; of the works that newly count for it, about **92% do name it** or one of its units.
 
-Net, the works that really are Université de Montpellier's (counting its units) went up by about 1.4%.
-
-**48,435 strings lost Université de Montpellier** ([removed.csv.gz](removed.csv.gz)), on 77,135 works; **9,112 strings gained it** ([added.csv.gz](added.csv.gz)), on 12,499 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
+**48,444 strings lost Université de Montpellier** ([removed.csv.gz](removed.csv.gz)), on 77,139 works; **9,126 strings gained it** ([added.csv.gz](added.csv.gz)), on 12,507 works. A work with several of these strings counts once per string. Both files are sorted by works, biggest first; files over 1 MB are gzipped.
 
 ## Where the lost strings went
 
