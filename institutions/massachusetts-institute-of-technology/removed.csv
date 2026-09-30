@@ -441,7 +441,7 @@ Modern Institute of Technology (MIT),2,,,no
 "NASA Langley Research Center Flight Operations Research Branch, Hampton, VA; MIT, Cambridge, MA, United States",2,Langley Research Center | National Aeronautics and Space Administration,I1319063186 I4210124779,no
 "NASA Marshall Space Flight Center; Universities Space Research Association, Huntsville, AL; MIT, Cambridge, MA, United States",2,Marshall Space Flight Center | Universities Space Research Association,I1294504835 I1329765538,no
 Neurologische Universitätsklinik mit Abteilung für Neurophysiologie,2,,,no
-"Ph.D. Candidate , Department of Mechanical Engineering , 77 Massachusetts Avenue , Cambridge , MA 02139 ",2,,,no
+"Ph.D. Candidate , Department of Mechanical Engineering , 77 Massachusetts Avenue , Cambridge , MA 02139",2,,,no
 "Picower Institute for Learning and Memory, Cambridge, MA USA",2,,,no
 Present address: Whitehead Institute for Biomedical Research Cambridge MA 02142 USA,2,Whitehead Institute for Biomedical Research,I4210157710,yes
 "Presently Dir., Inst. of Hydraulic Research, Univ. of Iowa, Iowa City, Iowa; formerly Asst. Prof. of Civ. Engrg., Hydrodynamics Lab., MIT, Cambridge, Mass",2,University of Iowa,I126307644,no
@@ -501,7 +501,7 @@ Present address: Whitehead Institute for Biomedical Research Cambridge MA 02142 
 "Rakuten Institute of Technology, 2 South Station, Suite 400, Boston, MA 02110, USA",2,,,no
 "Rakuten Institute of Technology, Boston, MA, 02110 -USA",2,,,no
 "Research Asst., MIT, Cambridge, Mass.; formerly, Grad. Student, Univ. of British Columbia, Vancouver, Canada",2,University of British Columbia,I141945490,no
-"Samsung Advanced Institute of Technology America, Cambridge, Massachusetts02142, United States",2,,,no
+"Samsung Advanced Institute of Technology America, Cambridge, Massachusetts 02142, United States",2,,,no
 "Samsung Advanced Institute of Technology America, Cambridge, Massachusetts 02142, USA",2,,,no
 "School of Computer Science, University of Waterloo, Waterloo, Ontario, Canada and CSAIL, MIT, Cambridge, Massachusetts, USA",2,University of Waterloo,I151746483,no
 "School of Engineering and Applied Sciences 1 , , Cambridge, Massachusetts 02138, USA",2,,,no
@@ -542,9 +542,7 @@ WHITEHEAD INSTITUTE FOR BIOMEDICAL RESEARCH NINE CAMBRIDGE CENTER,2,Whitehead In
 "bBroad Institute of MIT and Harvard, Cambridge, Massachusetts, USA",2,Broad Institute | Harvard University,I107606265 I136199984,no
 "cBroad Institute of MIT and Harvard, Cambridge, MA 02142",2,Broad Institute,I107606265,no
 mip@alum.mit.edu#TAB#,2,,,no
-"
-(Rome, 1982) studied architecture in Brussels and Rome, where he earned a PhD in Architectural Design and Theory. De Dominicis has conducted postdoctoral research in Italy (University IUAV of Venice, Sapienza University of Rome) and the United States (postdoctoral fellow at the Aga Khan Program for Islamic Architecture, MIT). He is currently assistant professor in architecture and urban design at the University of L’Aquila. His research agenda ranges from strategies of transnational design and planning – with a specific focus on the circulation of models and the rise of new professional profiles – to contemporary forms of macro-scale urbanism, notably in the desert areas of sub-Saharan Africa. On these topics, De Dominicis has lectured in Italy and abroad (Europe, Africa, and the US).
-",1,University of L'Aquila | Sapienza University of Rome,I26415053 I861853513,no
+"(Rome, 1982) studied architecture in Brussels and Rome, where he earned a PhD in Architectural Design and Theory. De Dominicis has conducted postdoctoral research in Italy (University IUAV of Venice, Sapienza University of Rome) and the United States (postdoctoral fellow at the Aga Khan Program for Islamic Architecture, MIT). He is currently assistant professor in architecture and urban design at the University of L’Aquila. His research agenda ranges from strategies of transnational design and planning – with a specific focus on the circulation of models and the rise of new professional profiles – to contemporary forms of macro-scale urbanism, notably in the desert areas of sub-Saharan Africa. On these topics, De Dominicis has lectured in Italy and abroad (Europe, Africa, and the US).",1,University of L'Aquila | Sapienza University of Rome,I26415053 I861853513,no
 "#N#            * Chirurgische Klinik mit Poliklinik, Friedrich-Alexander-Universität Erlangen, Germany",1,Friedrich-Alexander-Universität Erlangen-Nürnberg | Universitätsklinikum Erlangen,I181369854 I4210088053,no
 #N#*Whitehead Institute for Biomedical Research and,1,Whitehead Institute for Biomedical Research,I4210157710,yes
 "#N#1MGH/MIT/HMS Martinos Center for Biomedical Imaging, Massachusetts General Hospital, Charlestown, MA",1,Massachusetts General Hospital | Athinoula A. Martinos Center for Biomedical Imaging,I4210087915 I4210127055,yes
@@ -669,7 +667,7 @@ mip@alum.mit.edu#TAB#,2,,,no
 "4Broad Institute of MIT, Cambridge, MA",1,Broad Institute,I107606265,no
 "4Broad Institute of MIT, Cambridge, MA, USA",1,Broad Institute,I107606265,no
 "4Ragon Institute of Massachusetts General Hospital (MGH), MIT and Harvard, Cambridge, MA",1,"Harvard University | Ragon Institute of MGH, MIT and Harvard | Massachusetts General Hospital",I136199984 I2802422659 I4210087915,yes
-"545 Technology Square , Room 313 , Cambridge MA 02139 ",1,,,no
+"545 Technology Square , Room 313 , Cambridge MA 02139",1,,,no
 "5Broad Institute of MIT & Harvard, Boston, MA",1,Broad Institute,I107606265,no
 "5Broad Institute of MIT and Harvard, Boston, MA",1,Broad Institute,I107606265,no
 "5Broad Institute of MIT and Harvard, Boston, MA;",1,Broad Institute,I107606265,no
@@ -691,7 +689,7 @@ mip@alum.mit.edu#TAB#,2,,,no
 "77 Massachusetts Ave, Cambridge, MA 02139, USA",1,,,no
 "77 Massachusetts Ave, Cambridge, MA, USA",1,,,no
 "77 Massachusetts Ave. , 33-311 Cambridge , MA 02139",1,,,no
-"77 Massachusetts Ave. , Cambridge , MA 02139 ",1,,,no
+"77 Massachusetts Ave. , Cambridge , MA 02139",1,,,no
 "77 Massachusetts Ave., Cambridge, MA 02139",1,,,no
 "77 Massachusetts Ave., Department of Nuclear Science and Engineering, Cambridge, MA, United States",1,,,no
 77 Massachusetts Avenue  Cambridge MA 02139 USA,1,,,no
@@ -790,8 +788,7 @@ Arbeiterwohlfahrt Bezirk sverband Mit telrhein,1,Ministry of Labour and Social P
 "Assistant Professor, Dept of CSE , Cambridge Institute of Technology Dwivedi , CSE , Cambridge Institute of Technology Assistane Professor,",1,,,no
 "Assistant Professor. Dept. Of Mechanical Engg, Cambridge Institute of Technology",1,,,no
 "Associate Professor , Computer Science and Engineering , Cambridge Institute of Technology",1,,,no
-"Associate Professor of Medicine,
-        Ragon Institute of MGH, MIT and Harvard, Cambridge, MA, USA",1,"Ragon Institute of MGH, MIT and Harvard",I2802422659,yes
+"Associate Professor of Medicine, Ragon Institute of MGH, MIT and Harvard, Cambridge, MA, USA",1,"Ragon Institute of MGH, MIT and Harvard",I2802422659,yes
 "Associate Professor, Cambridge Institute of Technology , Bengaluru , India",1,,,no
 "Associate Professor, Cambridge Institute of Technology, Bangalore",1,,,no
 "Associate Professor, Information Science and Engineering , Cambridge Institute of Technology",1,,,no
@@ -960,14 +957,7 @@ Broad Institute of MIT & Harvard (United States),1,Broad Institute | Harvard Uni
 "C.S.E. Dept., P.R.M.I.T.&R., Amravati, India",1,,,no
 "CAMBRIDGE INSTITUTE OF TECHNOLOGY ,",1,,,no
 "CBR Institute for Biomedical Research, Boston",1,,,no
-"CEA, IRFM, F-13108 Saint Paul-lez-Durance, France;
-Università di Roma Sapienza, Dipartimento Ingegneria Elettronica, Via Eudossiana 18, 00184 Rome, Italy;
-Euratom/CCFE Fusion Association, Culham Science Centre, Abingdon, OX14 3DB, UK;
-MIT Plasma Science and Fusion Center, Cambridge, MA, USA;
-Associazione Euratom-ENEA sulla Fusione, Via E. Fermi 45, 00044 Frascati, Roma, Italy;
-Institute for Plasma Research, Bhat, Gandhinagar-382428, India;
-Associazione EURATOM-ENEA, IFP-CNR, Via R. Cozzi, 53 20125 Milano, Italy;
-JET-EFDA-CSU, Culham Science Centre, Abingdon, Oxfordshire, OX14 3DB, UK",1,Sapienza University of Rome | Commissariat à l'Énergie Atomique et aux Énergies Alternatives | Culham Centre for Fusion Energy | Culham Science Centre | Institut de Recherche sur la Fusion par confinement Magnétique,I861853513 I2738703131 I2800863004 I4210094962 I4210142114,no
+"CEA, IRFM, F-13108 Saint Paul-lez-Durance, France; Università di Roma Sapienza, Dipartimento Ingegneria Elettronica, Via Eudossiana 18, 00184 Rome, Italy; Euratom/CCFE Fusion Association, Culham Science Centre, Abingdon, OX14 3DB, UK; MIT Plasma Science and Fusion Center, Cambridge, MA, USA; Associazione Euratom-ENEA sulla Fusione, Via E. Fermi 45, 00044 Frascati, Roma, Italy; Institute for Plasma Research, Bhat, Gandhinagar-382428, India; Associazione EURATOM-ENEA, IFP-CNR, Via R. Cozzi, 53 20125 Milano, Italy; JET-EFDA-CSU, Culham Science Centre, Abingdon, Oxfordshire, OX14 3DB, UK",1,Sapienza University of Rome | Commissariat à l'Énergie Atomique et aux Énergies Alternatives | Culham Centre for Fusion Energy | Culham Science Centre | Institut de Recherche sur la Fusion par confinement Magnétique,I861853513 I2738703131 I2800863004 I4210094962 I4210142114,no
 "CERAS-ENPC (URA 2036, CNRS), Paris, IDEI, Toulouse and MIT, Cambridge, MA 02139-4302, USA",1,École nationale des ponts et chaussées | Centre National de la Recherche Scientifique,I142631665 I1294671590,no
 "CERN-MIT, USA∗∗Now at INFN, Sezione di Bologna",1,"Istituto Nazionale di Fisica Nucleare, Sezione di Bologna",I4210148700,no
 "CLAY MATHEMATICS INSTITUTE 1770 MASSACHUSETTS AVENUE , #331 CAMBRIDGE , MA 02140 USA",1,Clay Mathematics Institute,I1342175221,no
@@ -1147,15 +1137,7 @@ David H. Koch Institute for Integrative Cancer Research MIT  Cambridge MA USA,1,
 "Department of Agriculture , Forest Service , Davis , CA 95616 , USA. 30 Federal Research Centre for Forests, Hauptstrasse 7, A-1140 Vienna, Austria. 31 Plant Molecular Biology Laboratory, Institute of Biotechnology, University of Helsinki, FI-00014 Helsinki, Finland. 32 Department of Biological and Environmental Sciences, University of Helsinki, FI-00014 Helsinki, Finland. 33 Department of Biology, 200014, University of Turku, FI-20014 Turku, Finland. 34 Southern Institute of Forest Genetics, United States Department of Agriculture, Forest Service and Department of Forest Science, Texas A&M University, College Station, TX 77843, USA. 35 Whitehead Institute for Biomedical Research and Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 02142, USA. 36 Department of Molecular Sciences and Center of Excellence in Genomics and Bioinformatics, University of Tennessee, Memphis, TN 38163 , USA. 37 Southern Institute of Forest Genetics, United States Department of Argicu",1,University of Tennessee at Knoxville | Texas A&M University | University of Helsinki | University of Turku | United States Department of Agriculture,I75027704 I91045830 I133731052 I155660961 I1336096307,no
 "Department of Applied Chemistry, R.M.I.T. University, Melbourne, Victoria, Australia, , AU",1,RMIT University,I82951845,no
 "Department of Applied Sciences and Humanities, Anna University, M.I.T. Campus, Chennai, India",1,"Anna University, Chennai",I33585257,no
-"Department of Astronomy and Astrophysics, Pennsylvania State University, 525 Davey Lab, University Park, PA 16802, USA;
-Technische Universität München, Fakultät für Physik, James-Franck-Strasse 1/I, D-85748 Garching, Germany;
-Excellence Cluster Universe, TUM, Boltzmannstrasse 2, D-85748 Garching, Germany;
-Department of Astronomy and Physics, Saint Mary's University, Halifax, NS B3H 3C3, Canada;
-MIT Kavli Institute for Astrophysics and Space Research, 77 Massachusetts Avenue, NE80-6011 Cambridge, MA 02139, USA;
-XMM-Newton Science Operations Centre, ESAC, P.O. Box 78, 28691 Villanueva de la Cañada, Madrid, Spain;
-Institute of Astronomy, Madingley Road, Cambridge, CB3 0HA, UK;
-Department of Astronomy, The Ohio State University, 140 West 18th Avenue, Columbus, OH 43210, USA;
-National Astronomical Observatories, Chinese Academy of Sciences, 20A Datun Road, Beijing 100012, China",1,Chinese Academy of Sciences | The Ohio State University | Technical University of Munich | Saint Mary's University | Pennsylvania State University | Excellence Cluster Universe,I19820366 I52357470 I62916508 I66890659 I130769515 I4210144898,no
+"Department of Astronomy and Astrophysics, Pennsylvania State University, 525 Davey Lab, University Park, PA 16802, USA; Technische Universität München, Fakultät für Physik, James-Franck-Strasse 1/I, D-85748 Garching, Germany; Excellence Cluster Universe, TUM, Boltzmannstrasse 2, D-85748 Garching, Germany; Department of Astronomy and Physics, Saint Mary's University, Halifax, NS B3H 3C3, Canada; MIT Kavli Institute for Astrophysics and Space Research, 77 Massachusetts Avenue, NE80-6011 Cambridge, MA 02139, USA; XMM-Newton Science Operations Centre, ESAC, P.O. Box 78, 28691 Villanueva de la Cañada, Madrid, Spain; Institute of Astronomy, Madingley Road, Cambridge, CB3 0HA, UK; Department of Astronomy, The Ohio State University, 140 West 18th Avenue, Columbus, OH 43210, USA; National Astronomical Observatories, Chinese Academy of Sciences, 20A Datun Road, Beijing 100012, China",1,Chinese Academy of Sciences | The Ohio State University | Technical University of Munich | Saint Mary's University | Pennsylvania State University | Excellence Cluster Universe,I19820366 I52357470 I62916508 I66890659 I130769515 I4210144898,no
 "Department of Astronomy, Cambridge, MA 02138, USA",1,,,no
 "Department of Biochemistry, National University of Singapore, 8 Medical Drive, Singapore 117597, SingaporeMEBCS, Singapore-Massachusetts Institute of Technology Alliance, Singapore",1,National University of Singapore,I165932596,no
 Department of Bioengineering Center for Minimally Invasive Therapeutics (C‐MIT) and California NanoSystems Institute University of California‐Los Angeles  Los Angeles CA 90095 USA,1,"California NanoSystems Institute | University of California, Los Angeles",I142207940 I161318765,no
@@ -1163,10 +1145,7 @@ Department of Bioengineering Center for Minimally Invasive Therapeutics (C‐MIT
 Department of Biological Engineering  Cambridge MA 02139 USA,1,,,no
 "Department of Biological Engineering b , Cambridge, MA 02139, USA",1,,,no
 "Department of Biological Engineering, Cambridge, MA 02139, USA",1,,,no
-"Department of Biological Sciences, University of Alberta, Edmonton, Alberta T6G 2E9, Canada; 
-                           2Whitehead Institute/MIT Center for Genome Research, Cambridge, Massachusetts 02141, USA;
-                           3Department of Molecular Biology, Keio University School of Medicine, Tokyo 160–8582, Japan; 
-                           4Department of Chemistry and Biochemistry, University of Oklahoma, Norman, Oklahoma 73019-0370, USA",1,University of Oklahoma | University of Alberta | Keio University,I8692664 I154425047 I203951103,no
+"Department of Biological Sciences, University of Alberta, Edmonton, Alberta T6G 2E9, Canada; 2Whitehead Institute/MIT Center for Genome Research, Cambridge, Massachusetts 02141, USA; 3Department of Molecular Biology, Keio University School of Medicine, Tokyo 160–8582, Japan; 4Department of Chemistry and Biochemistry, University of Oklahoma, Norman, Oklahoma 73019-0370, USA",1,University of Oklahoma | University of Alberta | Keio University,I8692664 I154425047 I203951103,no
 "Department of Biology , 77 Massachusetts Avenue , Cambridge , MA 02139 USA",1,,,no
 "Department of Biology ; 68-633 , 77 Massachusetts Ave. ; Cambridge , Massachusetts 02139 USA;",1,,,no
 "Department of Biology and Health Sciences and Technology, 77 Massachusetts Ave,Cambridge,USA",1,,,no
@@ -1587,15 +1566,7 @@ Gemeinsam mit jüngeren Fachgenossen herausgegeben,1,,,no
 "Georgia Institute of Technology,Wharton School of Business,Cambridge,MA,USA",1,Georgia Institute of Technology,I130701444,no
 "Gerontopsychiatrische Abteilung mit gerontopsychiatrischem Zentrum der Rheinischen Landesklinik Bonn,",1,,,no
 "Glacier Dynamics and Remote Sensing Group, D-EAPS MIT,USA",1,,,no
-"GlaxoSmithKline, Washington, District of Columbia 20005. Electronic address: moheb.m.nasr@gsk.com.
-Novartis Pharma AG, Basel, Switzerland.
-PMDA, Tokyo, Japan.
-MIT, Cambridge, Massachusetts 02139.
-GlaxoSmithKline, Stevenage, UK.
-CONTINUUS, Woburn, Massachusetts 01801.
-CMAC, University of Strathclyde, Glasgow, UK.
-Codiak BioSciences, Cambridge, Massachusetts 02139.
-United States Food and Drug Administration, Silver Spring, Maryland 20993",1,University of Strathclyde | Novartis (Switzerland) | United States Food and Drug Administration,I181647926 I1283582996 I1320320070,no
+"GlaxoSmithKline, Washington, District of Columbia 20005. Electronic address: moheb.m.nasr@gsk.com. Novartis Pharma AG, Basel, Switzerland. PMDA, Tokyo, Japan. MIT, Cambridge, Massachusetts 02139. GlaxoSmithKline, Stevenage, UK. CONTINUUS, Woburn, Massachusetts 01801. CMAC, University of Strathclyde, Glasgow, UK. Codiak BioSciences, Cambridge, Massachusetts 02139. United States Food and Drug Administration, Silver Spring, Maryland 20993",1,University of Strathclyde | Novartis (Switzerland) | United States Food and Drug Administration,I181647926 I1283582996 I1320320070,no
 "Goethe University Frankfurt,MIT-IBM Watson Lab, Cambridge, MA/CVAI Group",1,Goethe University Frankfurt,I114090438,no
 "Graduate Institute of Electrical Engineering, Department of Electrical Engineering, Mingchi University of Technology, Taipei county, Taiwan. e-mail: wlmao@ccsun.mit.edu.tw",1,Ming Chi University of Technology,I12213908,no
 "Graduate School of Business Sloan School of Management Columbia University Massachusetts Institute of New York , NY 10027 Technolor Cambridge , MA 02139",1,Columbia University,I78577930,no
@@ -1604,10 +1575,7 @@ United States Food and Drug Administration, Silver Spring, Maryland 20993",1,Uni
 "Graphics and Modeling Group, Schlumberger Austin Product Center, 8311 North FM 620 Road, Austin, TX 78726. rakesh@alum.mit.edu#TAB#",1,Schlumberger (United States),I4210090857,no
 "Grenoble I, Universite France; MIT, Cambridge, MA, United States",1,Université Joseph Fourier,I177483745,no
 "Guangdong Provincial Key Laboratory of Urbanization and Geo-simulation, School of Geography and Planning, Sun Yat-sen University, Guangzhou, China; Department of Urban Studies and Planning, MIT, USA",1,Sun Yat-sen University,I157773358,no
-"Guest of Massachusetts Institute of Technology, Professor of Chemistry,
-        Research Assistant,
-        Graduate Student,
-        Faculty of Science, Hokkaido University, Sapporo, Japan",1,Hokkaido University,I205349734,no
+"Guest of Massachusetts Institute of Technology, Professor of Chemistry, Research Assistant, Graduate Student, Faculty of Science, Hokkaido University, Sapporo, Japan",1,Hokkaido University,I205349734,no
 "H. F. Lodish is at the Whitehead Institute for Biomedical Research, Nine Cambridge Center, Cambridge, MA 02142, USA",1,Whitehead Institute for Biomedical Research,I4210157710,yes
 "HIV Pathogenesis Programme, Doris Duke Medical Research Institute, Nelson R. Mandela School of Medicine, University of KwaZulu-Natal, 719 Umbilo Road, Durban, South Africa; Ragon Institute of Massachusetts General Hospital, Massachusetts Institute of Technology and Harvard University, 400 Technology Square, Cambridge, Boston, Massachusetts, United States of America; Howard Hughes Medical Institute, 4000 Jones Bridge Road, Chevy Chase, MD, United States of America",1,"University of KwaZulu-Natal | Harvard University | Howard Hughes Medical Institute | Ragon Institute of MGH, MIT and Harvard",I95023434 I136199984 I1344073410 I2802422659,yes
 "HIV Pathogenesis Programme, Doris Duke Medical Research Institute, Nelson R. Mandela School of Medicine, University of KwaZulu-Natal, Durban, 4001, South Africa; Ragon Institute of Massachusetts General Hospital, Massachusetts Institute of Technology, and Harvard University, 400 Technology Square, Cambridge, MA 02139, USA",1,"University of KwaZulu-Natal | Harvard University | Ragon Institute of MGH, MIT and Harvard",I95023434 I136199984 I2802422659,yes
@@ -1631,9 +1599,7 @@ Hamburgischen Institut für Angewandte Botanik und Kolonialen Pflanzenbau. Direk
 "Harvard MIT Division of Health Sciences and Technology, Cambridge, MA, USA",1,Harvard–MIT Division of Health Sciences and Technology,I4210092658,no
 "Harvard MIT Division of Health Sciences and Technology, Cambridge, Massachusetts",1,Harvard–MIT Division of Health Sciences and Technology,I4210092658,no
 "Harvard MIT Division of Health Sciences and Technology, USA",1,Harvard–MIT Division of Health Sciences and Technology,I4210092658,no
-"Harvard MIT Division of Health Sciences and Technology, USA
-                                    
-                                        Boston University, USA",1,Boston University | Harvard University | Harvard–MIT Division of Health Sciences and Technology,I111088046 I136199984 I4210092658,no
+"Harvard MIT Division of Health Sciences and Technology, USA Boston University, USA",1,Boston University | Harvard University | Harvard–MIT Division of Health Sciences and Technology,I111088046 I136199984 I4210092658,no
 "Harvard Medical School and Ragon Institute of MGH, MIT and Harvard, 400 Technology Square, Room 857, Cambridge, MA 02129, USA",1,"Ragon Institute of MGH, MIT and Harvard",I2802422659,yes
 "Harvard Medical School and Ragon Institute of Massachusetts General Hospital, Massachusetts Institute of Technology, and Harvard University, Boston",1,"Ragon Institute of MGH, MIT and Harvard",I2802422659,yes
 "Harvard Medical School and the Harvard‐MIT Division of Health Sciences and Technology, Cambridge",1,Harvard University | Harvard–MIT Division of Health Sciences and Technology,I136199984 I4210092658,no
@@ -1670,8 +1636,7 @@ Hietzing mit Neurologischem Zentrum Rosenhügel,1,Klinik Hietzing,I4210089076,no
 "Hisayoshi Suzuki received a B.Eng. and a Dr. of Eng. degree from Tohoku University, Sendai, Japan, in 1956 and 1961, respectively. From 1961 to 1964, he was a Research Associate, and from 1964 to 1975 he was an Associate Professor at the Research Institute of Electrical Communication, Tohoku University. Since 1975 he has been a Professor at Shizuoka University. From 1968 to 1970, he was a Visiting Researcher at MIT, Cambridge, and the University of Florida, Gainesville, Florida. He has been engaged in research on digital signal processing of speech, analysis-conversion/ synthesis-recognition, and speech communication processing in a high-pressure helium environment. He received the Inada Prize of the Institute of Electronics and Communication Engineers of Japan. Professor Suzuki is a member of the Acoustical Society of Japan",1,University of Florida | Tohoku University | Shizuoka University,I33213144 I201537933 I1298590031,no
 "Hisayoshi Suzuki received a B.Eng. and a Dr. of Eng. degree from Tohoku University, Sendai, Japan, in 1956 and 1961, respectively. From 1961 to 1964, he was a Research Associate, and from 1964 to 1975 he was an Associate Professor at the Research Institute of Electrical Communication, Tohoku University. Since 1975 he has been a Professor at Shizuoka University. From 1968 to 1970, he was a Visiting Researcher at MIT, Cambridge, and the University of Florida, Gainesville, Florida. He has been engaged in research on digital signal processing of speech, analysis-conversion/ synthesis-recognition, and speech communication processing in a high-pressure helium environment. He received the Inada Prize of the Institute of Electronics and Communication Engineers of Japan. Professor Suzuki is a member of the Acoustical Society of Japan; the Information Processing Society of Japan; the IEEE; and the Acoustical Society of America",1,University of Florida | Tohoku University | Shizuoka University,I33213144 I201537933 I1298590031,no
 "History , Anthropology, Science, Technology, and Society, , Cambridge, MA,",1,,,no
-"Hitachi America Professor of Engineering,
-        MIT Lab. for Computer Science, USA",1,,,no
+"Hitachi America Professor of Engineering, MIT Lab. for Computer Science, USA",1,,,no
 "Hochschule für Verkehrswesen „Friedrich List”, Institut für Kraftfahrzeugtechnik und, Verbrennungsmotoren mit TDZ, Friedrich-List-Platz 1, O-8010 Dresden, Bundesrepublik Deutschland",1,"Fakultät Verkehrswissenschaften ""Friedrich List""",I4405276967,no
 "Howard Hughes Medical Institute, Boston Children's Hospital, Boston, MA 02115, USA; Program in Cellular and Molecular Medicine, Boston Children's Hospital, Boston, MA 02115, USA; Division of Hematology/Oncology, Department of Pediatrics, Boston Children's Hospital, Boston, MA 02115, USA; The Ragon Institute of Massachusetts General Hospital, Massachusetts Institute of Technology and Harvard University, Cambridge, MA 02139, USA",1,"Boston Children's Hospital | Howard Hughes Medical Institute | Ragon Institute of MGH, MIT and Harvard",I1288882113 I1344073410 I2802422659,yes
 "Howard Hughes Medical Institute, Chevy Chase, MD 20815; and; Ragon Institute of Massachusetts General Hospital, Massachusetts Institute of Technology, and Harvard University, Boston, MA 02129;",1,"Howard Hughes Medical Institute | Ragon Institute of MGH, MIT and Harvard",I1344073410 I2802422659,yes
@@ -1695,9 +1660,7 @@ II. Interne Abteilung mit Kardiologie und Intensivstation Allgemein Öffentliche
 "II. Medizinische Klinik und Poliklinik (Onkologie, Hämatologie, Knochenmarktransplantation mit der Sektion Pneumologie), Onkologisches Zentrum, Universitätsklinikum Hamburg-Eppendorf, Hamburg, Deutschland",1,University Medical Center Hamburg-Eppendorf,I4210108711,no
 "II. Medizinische Klinik und Poliklinik, Onkologie und Hämatologie mit den Sektionen Knochenmarktransplantation und Pneumologie, Hamburg,",1,University Medical Center Hamburg-Eppendorf,I4210108711,no
 "II. Medizinische Klinik, Zentrum Innere Medizin, Klinik und Poliklinik für Onkologie und Hämatologie mit den Sektionen Pneumologie und Knochenmarkstransplantation, Universitätsklinikum Hamburg-Eppendorf",1,University Medical Center Hamburg-Eppendorf,I4210108711,no
-"IMES - Institute of Medical Engineering and Science [Cambridge] (77 MASSACHUSETTS AVENUE
-E25-330
-CAMBRIDGE, MA 02139 - United States)",1,,,no
+"IMES - Institute of Medical Engineering and Science [Cambridge] (77 MASSACHUSETTS AVENUE E25-330 CAMBRIDGE, MA 02139 - United States)",1,,,no
 "IRF Res. Group, MIT-MAE, Pune, India",1,,,no
 "ISCTE Business School, Lisbon University Institute, Portugal, Massachusetts Institute of Technology's Deshpande Center for Technological Innovation",1,ISCTE Business School,I4405255581,no
 "ITEP, Moscow, RussiaMassachusetts Institute of Technology (MIT), Cambridge, USACERN division PPE/L3, 1211 Geneva 23, Switzerland",1,Institute for Theoretical and Experimental Physics,I4210116088,no
@@ -1719,7 +1682,7 @@ In Gemeinschaft mit dem Vorstande des Komitees für Krebsforschung in Berlin,1,,
 "Infectious Disease Division, Massachusetts General Hospital; Ragon Institute of MGH, MIT and Harvard, Boston, Massachusetts, USA; These authors contributed equally",1,"Ragon Institute of MGH, MIT and Harvard | Massachusetts General Hospital",I2802422659 I4210087915,yes
 "Infectious Disease an Microbiome Program, Broa Institute of MIT an Harvar, Cambrige, USA",1,Broad Institute,I107606265,no
 "Infectious Diseases Division, Massachusetts General Hospital, Ragon Institute of Mass General, MIT and Harvard",1,"Ragon Institute of MGH, MIT and Harvard | Massachusetts General Hospital",I2802422659 I4210087915,yes
-"Information Arts. Intersections of Art, Science, and Technology , The MIT Press , Cambridge-Londyn 2002 ",1,,,no
+"Information Arts. Intersections of Art, Science, and Technology , The MIT Press , Cambridge-Londyn 2002",1,,,no
 "Innere Klinik and Poliklinik (Tumorforschung) Ruhruniversität, Klinikum Essen∗∗Mit Unterstutzung der Deutschen Forschungsgemeinschaft, Bad Godesberg. West Germany",1,,,no
 "Inst Plasmaforsch, Pfaffenwaldring 31, D-70569 Stuttgart,; Germany; MIT, PSFC, Cambridge, MA 02139 USA; Politecn Turin, Ist Nazl Fis Mat, Dept Energet, I-10129 Turin, Italy; EPFL, CRPP, CH-1015 Lausanne, Switzerland",1,École Polytechnique Fédérale de Lausanne | Politecnico di Torino,I5124864 I177477856,no
 "Inst. Mathematics , MA",1,,,no
@@ -1964,7 +1927,7 @@ MIT -Massachusetts Institute of Technology PINY /PIB -Polytechnic Institute of N
 "MIT CSAIL , 32 Vassar St Rm 380 , Cambridge , MA 02139 ,",1,MIT Computer Science and Artificial Intelligence Laboratory,I4405258931,yes
 "MIT CSAIL , 32 Vassar Street , Cambridge , MA 02139 , USA",1,MIT Computer Science and Artificial Intelligence Laboratory,I4405258931,yes
 "MIT CSAIL , 32 Vassar Street Cambridge MA 02139",1,MIT Computer Science and Artificial Intelligence Laboratory,I4405258931,yes
-"MIT CSAIL , 32-G918 , 32 Vassar St. Cambridge , MA 02139 ",1,MIT Computer Science and Artificial Intelligence Laboratory,I4405258931,yes
+"MIT CSAIL , 32-G918 , 32 Vassar St. Cambridge , MA 02139",1,MIT Computer Science and Artificial Intelligence Laboratory,I4405258931,yes
 "MIT CSAIL , Cambridge , MA 02139 ,",1,MIT Computer Science and Artificial Intelligence Laboratory,I4405258931,yes
 "MIT CSAIL , Cambridge , MA 02139 , USA",1,MIT Computer Science and Artificial Intelligence Laboratory,I4405258931,yes
 "MIT CSAIL 32 Vassar St. , Cambridge MA 02139 , USA",1,MIT Computer Science and Artificial Intelligence Laboratory,I4405258931,yes
@@ -1993,13 +1956,13 @@ MIT -Massachusetts Institute of Technology PINY /PIB -Polytechnic Institute of N
 MIT Madras,1,,,no
 "MIT Media Lab, 20 Ames Street, Cambridge, MA 02139",1,MIT Media Lab,I4405268810,no
 "MIT Media Lab., FBK-Found. Bruno Kessler, Trento, Italy",1,Fondazione Bruno Kessler | MIT Media Lab,I2277624104 I4405268810,no
-"MIT Motorsports , 77 Massachusetts Avenue, ,  ",1,,,no
+"MIT Motorsports , 77 Massachusetts Avenue, ,",1,,,no
 "MIT Pisa, CNR, via G. Caruso 16, 1-56122, Italy",1,,,no
 "MIT Portugal Program, IST, Portugal",1,,,no
 "MIT Portugal Program, Lisboa, Portugal",1,,,no
 "MIT Press , Cambridge",1,,,no
 "MIT Press , Cambridge , MA & London , England",1,,,no
-"MIT Press , Cambridge , MA. 2002 ",1,,,no
+"MIT Press , Cambridge , MA. 2002",1,,,no
 "MIT Press, 2013,#TAB#",1,,,no
 "MIT Press, Cambridge, London 2020",1,,,no
 "MIT Press, Cambridge, Mas-sachusetts, USA. Die deutsche Obersetzung folgt der amerikanischen Aus-gabe unter Beriicksichtigung des",1,,,no
@@ -2114,13 +2077,7 @@ Massachusetts University of Technology,1,,,no
 "Mechanical Engineering Laboratory, AIST-MITI",1,National Institute of Advanced Industrial Science and Technology,I73613424,no
 "Mechanical Engineering Laboratory, AIST/MITI",1,National Institute of Advanced Industrial Science and Technology,I73613424,no
 Mechanical Engineering Laboratory/AIST/MITI,1,National Institute of Advanced Industrial Science and Technology,I73613424,no
-"Medical Genetics Birth Defects Center, Cedars-Sinai Medical Center and the Department of Human Genetics, University of California
-                           at Los Angeles, (UCLA), Los Angeles, California 90048 USA;
-                           2Genoscope, Centre National De Sequenceage, 91006 Evry Cedex, France; 
-                           3Division of Biology, California Institute of Technology, Pasadena, California USA; 
-                           4Whitehead Institute/MIT Center for Genome Research Whitehead Institute for Biomedical Research, Cambridge, Massachusetts USA;
-                           
-                           5Montreal General Hospital Research Institute, McGill University, Montreal, H3G 1A4 Canada",1,"McGill University | California Institute of Technology | University of California, Los Angeles | Cedars-Sinai Medical Center | Whitehead Institute for Biomedical Research",I5023651 I122411786 I161318765 I1282927834 I4210157710,yes
+"Medical Genetics Birth Defects Center, Cedars-Sinai Medical Center and the Department of Human Genetics, University of California at Los Angeles, (UCLA), Los Angeles, California 90048 USA; 2Genoscope, Centre National De Sequenceage, 91006 Evry Cedex, France; 3Division of Biology, California Institute of Technology, Pasadena, California USA; 4Whitehead Institute/MIT Center for Genome Research Whitehead Institute for Biomedical Research, Cambridge, Massachusetts USA; 5Montreal General Hospital Research Institute, McGill University, Montreal, H3G 1A4 Canada",1,"McGill University | California Institute of Technology | University of California, Los Angeles | Cedars-Sinai Medical Center | Whitehead Institute for Biomedical Research",I5023651 I122411786 I161318765 I1282927834 I4210157710,yes
 "Medicinischen Fakultät der Albertus-Universität zu Königsberg mit dem Preise gekrönt, Deutschland",1,,,no
 "Medizinische Klinik I mit Poliklinik der Universität, Erlangen,",1,Universitätsklinikum Erlangen,I4210088053,no
 "Medizinische Klinik I mit Poliklinik, Universitätsklinikum Erlangen, Erlangen,",1,Universitätsklinikum Erlangen,I4210088053,no
@@ -2165,8 +2122,7 @@ Mki-Mit,1,,,no
 Monatsbericht. d. Akad. — mit einigen Abänderungen und Zusätzen,1,,,no
 "Montana State University 2 Department of Physics, , Bozeman, Montana 59717, USA and MIT and Kavli Institute, Cambridge, Massachusetts 02139, USA",1,Montana State University,I23732399,no
 "Montclair State University; MIT Lincoln Lab; AFRL/RITB; IBM T.J. Watson Research; IBM China Research, University of Missouri, Columbia, USA",1,University of Missouri | Montclair State University | IBM Research (China),I76835614 I166088655 I4210126794,no
-"Montreal Genome Centre, McGill University Health Centre, Montreal H3G 1A4, Quebec, Canada; 
-                           2Whitehead/MIT Center for Genome Research, One Kendall Square, Cambridge, Massachusetts 02139, USA",1,McGill University Health Centre | McGill Genome Centre,I2801766832 I4210120902,no
+"Montreal Genome Centre, McGill University Health Centre, Montreal H3G 1A4, Quebec, Canada; 2Whitehead/MIT Center for Genome Research, One Kendall Square, Cambridge, Massachusetts 02139, USA",1,McGill University Health Centre | McGill Genome Centre,I2801766832 I4210120902,no
 "Mr. Christopher J. Wiernicki:  graduated from Vanderbilt University in 1980 with a B.E. degree in Structural Engineering. Upon graduation he began his professional career at the David Taylor Naval Ship Research and Development Center. As a structural engineer in the Surface Ship Structures Division, Mr. Wiernicki was responsible for developing improved methods and procedures for designing and evaluating structural systems for surf ace combatants. Specific projects included design for producibility, development and evaluation of automated ship structural design methods and participation in the structural design of the CG 49 Cruiser and the current DDG 51 Destroyer. In 1982 Mr. Wiernicki received his M.S. degree in Ocean Engineering from George Washington University. Mr. Wiernicki is a recipient of the SNAME 1982-82 Graduate Scholarship and is currently doing post graduate work in Naval Architecture at Massachusetts Institute of Technology, he is a member of ASNE, SNAME, ASCE and Chi Epsilon",1,Vanderbilt University,I200719446,no
 "Mr. Christopher J. Wiernicki: graduated from Vanderbilt University in 1980 with a B.E. degree in Structural Engineering. Upon graduation he began his professional career at the David Taylor Naval Ship Research and Development Center. As a structural engineer in the Surface Ship Structures Division, Mr. Wiernicki was responsible for developing improved methods and procedures for designing and evaluating structural systems for surf ace combatants. Specific projects included design for producibility, development and evaluation of automated ship structural design methods and participation in the structural design of the CG 49 Cruiser and the current DDG 51 Destroyer. In 1982 Mr. Wiernicki received his M.S. degree in Ocean Engineering from George Washington University. Mr. Wiernicki is a recipient of the SNAME 1982-82 Graduate Scholarship and is currently doing post graduate work in Naval Architecture at Massachusetts Institute of Technology, he is a member of ASNE, SNAME, ASCE and Chi Epsilon",1,Vanderbilt University,I200719446,no
 "Ms. Burnley is director, Administration and Finance, Harvard-Massachusetts Institute of Technology Combined MD-PhD Program, Harvard Medical School, Boston, Massachusetts. She is co-chair, Data and Analysis Committee, MD-PhD Section, AAMC GREAT Group",1,Harvard University,I136199984,no
@@ -2382,8 +2338,8 @@ Ragon Institute of MGH MIT and Harvard Cambridge Massachusetts USA,1,"Ragon Inst
 "Ragon Institute of MGH, MIT, and Harvard, Massachusetts General Hospital; dkwon@mgh.harvard.edu",1,"Ragon Institute of MGH, MIT and Harvard | Massachusetts General Hospital",I2802422659 I4210087915,yes
 "Ragon Institute of MGH, Ragon Institute of MGH, MIT and Harvard, Cambridge, MA, USA",1,"Ragon Institute of MGH, MIT and Harvard",I2802422659,yes
 "Ragon Institute of MGH, Ragon Institute of MGH, MIT and Harvard, Cambridge, MA, USA. dbarouch@bidmc.harvard.edu",1,"Ragon Institute of MGH, MIT and Harvard",I2802422659,yes
-"Ragon Institute of MGH,MIT &amp; Harvard, Harvard Medical School,          Boston,          MA,          USA",1,"Harvard University | Ragon Institute of MGH, MIT and Harvard",I136199984 I2802422659,yes
-"Ragon Institute of MGH,MIT &amp; Harvard, Harvard Medical School, Boston, MA, USA",1,"Harvard University | Ragon Institute of MGH, MIT and Harvard",I136199984 I2802422659,yes
+"Ragon Institute of MGH,MIT &amp; Harvard, Harvard Medical School, Boston, MA, USA",1,"Harvard University | Ragon Institute of MGH, MIT and Harvard",I136199984 I2802422659,yes
+"Ragon Institute of MGH,MIT &amp; Harvard, Harvard Medical School, Boston, MA, USA",1,"Harvard University | Ragon Institute of MGH, MIT and Harvard",I136199984 I2802422659,yes
 "Ragon Institute of MGH,MIT and Harvard,Harvard Medical School,Cambridge,MA,USA",1,"Harvard University | Ragon Institute of MGH, MIT and Harvard",I136199984 I2802422659,yes
 "Ragon Institute of Mass General Hospital (MGH), MIT, and Harvard, Cambridge, MA, United States",1,"Ragon Institute of MGH, MIT and Harvard | Massachusetts General Hospital",I2802422659 I4210087915,yes
 "Ragon Institute of Mass General, MIT and Harvard, Cambridge, MA, USA. Electronic address: bjulg@mgh.harvard.edu",1,"Ragon Institute of MGH, MIT and Harvard",I2802422659,yes
@@ -2656,7 +2612,7 @@ Singpapore–MIT Alliance,1,,,no
 "Sloan, 100 Main Street, E62-416, Cambridge, MA 02142, United States",1,,,no
 "Smithsonian Astrophys. Obs., MIT, Cambridge, MA, USA",1,Smithsonian Institution | Smithsonian Astrophysical Observatory,I103187081 I153167508,no
 "South African Medical Research Council Genomic and Precision Medicine Research Unit, Division of Human Genetics, Department of Pathology, Institute of Infectious Disease and Molecular Medicine, University of Cape Town, Cape Town, South Africa; Global Initiative for Neuropsychiatric Genetics Education in Research program, Harvard T.H. Chan School of Public Health and the Stanley Center for Psychiatric Research at the Broad Institute of Harvard and MIT, Boston, Massachusetts; South African Medical Research Council Unit on Risk & Resilience in Mental Disorders, Department of Psychiatry and Neuroscience Institute, University of Cape Town, Cape Town, South Africa. Electronic address: mffmar004@myuct.ac.za",1,South African Medical Research Council | Broad Institute | University of Cape Town | Institute of Infectious Disease and Molecular Medicine,I10947320 I107606265 I157614274 I4405266898,no
-"Space in Science, Technology and the Arts Cambridge , MIT Press , 2021 , 248 p ",1,,,no
+"Space in Science, Technology and the Arts Cambridge , MIT Press , 2021 , 248 p",1,,,no
 "St. Clemens Hospitale Sterkrade gGmbH, Klinik für Innere Medizin mit Gastroenterologie und Stoffwechselerkrankungen, Oberhausen",1,,,no
 St.-Johanns-Spital#N#Medizin II mit Kardiologie,1,,,no
 "St.-Petersburg Electrotechnical University, 5 Prof Popov str. St.-Petersburg, 197376, Russia, Phone: +7 (812) 234 96 72, Fax: +7 (812) 234 48 09. e-mail: vib@mwgroup.mit.etu.spb.ru",1,Saint Petersburg State Electrotechnical University,I41518628,no
@@ -2757,7 +2713,7 @@ The Ragon Institute of MGH MIT and Harvard Boston MA USA,1,"Ragon Institute of M
 "The Ragon Institute of MGH, MIT and Harvard, Cambridge, MA, USA. uva@hms.harvard.edu",1,"Ragon Institute of MGH, MIT and Harvard",I2802422659,yes
 "The Ragon Institute of MGH, MIT and Harvard, Massachusetts Gen. Hosp. , Cambridge, MA",1,"Ragon Institute of MGH, MIT and Harvard",I2802422659,yes
 "The Ragon Institute of MGH, MIT and Harvard; Cambridge, MA 02139, USA",1,"Ragon Institute of MGH, MIT and Harvard",I2802422659,yes
-"The Ragon Institute of MGH, MIT, and Harvard, Charlestown NavyYard, Boston, Massachusetts 02129, United States",1,"Ragon Institute of MGH, MIT and Harvard",I2802422659,yes
+"The Ragon Institute of MGH, MIT, and Harvard, Charlestown Navy Yard, Boston, Massachusetts 02129, United States",1,"Ragon Institute of MGH, MIT and Harvard",I2802422659,yes
 "The Ragon Institute of MGH, MIT, and Harvard, East 149 13th Street, Charlestown, 02129, Massachusetts, USA",1,"Ragon Institute of MGH, MIT and Harvard",I2802422659,yes
 "The Ragon Institute of MGH, MIT, and Harvard, Harvard Medical School, Cambridge, MA, United States",1,"Harvard University | Ragon Institute of MGH, MIT and Harvard",I136199984 I2802422659,yes
 "The Ragon Institute of MGH, MIT, and Harvard; 400 Technology Square Cambridge MA 02139 USA",1,"Ragon Institute of MGH, MIT and Harvard",I2802422659,yes
@@ -2850,13 +2806,7 @@ Univ.-Nervenklinik mit Poliklinik Erlangen und dem Institutfür Vogelforschung �
 "University of Massachusetts, Amherst; Max-Planck-Institut f&uuml;r Psycholinguistik, Nijmegen, The Netherlands; Department of Linguistics, University of Essex, United Kingdom; Department of Linguistics, Heinrich-Heine-Universit&auml;t D&uuml;sseldorf, Germany; Department of Brain and Cognitive Sciences, MIT",1,University of Massachusetts Amherst | University of Essex | Max Planck Institute for Psycholinguistics,I24603500 I110002522 I4210089003,no
 "University of Minnesota - Carlson School of Management and MIT Laboratory for Financial Engineering, 321 19th Avenue South, 3-255, Minneapolis, MN 55455, United States of America",1,University of Minnesota,I130238516,no
 "University of Oslo Institute of Health and Society and Oslo University Hospital, Oslo, Norway, and Harvard T.H. Chan School of Public Health and Harvard–MIT Division of Health Sciences and Technology, Boston, Massachusetts (M.K., M.A.H.)",1,Harvard University | University of Oslo | Oslo University Hospital | Harvard–MIT Division of Health Sciences and Technology,I136199984 I184942183 I1281400175 I4210092658,no
-"University of Pisa, Italy,Polytechnical University, Milano, Italy,University of Pisa, Italy,University of Wisconsin, Milwaukee, USA,University of North Carolina
-University of North Carolina, Chapel Hill, USA
-University of North Carolina, Chapel Hill, USA,Rutgers University, Newark, New Jersey, USA,University of Pisa, Italy,University of Tuebingen, Germany,MIT, Cambridge, Massachusetts, USA,Mayo Clinic and Foundation, Rochester, Minnesota, USA,University of Pisa, Italy,University of Illinois at Urbana-Champaign, USA,University of Padova, Italy
-University of Padova, Italy,Polytechnique University, Milano, Italy,University of Padova, Italy,Harvard Medical School, Boston, Massachusetts, USA,University of Illinois at Urbana, USA,University of Antwerp, Belgium,HUS Helsinki Medical Imaging Center, Finland,Rutgers University, Newark, New Jersey, USA,Hamilton Institute, Maynooth, Co. Kildare, Ireland,University of Tuebingen, Germany,Harvard Medical School, Boston, Massachusetts, USA,University of Naples, Italy,University of Padova, Italy
-University of Padova, Italy,CNR Institute of Clinical Physiology, Pisa, Italy
-CNR Institute of Clinical Physiology, Pisa, Italy,CNR Institute of Clinical Physiology, Pisa, Italy
-CNR Institute of Clinical Physiology, Pisa, Italy",1,"University of Tübingen | University of Wisconsin–Milwaukee | Rutgers, The State University of New Jersey | University of Pisa | University of North Carolina at Chapel Hill | University of Padua | University of Antwerp | University of Illinois Urbana-Champaign | Mayo Clinic",I8087733 I43579087 I102322142 I108290504 I114027177 I138689650 I149213910 I157725225 I1330342723,no
+"University of Pisa, Italy,Polytechnical University, Milano, Italy,University of Pisa, Italy,University of Wisconsin, Milwaukee, USA,University of North Carolina University of North Carolina, Chapel Hill, USA University of North Carolina, Chapel Hill, USA,Rutgers University, Newark, New Jersey, USA,University of Pisa, Italy,University of Tuebingen, Germany,MIT, Cambridge, Massachusetts, USA,Mayo Clinic and Foundation, Rochester, Minnesota, USA,University of Pisa, Italy,University of Illinois at Urbana-Champaign, USA,University of Padova, Italy University of Padova, Italy,Polytechnique University, Milano, Italy,University of Padova, Italy,Harvard Medical School, Boston, Massachusetts, USA,University of Illinois at Urbana, USA,University of Antwerp, Belgium,HUS Helsinki Medical Imaging Center, Finland,Rutgers University, Newark, New Jersey, USA,Hamilton Institute, Maynooth, Co. Kildare, Ireland,University of Tuebingen, Germany,Harvard Medical School, Boston, Massachusetts, USA,University of Naples, Italy,University of Padova, Italy University of Padova, Italy,CNR Institute of Clinical Physiology, Pisa, Italy CNR Institute of Clinical Physiology, Pisa, Italy,CNR Institute of Clinical Physiology, Pisa, Italy CNR Institute of Clinical Physiology, Pisa, Italy",1,"University of Tübingen | University of Wisconsin–Milwaukee | Rutgers, The State University of New Jersey | University of Pisa | University of North Carolina at Chapel Hill | University of Padua | University of Antwerp | University of Illinois Urbana-Champaign | Mayo Clinic",I8087733 I43579087 I102322142 I108290504 I114027177 I138689650 I149213910 I157725225 I1330342723,no
 "University of St. Gallen , Switzerland and MIT Sloan, USA",1,University of St.Gallen,I202963720,no
 "University of Virginia, 85 Engineer's Way, Charlottesville, Virginia 22904-4740, USA and MIT",1,University of Virginia,I51556381,no
 "University of Washington MIT CSAIL Adobe Research Seattle , WA , USA",1,University of Washington | MIT Computer Science and Artificial Intelligence Laboratory,I201448701 I4405258931,yes
@@ -2931,7 +2881,7 @@ Wissenschaftliche Mitarbeiterin im Projekt „Health Promotion Research in Long 
 "Zentrum für Schwerbrandverletzte mit Plastischer Chirurgie (Chefarzt: Dr. B. Hartmann), Unfallkrankenhaus Berlin, Germany. markus.kuentscher@ukb.de",1,Unfallkrankenhaus Berlin,I4210108951,no
 "Zentrum für Schwerbrandverletzte mit Plastischer Chirurgie, Unfallkrankenhaus Berlin, DE",1,Unfallkrankenhaus Berlin,I4210108951,no
 "Zhuo Chen is an Assistant Professor of Finance at the PBC School of Finance at Tsinghua University in Beijing, China. Andrea Y. Lu is a Senior Lecturer of Finance at the University of Melbourne in Melbourne, Australia. Zhuqing Yang is a Postdoctoral Associate at the MIT Sloan School of Management in Cambridge, MA",1,Tsinghua University | The University of Melbourne,I99065089 I165779595,no
-"Zhuo Chen is an Assistant Professor of Finance at the PBC School of Finance at Tsinghua University in Beijing, China. Andrea Y. Lu is a Senior Lecturer of Finance at the University of Melbourne in Melbourne, Australia. Zhuqing Yang is a Postdoctoral Associate at the MIT Sloan School of Management in Cambridge, MA ",1,Tsinghua University | The University of Melbourne,I99065089 I165779595,no
+"Zhuo Chen is an Assistant Professor of Finance at the PBC School of Finance at Tsinghua University in Beijing, China. Andrea Y. Lu is a Senior Lecturer of Finance at the University of Melbourne in Melbourne, Australia. Zhuqing Yang is a Postdoctoral Associate at the MIT Sloan School of Management in Cambridge, MA",1,Tsinghua University | The University of Melbourne,I99065089 I165779595,no
 "Zoologisch-vergleichend anatomisches Institut der Universität Zürich22Ausgeführt und herausgegeben mit Unterstützung der Georges und Antoine Claraz-Schenkung., Switzerland",1,University of Zurich,I202697423,no
 "Zur Darstellung substituierter α‐Tetralone (nach Arbeiten mit H. Haber, K. H. Kahrs, E. Todt und E. Tolksdorf, Erlangen",1,,,no
 Zur Kenntnis der Dien‐Synthese mit unsymmetrischen Addenden,1,,,no
@@ -3005,8 +2955,7 @@ mit Bemerkungen über die Constitution der Thioharnstoffe und der Thiocarbamins�
 "seminar audiences at the Boston University/Harvard/MIT Health Economics seminar series, University of New Hampshire Economics Department, Urban Institute, U.S. Department of Justice, Virginia Commonwealth University School of Public Health, University of Pennsylvania, Miami University Ohio Department of Economics, Purdue University Economics Department, Carnegie Mellon University Health Economics Brown",1,Carnegie Mellon University | University of Pennsylvania | Boston University | Harvard University | Virginia Commonwealth University,I74973139 I79576946 I111088046 I136199984 I184840846,no
 "seminar participants at Cemmap/UCL, at the University of Cambridge and at the Harvard/MIT Econometrics seminar and",1,University of Cambridge | University College London,I241749 I45129253,no
 "systems. The MIT Press, Cambridge, MA",1,,,no
-"taught at Harvard, director,
-        MIT, and the Institute of War and Peace Studies, Columbia University, USA",1,Columbia University | Harvard University,I78577930 I136199984,no
+"taught at Harvard, director, MIT, and the Institute of War and Peace Studies, Columbia University, USA",1,Columbia University | Harvard University,I78577930 I136199984,no
 "the David H. Koch Institute for Integrative Cancer Research at Massachusetts Institute of Technology, Cambridge, Massachusetts 02139",1,Koch Institute for Integrative Cancer Research At MIT,I4390039253,yes
 "the Department of Neurology and Stroke Service, Massachusetts General Hospital, Boston MA (Drs. Rordorf, Koroshetz, Cramer), the Department of Biometrics, Roche Global Development & Department of Health Research and Policy, Division of Epidemiology, Stanford University School of Medicine, Palo Alto, CA (Dr. Efird), and the Clinical Investigator Training Program, Harvard-MIT Division of Health Sciences and Technology and Beth Israel-Deaconess Medical Center in collaboration with Pfizer Inc. (Dr. Cramer)",1,Stanford University | Harvard University | Beth Israel Deaconess Medical Center | Massachusetts General Hospital | Stanford Medicine,I97018004 I136199984 I1316535847 I4210087915 I4210137306,no
 "the Department of Technology, Massachusetts Institute of Biology, Cambridge, 02139, Massachusetts, USA",1,,,no

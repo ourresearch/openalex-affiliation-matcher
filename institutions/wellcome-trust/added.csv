@@ -361,7 +361,7 @@ Wellcome training fellow,2,,,no
 "1] Leeds Institute of Molecular Medicine Wellcome Trust Brenner Building St. James's University Hospital University of Leeds Leeds, LS9 7TF, UK [2] [3]",1,St James's University Hospital | University of Leeds,I2801331674 I130828816,no
 "1] The Wellcome Trust/Cancer Research UK Gurdon Institute and Department of Biochemistry, University of Cambridge, Cambridge, CB2 1QN, UK [2] The Wellcome Trust Sanger Institute, Hinxton CB10 1SA, UK",1,Wellcome Sanger Institute | The Gurdon Institute | University of Cambridge,I2802476451 I2801782436 I241749,yes
 "1​Centre for Genomic Pathogen Surveillance, Wellcome Genome Campus, Hinxton, UK",1,,,no
-"2 European Molecular Biology Laboratory-European Bioinformatics Institute , Wellcome Trust Genome Campus, Hinxton, United Kingdom ",1,European Bioinformatics Institute,I1303153112,no
+"2 European Molecular Biology Laboratory-European Bioinformatics Institute , Wellcome Trust Genome Campus, Hinxton, United Kingdom",1,European Bioinformatics Institute,I1303153112,no
 "22European Bioinformatics Institute, European Molecular Biology Laboratory, EMBL-EBI, Wellcome Trust Genome Campus, Hinxton, United Kingdom",1,European Bioinformatics Institute,I1303153112,no
 "28University of Cambridge Metabolic Research Laboratories, Wellcome Trust-MRC Institute of Metabolic Science, Addenbrooke's Hospital, Cambridge, UK",1,Wellcome/MRC Institute of Metabolic Science,I4210116691,yes
 "2EMBL-European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge",1,Bioinformatics Institute | European Bioinformatics Institute,I4210137637 I1303153112,no
@@ -586,7 +586,7 @@ Department of Haematological Medicine King’s College Hospital NIHR/Wellcome Ki
 "Department of Haematology , Cambridge Institute for Medical Research , Wellcome Trust/MRC Building , Cambridge University , Hills Road , Cambridge CB2 0XY , UK",1,Wellcome/MRC Cambridge Stem Cell Institute | University of Cambridge,I21196054 I241749,yes
 "Department of Haematology , Cambridge Institute for Medical Research , Wellcome Trust/MRC Building , Hills Road , Cambridge , CB2 2XY , UK",1,Wellcome/MRC Cambridge Stem Cell Institute,I21196054,yes
 "Department of Haematology , University of Cambridge , CIMR , Wellcome Trust/MRC Building , Addenbrooke's Hospital , Hills Road , Cambridge CB2 0XY , England , and",1,Addenbrooke's Hospital | Wellcome/MRC Cambridge Stem Cell Institute | University of Cambridge,I4210156194 I21196054 I241749,yes
-"Department of Haematology , University of Cambridge , CIMR , Wellcome Trust/MRC Building , Hills Road , Cambridge ",1,Wellcome/MRC Cambridge Stem Cell Institute | University of Cambridge,I21196054 I241749,yes
+"Department of Haematology , University of Cambridge , CIMR , Wellcome Trust/MRC Building , Hills Road , Cambridge",1,Wellcome/MRC Cambridge Stem Cell Institute | University of Cambridge,I21196054 I241749,yes
 "Department of Haematology , University of Cambridge , Cambridge Institute for Medical Research , Wellcome Trust/MRC Building , Hills Road , Cambridge , CB2 2XY , UK,",1,Wellcome/MRC Cambridge Stem Cell Institute | University of Cambridge,I21196054 I241749,yes
 "Department of Haematology, Cambridge Institute for Medical Research and Addenbrooke's Hospital, and Wellcome Trust-Medical Research Council Cambridge Stem Cell Institute, University of Cambridge, Cambridge CB2 0XY, UK",1,Wellcome/MRC Cambridge Stem Cell Institute | University of Cambridge,I21196054 I241749,yes
 "Department of Haematology, Cambridge Institute for Medical Research, Division of Structural Medicine, Thrombosis Research Unit, University of Cambridge, Wellcome Trust/MRC Building, Hills Road, Cambridge CB2 2XY, United Kingdom",1,University of Cambridge,I241749,no
@@ -640,21 +640,7 @@ Department of Medical Genetics Cambridge Biomedical Campus Cambridge Institute f
 "Department of Medical Genetics, Wellcome Trust Centre for Molecular Mechanisms in Disease, Cambridge Institute for Medical Research, Addenbrooke's Hospital, Cambridge, U.K",1,Addenbrooke's Hospital,I4210156194,no
 "Department of Medical Genetics, Wellcome Trust Centre for Molecular Mechanisms in Disease, Cambridge Institute for Medical Research, Addenbrooke's Hospital, Cambridge, UK",1,Addenbrooke's Hospital,I4210156194,no
 "Department of Medical Genetics, Wellcome Trust Centre for Molecular Mechanisms in Disease, Cambridge Institute for Medical Research, UK",1,,,no
-"Department of Medical Genetics, Wellcome Trust Centre for Molecular Mechanisms in Disease, Cambridge Institute for Medical Research, Wellcome/MRC Building, Addenbrooke's Hospital, Hills Road, Cambridge CB2 2XY, UK, 
-
-bDepartment of Medical Genetics, Molecular Genetics Laboratory, Box 158 Addenbrooke's NHS Trust, Hills Road, Cambridge CB2 2QQ, UK, 
-
-cDepartment of Public Health and Primary Care, University Forvie Site, Robinson Way, Cambridge CB2 2SR, UK, 
-
-dCRC Genetic Epidemiology Unit, Cambridge University Department of Public Health and Primary Care, Strangeways Research Laboratory, Wort's Causeway, Cambridge CB1 8RN, UK, 
-
-eDepartment of Clinical Geratology, Radcliffe Infirmary, Oxford OX2 6HE, UK, 
-
-fDepartment of Pathology, Cambridge University, Addenbrooke's Hospital, Hills Road, Cambridge CB2 2QQ, UK, 
-
-gMedical Research Council Brain Bank, Department of Neuropathology, Institute of Psychiatry, London, De Crespigny Park, London SE5 8AF, UK  , 
-
-hNeuropatholology Department, Radcliffe Infirmary, Oxford OX2 6HE, UK",1,MRC Epidemiology Unit,I4210158597,no
+"Department of Medical Genetics, Wellcome Trust Centre for Molecular Mechanisms in Disease, Cambridge Institute for Medical Research, Wellcome/MRC Building, Addenbrooke's Hospital, Hills Road, Cambridge CB2 2XY, UK, bDepartment of Medical Genetics, Molecular Genetics Laboratory, Box 158 Addenbrooke's NHS Trust, Hills Road, Cambridge CB2 2QQ, UK, cDepartment of Public Health and Primary Care, University Forvie Site, Robinson Way, Cambridge CB2 2SR, UK, dCRC Genetic Epidemiology Unit, Cambridge University Department of Public Health and Primary Care, Strangeways Research Laboratory, Wort's Causeway, Cambridge CB1 8RN, UK, eDepartment of Clinical Geratology, Radcliffe Infirmary, Oxford OX2 6HE, UK, fDepartment of Pathology, Cambridge University, Addenbrooke's Hospital, Hills Road, Cambridge CB2 2QQ, UK, gMedical Research Council Brain Bank, Department of Neuropathology, Institute of Psychiatry, London, De Crespigny Park, London SE5 8AF, UK  , hNeuropatholology Department, Radcliffe Infirmary, Oxford OX2 6HE, UK",1,MRC Epidemiology Unit,I4210158597,no
 "Department of Medical Genetics, Wellcome Trust Centre for Molecular Mechanisms in Disease, Cambridge Institute for Medical Research, Wellcome/Medical Research Council Building, Addenbrooke's Hospital, Hills Road, Cambridge, CB2 2XY, United Kingdom; Centre for Protein Engineering and Cambridge University Chemical Laboratory, Medical Research Council Centre, Hills Road, Cambridge CB2 2QH, United Kingdom; and Medical Research Council Laboratory of Molecular Biology, Hills Road, Cambridge CB2 2QH,",1,Medical Research Council | MRC Laboratory of Molecular Biology | University of Cambridge,I90344618 I170203145 I241749,no
 "Department of Medical Genetics, Wellcome Trust Centre for the Study of Molecular Mechanisms in Disease, Cambridge Institute for Medical Research, Addenbrookes Hospital, Cambridge, CB2 2XY, England, United Kingdom. heather.cordell@cimr.cam.ac.uk",1,Addenbrooke's Hospital,I4210156194,no
 "Department of Medical Genetics, Wellcome Trust Centre for the Study of Molecular Mechanisms in Disease, University of Cambridge, UK",1,Centre for Human Genetics | University of Cambridge,I1336263701 I241749,no
@@ -837,7 +823,7 @@ EMBL -European Bioinformatics Institute Wellcome Trust Genome Campus -Hinxton - 
 "EMBL Outstation, European Bioinformatics Institute (EBI), Wellcome Trust Genome Campus, Hinxton, Cambridge, United Kingdom",1,European Bioinformatics Institute,I1303153112,no
 "EMBL Outstation, European Bioinformatics Institute (EBI), Wellcome Trust Genome Campus, Hinxton, UK",1,European Bioinformatics Institute,I1303153112,no
 "EMBL Outstation, European Bioinformatics Institute Wellcome Trust Genome Campus  Hinxton Cambridge UK",1,European Bioinformatics Institute,I1303153112,no
-"EMBL Outstation, European Bioinformatics Institute, Wellcome Trust GenomeCampus, Hinxton, Cambridge, U.K",1,European Bioinformatics Institute | Bioinformatics Institute,I1303153112 I4210137637,no
+"EMBL Outstation, European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge, U.K",1,European Bioinformatics Institute | Bioinformatics Institute,I1303153112 I4210137637,no
 "EMBL Outstation, European Bioinformatics Institute, Wellcome Trust Genome Campus a , Hinxton, Cambridge UK lennart.martens@ebi.ac.uk +44 1223 494 484 +44 1223 492 610",1,European Bioinformatics Institute,I1303153112,no
 "EMBL Outstation, European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1SD, U.K. kirill@ebi.ac.uk",1,European Bioinformatics Institute,I1303153112,no
 "EMBL Outstation, European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1SD, UK. ckanz@ebi.ac.uk",1,European Bioinformatics Institute,I1303153112,no
@@ -886,8 +872,7 @@ EMBL -European Bioinformatics Institute Wellcome Trust Genome Campus -Hinxton - 
 "EMBL Outstation. The European Bioinformatics Institute (EBI), Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1SD, United Kingdom",1,European Bioinformatics Institute,I1303153112,no
 "EMBL Outstation–European Bioinformatics Institute, Wellcome Trust Genome Campus, Cambridge CB10 1SD, United Kingdom;",1,European Bioinformatics Institute,I1303153112,no
 "EMBL Outstation—European Bioinformatics Institute, Wellcome Trust Genome Campus Hinxton, Cambridge, CB10 1SD, UK",1,European Bioinformatics Institute,I1303153112,no
-"EMBL Outstation—European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge, CB10 1SD, UK;
-                           2Sanger Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge, CB10 1SA, UK",1,Wellcome Sanger Institute | European Bioinformatics Institute,I2802476451 I1303153112,yes
+"EMBL Outstation—European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge, CB10 1SD, UK; 2Sanger Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge, CB10 1SA, UK",1,Wellcome Sanger Institute | European Bioinformatics Institute,I2802476451 I1303153112,yes
 "EMBL Outstation—Hinxton, European Bioinformatics Institute, Wellcome Trust Genome Campus Hinxton, Cambridge CB10 1SD, UK",1,European Bioinformatics Institute,I1303153112,no
 "EMBL Outstation—The European Bioinformatics Institute (EBI), Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1SD, United Kingdom",1,European Bioinformatics Institute,I1303153112,no
 "EMBL Outstation—The European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton Cambridge CB10 1SD UK",1,European Bioinformatics Institute,I1303153112,no
@@ -989,7 +974,7 @@ EMBL‐European Bioinformatics Institute Wellcome Trust Genome Campus  Hinxton U
 "EnsEMBL Project, Room A2–06, EMBL–European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton, UK",1,European Bioinformatics Institute,I1303153112,no
 "Ensembl Genomes, EMBL-European Bioinformatics Institute, Wellcome Trust Genome Campus, Cambridge CB10 1SD, UK pkersey@ebi.ac.uk",1,European Bioinformatics Institute,I1303153112,no
 "Ensembl Project , EMBL-European Bioinformatics Institute , Wellcome Trust Genome Campus , Hinxton , Cambridge CB10 1SD , UK",1,European Bioinformatics Institute,I1303153112,no
-"EuropeanMolecular Biology Laboratory, European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1SD, U.K",1,European Bioinformatics Institute | Bioinformatics Institute,I1303153112 I4210137637,no
+"European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1SD, U.K",1,European Bioinformatics Institute | Bioinformatics Institute,I1303153112 I4210137637,no
 "European Bioinformatics Insitute, Wellcome Trust Genome Campus, Cambridge, UK",1,European Bioinformatics Institute | Bioinformatics Institute,I1303153112 I4210137637,no
 "European Bioinformatics Institute (EBI), European Bioinformatics Institute, EMBL outstation, Wellcome Trust Genome Campus, Hinxton, UK",1,European Bioinformatics Institute,I1303153112,no
 "European Bioinformatics Institute (EBI), Wellcome Trust Genome Campus, Cambridge CB10 1SD, UK",1,European Bioinformatics Institute | Bioinformatics Institute,I1303153112 I4210137637,no
@@ -1068,7 +1053,7 @@ European Bioinformatics Institute Wellcome Trust Genome Campus Hinxton Cambridge
 "European Bioinformatics Institute, Wellcome Trust Genome Campus Hinxton, Cambridge CB10 1SD, UK. marial@ebi.ac.uk",1,European Bioinformatics Institute,I1303153112,no
 "European Bioinformatics Institute, Wellcome Trust Genome Campus Hinxton, Cambridge, United Kingdom",1,European Bioinformatics Institute | Wellcome Sanger Institute,I1303153112 I2802476451,yes
 "European Bioinformatics Institute, Wellcome Trust Genome Campus, CB10 1SD, Cambridge, Hinxton, UK",1,European Bioinformatics Institute,I1303153112,no
-"European Bioinformatics Institute, Wellcome Trust Genome Campus, Cambridge CB101SD, U.K",1,Bioinformatics Institute,I4210137637,no
+"European Bioinformatics Institute, Wellcome Trust Genome Campus, Cambridge CB10 1SD, U.K",1,Bioinformatics Institute,I4210137637,no
 "European Bioinformatics Institute, Wellcome Trust Genome Campus, Cambridge CB10 1SD, UK;,",1,European Bioinformatics Institute | Bioinformatics Institute,I1303153112 I4210137637,no
 "European Bioinformatics Institute, Wellcome Trust Genome Campus, Cambridge,",1,European Bioinformatics Institute,I1303153112,no
 "European Bioinformatics Institute, Wellcome Trust Genome Campus, Cambridge, CB10 1SD, UK, 2 Department of Medical Protein Research, VIB, Ghent, Belgium, 3 Department of Biochemistry, Ghent University, Ghent, Belgium and 4 Department of Informatics, University of Bergen, Norway",1,Ghent University,I32597200,no
@@ -1140,7 +1125,7 @@ European Bioinformatics Institute Wellcome Trust Genome Campus Hinxton Cambridge
 "European Molecular Biology Laboratory (EMBL)–European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton, UK",1,European Bioinformatics Institute,I1303153112,no
 "European Molecular Biology Laboratory , European Bioinformatics Institute (EMBL-EBI) Wellcome Trust Genome Campus , Cambridge , CB10 1SD , UK",1,European Bioinformatics Institute,I1303153112,no
 "European Molecular Biology Laboratory , European Bioinformatics Institute , Wellcome Trust Genome Campus , Hinx- ton , CB10 1SD , UK",1,European Bioinformatics Institute,I1303153112,no
-"European Molecular Biology Laboratory - European Bioinformatics Institute (EMBL-EBI)            Wellcome Trust Genome Campus            Hinxton            Cambridgeshire            CB10 1SD            UK",1,European Bioinformatics Institute,I1303153112,no
+European Molecular Biology Laboratory - European Bioinformatics Institute (EMBL-EBI) Wellcome Trust Genome Campus Hinxton Cambridgeshire CB10 1SD UK,1,European Bioinformatics Institute,I1303153112,no
 "European Molecular Biology Laboratory - European Bioinformatics Institute (EMBL-EBI), Wellcome Trust Genome Campus",1,European Bioinformatics Institute,I1303153112,no
 "European Molecular Biology Laboratory - European Bioinformatics Institute (EMBL-EBI), Wellcome Trust Genome Campus, Cambridge, UK. saezrodriguez@gmail.com",1,European Bioinformatics Institute | Bioinformatics Institute,I1303153112 I4210137637,no
 "European Molecular Biology Laboratory - European Bioinformatics Institute (EMBL-EBI), Wellcome Trust Genome Campus, Hinxton, Cambridge UK",1,European Bioinformatics Institute,I1303153112,no
@@ -1170,8 +1155,7 @@ European Molecular Biology Laboratory European Bioinformatics Institute Wellcome
 "European Molecular Biology Laboratory – European Bioinformatics Institute (EMBL-EBI), Wellcome Trust Genome Campus, Hinxton, CB10 1SD, United Kingdom",1,European Bioinformatics Institute,I1303153112,no
 "European Molecular Biology Laboratory – European Bioinformatics Institute Wellcome Trust Genome Campus  Hinxton, Cambridge CB10 1SD UK",1,European Bioinformatics Institute,I1303153112,no
 "European Molecular Biology Laboratory – European Bioinformatics Institute; Wellcome Trust Genome Campus; Hinxton, UK",1,European Bioinformatics Institute,I1303153112,no
-"European Molecular Biology Laboratory, European Bioinformatics Institute
-        (EMBL-EBI), Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1SD, UK",1,European Bioinformatics Institute,I1303153112,no
+"European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1SD, UK",1,European Bioinformatics Institute,I1303153112,no
 "European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL- EBI), Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1SD, UK; National Center for Protein Sciences Beijing, No. 38, Life Science Park Road, Changping District, 102206 Beijing",1,European Bioinformatics Institute,I1303153112,no
 "European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI),  Wellcome Trust Genome Campus, Hinxton CB10 1SD, UK",1,European Bioinformatics Institute,I1303153112,no
 "European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), European Molecular Biology Laboratory, Wellcome Trust Genome Campus, Hinxton, Cambridge, CB10 1SD UK",1,European Bioinformatics Institute,I1303153112,no
@@ -1292,8 +1276,7 @@ From the Wellcome Research Laboratories (Biolog?cal Division) and the L.C.C. Inf
 "From the ‡European Bioinformatics Institute, European Molecular Biology Laboratory, Wellcome Trust Genome Campus, Hinxton, Cambridge, CB10 1SD; pbeltrao@ebi.ac.uk",1,European Bioinformatics Institute,I1303153112,no
 "From, the Wellcome Bureau of Scientific Research, London, and the Stack Medical Research Laboratories, Khartoum",1,,,no
 "Fugu Genomics Group, UK Human Genome Mapping Project Resource Centre, Wellcome Trust Genome Campus, Hinxton Hall, Hinxton, CB10 1SB, Cambridge, UK",1,Wellcome Sanger Institute,I2802476451,yes
-"Fugu Genomics, United Kingdom Human Genome Mapping Project Resource Centre, Wellcome Genome Campus, Hinxton Hall, Hinxton,
-                           Cambridgeshire, CB10 1SB, United Kingdom",1,Genomics (United Kingdom),I4210151791,no
+"Fugu Genomics, United Kingdom Human Genome Mapping Project Resource Centre, Wellcome Genome Campus, Hinxton Hall, Hinxton, Cambridgeshire, CB10 1SB, United Kingdom",1,Genomics (United Kingdom),I4210151791,no
 "Fugu Genomics, United Kingdom Human Genome Mapping Project Resource Centre, Wellcome Genome Campus, Hinxton Hall, Hinxton, Cambridgeshire CB10 1SB, UK",1,Genomics (United Kingdom),I4210151791,no
 "Fugu Genomics, United Kingdom Human Genome Mapping Project Resource Centre, Wellcome Genome Campus, Hinxton Hall, Hinxton, Cambridgeshire, CB10 1SB, United Kingdom. sfsmith@hgmp.mrc.ac.uk",1,,,no
 "Functional Genomics Team, EMBL-EBI, Wellcome Trust Genome Campus, Hinxton CB10 1SD, UK",1,European Bioinformatics Institute | Wellcome Sanger Institute,I1303153112 I2802476451,yes
@@ -1498,7 +1481,7 @@ MRC Institute of Metabolic Science Wellcome Trust University of Cambridge  Cambr
 "Malaria Public Health and Epidemiology Group, Centre of Geographic Medicine, KEMRI–Wellcome Trust–University of Oxford Collaborative Programme, Nairobi, Kenya",1,Kenya Medical Research Institute,I2841861,yes
 "Manchester Vision Regeneration (MVR) Lab , NIHR/ Wellcome Trust Manchester CRF , UK",1,NIHR Manchester Clinical Research Facility,I4405271435,no
 "Marie D. Parker, Ph.D., Leeds Institute of Molecular Medicine, Wellcome Trust Brenner Building, St. James's University Hospital, Leeds LS9 7TF, United Kingdom",1,St James's University Hospital,I2801331674,no
-"Martin Luther University Halle-Wittenberg, Halle-Saale, Germany,and EMBL Outstation, European Bioinformatics Institute, Wellcome TrustGenome Campus, Hinxton, Cambridge, U.K",1,Martin Luther University Halle-Wittenberg,I68956291,no
+"Martin Luther University Halle-Wittenberg, Halle-Saale, Germany, and EMBL Outstation, European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge, U.K",1,Martin Luther University Halle-Wittenberg,I68956291,no
 Mass Spectrometry Core Laboratory Wellcome Trust Clinical Research Facility Queen's Medical Research Institute Edinburgh UK,1,The Queen's Medical Research Institute | NIHR Wellcome Trust Southampton Clinical Research Facility,I4210164624 I4210148830,no
 "Medical Advisory Services, Wellcome International Trading Ltd, Berkhamsted, Herts HP4 2DY, UK",1,,,no
 "Medical Archives Centre, Wellcome Institute for the History of Vll",1,University College London | Wellcome Trust Centre for the History of Medicine,I45129253 I2802844630,yes
@@ -1520,11 +1503,11 @@ Mass Spectrometry Core Laboratory Wellcome Trust Clinical Research Facility Quee
 "Medical Research Council Mitochondrial Biology Unit, University of Cambridge, Wellcome Trust/MRC Building, Cambridge Biomedical Campus, Hills Road, Cambridge CB2 0XY, United Kingdom. Electronic address: julien.prudent@mrc-mbu.cam.ac.uk",1,MRC Mitochondrial Biology Unit,I79266365,no
 "Medical Research Council Mitochondrial Biology Unit, University of Cambridge, Wellcome Trust/MRC Building, Cambridge Biomedical Campus, Hills Road, Cambridge, CB2 0XY, UK. Electronic address: jh@mrc-mbu.cam.ac.uk",1,MRC Mitochondrial Biology Unit,I79266365,no
 "Medical Research Council Mitochondrial Biology Unit, Wellcome Trust-MRC Building, Hills Road, Cambridge CB2 0XY, UK",1,MRC Mitochondrial Biology Unit,I79266365,no
-"Medical Research Council Mitochondrial Biology Unit, Wellcome Trust/MRCBuilding, Hills Road, Cambridge, CB2 0XY, U.K",1,MRC Mitochondrial Biology Unit,I79266365,no
+"Medical Research Council Mitochondrial Biology Unit, Wellcome Trust/MRC Building, Hills Road, Cambridge, CB2 0XY, U.K",1,MRC Mitochondrial Biology Unit,I79266365,no
 "Medical Research Council Mitochondrial Biology Unit, Wellcome Trust/MRC Building, Cambridge Biomedical Campus, Hills Road, Cambridge, CB2 0XY, United Kingdom. Electronic address: jh@mrc-mbu.cam.ac.uk",1,MRC Mitochondrial Biology Unit,I79266365,no
 "Medical Research Council Mitochondrial Biology Unit, Wellcome Trust/MRC Building, Cambridge CB2 0XY, UK. Electronic address: michael.murphy@mrc-mbu.cam.ac.uk",1,MRC Mitochondrial Biology Unit,I79266365,no
-"Medical Research Council Mitochondrial Biology Unit, Wellcome Trust/MRC Building, Hills Road,Cambridge CB2 0XY, U.K",1,MRC Mitochondrial Biology Unit,I79266365,no
-"Medical Research Council Mitochondrial Biology Unit, Wellcome Trust/MRC Building, Hills Road, CambridgeCB2 0XY, U.K",1,MRC Mitochondrial Biology Unit,I79266365,no
+"Medical Research Council Mitochondrial Biology Unit, Wellcome Trust/MRC Building, Hills Road, Cambridge CB2 0XY, U.K",1,MRC Mitochondrial Biology Unit,I79266365,no
+"Medical Research Council Mitochondrial Biology Unit, Wellcome Trust/MRC Building, Hills Road, Cambridge CB2 0XY, U.K",1,MRC Mitochondrial Biology Unit,I79266365,no
 "Medical Research Council Mitochondrial Biology Unit, Wellcome Trust/MRC Building, Hills Road, Cambridge CB2 0XY, UK jh@mrc-mbu.cam.ac.uk",1,MRC Mitochondrial Biology Unit,I79266365,no
 "Medical Research Council Mitochondrial Biology Unit, Wellcome Trust/MRC Building, Hills Road, Cambridge CB2 0XY, UK. Electronic address: ek@mrc-mbu.cam.ac.uk",1,MRC Mitochondrial Biology Unit,I79266365,no
 "Medical Research Council Mitochondrial Biology Unit, Wellcome Trust/MRC Building, Hills Road, Cambridge CB2 0XY, UK. Electronic address: mpm@mrc-mbu.cam.ac.uk",1,MRC Mitochondrial Biology Unit,I79266365,no
@@ -1680,8 +1663,7 @@ Recipient of a Sir Henry Wellcome Travelling Fellowship,1,,,no
 Recipient of a Wellcome Research Travel Grant,1,Wellcome Library,I4210145532,no
 Recipient of project grants from the Wellcome Trust and the Muscular Dystrophy Group of Great Britain and Northern Ireland,1,,,no
 "Reprints: Aine Rice, Section of Ophthalmology and Neuroscience, Leeds Institute of Molecular Medicine, Wellcome Trust Brenner Bldg, St James's University Hospital, Leeds LS9 7TF, United Kingdom (e-mail: [email protected])",1,St James's University Hospital,I2801331674,no
-"Research Dietitian, Wellcome Trust Clinical Research Facility, Southampton University Hospitals Trust, UK
-E-mail: kate.grimshaw@suht.swest.nhs.uk",1,NIHR Wellcome Trust Southampton Clinical Research Facility,I4210148830,no
+"Research Dietitian, Wellcome Trust Clinical Research Facility, Southampton University Hospitals Trust, UK E-mail: kate.grimshaw@suht.swest.nhs.uk",1,NIHR Wellcome Trust Southampton Clinical Research Facility,I4210148830,no
 "Research Laboratories, Wellcome Italia, Pomezia, Italy",1,,,no
 "Research and Development Department, The Wellcome Foot and Mouth Disease Vaccine Laboratory, Pirbright, Surrey, U.K",1,,,no
 "Respiratory Medicine Unit, Department of Medicine and Department of Haematology, University of Cambridge, Cambridge Institute for Medical Research, Wellcome Trust/MRC Building, Hills Road, Cambridge CB2 2XY, United Kingdom",1,Wellcome/MRC Cambridge Stem Cell Institute | University of Cambridge,I21196054 I241749,yes
@@ -1722,8 +1704,7 @@ Royal Botanic Gardens Kew Wellcome Trust Millennium Building Wakehurst West Suss
 "Sanger Centre, Wellcome Trust Genome Campus, Hinxton CB10 1IL, Great Britain3",1,Wellcome Sanger Institute,I2802476451,yes
 "Sanger Centre, Wellcome Trust Genome Campus, Hinxton CB10, 1SA, UK",1,Wellcome Sanger Institute,I2802476451,yes
 "Sanger Centre, Wellcome Trust Genome Campus, Hinxton Cambridge CB10 1SA UK",1,Wellcome Sanger Institute,I2802476451,yes
-"Sanger Centre, Wellcome Trust Genome Campus, Hinxton,
- Cambridgeshire CB10 1SA, UK",1,Wellcome Sanger Institute,I2802476451,yes
+"Sanger Centre, Wellcome Trust Genome Campus, Hinxton, Cambridgeshire CB10 1SA, UK",1,Wellcome Sanger Institute,I2802476451,yes
 "Sanger Centre, Wellcome Trust Genome Campus, Hinxton, CB10 1SA, Cambridge, UK",1,Wellcome Sanger Institute,I2802476451,yes
 "Sanger Centre, Wellcome Trust Genome Campus, Hinxton, CB10 1SA, Cambridgeshire, UK",1,Wellcome Sanger Institute,I2802476451,yes
 "Sanger Centre, Wellcome Trust Genome Campus, Hinxton, CB10 1SA, U.K",1,Wellcome Sanger Institute,I2802476451,yes
@@ -1969,11 +1950,7 @@ The author was supported by fellowships from the National Paraplegia Foundation 
 "Tree of Life, Wellcome Trust Genome Campus, Hinxton, Saffron Walden CB10 1RQ, UK",1,Wellcome Sanger Institute,I2802476451,yes
 "Tropical Medicine Resource, The Wellcome Centre for Medical Science, 210 Euston Road, London NW1 2BE",1,University College London | Wellcome Trust Centre for the History of Medicine,I45129253 I2802844630,yes
 "UK HGMP Resource Centre , Wellcome Trust Genome Campus , Hinxton , Cams CB10 1SB , UK",1,Wellcome Sanger Institute,I2802476451,yes
-"UK Human Genome Mapping Project (HGMP) Resource Centre, Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1SB,UK;
-                           2Department of Medical Genetics and 
-                           3Department of Clinical Biochemistry, Cambridge Institute for Medical Research (CIMR), Addenbrooke's Hospital Site, Cambridge
-                           CB2 2XY, UK; 
-                           4The Molecular Sciences Institute, Inc., Berkeley, California 94704 USA",1,,,no
+"UK Human Genome Mapping Project (HGMP) Resource Centre, Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1SB,UK; 2Department of Medical Genetics and 3Department of Clinical Biochemistry, Cambridge Institute for Medical Research (CIMR), Addenbrooke's Hospital Site, Cambridge CB2 2XY, UK; 4The Molecular Sciences Institute, Inc., Berkeley, California 94704 USA",1,,,no
 "UK Human Genome Mapping Project Resource Centre, Wellcome Trust Genome Campus, Hinxton Hall, Hinxton, Cambridge, UK",1,Wellcome Sanger Institute,I2802476451,yes
 "UK Human Genome mapping Project Resource Centre , Wellcome Trust Genome Campus , Hinxton , Cambridge , CB10 1SB , UK",1,Wellcome Sanger Institute,I2802476451,yes
 "UK-Human Genome Mapping Project, Resource Center, Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1SB, UK, , , , , , GB",1,Wellcome Sanger Institute,I2802476451,yes
@@ -2368,15 +2345,7 @@ Wellcome Trust Clinical Research Facility Western General Hospital Edinburgh UK,
 "Wellcome Trust Clinical Research Fellow, Department of Surgery, 3rd floor, Clinical Research Institute, Birmingham University, Birmingham B15 2TH, UK",1,NIHR Wellcome Trust Southampton Clinical Research Facility | University of Birmingham,I4210148830 I79619799,no
 "Wellcome Trust Clinical Research Unit, Center for Tropical Diseases Ho Chi Minh City, Viet Nam, and",1,Oxford University Clinical Research Unit,I4210150114,yes
 "Wellcome Trust Clinical Research Unit, Center for Tropical Diseases, Ho Chi Minh City, Vietnam",1,Oxford University Clinical Research Unit,I4210150114,yes
-"Wellcome Trust Clinical Research Unit, Centre for Tropical Diseases, Cho Quan Hospital, 190 Ben Ham Tu, District 5, Ho Chi Minh City, Vietnam, 
-
-bCentre for Tropical Medicine, Nuffield Department of Clinical Medicine, John Radcliffe Hospital, Oxford, UK, 
-
-cCentre for Tropical Diseases, Cho Quan Hospital, 190 Ben Ham Tu, District 5, Ho Chi Minh City, Vietnam, 
-
-dDepartment of Anaesthetics, Royal United Hospital, Bath, United Kingdom, 
-
-eThe Department of Biochemistry, Imperial College of Science, Technology and Medicine, London SW7 2AZ, United Kingdom",1,Royal United Hospital | John Radcliffe Hospital | Imperial College London,I2800549715 I2802742124 I47508984,no
+"Wellcome Trust Clinical Research Unit, Centre for Tropical Diseases, Cho Quan Hospital, 190 Ben Ham Tu, District 5, Ho Chi Minh City, Vietnam, bCentre for Tropical Medicine, Nuffield Department of Clinical Medicine, John Radcliffe Hospital, Oxford, UK, cCentre for Tropical Diseases, Cho Quan Hospital, 190 Ben Ham Tu, District 5, Ho Chi Minh City, Vietnam, dDepartment of Anaesthetics, Royal United Hospital, Bath, United Kingdom, eThe Department of Biochemistry, Imperial College of Science, Technology and Medicine, London SW7 2AZ, United Kingdom",1,Royal United Hospital | John Radcliffe Hospital | Imperial College London,I2800549715 I2802742124 I47508984,no
 "Wellcome Trust Clinical Research Unit, Centre for Tropical Diseases, Cho Quan Hospital, 190 Ben Ham Tu, District 5, Ho Chi Minh City, Vietnam. jeremyjf@hcm.vnn.vn",1,Hospital for Tropical Diseases | Oxford University Clinical Research Unit,I4210155479 I4210150114,yes
 "Wellcome Trust Clinical Research Unit, Centre for Tropical Diseases, Cho Quan Hospital, Ho Chi Minh City, Vietnam. rachel.kneen@blueyonder.co.uk <rachel.kneen@blueyonder.co.uk>",1,,,no
 "Wellcome Trust Clinical Research Unit, Centre for Tropical Diseases, Ho Chi Minh City, Vietnam; and Nuffield Department of Clinical Medicine, John Radcliffe Hospital, Oxford OX3 9DU, UK",1,Oxford University Clinical Research Unit | John Radcliffe Hospital,I4210150114 I2802742124,yes
@@ -2444,7 +2413,7 @@ Wellcome Trust Sanger Inst,1,Wellcome Sanger Institute,I2802476451,yes
 "Wellcome Trust-MRC Cambridge Stem Cell Institute, Cambridge Biomedical Campus, Cambridge, UK. madeline.lancaster@mrc-lmb.cam.ac.uk",1,Wellcome/MRC Cambridge Stem Cell Institute,I21196054,yes
 "Wellcome Trust-MRC Institute of Metabolic Science, Addenbrooke's Hospital, Cambridge CB2 0QQ, United Kingdom",1,Wellcome/MRC Institute of Metabolic Science,I4210116691,yes
 "Wellcome Trust-MRC Institute of Metabolic Science, Addenbrooke's Hospital, Hills Road, Cambridge CB2 0QQ, UK. Electronic address: fr222@cam.ac.uk",1,Wellcome/MRC Institute of Metabolic Science | Addenbrooke's Hospital,I4210116691 I4210156194,yes
-"Wellcome Trust-MRC Institute of Metabolic Science, Addenbrookes Hospital , Cambridge, United Kingdom ",1,Wellcome/MRC Institute of Metabolic Science,I4210116691,yes
+"Wellcome Trust-MRC Institute of Metabolic Science, Addenbrookes Hospital , Cambridge, United Kingdom",1,Wellcome/MRC Institute of Metabolic Science,I4210116691,yes
 "Wellcome Trust-MRC Institute of Metabolic Science, Addenbrooke’s Hospital, Cambridge CB2 0QQ, UK",1,Wellcome/MRC Institute of Metabolic Science,I4210116691,yes
 Wellcome Trust-MRC Institute of Metabolic Science; University of Cambridge; Cambridge U.K,1,Wellcome/MRC Institute of Metabolic Science | University of Cambridge,I4210116691 I241749,yes
 "Wellcome Trust-MRC Stem Cell Institute, Cambridge, England",1,Wellcome/MRC Cambridge Stem Cell Institute,I21196054,yes
@@ -2501,8 +2470,7 @@ m.walport@wellcome.ac.uk,1,,,no
 "pension. No funding from NIH, Wellcome Trust, HHMI, or others",1,,,no
 reports on the meeting held on 16 June at the Wellcome Trust in London,1,University College London | Wellcome Trust Centre for the History of Medicine,I45129253 I2802844630,yes
 "the Cancer Research UK Chromosome Replication Research Group, Wellcome Trust Biocentre, University of Dundee, Dundee, UK",1,University of Dundee,I177639307,no
-"the Department of Rheumatology and NIHR Wellcome Trust Clinical Research Facility, University Hospital Southampton NHS Foundation Trust, Southampton, 
-United Kingdom",1,NIHR Wellcome Trust Southampton Clinical Research Facility | University Hospital Southampton NHS Foundation Trust,I4210148830 I2802965805,no
+"the Department of Rheumatology and NIHR Wellcome Trust Clinical Research Facility, University Hospital Southampton NHS Foundation Trust, Southampton, United Kingdom",1,NIHR Wellcome Trust Southampton Clinical Research Facility | University Hospital Southampton NHS Foundation Trust,I4210148830 I2802965805,no
 "the EMBL-European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton, CB10 1SD, Cambridge, UK",1,European Bioinformatics Institute,I1303153112,no
 "the Wellcome Trust Centre for the Epidemiology of Infectious Disease, Department of Zoology, Oxford University, Oxford, United Kingdom, †Division of STD and HIV Prevention, Centers for Disease Control and Prevention, Atlanta, Georgia, and ‡Family Health International, Research Triangle Park, North Carolina",1,Centers for Disease Control and Prevention,I1289490764,no
 "the Wellcome Trust Clinical Research Facility (A.S.G, A.M.H.) and Department of Clinical Biochemistry, Manchester Royal Infirmary (I.L., A.P.Y., P.W.P.), Manchester, United Kingdom",1,Manchester Royal Infirmary,I2801926401,no

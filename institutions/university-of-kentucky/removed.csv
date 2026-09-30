@@ -5,7 +5,7 @@ raw_affiliation_string,works,now_assigned_to,now_assigned_ids,still_counts_via_l
 "Dept. ofMech. Eng., University of Lexington, Lexington, KY 40506-0108, USA",9,,,no
 "Lexington, Kentucky U.S.A",9,,,no
 Lexington Ky,8,,,no
-"Lexington , KY 40502 ",7,,,no
+"Lexington , KY 40502",7,,,no
 Shoulder Center of Kentucky Lexington Kentucky U.S.A,7,,,no
 "Shoulder Center of Kentucky, Lexington, Kentucky, U.S.A",7,,,no
 "Lexington , KY ( US",6,,,no
@@ -35,7 +35,7 @@ University of Lexington,3,,,no
 "Consultant, Lexington, KY, USA",2,,,no
 "Department of Emergency Medicine, Los Angeles, California University of Kentucky,",2,,,no
 "Division of Critical Care Medicine, Department of Pediatrics, Kentucky Children's Hospital, Lexington, KY",2,,,no
-"Division of Digestive Diseases and Nutrition University of Kentucky Chandler Medical Center Lexington, KY, USA ",2,Albert B. Chandler Hospital,I2801012209,no
+"Division of Digestive Diseases and Nutrition University of Kentucky Chandler Medical Center Lexington, KY, USA",2,Albert B. Chandler Hospital,I2801012209,no
 "From the Kentucky Center for Vision, Lexington, KY",2,,,no
 "Graduate Center for Toxicology, Lexington, Kentucky 40506-0054",2,,,no
 "Kentucky , USA",2,,,no
@@ -56,9 +56,7 @@ Sanders-Brown Center on Aging  Lexington KY USA,2,,,no
 "University of Louisville School of Medicine, Lexington, Kentucky",2,University of Louisville,I142740786,no
 "University of Louisville, Lexington, KY, USA",2,University of Louisville,I142740786,no
 "the Kentucky Center for Vision, Lexington, KY",2,,,no
-"
-        Lexington, KY
-",1,,,no
+"Lexington, KY",1,,,no
 "##Groupe Hospitalier Pitié-Saltpêtrière, Université Paris 6, INSERM CMR 937, Paris, France; #Department of Cardiology, Henry Ford Hospital, Detroit, MI; ***Sarah Cannon Research Institute and Hospital Corporation of America, Nashville, TN.; **Department of Cardiology, Detar Hospital, Victoria, TX; *Department of Cardiology, University of Florida, Jacksonville, FL; §Department of Cardiology, Northeast Georgia Heart Center, Gainesville, GA; §§Cardiac & Vascular Research Center of Northern Michigan, Northern Michigan Regional Hospital, Petoskey, MI; ¶Department of Anesthesiology, Duke University Medical Center, Durham, NC; ¶¶The Medicines Company, Parsippany, NJ; †Division of Cardiothoracic Surgery, Ohio State University Medical Center, Columbus, OH; ††Department of Surgery, University of Kentucky, Lexington, KY; ‡Division of Cardiovascular Diseases, Scripps Clinic and Scripps Translational Science Institute, La Jolla, CA; ‡‡Department of Cardiac Surgery, University Hospital, Hradec Kralove, Czech Republic; ∥First Internal Clinic, Faculty Hospital Olomouc, Olomouc, Czech Republic; ∥∥SouthEast Texas Cardiovascular Surgery Associates, Humble, TX",1,University of Florida | Inserm | Henry Ford Hospital | Pitié-Salpêtrière Hospital | Duke Medical Center | Université Pierre-et-Marie-Curie,I33213144 I154526488 I2803043754 I4210121705 I4210126298 I4405264447,no
 "* University of Kentucky Chandler Medical Center, Kentucky TeleCare",1,Albert B. Chandler Hospital,I2801012209,no
 "*School of Veterinary Medicine, University of Pennsylvania, Inc., Lexington, U.S.A",1,University of Pennsylvania,I79576946,no
@@ -162,7 +160,7 @@ Department of Civil and Environmental Engineering University of Louisville  Lexi
 "Department of Clinical Sciences, Lexington, KY, USA",1,,,no
 "Department of Clinical Sciences, Lexington, Kentucky 40506-0286",1,,,no
 "Department of Clinical Sciences, University of Lexington, KY 40506, USA",1,,,no
-"Department of Computers and Information Science , EKU , KY ",1,,,no
+"Department of Computers and Information Science , EKU , KY",1,,,no
 "Department of Critical Care, Kentucky Children's Hospital, Lexington, KY, USA",1,,,no
 "Department of Dermatology, University of Pennsylvania, Kentucky, U.S.A",1,University of Pennsylvania,I79576946,no
 "Department of Diagnostic Radiology, The University of Kentucky Chandler Medical Center, Lexington,",1,Albert B. Chandler Hospital,I2801012209,no
@@ -346,7 +344,7 @@ Kentucky Campus,1,,,no
 "Kentucky Department of Mines and Minerals, 40511, Lexington, Kentucky, USA",1,,,no
 "Kentucky Dept. of Highways, Lexington, Ky",1,,,no
 "Kentucky Eye Institute, Lexington KY",1,,,no
-"Kentucky Geological SuiVey , Lexington , KY 40506 ",1,Kentucky Geological Survey,I4405262179,yes
+"Kentucky Geological SuiVey , Lexington , KY 40506",1,Kentucky Geological Survey,I4405262179,yes
 "Kentucky Geological Survey 4 , Lexington, Kentucky; eble@uky.edu",1,Kentucky Geological Survey,I4405262179,yes
 Kentucky Geological Survey Univ. of Kentucky  Henderson KY USA,1,Kentucky Geological Survey,I4405262179,yes
 "Kentucky Hand & Physical Therapy, Lexington, KY, USA",1,,,no
@@ -354,7 +352,7 @@ Kentucky Geological Survey Univ. of Kentucky  Henderson KY USA,1,Kentucky Geolog
 "Kentucky Injury Prevention and Research Center, Lexington, Kentucky, USA",1,,,no
 Kentucky One Health Lexington KY USA,1,KentuckyOne Health,I4210098196,no
 "Kentucky Place Names. Lexington , Kentucky 40506-0024 :",1,,,no
-"Kentucky State Medical Examiner Program, Justice Cabinet 1 Assistant professor of neurology and Sanders-Brown Research Center on Aging ,   101 Sanders-Brown Bdg. Lexington, KY40536-0230 ; chief biochemical consultant , ",1,,,no
+"Kentucky State Medical Examiner Program, Justice Cabinet 1 Assistant professor of neurology and Sanders-Brown Research Center on Aging ,   101 Sanders-Brown Bdg. Lexington, KY40536-0230 ; chief biochemical consultant ,",1,,,no
 Kentucky State University- Lexington,1,Kentucky State University,I88447708,no
 "Kentucky Transportation Center , Lexington , KY , 40506 , USA",1,,,no
 "Kentucky Transportation Center, Lexington, KY 40506, USA",1,,,no
@@ -374,7 +372,7 @@ Lacey Buckler is Assistant Chief Nurse Executive for Advanced Practice and Strat
 "Lexington , Kentucky 2022",1,,,no
 "Lexington , Kentucky Lexington , Kentucky",1,,,no
 "Lexington , Kentucky Professor of Chemical Engineering Lexington ; Kentucky",1,,,no
-"Lexington , Ky ",1,,,no
+"Lexington , Ky",1,,,no
 "Lexington Community College, Kentucky, USA",1,,,no
 "Lexington Fire Department , Lexington, KY 40504 ,",1,,,no
 "Lexington Fire Department, Lexington, KY 40504, United States",1,,,no
@@ -388,7 +386,7 @@ Lacey Buckler is Assistant Chief Nurse Executive for Advanced Practice and Strat
 "Lexington, KY, in 1986",1,,,no
 "Lexington, Kentucky 40536–0084",1,,,no
 "Lexington, Kentucky, U. S. A",1,,,no
-"Lexington, Ky ",1,,,no
+"Lexington, Ky",1,,,no
 "Lexington, Ky U.S.A",1,,,no
 "Limestone Street , Kentucky Clinic L543 , Lexington , Kentucky 40536-0284 , USA,",1,,,no
 "MEDI, Inc., Lexington, Kentucky 40576-1486",1,,,no
@@ -436,7 +434,7 @@ Pacific Institute for Research & Evaluation U.S. National Highway Traffic Safety
 "RESEARCH FOUNDATION , Lexington , KY ( US",1,,,no
 "RN, UK College of Nursing Building Room 315 , Lexington , KY 40536 ,",1,,,no
 "Rastern Kentucky University , USA",1,,,no
-"Rd. , Lexington , KY 40502 ",1,,,no
+"Rd. , Lexington , KY 40502",1,,,no
 "Regina Stoltz is the Director, Neonatal Intensive Care Unit, Baptist Health Lexington, Lexington, KY. She can be reached via e-mail at regina.stoltz@bhsi.com Rhonda Byrd is a Staff RN, Neonatal Intensive Care Unit, Baptist Health Lexington, Lexington, KY. Anna Jeanine Hench is a Staff RN, Neonatal Intensive Care Unit, Baptist Health Lexington, Lexington, KY. Tamara Slone is a Staff RN, Neonatal Intensive Care Unit, Baptist Health Lexington, Lexington, KY. Dorothy Brockopp is Evidence Based Practice Consultant, Baptist Health Lexington, Lexington, KY and Professor Emeritus, College of Nursing, University of Kentucky. Krista Moe is Evidence Based Practice Consultant, Baptist Health Lexington, Lexington, KY",1,Central Baptist Hospital,I4210093865,no
 "Research Engr. Senior, Materials Research Lab,, Kentucky Dept. of Highways, Lexington, Ky",1,,,no
 "Research Engr., Div. of Research, Kentucky Dept. of Highways, Lexington, Ky",1,,,no
@@ -446,7 +444,7 @@ Pacific Institute for Research & Evaluation U.S. National Highway Traffic Safety
 "Respectively, Assistant Professor, Biosystems and Agricultural Engineering, 105 Agricultural Engineering Bldg., Lexington, Kentucky 40546–0276; and Professor, Civil Engineering, 354G CE/Transportation Bldg., Lexington, Kentucky 40506 (E-Mail/Workman: sworkman@BAE.uky.edu)",1,,,no
 "Rhode Island Unified Research Center, General Medicine Research Unit, Rhode Island Hospital, Providence, Rhode Island, USA ; University of Rhode Island, Kingston, Rhode Island, USA ; University of Puerto Rico, San Juan, Puerto Rico ; Maryland Research Center, Friends Research Institute, Inc., Baltimore, Maryland, USA ; Southwest Research Center, Institute for Behavioral Research, Texas Christian University, Fort Worth, Texas, USA ; Pennsylvania Research Center at Temple University, Philadelphia, Pennsylvania, USA ; Commonwealth of Pennsylvania Department of Corrections, Camp Hill, Pennsylvania, USA ; Rocky Mountains Research Center, National Development and Research Institute, Inc., New York, New York, USA ; Mid-States Research Center, Center for Drug and Alcohol Studies, University of Delaware, Newark, Delaware, USA ; Central States Research Center, Center for Drug and Alcohol Research, University of Kentucky, Lexington, Kentucky, USA ; Center for Applied Behavioral Research Policy, Arizona State University, Phoenix, Arizona, USA ; Pacific Coast Research Center, Integrated Substance Abuse Programs, University of California, Los Angeles, California, USA ; Connecticut Research Center, University of Connecticut, CT Department of Correction, Hartford, Connecticut, USA",1,"University of Rhode Island | Temple University | University of Delaware | University of California, Los Angeles | University of Puerto Rico System | Rhode Island Hospital | Friends Research Institute",I17626003 I84392919 I86501945 I161318765 I200399037 I2800446032 I4210146075,no
 "Room, Lexington, KY 40536–0297, USA",1,,,no
-"S. Limestone , Kentucky Clinic , Second Floor , Wing C , Room E214 , Lexington , KY 40536 ",1,,,no
+"S. Limestone , Kentucky Clinic , Second Floor , Wing C , Room E214 , Lexington , KY 40536",1,,,no
 "Sanders Brown Research Center on Aging, KY, USA",1,,,no
 "Sanders-Brown Center On Aging, Lexington, KY, 40356, USA",1,,,no
 "Sanders-Brown Center on Aging Lexington, Kentucky 40536",1,,,no

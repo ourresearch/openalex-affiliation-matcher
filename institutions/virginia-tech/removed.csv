@@ -14,7 +14,7 @@ Virginia Tech. Transportation Institute,34,Virginia Tech Transportation Institut
 "Virginia Tech Transportation Institute, 3500 Transportation Research Plaza, Blacksburg, VA 24061",16,Virginia Tech Transportation Institute,I4387930269,yes
 "Virginia Tech Transportation Institute, USA",16,Virginia Tech Transportation Institute,I4387930269,yes
 "Virginia Tech Transportation Institute, United States",16,Virginia Tech Transportation Institute,I4387930269,yes
-"Virginia Tech Transportation Institute 3500 Transportation Research Plaza Blacksburg , VA 24061 11 ",15,Virginia Tech Transportation Institute,I4387930269,yes
+"Virginia Tech Transportation Institute 3500 Transportation Research Plaza Blacksburg , VA 24061 11",15,Virginia Tech Transportation Institute,I4387930269,yes
 "Virginia Tech Transportation Institute, Blacksburg, USA",15,Virginia Tech Transportation Institute,I4387930269,yes
 "Virginia Tech Transportation Institute, Blacksburg, VA 24061, USA",15,Virginia Tech Transportation Institute,I4387930269,yes
 "Virginia Tech Transportation Institute Blacksburg, Virginia",14,Virginia Tech Transportation Institute,I4387930269,yes
@@ -31,8 +31,7 @@ Virginia Tech - Wake Forest University School of Biomedical Engineering & Scienc
 "Virginia Tech Transportation Institute, 3500 Transportation Research Plaza (0536), Blacksburg, VA 24061",9,Virginia Tech Transportation Institute,I4387930269,yes
 "Virginia Tech Transportation Institute, 3500 Transportation#R# Research Plaza, Blacksburg, VA 24061",9,Virginia Tech Transportation Institute,I4387930269,yes
 "Blacksburg , Virginia 24061",8,,,no
-"Virginia Tech Transportation Institute, 
-Blacksburg, VA",8,Virginia Tech Transportation Institute,I4387930269,yes
+"Virginia Tech Transportation Institute, Blacksburg, VA",8,Virginia Tech Transportation Institute,I4387930269,yes
 "Virginia Tech Transportation Institute, Blacksburg, Virginia, USA",8,Virginia Tech Transportation Institute,I4387930269,yes
 "2023 Blacksburg , Virginia",7,,,no
 "2024 Blacksburg , Virginia",7,,,no
@@ -74,7 +73,7 @@ VIrginia Tech,7,,,no
 "Virginia Technology Transportation Institute, USA",4,Virginia Tech Transportation Institute,I4387930269,yes
 "2023 Blacksburg , VA",3,,,no
 "BLACKSBURG, VIRGINIA",3,,,no
-Blacksburg ,3,,,no
+Blacksburg,3,,,no
 "Blacksburg, Virginia 24060, USA",3,,,no
 "Center for Sustainable Mobility at the Virginia Tech Transportation Institute, Blacksburg, VA, USA",3,Virginia Tech Transportation Institute,I4387930269,yes
 "Department of Civil and Environmental Engineering, Virginia Tech Transportation Institute, Blacksburg, VA, USA",3,Virginia Tech Transportation Institute,I4387930269,yes
@@ -106,7 +105,7 @@ Virginia Tech Transportation Institute (VTTI),3,Virginia Tech Transportation Ins
 "Agricultural and Applied Economics, 250 Drillfield Drive, Blacksburg, VA 24061, United States",2,,,no
 "Blacksburg , VA 24060",2,,,no
 "Blacksburg , Virginia , United States",2,,,no
-"Blacksburg , Virginia 24061 ",2,,,no
+"Blacksburg , Virginia 24061",2,,,no
 "Blacksburg Middle School, Blacksburg, Virginia",2,Fredericksburg Independent School District,I4210141241,no
 "Blacksburg, VA 24061, USA 1",2,,,no
 "Blacksburg, VA, United States",2,,,no
@@ -144,8 +143,7 @@ VA Tech Hydro#TAB#,2,,,no
 VIrginia Tech U,2,,,no
 "Virginia Bioinformatics Insitute , Blacksburg, VA",2,,,no
 Virginia Tech Applied Research Corp,2,,,no
-"Virginia Tech Transportation Institute (VTTI), 
-Blacksburg, VA",2,Virginia Tech Transportation Institute,I4387930269,yes
+"Virginia Tech Transportation Institute (VTTI), Blacksburg, VA",2,Virginia Tech Transportation Institute,I4387930269,yes
 "Virginia Tech Transportation Institute (VTTI), #N#Blacksburg, VA",2,Virginia Tech Transportation Institute,I4387930269,yes
 "Virginia Tech Transportation Institute (VTTI), 3500 Transportation Research Plaza, USA",2,Virginia Tech Transportation Institute,I4387930269,yes
 "Virginia Tech Transportation Institute Blacksburg, VA 24061",2,Virginia Tech Transportation Institute,I4387930269,yes
@@ -173,9 +171,7 @@ Blacksburg, VA",2,Virginia Tech Transportation Institute,I4387930269,yes
 "a  Virginia Tech Transportation Institute ,  Blacksburg ,  Virginia ,  USA",2,Virginia Tech Transportation Institute,I4387930269,yes
 "a Virginia Tech Transportation Institute , Blacksburg , Virginia",2,Virginia Tech Transportation Institute,I4387930269,yes
 "b Virginia Tech Transportation Institute, Center for Automotive Safety , Blacksburg , Virginia",2,Virginia Tech Transportation Institute,I4387930269,yes
-"
-            Blacksburg, Virginia
-",1,,,no
+"Blacksburg, Virginia",1,,,no
 #N# 1 Virginia Tech Transportation Institute,1,Virginia Tech Transportation Institute,I4387930269,yes
 "#N# 2 Virginia Tech Transportation Institute, Blacksburg, VA",1,Virginia Tech Transportation Institute,I4387930269,yes
 "(VA TECH HYDRO GmbH & Co, Elingasse, Austria)",1,VRVis GmbH (Austria),I1343190059,no
@@ -190,20 +186,7 @@ Blacksburg, VA",2,Virginia Tech Transportation Institute,I4387930269,yes
 ". Virginia Tech Transportation Institute, 3500 Transportation Research Plaza, Blacksburg, VA 24061",1,Virginia Tech Transportation Institute,I4387930269,yes
 "1 Center for Power Electronics Systems (CPES), Bradley Department of Electrical and Computer Engineering",1,Bradley University,I24648388,no
 "1 Clay Street # 12 Blacksburg , Virginia 24060",1,"Laboratory Orofacial Pathologies, Imaging and Biotherapies",I4210092671,no
-"1 Dipartimento di Fisica, Universita’ degli Studi e INFN, I-20133 Milano, Italy 
-2 Chemical Engineering Department, Princeton University, Princeton, New Jersey 08544, USA 
-3 Physics Department, University of Massachusetts, Amherst, Massachusetts 01003, USA 
-4 Physics Department, Princeton University, Princeton, New Jersey 08544, USA 
-5 Dipartimento di Fisica, Universita’ e INFN, Genova I-16146, Italy 
-6 Laboratoire AstroParticule et Cosmologie, F-75231 Paris Cedex 13, France 
-7 St. Petersburg Nuclear Physics Institute, RU-188350 Gatchina, Russia 
-8 RRC Kurchatov Institute, RU-123182 Moscow, Russia 
-9 Joint Institute for Nuclear Research, RU-141980 Dubna, Russia 
-10 INFN Laboratori Nazionali del Gran Sasso, SS 17 bis Km 18+910, I-67010 Assergi (AQ), Italy 
-11 Physik Department, Technische Universitaet Muenchen, D-85747 Garching, Germany 
-12 Physics Department, Virginia Polytechnic Institute and State University, Blacksburg, Virginia 24061, USA 
-14 M. Smoluchowski Institute of Physics, Jagellonian University, PL-30059 Krakow, Poland 
-15 Dipartimento di Chimica, Universita’ e INFN, I-06123 Perugia, Italy",1,Princeton University | Technical University of Munich,I20089843 I62916508,no
+"1 Dipartimento di Fisica, Universita’ degli Studi e INFN, I-20133 Milano, Italy 2 Chemical Engineering Department, Princeton University, Princeton, New Jersey 08544, USA 3 Physics Department, University of Massachusetts, Amherst, Massachusetts 01003, USA 4 Physics Department, Princeton University, Princeton, New Jersey 08544, USA 5 Dipartimento di Fisica, Universita’ e INFN, Genova I-16146, Italy 6 Laboratoire AstroParticule et Cosmologie, F-75231 Paris Cedex 13, France 7 St. Petersburg Nuclear Physics Institute, RU-188350 Gatchina, Russia 8 RRC Kurchatov Institute, RU-123182 Moscow, Russia 9 Joint Institute for Nuclear Research, RU-141980 Dubna, Russia 10 INFN Laboratori Nazionali del Gran Sasso, SS 17 bis Km 18+910, I-67010 Assergi (AQ), Italy 11 Physik Department, Technische Universitaet Muenchen, D-85747 Garching, Germany 12 Physics Department, Virginia Polytechnic Institute and State University, Blacksburg, Virginia 24061, USA 14 M. Smoluchowski Institute of Physics, Jagellonian University, PL-30059 Krakow, Poland 15 Dipartimento di Chimica, Universita’ e INFN, I-06123 Perugia, Italy",1,Princeton University | Technical University of Munich,I20089843 I62916508,no
 "1. Virginia Tech Transportation Institute, 3500 Transportation Research Plaza, Blacksburg, VA 24061, USA",1,Virginia Tech Transportation Institute,I4387930269,yes
 "1. Virginia Tech Transportation Institute, 3500 Transportation Research Plaza, Blacksburg, VA 24061, USA; 2. College of Computing and Information Technology, Arab Academy for Science, Technology, and Maritime Transport, Giza Governorate 3650111, Egypt",1,"Arab Academy for Science, Technology, and Maritime Transport | Virginia Tech Transportation Institute",I59272784 I4387930269,yes
 "123 D Burruss Hall, Blacksburg, VA 24061-0156540.818.4604, USA",1,,,no
@@ -211,7 +194,7 @@ Blacksburg, VA",2,Virginia Tech Transportation Institute,I4387930269,yes
 "1413 Palmer Drive , Blacksburg , VA , 24060 , USA",1,,,no
 "150 Kent St. Blacksburg, VA 24061",1,,,no
 "1514 Oriole Drive, Blacksburg, VA, 24060",1,,,no
-"175 West Campus Drive , Blacksburg VA 24061 ",1,,,no
+"175 West Campus Drive , Blacksburg VA 24061",1,,,no
 "1750 Kraft Drive , Suite 2005 , Blacksburg , VA 24061 ,",1,,,no
 "1979 Blacksburg , Virginia",1,,,no
 "1986 Blacksburg , VA",1,,,no
@@ -238,7 +221,7 @@ Blacksburg, VA",2,Virginia Tech Transportation Institute,I4387930269,yes
 "2026 , Blacksburg , VA",1,,,no
 "205 Duck Pond Drive Blacksburg , VA 24061-0442",1,,,no
 "2300 E. Foxridge, 24060, Blacksburg, VA, USA",1,,,no
-"24061 1 Research Associate , , Blacksburg, VA   ",1,,,no
+"24061 1 Research Associate , , Blacksburg, VA",1,,,no
 "24073-0328, Blacksburg, VA, USA",1,,,no
 "2Virginia Tech Carilion Research Institute and School of Medicine, Ronaoke, VA;",1,Carilion Clinic,I5716644,yes
 "3030 Mt Tabor Rd, Blacksburg, VA, 24060; Dr",1,,,no
@@ -285,9 +268,9 @@ Black Ant Tech Inc. (United States),1,,,no
 "Blacksburg , VA 24061 ,",1,,,no
 "Blacksburg , VA 24061 USA",1,,,no
 "Blacksburg , VA 24061-0327",1,,,no
-"Blacksburg , VA 24601 ",1,,,no
+"Blacksburg , VA 24601",1,,,no
 "Blacksburg , Va",1,,,no
-"Blacksburg , Virginia ",1,,,no
+"Blacksburg , Virginia",1,,,no
 "Blacksburg , Virginia ,",1,,,no
 "Blacksburg , Virginia , 2010",1,,,no
 "Blacksburg , Virginia , U",1,,,no
@@ -320,17 +303,7 @@ Blacksburg Virginia,1,,,no
 "CARE Affiliates, Blacksburg, VA",1,,,no
 "CORE, Universite Catholique de Louvain; J. CREMER: Virginia Poly technic Institute and State University et GREMAQ,",1,UCLouvain,I95674353,no
 "Cardiff University Brain Research Imaging Centre, School of Psychology, Cardiff University, Cardiff CF119BJ, United Kingdom, Imperial College London, Centre for Neuropsychopharmacology, Division of Brain Sciences, Faculty of Medicine, London W12 ONN, United Kingdom, Wellcome Trust Centre for Neuroimaging, University College London, London WC1N 3BG, United Kingdom, Sir Peter Mansfield Magnetic Resonance Centre, Nottingham University, Nottingham NG7 2RD, United Kingdom, Academic Unit of Psychiatry, University of Bristol, Bristol BS8 2BN, United Kingdom, The Beckley Foundation, Beckley Park, Oxford OX3 9SY, United Kingdom, and Virginia Tech Carilion Research Institute, and Bradley Department of Electrical & Computer Engineering, Virginia Polytechnic Institute and State University, Roanoke, Virginia 24016",1,University of Bristol | University College London | Imperial College London | Cardiff University | Wellcome Centre for Human Neuroimaging,I36234482 I45129253 I47508984 I79510175 I165524941,no
-"Carleton University, Ottawa, Ontario, Canada,Boston University,University of Arkansas
-University of Arkansas, Fayetteville, Arkansas, USA,Teikyo University,University of Missouri, Rolla, Missouri, USA,New Mexico State University,Northwestern University,Lehigh University,University of Nevada-Las Vegas
-University of Nevada, Las Vegas, NV, US,Virginia Commonwealth University, Richmond, USA,University of Kentucky, Lexington, Kentucky, USA,University of Newcastle, Callaghan, Australia,Lawrence Livermore National Laboratory, California, USA
-Lawrence Livermore Nat'l Lab
-Lawrence Livermore National Laboratory, California, USA
-Lawrence Livermore National Laboratory, California, USA
-Lawrence Livermore National Laboratory
-Lawrence Livermore National Lab, Livermore, California, USA
-Lawrence Livermore National Laboratory, California, USA
-Lawrence Livermore National Laboratory, California, USA,Virginia Tech, Blacksburg, Virginia, USA,Southern Illinois University, Carbondale, Illinois, USA,Toho University, Chibaken, Japan,Texas A&M University, College Station, Texas, USA,University of Nevada, Reno, Nevada, USA,Virginia Tech, Blacksburg, Virginia, USA
-Virginia Tech, Blacksburg, USA",1,Carleton University | University of Arkansas at Fayetteville | Teikyo University | Boston University | University of Kentucky | Virginia Commonwealth University | Lehigh University | Lawrence Livermore National Laboratory,I67031392 I78715868 I87531838 I111088046 I143302722 I184840846 I186143895 I1282311441,no
+"Carleton University, Ottawa, Ontario, Canada,Boston University,University of Arkansas University of Arkansas, Fayetteville, Arkansas, USA,Teikyo University,University of Missouri, Rolla, Missouri, USA,New Mexico State University,Northwestern University,Lehigh University,University of Nevada-Las Vegas University of Nevada, Las Vegas, NV, US,Virginia Commonwealth University, Richmond, USA,University of Kentucky, Lexington, Kentucky, USA,University of Newcastle, Callaghan, Australia,Lawrence Livermore National Laboratory, California, USA Lawrence Livermore Nat'l Lab Lawrence Livermore National Laboratory, California, USA Lawrence Livermore National Laboratory, California, USA Lawrence Livermore National Laboratory Lawrence Livermore National Lab, Livermore, California, USA Lawrence Livermore National Laboratory, California, USA Lawrence Livermore National Laboratory, California, USA,Virginia Tech, Blacksburg, Virginia, USA,Southern Illinois University, Carbondale, Illinois, USA,Toho University, Chibaken, Japan,Texas A&M University, College Station, Texas, USA,University of Nevada, Reno, Nevada, USA,Virginia Tech, Blacksburg, Virginia, USA Virginia Tech, Blacksburg, USA",1,Carleton University | University of Arkansas at Fayetteville | Teikyo University | Boston University | University of Kentucky | Virginia Commonwealth University | Lehigh University | Lawrence Livermore National Laboratory,I67031392 I78715868 I87531838 I111088046 I143302722 I184840846 I186143895 I1282311441,no
 "Center for Advanced Automotive Research, Virginia Tech Transportation Institute, Blacksburg, VA 24060, USA",1,Virginia Tech Transportation Institute,I4387930269,yes
 "Center for Advanced Automotive Research, Virginia Tech Transportation Institute, Blacksburg, VA, USA",1,Virginia Tech Transportation Institute,I4387930269,yes
 "Center for Automated Vehicle Systems, Virginia Tech Transportation Institute, 3500 Transportation Research Plaza, Blacksburg, VA, 24061, USA",1,Virginia Tech Transportation Institute,I4387930269,yes
@@ -410,7 +383,7 @@ Center for Vulnerable Road User Safety Virginia Tech Transportation Institute Bl
 "Charles Via Department of Civil and Environmental Engineering, Virginia Technology Virginia Tech Transportation Institute, Blacksburg, VA, USA",1,Virginia Tech Transportation Institute,I4387930269,yes
 "Charles Via Jr. Department of Civil and Environmental Engineering, Virginia Tech Transportation Institute, 3500 Transportation Research Plaza (0536), Blacksburg, VA 24061—0536, USA",1,Virginia Tech Transportation Institute,I4387930269,yes
 "Chemical Engineering Department, TIET-Virginia Tech Center of Excellence in Emerging Materials, Thapar Institute of Engineering & Technology, Patiala, 147004, India",1,Thapar Institute of Engineering & Technology,I162030827,no
-"Child Study Center , Blacksburg , VA 24060 ",1,,,no
+"Child Study Center , Blacksburg , VA 24060",1,,,no
 "Child Study Center, Blacksburg, VA, USA",1,,,no
 "Chris Barrett, Keith Bisset, Jiangzhou Chen, Stephen Eubank, Annette Feng, Kathy Laskowski, Bryan Lewis, Achla Marathe, Madhav Marathe, Bill Marmagas, Henning Mortveit, Paula Stretz, Samarth Swarup, Anil Vullikanti, Dawen Xie, Jose Jimenez, Junwhan Kim, Akshay Maloo, Nidhi Parikh, Guanhong Pei, Caitlin Rivers, Sudip Saha, and Balaaji Sunapanasubbiah contributed in building the simulation environment and the supporting data infrastructure. The authors also acknowledge the contributions of time, data, domain area expertise, and support from Todd Han, Dave Myers, and Mike Phillips (DTRA Reachback: Blast simulation and management); Mike Snow, Jian Lu, and Mandy Wilson (VBI CCF: High performance computing support); Ryan Quint, Yaman Evrenosoglu, Arun Phadke, and James Thorp (Electrical Engineering, Virginia Tech: expertise in power networks); Jeff Reed (Electrical Engineering, Virginia Tech: expertise in communication networks); Nishith Tripathi (Award Solutions: expert in communication networks); Dane Webster (School of Visual Arts, Virginia Tech: expertise in visualization and graphics); and Thomas Dickerson and Peter Sforza (CGIT, Virginia Tech: expertise in GIS)",1,,,no
 "Clemson University, Clemson, SC. 2Oregon State University, Corvallis, OR. 3University of Nevada Reno, Reno, NV. 4Virginia Tech, Blacksburg, VA. 5University of Arizona, Tucson, AZ. (Sponsor: Kathy Gunter, FACSM)",1,"Clemson University | Oregon State University | University of Nevada, Reno",I8078737 I131249849 I134113660,no
@@ -500,7 +473,7 @@ Director of the Center for Vehicle-Infrastructure Safety at the Virginia Tech Tr
 "Division of Vehicle, Driver, and System Safety, Virginia Tech Transportation Institute (bis 2022 JARI Japan Automobile Research Institute and SAKURA project, Tsukuba, Japan), Blacksburg, VA, USA",1,Japan Automobile Research Institute | Virginia Tech Transportation Institute,I4210157397 I4387930269,yes
 Dr. Bianca M. Wimmer graduated from The Institute of Environmental and Human Health at Texas Tech University and is currently a Postdoctoral Fellow in the Vector-borne Zoonoses Laboratory of the Biological Threat Research Laboratory Group at Texas Tech University,1,Texas Tech University,I12315562,no
 "Dr. Luhanga: Assistant Professor of Medicine, Education Researcher (GME), Emory University School of Medicine, Atlanta, GA. Dr. Chen: Assistant Professor, Assistant Director of Evaluation and Assessment Innovation, Division of Evaluation, Assessment, and Education Research, Baylor College of Medicine, Houston, TX. Dr. Minor: Associate Professor, Assistant Dean for Faculty Development, Herbert Wertheim College of Medicine, Florida International University, Miami, FL. Ms. Drowos: Associate Professor of Family Medicine, Associate Dean for Faculty Affairs, Integrated Medical Science Department, Charles E. Schmidt College of Medicine, Florida Atlantic University, Boca Raton, FL. Ms. Berry: Executive Director, Faculty Life and Instructor, Medical Education, College of Medicine, University of Central Florida, Orlando, FL. Ms. Rudd: Education & Faculty Development Manager, Virginia Tech Carilion School of Medicine, Roanoke, VA. Dr. Gupta: Assistant Professor, Department of Internal Medicine, M",1,Florida International University | Florida Atlantic University | University of Central Florida | Emory University | Baylor College of Medicine,I19700959 I63772739 I106165777 I150468666 I181547552,no
-"Drive , Blacksburg , VA 24061 ",1,,,no
+"Drive , Blacksburg , VA 24061",1,,,no
 "Duck Pond Dr. Blacksburg, VA 24061, USA",1,,,no
 "Durability Inc, Blacksburg, VA 24060, USA",1,,,no
 "Eco-Transportation and Alternative Technologies Group, Virginia Tech Transportation Institute, Blacksburg, VA",1,Virginia Tech Transportation Institute,I4387930269,yes
@@ -515,7 +488,7 @@ Dr. Bianca M. Wimmer graduated from The Institute of Environmental and Human Hea
 "Forest Operations, 228 Cheatham Hall, 310 West Campus Drive, Blacksburg, VA, 0324, USA",1,,,no
 "Formerly Graduate Assistant, Virginia Polytechnic Institute, now Research Associate, Texas A&M University",1,Texas A&M University,I91045830,no
 "Formerly Graduate Research Assistant, Virginia Tech Transportation Institute, 3500 Transportation Research Plaza, Blacksburg, VA 24060. ORCID: https://orcid.org/0000-0001-9811-496X",1,Virginia Tech Transportation Institute,I4387930269,yes
-"Formerly Total E&P Research & Technology USA, LLC 3 , 1201 Louisiana St., Suite 1800, Houston, Texas 77002, ; currently , Department of Mathematics, 460 McBryde Hall, 255 Stanger St., Blacksburg, Virginia 24061, . E-mail: rhewett@vt.edu ",1,,,no
+"Formerly Total E&P Research & Technology USA, LLC 3 , 1201 Louisiana St., Suite 1800, Houston, Texas 77002, ; currently , Department of Mathematics, 460 McBryde Hall, 255 Stanger St., Blacksburg, Virginia 24061, . E-mail: rhewett@vt.edu",1,,,no
 "From Cincinnati Children’s Hospital Medical Center, and the Department of Pediatrics, University of Cincinnati School of Medicine — both in Cincinnati (A.B.); Uganda Heart Institute (E.O., J.R., J.A., P.L., M.N., E.N., I.O.O.), and the Department of Medicine, Makerere University (E.O.) — both in Kampala, Uganda; Children’s National Hospital, Washington, DC (L.C., M. Murali, R.S., C.A.S.); Murdoch Children’s Research Institute (A.G., D.E., A.C.S.), and Melbourne Children’s Global Health, Royal Children’s Hospital (D.E., A.C.S.), Melbourne, and Telethon Kids Institute, Perth Children’s Hospital, University of Western Australia, Perth (J.C.) — all in Australia; Virginia Tech Carilion School of Medicine, Roanoke, VA (A.D.W.); Assistance Publique–Hôpitaux de Paris, Université de Paris, and Cardio-Oncologie, Hôpital Européen Georges-Pompidou — both in Paris (M. Mirabel); Instituto Nacional de Saúde, Maputo, Mozambique (A.O.M.); Universidade Federal de Minas Gerais, Belo Horizonte, Brazil (M",1,University of Cincinnati | Makerere University | The University of Western Australia | Université Paris Cité | Cincinnati Children's Hospital Medical Center | Children's National | Assistance Publique – Hôpitaux de Paris | Murdoch Children's Research Institute | Uganda Heart Institute,I63135867 I72227227 I177877127 I204730241 I1285204247 I1336742384 I4210097159 I4210150290 I4405260424,no
 "From the *Wake Forest Institute for Regenerative Medicine, †Virginia Tech-Wake Forest University School of Biomedical Engineering & Sciences, and ‡Department of Surgery, Wake Forest School of Medicine, Winston-Salem, NC; and §Department of Biomedical Engineering, Illinois Institute of Technology, Chicago; and ∥Research Service, Hines Veterans Administration Hospital, Hines, IL",1,Illinois Institute of Technology | Virginia Tech - Wake Forest University School of Biomedical Engineering & Sciences | Wake Forest University Health Sciences,I180949307 I4210104154 I4405269449,yes
 "From the Advanced Neuroscience Imaging Research (ANSIR) Laboratory (N.B., D.S., E.M.D., Y.J., C.T.W., J.A.M.), Wake Forest School of Medicine (S.R.), Department of Radiology-Neuroradiology (Y.J., C.T.W.), Department of Biomedical Engineering (N.B., J.E.U., Y.J., J.D.S., C.T.W.), Department of Family and Community Medicine (C.T.W.), Department of Neurosurgery (C.T.W.), Virginia Tech-Wake Forest School of Biomedical Engineering (N.B., J.E.U., Y.J., J.D.S., C.T.W.), Division of Pediatric Neuropsychology (C.G.V., G.A.G.), Children's National Health System, George Washington University School of Medicine, Rockville, Md; Childress Institute for Pediatric Trauma, Wake Forest School of Medicine, Winston-Salem, NC (J.D.S.); and Department of Radiology, University of Texas Southwestern Medical Center, Dallas, Tex (E.M.D., B.W., J.A.M.)",1,Wake Forest University | Children's National,I47251452 I1336742384,no
@@ -565,7 +538,7 @@ Global Food StudiesThe University of Adelaide (formerly of Virginia Tech)Adelaid
 "NanoSonic, Blacksburg, VA, 24060, USA",1,NanoSonic (United States),I4210137789,no
 National Road and Transport Research Institute) VTTI -Virginia Tech Transportation Institute,1,Virginia Tech Transportation Institute,I4387930269,yes
 "Necrisha Roach Univ of Virginia, Charlottesville, VA",1,University of Virginia,I51556381,no
-"Orca Computer, Inc.BlacksburgVAUSA",1,,,no
+"Orca Computer, Inc. Blacksburg VA USA",1,,,no
 "Pamela B. Edwards, EdD, MSN, RN-BC, CNE, CENP, is Associate Chief Nursing Officer, Education, Duke University Hospital, Durham, North Carolina. Jean B. Rea, MN, RN, is Clinical Nurse Educator, Duke University Hospital, Durham, North Carolina. Marilyn H. Oermann, PhD, RN, ANEF, FAAN, is the Thelma M. Ingles Professor of Nursing and Director of Evaluation and Educational Research, Duke University School of Nursing, Durham, North Carolina. Ellen J. Hegarty, MSEd, RN, BC, CNML, is Administrative Director for Professional Development, Duke University Health System, and Clinical Associate, Duke University School of Nursing, Durham, North Carolina. Judy R. Prewitt, DNP, RN, is Associate Chief Nursing Officer, Duke University Hospital, Durham, North Carolina. Mariah Rudd, BS, is Education and Faculty Development Manager, Virginia Tech Carilion School of Medicine, Roanoke, Virginia. Susan Silva, PhD, is Research Associate Professor and Statistician, Center for Nursing Research, Duke University",1,Duke University | Duke University Health System | Duke University Hospital,I170897317 I4210144876 I4210153043,no
 "Pediatric Gastroenterology, Hepatology and Nutrition, Indiana University School of Medicine, Indianapolis, IN and Tech Lab, Inc., Blacksburg, VA",1,Indiana University School of Medicine,I4394709130,no
 "Peking University, Purdue University, Queens University, Virginia Tech, University of British Columbia, University of Western Ontario, University of Saskatchewan, Bank of Canada,",1,Peking University | University of Saskatchewan | Western University | University of British Columbia | Queen's University | Bank of Canada,I20231570 I32625721 I125749732 I141945490 I204722609 I898769471,no
@@ -624,7 +597,7 @@ Research Scientist in the Center for Automotive Safety Research at the Virginia 
 "Science Studies Center, Blacksburg",1,,,no
 "Scientist with the Virginia Tech Transportation Institute, 3500 Transportation Research Plaza, Blacksburg, 24061 USA",1,Virginia Tech Transportation Institute,I4387930269,yes
 "Senior Associate Director Virginia Tech Transportation Institute, USA",1,Virginia Tech Transportation Institute,I4387930269,yes
-Senior Research Associate in the Center for Automotive Safety Research at the Virginia Tech Transportation Institute. ,1,Virginia Tech Transportation Institute,I4387930269,yes
+Senior Research Associate in the Center for Automotive Safety Research at the Virginia Tech Transportation Institute.,1,Virginia Tech Transportation Institute,I4387930269,yes
 "Senior Research Associate, Automated Vehicle Systems, Virginia Tech Transportation Institute",1,Virginia Tech Transportation Institute,I4387930269,yes
 "Senior Research Associate, Center for Sustainable Transportation Infrastructure, Virginia Tech Transportation Institute, 3500 Transportation Research Plaza, Blacksburg, VA 24061. ORCID: https://orcid.org/0000-0003-4149-6033",1,Virginia Tech Transportation Institute,I4387930269,yes
 "Senior Research Associate, Virginia Tech Transportation Institute, 3500 Transportation Research Dr., Blacksburg, VA 24061",1,Virginia Tech Transportation Institute,I4387930269,yes
@@ -712,7 +685,7 @@ Virginia Polytechnic Institute and State UniversityBattelle's Columbus Laborator
 "Virginia Power Technol. Inc., Blacksburg, VA, USA",1,,,no
 "Virginia Research, Inc. Blacksburg, VA, United States",1,,,no
 "Virginia Science and Technology, Virginia, USA",1,,,no
-"Virginia TechTransportation Institute - VTTI",1,Virginia Tech Transportation Institute,I4387930269,yes
+Virginia Tech Transportation Institute - VTTI,1,Virginia Tech Transportation Institute,I4387930269,yes
 "Virginia Tech & Wake Forest University School of Biomedical Engineering & Sciences, 27109, Winston-Salem, USA",1,Virginia Tech - Wake Forest University School of Biomedical Engineering & Sciences,I4210104154,yes
 "Virginia Tech - Wake Forest University School of Biomedical Engineering & Sciences, Winston-Salem, USA",1,Virginia Tech - Wake Forest University School of Biomedical Engineering & Sciences,I4210104154,yes
 "Virginia Tech - Wake Forest University School of Biomedical Engineering Sciences, Wake Forest University School of Medicine, Medical Center Boulevard, Winston-Salem, North Carolina 27157",1,Virginia Tech - Wake Forest University School of Biomedical Engineering & Sciences,I4210104154,yes
@@ -721,7 +694,7 @@ Virginia Polytechnic Institute and State UniversityBattelle's Columbus Laborator
 Virginia Tech Transportation Institute  Blacksburg VA 24060 USA,1,Virginia Tech Transportation Institute,I4387930269,yes
 "Virginia Tech Transportation Institute  Virginia Tech, Blacksburg Virginia",1,Virginia Tech Transportation Institute,I4387930269,yes
 "Virginia Tech Transportation Institute (VT), Transportation Research Plaza, Blacksburg, VA",1,Virginia Tech Transportation Institute,I4387930269,yes
-"Virginia Tech Transportation Institute (VTTI) 3500 Transportation Research Plaza Blacksburg , VA 24061 10 ",1,Virginia Tech Transportation Institute,I4387930269,yes
+"Virginia Tech Transportation Institute (VTTI) 3500 Transportation Research Plaza Blacksburg , VA 24061 10",1,Virginia Tech Transportation Institute,I4387930269,yes
 Virginia Tech Transportation Institute (VTTI) Blacksburg VA USA,1,Virginia Tech Transportation Institute,I4387930269,yes
 "Virginia Tech Transportation Institute (VTTI) Blacksburg, Virginia, USA",1,Virginia Tech Transportation Institute,I4387930269,yes
 "Virginia Tech Transportation Institute (VTTI), 3500 Transportation Research Dr., Blacksburg, VA 24061, United States",1,Virginia Tech Transportation Institute,I4387930269,yes
@@ -753,7 +726,7 @@ Virginia Tech Transportation Institute (VTTI) Blacksburg VA USA,1,Virginia Tech 
 "Virginia Tech Transportation Institute 3500 Transportation Research Blvd., Blacksburg 24061, VA, United States. Electronic address: mcamden@vtti.vt.edu",1,Virginia Tech Transportation Institute,I4387930269,yes
 "Virginia Tech Transportation Institute 3500 Transportation Research Dr, Blacksburg VA, 24061, USA",1,Virginia Tech Transportation Institute,I4387930269,yes
 "Virginia Tech Transportation Institute 3500 Transportation Research Drive Blacksburg, VA 24061",1,Virginia Tech Transportation Institute,I4387930269,yes
-"Virginia Tech Transportation Institute 3500 Transportation Research Plaza (0536) Blacksburg , VA 24061 10 ",1,Virginia Tech Transportation Institute,I4387930269,yes
+"Virginia Tech Transportation Institute 3500 Transportation Research Plaza (0536) Blacksburg , VA 24061 10",1,Virginia Tech Transportation Institute,I4387930269,yes
 "Virginia Tech Transportation Institute 3500 Transportation Research Plaza (0536) Blacksburg , VA 24061 10 . Work Unit No",1,Virginia Tech Transportation Institute,I4387930269,yes
 "Virginia Tech Transportation Institute 3500 Transportation Research Plaza Blacksburg , VA 24060",1,Virginia Tech Transportation Institute,I4387930269,yes
 "Virginia Tech Transportation Institute 3500 Transportation Research Plaza Blacksburg , VA 24061 10 . Work Unit No",1,Virginia Tech Transportation Institute,I4387930269,yes
@@ -772,14 +745,12 @@ Virginia Tech Transportation Institute Virginia Tech  Blacksburg Virginia,1,Virg
 "Virginia Tech Transportation Institute and Charles E. Via, Jr., Department of Civil and Environmental Engineering",1,Virginia Tech Transportation Institute,I4387930269,yes
 Virginia Tech Transportation Institute and Department of Statistics;,1,Virginia Tech Transportation Institute,I4387930269,yes
 Virginia Tech Transportation Institute vi,1,Virginia Tech Transportation Institute,I4387930269,yes
-"Virginia Tech Transportation Institute,
-Blacksburg, VA",1,Virginia Tech Transportation Institute,I4387930269,yes
-"Virginia Tech Transportation Institute, 
-Falls Church",1,Virginia Tech Transportation Institute,I4387930269,yes
+"Virginia Tech Transportation Institute, Blacksburg, VA",1,Virginia Tech Transportation Institute,I4387930269,yes
+"Virginia Tech Transportation Institute, Falls Church",1,Virginia Tech Transportation Institute,I4387930269,yes
 "Virginia Tech Transportation Institute, #N#Falls Church",1,Virginia Tech Transportation Institute,I4387930269,yes
 "Virginia Tech Transportation Institute, 200 Patton Hall, Blacksburg, VA 24061-0105",1,Virginia Tech Transportation Institute,I4387930269,yes
-"Virginia Tech Transportation Institute, 3500 Transportation                    Research Plaza, Blacksburg, VA 24061",1,Virginia Tech Transportation Institute,I4387930269,yes
-"Virginia Tech Transportation Institute, 3500 Transportation Research Plaza, Blacksburg, VA 24061",1,Virginia Tech Transportation Institute,I4387930269,yes
+"Virginia Tech Transportation Institute, 3500 Transportation Research Plaza, Blacksburg, VA 24061",1,Virginia Tech Transportation Institute,I4387930269,yes
+"Virginia Tech Transportation Institute, 3500 Transportation Research Plaza, Blacksburg, VA 24061",1,Virginia Tech Transportation Institute,I4387930269,yes
 "Virginia Tech Transportation Institute, 3500 Transportation Research Blvd., Blacksburg, VA 24061, United States of America",1,Virginia Tech Transportation Institute,I4387930269,yes
 "Virginia Tech Transportation Institute, 3500 Transportation Research Blvd., Blacksburg, VA 24061, United States of America. Electronic address: mcamden@vtti.vt.edu",1,Virginia Tech Transportation Institute,I4387930269,yes
 "Virginia Tech Transportation Institute, 3500 Transportation Research Blvd., Blacksburg, VA, 24061, United States",1,Virginia Tech Transportation Institute,I4387930269,yes
@@ -971,7 +942,7 @@ ZukenVitech 2270 Kraft Drive Suite 1600  Blacksburg VA 24060,1,,,no
 "[Department of Electrical and Computer Engineering, West Virginia Tech University, Montgomery, WV, USA]",1,West Virginia University Institute of Technology,I181223716,no
 "[Irginia Polytechnic Institute, Portable Radio Research Group in the Bradley, Department of Electrical Engineering in Blacksburg, State Universitys Mobile]",1,,,no
 "[Virginia Tech., Université Paris-Saclay]",1,Université Paris-Saclay,I277688954,no
-"a                                Blacksburg, Virginia",1,,,no
+"a Blacksburg, Virginia",1,,,no
 "a     Blacksburg ,  Virginia ,  U.S.A",1,,,no
 "a  Center for Automotive Safety Research, Virginia Tech Transportation Institute , 3500 Transportation Research Plaza, Blacksburg, VA, 24061,  USA",1,Virginia Tech Transportation Institute,I4387930269,yes
 "a Blacksburg , Virginia , U.S.A",1,,,no

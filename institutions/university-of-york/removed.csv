@@ -37,9 +37,7 @@ York University ;,6,York University | York University,I192455969 I4210112962,no
 York and,4,,,no
 "York, U.K",4,,,no
 york,4,,,no
-"
-        York University
-",3,York University | York University,I192455969 I4210112962,no
+York University,3,York University | York University,I192455969 I4210112962,no
 ( York University,3,York University | York University,I192455969 I4210112962,no
 ", New York State Psychiatric Institute, New York, New York,",3,New York State Psychiatric Institute,I4388891851,no
 "Department of Computer Science, York University, North York, Ontario, Canada#TAB#",3,York University | York University,I192455969 I4210112962,no
@@ -52,9 +50,7 @@ York : Oxford University,3,University of Oxford,I40120149,no
 York University - Keele Campus: York University;,3,York University,I192455969,no
 "York University, Department of Biology, North York, Ont. Canada",3,York University,I192455969,no
 "aNew York University School of Medicine, New York, New York, USA",3,New York University,I57206974,no
-"
-            York University
-",2,York University | York University,I192455969 I4210112962,no
+York University,2,York University | York University,I192455969 I4210112962,no
 "#N#        Department of Developmental Biochemistry, New York State Office of Mental Retardation and Developmental Disabilities, Institute for Basic Research in Developmental Disabilities, Staten Island, NY 10314",2,New York State Office for People With Developmental Disabilities,I2801410662,no
 ", New York State Psychiatric Institute, New York, NY,",2,New York State Psychiatric Institute,I4388891851,no
 "Biology Department, York University, North York, Ontario, M3J 1P3, Canada,",2,York University,I192455969,no
@@ -105,16 +101,9 @@ York YO41 1LZ,2,,,no
 "York, UK YO10 5DD",2,,,no
 "York, UK;",2,,,no
 "bNew York University Langone Medical Center, New York, NY 10016;",2,NYU Langone Health,I4210086933,no
-"
-                   
-               York University,",1,York University | York University,I192455969 I4210112962,no
-"
-        York University
-",1,York University | York University,I192455969 I4210112962,no
-"
- Associate Professor
- York University
-",1,York University | York University,I192455969 I4210112962,no
+"York University,",1,York University | York University,I192455969 I4210112962,no
+York University,1,York University | York University,I192455969 I4210112962,no
+Associate Professor York University,1,York University | York University,I192455969 I4210112962,no
 "#N#Biology Department, York University, North York, Ontario,#N#3#N# Canada, and",1,York University | York University,I192455969 I4210112962,no
 "(Assistant Professor of Marketing, Faculty of Business Administration, York University, North York, Ontario, Canada)",1,York University,I192455969,no
 "(Professor of Administrative Sciences at York University, North York, Ontario, Canada.)",1,York University,I192455969,no
@@ -364,7 +353,7 @@ New York State Psychiatric Institute New York New York 10032,1,New York State Ps
 Northern Ireland United Kingdom; Leeds United Kingdom; York United Kingdom; York United Kingdom; York United Kingdom; York United Kingdom,1,,,no
 "Penn State, York, UK",1,Pennsylvania State University,I130769515,no
 "Piezoelectr. Res. Lab., York Univ., North York, Ont., , Canada",1,York University,I192455969,no
-"Portland Street, York YO30 7DZ, UK. E-mail: ",1,,,no
+"Portland Street, York YO30 7DZ, UK. E-mail:",1,,,no
 "Post-war Reconstruction and Development Unit, Dept. of Politics, York, Yorkshire YO10 5DD, United Kingdom",1,,,no
 "President, York University",1,York University,I192455969,no
 "Prince of Wales Clinical School, University of New South Wales, Sydney, Australia (CMV); Multiple Myeloma Section, Metabolism Branch (OL) and Division of Cancer Epidemiology and Genetics (MLM, JNS, LMM, MSL), National Cancer Institute, National Institutes of Health, Bethesda, MD; Department of Health Sciences Research, College of Medicine (SLS) and Division of Hematology (SMA), Mayo Clinic, Rochester, MN; Genome Sciences Centre, BC Cancer Agency, Vancouver, BC, Canada (AB-W); Department of Biomedical Physiology and Kinesiology, Simon Fraser University, Burnaby, BC, Canada (ABW); Epidemiology and Cancer Statistics Group, Department of Health Sciences, University of York, Heslington, York, UK (ASm); School of Nursing and Human Sciences, Dublin City University, Dublin, Leinster, Ireland (ASt); Department of Pathology, Memorial Sloan-Kettering Cancer Center, New York, NY (AD)",1,Simon Fraser University | UNSW Sydney | BC Cancer Agency | National Institutes of Health | Mayo Clinic | Memorial Sloan Kettering Cancer Center | National Cancer Institute | Division of Cancer Epidemiology and Genetics,I18014758 I31746571 I1289530486 I1299303238 I1330342723 I1334819555 I4210140884 I4391012607,no
@@ -386,8 +375,7 @@ Research at York University,1,York University | York University,I192455969 I4210
 "School of Social Work , York University ,",1,York University | York University,I192455969 I4210112962,no
 "School of ledicine, Univer*ity of Leeds, Yorksh ire, England",1,University of Leeds,I130828816,no
 "School, York University",1,York University | York University,I192455969 I4210112962,no
-"Shanghai Jiaotong University
-University of York",1,Shanghai Jiao Tong University,I183067930,no
+Shanghai Jiaotong University University of York,1,Shanghai Jiao Tong University,I183067930,no
 "Social Work, York University",1,York University | York University,I192455969 I4210112962,no
 "Sociedad de Ciencias Aranzadi-University of York, Zorroagagaina 11, E-20014 Donostia, Spain",1,Sociedad de Ciencias Aranzadi,I4405266195,no
 "St Peter's School York , York , Yorkshire , YO30 6AB , United Kingdom",1,,,no
@@ -436,9 +424,8 @@ University ofNew York,1,New York University,I57206974,no
 "Victoria and Albert Museum and University of York, London and York, United Kingdom",1,Victoria and Albert Museum,I1292227370,no
 Washington Square College of Arts and SciencesNew York University New York City New York 10003 USA,1,New York University,I57206974,no
 "We thank the editor and three anonymous referees for helpful comments. Earlier versions of this manuscript have been presented at an NBER workshop on culture and institutions, at Tel Aviv University, Stockholm School of Economics, IMEBE 2012, University of Southern California, UC Santa Barbara, UC Riverside, UC San Diego, the Becker-Friedman Institute conference “Biological Basis of Preferences and Behavior,” University of Warwick, Ecole Polytechnique (Paris), Lancaster University (UK), University of Oxford, Institute for International Economic Studies (Stockholm), Toulouse School of Economics, GAMES 2012, ITAM, Frankfurt University, University of York, and University of Zürich. We thank Rajiv Sethi, Immanuel Bomze, Avinash Dixit, Tore Ellingsen, Jens Josephson, Wolfgang Leininger, Klaus Ritzberger, François Salanié, and Giancarlo Spagnolo for comments. This research received financial support from the Knut and Alice Wallenberg Research Foundation. Ingela Alger is grateful to ANR, Carleton University, and SSHRC for financial support and to the Stockholm School of Economics for its hospitality",1,"University of Southern California | Tel Aviv University | University of California San Diego | University of Oxford | Lancaster University | University of California, Riverside | University of California, Santa Barbara | Stockholm School of Economics | University of Zurich",I1174212 I16391192 I36258959 I40120149 I67415387 I103635307 I154570441 I180242103 I202697423,no
-"York
-                        University",1,York University | York University,I192455969 I4210112962,no
-"YorkNeuroimaging Centre, The BiocentreYork, Science Park, Heslington, York, YO105NY U.K",1,,,no
+York University,1,York University | York University,I192455969 I4210112962,no
+"York Neuroimaging Centre, The BiocentreYork, Science Park, Heslington, York, YO10 5NY U.K",1,,,no
 "York ,",1,,,no
 "York , 1941",1,,,no
 "York , 1957",1,,,no
@@ -449,13 +436,13 @@ Washington Square College of Arts and SciencesNew York University New York City 
 "York , 2022",1,,,no
 "York , NY 1001",1,,,no
 "York , NY 1972",1,,,no
-"York , New York , . ",1,,,no
+"York , New York , .",1,,,no
 "York , Oxford University",1,University of Oxford,I40120149,no
 York . New York,1,,,no
 York / USA,1,,,no
 "York 11973, U.S.A",1,,,no
 York 14850,1,,,no
-York 1938 ,1,,,no
+York 1938,1,,,no
 "York 21 , New York",1,,,no
 York ; London 1972 ;,1,,,no
 "York Archaeology , (York) , 47 Aldwark , York , North Yorkshire YO1 7BX , United Kingdom",1,York Archaeological Trust,I2800889407,no
@@ -474,7 +461,7 @@ York Biomedical Research Institute  York YO10 5NG UK,1,,,no
 "York Neuroimaging Centre, Innovation Way, Heslington, YO10 5NY, York, UK",1,,,no
 "York Neuroimaging Centre, The Biocentre, York Science Park, Heslington, York YO10 5DG, U.K",1,,,no
 "York Neuroimaging Centre, The Biocentre, York Science Park, Heslington, York YO10 5NY, United Kingdom",1,,,no
-"York Neuroimaging Centre, The Biocentre, York Science Park, InnovationWay, Heslington, York YO10 5NY, U.K",1,,,no
+"York Neuroimaging Centre, The Biocentre, York Science Park, Innovation Way, Heslington, York YO10 5NY, U.K",1,,,no
 "York Neuroimaging Centre, The Biocentre, York Science Park, Innovation#R#Way, Heslington, York YO10 5NY, U.K",1,,,no
 "York Neuroimaging Centre, York YO10 5DD, United Kingdom",1,,,no
 "York Plasma Institute, York YO10 5DQ, United Kingdom",1,,,no
@@ -491,10 +478,10 @@ York Biomedical Research Institute  York YO10 5NG UK,1,,,no
 York University (YU),1,York University | York University,I192455969 I4210112962,no
 "York University , , North York , ,",1,York University | York University,I192455969 I4210112962,no
 "York University , 1914",1,York University,I192455969,no
-"York University , 197 1 ",1,York University,I192455969,no
-"York University , 1971) ",1,York University,I192455969,no
-"York University , 1997) ",1,York University,I192455969,no
-"York University , 1998 , s ",1,York University,I192455969,no
+"York University , 197 1",1,York University,I192455969,no
+"York University , 1971)",1,York University,I192455969,no
+"York University , 1997)",1,York University,I192455969,no
+"York University , 1998 , s",1,York University,I192455969,no
 "York University , 2000",1,York University,I192455969,no
 "York University , 2009",1,York University,I192455969,no
 "York University , 2011",1,York University,I192455969,no

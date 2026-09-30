@@ -11,7 +11,7 @@ Dundee DD1 9SY,7,,,no
 Association for Medical Education in Europe Dundee UK,5,,,no
 "Department of Plastic Surgery, Dundee Royal Infirmary, UK",5,,,no
 "Surgeon, Dundee",5,,,no
-Dundee ,4,,,no
+Dundee,4,,,no
 "IDMoS plc, Dundee, UK",4,,,no
 "STAR-Dundee Ltd, Scotland, UK",4,,,no
 "STAR-Dundee Ltd., Dundee, Scotland, UK",4,,,no
@@ -277,7 +277,7 @@ Department of Anaesthesia Dundee UK,1,,,no
 "Department of Computer Science, University of Aberlay Dundee, Dundee, UK",1,Abertay University,I877506347,no
 "Department of Conservative Dentistry, Dundee Dental Hospital 2 Park Place, Dundee DD1 4HR",1,Dundee Dental Hospital,I4210111487,no
 "Department of Dental Prosthetics, Dundee Dental Hospital and School, USA",1,Dundee Dental Hospital,I4210111487,no
-"Department of Dermatology and Photobiology, Ninewells University Hospital and Medical School, Dundee, DD1 9SY, UK ",1,Ninewells Hospital,I2802526638,no
+"Department of Dermatology and Photobiology, Ninewells University Hospital and Medical School, Dundee, DD1 9SY, UK",1,Ninewells Hospital,I2802526638,no
 "Department of Dermatology, Ninewells University Hospital and Medical School, Dundee, United Kingdom",1,Ninewells Hospital,I2802526638,no
 "Department of Electrical Engineering, University of Edinburgh, Scotland ; Department of Physics, Dundee College of Technology, Dundee, DD1 4HG, Scotland",1,University of Edinburgh,I98677209,no
 "Department of Epidemiology and Public Health, University College London, London, UK. m.dorri@cpse.dundee.ac.uk",1,University College London,I45129253,no
@@ -339,7 +339,7 @@ Departments of Medicine and Clinical Pharmacology Dundee DD1 9SY,1,,,no
 "Drug Discovery Biology and Department of Pharmacology, Monash Institute of Pharmaceutical Sciences, Monash University, Parkville, Victoria, Australia (A.C., P.M.S., C.J.L.); Collège de France and CNRS URA 2182, Institut Pasteur, Paris, France (J.-P.C.); Department of Pharmacology, School of Medicine, University of Washington, Seattle, Washington (W.A.C.); PIQUR Therapeutics AG, Basel, Switzerland (D.F.); Department of Pharmacological & Physiological Science, Saint Louis University School of Medicine, St. Louis, Louisiana (T.P.B.); Signal Transduction Laboratory, Molecular Endocrinology Group, National Institute of Environmental Health Sciences, Research Triangle Park, North Carolina (J.A.C.); Department of Molecular and Medical Pharmacology, University of California, Los Angeles, California (R.W.O.); Division of Neuroscience, School of Medicine, University of Dundee, Scotland, United Kingdom (J.A.P.); Department of Pharmacology and Toxicology, Michigan State University, East Lansing, Michigan (R.R.N.); Institut de Genomique Fonctionelle, CNRS, Montpellier, France (J.-P.P.); Department of Pharmacology, University of North Carolina, Chapel Hill, North Carolina (T.P.K.); Department of Pharmacology, University of California, Irvine, California (F.J.E.); and Research Solutions SARL, Paris, France (M.S.)",1,"Monash University | Michigan State University | Institut Pasteur | University of California, Los Angeles | Collège de France | University of Washington | University of California, Irvine | Centre National de la Recherche Scientifique | Gènes, synapses et cognition",I56590836 I87216513 I157536573 I161318765 I187986737 I201448701 I204250578 I1294671590 I4210114128,no
 "Dryburgh Industrial Estate, Dundee, UK",1,,,no
 "Dundee , 111",1,,,no
-"Dundee , 76 Blackness Avenue , Dundee ",1,,,no
+"Dundee , 76 Blackness Avenue , Dundee",1,,,no
 "Dundee , IL 60118",1,,,no
 "Dundee , Scotland , DD1 1DA , UK",1,,,no
 "Dundee , Scotland , U.K",1,,,no
@@ -355,7 +355,7 @@ Dundee /UK,1,,,no
 "Dundee Cell Products Ltd, James Lindsay Place, Dundee, DD1 5JJ, UK",1,,,no
 Dundee Cell Products Ltd. Dundee Technopole Dundee UK,1,,,no
 Dundee Cell Products Ltd.; Dundee Technopole; Dundee UK,1,,,no
-"Dundee Cell Products, James Lindsay Place, Dundee Technopole, Dundee DD1 5JJ, Scotland,U.K",1,,,no
+"Dundee Cell Products, James Lindsay Place, Dundee Technopole, Dundee DD1 5JJ, Scotland, U.K",1,,,no
 "Dundee Cement Co., MI, USA",1,,,no
 Dundee Cement Company,1,,,no
 Dundee Community Health Partnership,1,,,no
@@ -402,8 +402,7 @@ Dundee University Hospital and National Screening Centre Dundee UK,1,,,no
 "Dundee, UK lawrence.li@nhs.net",1,,,no
 "Dundee, UKE-mail [email protected]",1,,,no
 Dundee1,1,,,no
-"Dunn Professor,
-        London University, UK",1,University College London | University of London,I45129253 I124357947,no
+"Dunn Professor, London University, UK",1,University College London | University of London,I45129253 I124357947,no
 "Edgehill, Dundee, Scotland",1,,,no
 "Education Development Unit, Tay Park House, Dundee, Scotland",1,,,no
 "Educationalist and Coach, Saorsa, Dundee",1,,,no
@@ -524,7 +523,7 @@ PAMIS Scotland  Dundee UK,1,,,no
 "PT. PLN Indonesia, University of Aberlay Dundee, UK",1,Abertay University,I877506347,no
 "Park House, Dundee",1,,,no
 "Pathology & Neurosci. Dept., Ninewells Hosp., Dundee, UK",1,Ninewells Hospital,I2802526638,no
-"Perth Road , Dundee , Scotland , UK, DD1 4HT ",1,,,no
+"Perth Road , Dundee , Scotland , UK, DD1 4HT",1,,,no
 "Philip Bradley was Reviews Editor of The Indexer from 1984 to 2004. 40 Pitcairn Road, Dundee DD3 9EE. Tel: 00 +44 1382812757",1,,,no
 "Photobiology Unit, Dundee, UK",1,,,no
 "Plant Biotechnology Group, Dundee Institute of Technology, Dundee, Scotland",1,,,no
@@ -672,7 +671,7 @@ University of Abertay Professor Emeritus of Counselling Dundee Scotland UK,1,Abe
 "University of Abertay, School of Contemporary Science, Dundee, Scotland, United Kingdom",1,Abertay University,I877506347,no
 "University of Dundee College of Life Sciences, Life Sciences De Jonge , Christopher; University of Minnesota Medical Center University of Minnesota. 606 24th Avenue South, Suite 525, Minneapolis, MN 55454, USA, Department of Urology,",1,University of Minnesota | University of Minnesota Medical Center,I130238516 I4210135252,no
 "University of Hull, Dundee Institute of Technology",1,University of Hull,I191240316,no
-"University of Leeds) Dundee , 11.09 ",1,University of Leeds,I130828816,no
+"University of Leeds) Dundee , 11.09",1,University of Leeds,I130828816,no
 "University of Sheffield, Dundee",1,University of Sheffield,I91136226,no
 "University of St Andrews, Dundee, United Kingdom",1,University of St Andrews,I16835326,no
 "University of St. Andrews, Carnegie Laboratory of Physics, Queen's College, Dundee, Scotland",1,University of St Andrews,I16835326,no

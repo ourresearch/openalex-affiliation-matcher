@@ -11,8 +11,7 @@ Department of Radiology; King's College Hospital; London UK,44,King's College Ho
 "Cambridge Crystallographic Data Centre, 12 Union Road,Cambridge,UK",41,Cambridge Crystallographic Data Centre,I4210098980,no
 "King's Coll., Cambridge, UK",36,,,no
 PETERHOUSE,36,,,no
-"Sometime Fellow, Doctor Honoris Causa,
-        Cambridge and Durham, UK",34,,,no
+"Sometime Fellow, Doctor Honoris Causa, Cambridge and Durham, UK",34,,,no
 "Selwyn College,",33,,,no
 "Department of Clinical Biochemistry, Addenbrooke's Hospital, Cambridge,  UK",32,Addenbrooke's Hospital,I4210156194,no
 "T.C.M. Group, Cavendish Laboratory, JJ Thomson Avenue, Cambridge CB3 0HE, United Kingdom",29,,,no
@@ -32,7 +31,7 @@ Harris Birthright Research Centre of Fetal Medicine King's College Hospital  Lon
 "King's College Hospital Medical School, London,",17,King's College Hospital,I4210153400,no
 "Member, Institut de Droit International; Doctor of Law, University of Cambridge",17,Institut de Droit International,I4405271137,no
 "Dept. of Zoology, King's College, Newcastle‐upon‐Tyne",16,,,no
-"Department of Haematology, Addenbrookes Hospital, Cambridge, UK. ",15,Addenbrooke's Hospital,I4210156194,no
+"Department of Haematology, Addenbrookes Hospital, Cambridge, UK.",15,Addenbrooke's Hospital,I4210156194,no
 "Department of Haematology, Addenbrooke’s Hospital, Cambridge",15,Addenbrooke's Hospital,I4210156194,no
 "Harris Birthright Research Centre for Fetal Medicine, King's College Hospital  London United Kingdom",15,Harris Birthright Research Centre for Fetal Medicine | King's College Hospital,I4210136526 I4210153400,no
 King's College Newcastle‐on‐Tyne,15,,,no
@@ -41,18 +40,17 @@ ST EDMUND’S COLLEGE,15,,,no
 "Dept. of Mathematics, King‘s College, Strand, London, WC2R 2LS#TAB#",14,King's College London,I183935753,no
 "Cambridge University Hospitals , Cambridge ,",13,,,no
 "Department of Plant Sciences, King's College 68 Half Moon Lane, London SE24 9JF, England",13,King's College London,I183935753,no
-"Fellow of St John’s College, Cambridge,
-        Cambridge, UK",13,,,no
+"Fellow of St John’s College, Cambridge, Cambridge, UK",13,,,no
 "formerly Fellow of Trinity College, Cambridge",13,,,no
 "Cambridge CB3 0FS, UK",12,,,no
 "Department of Agriculture, King's College, Newcastle‐upon‐Tyne",12,,,no
 Department of Clinical Biochemistry; King's College Hospital; Denmark Hill London SE5 9RS UK,12,King's College Hospital,I4210153400,no
 "Department of Medical Genetics, Addenbrooke's Hospital Cambridge UK",12,Addenbrooke's Hospital,I4210156194,no
 "Department of Paediatric Surgery, King’s College Hospital, London,  UK",12,King's College Hospital,I4210153400,no
-"King's College Hospital, London SE5 9RS, UK ",12,King's College Hospital,I4210153400,no
+"King's College Hospital, London SE5 9RS, UK",12,King's College Hospital,I4210153400,no
 "5, Downing Place, Cambridge",11,,,no
 "Christ’s College, Cambridge, USA",11,,,no
-"Department of Clinical Neuropathology, King's College Hospital, London, UK",11,King's College Hospital,I4210153400,no
+"Department of Clinical Neuropathology, King's College Hospital, London, UK",11,King's College Hospital,I4210153400,no
 "Department of Surgery, King's College Hospital Medical School. London",11,King's College School | King's College Hospital,I4210119896 I4210153400,no
 Harbin Cambridge University,11,Harbin Cambridge University,I4405280846,no
 Cambridge U.K,10,,,no
@@ -86,11 +84,11 @@ Cambridge University Hospital NHS Trust,7,,,no
 "Department of Chemistry, Unilever Centre for Molecular Science Informatics, Cambridge, UK",7,Unilever (United Kingdom),I1342131907,no
 Department of Child Health King's College Hospital,7,King's College Hospital,I4210153400,no
 "Department of Dermatology, King's College Hospital, London SE5 9RS, U.K.,",7,King's College Hospital,I4210153400,no
-"Department of Dermatology, King’s College Hospital, Denmark Hill, London SE5 9RS, UK ",7,King's College Hospital,I4210153400,no
+"Department of Dermatology, King’s College Hospital, Denmark Hill, London SE5 9RS, UK",7,King's College Hospital,I4210153400,no
 "Department of Geography; King's College; Strand, London WC2R 2LS UK",7,King's College London,I183935753,no
 "Imperial Cancer Research Fund, Clare Hall Laboratories, South Mimms",7,,,no
 "Jesus College,Cambridge CB5 8BL,",7,,,no
-"King’s College Hospital, London, U.K.  ",7,King's College Hospital,I4210153400,no
+"King’s College Hospital, London, U.K.",7,King's College Hospital,I4210153400,no
 "MRC Biostatistics Unit, Institute of Public Health Cambridge CB2 2SR, UK",7,MRC Biostatistics Unit,I4210134973,yes
 "Surgeon To King's College Hospital, London",7,King's College Hospital,I4210153400,no
 "Unilever Centre for Molecular Science Informatics, Department of Chemistry, Lensfield Road, Cambridge CB2 1EW, UK. pm286@cam.ac.uk",7,,,no
@@ -128,8 +126,7 @@ Department of Pathology; King's College Hospital; London UK,5,King's College Hos
 "Downing College, Cambridge, Regent St, Cambridge, CB2 1DQ, United Kingdom",5,,,no
 Emmanuel College Cambridge CB2 3AP,5,,,no
 Emmanuel College Cambridge CB2 3AP United Kingdom,5,,,no
-"Fellow of St John's College, Cambridge,
-        Cambridge, UK",5,,,no
+"Fellow of St John's College, Cambridge, Cambridge, UK",5,,,no
 "Fetal Medicine, Rosie Hospital, Addenbrooke's Hospital, Cambridge University Hospitals NHS Trust, Cambridge, United Kingdom",5,Rosie Hospital | Addenbrooke's Hospital,I2801065305 I4210156194,no
 "Liver Unit, King's College Hospital and Medical School, London, (England)",5,King's College London | King's College Hospital,I183935753 I4210153400,no
 "MRC Movement Disorders Research Group, University Department of Neurology, and Parkinson's Disease Society Research Centre, Institute of Psychiatry & King's College Hospital Medical School, London, UK",5,King's College London | Parkinson's UK | King's College Hospital,I183935753 I4210103024 I4210153400,no
@@ -149,7 +146,7 @@ Emmanuel College Cambridge CB2 3AP United Kingdom,5,,,no
 Cambridge CB21EW,4,,,no
 "Cambridge Consultants Ltd., Cambridge",4,Cambridge Consultants (United Kingdom),I4210129592,no
 "Cambridge Cybercrime Centre, 15 JJ Thomson Avenue, William Gates Building, Cambridge, CB3 0FD, United Kingdom",4,,,no
-"Cambridge University Hospital NHS Foundation Trust Cambridge, UK ",4,Cambridge University Hospitals NHS Foundation Trust,I2802466933,no
+"Cambridge University Hospital NHS Foundation Trust Cambridge, UK",4,Cambridge University Hospitals NHS Foundation Trust,I2802466933,no
 Cambridge University Hospitals NHSFT,4,,,no
 "Cambridge University Hospitals, Addenbrooke's Hospital, Cambridge, UK",4,Addenbrooke's Hospital,I4210156194,no
 "Cambridge, U.S",4,,,no
@@ -496,7 +493,7 @@ Ophthalmology; King's College Hospital NHS Foundation Trust; London United Kingd
 "PCS Group, Cavendish Laboratory, Madingley Road, Cambridge CB3 0HE U.K",2,,,no
 "PCS, Cavendish Laboratory, Madingley Road, Cambridge CB3 0HE, U.K",2,,,no
 "PCS, Cavendish Laboratory; Madingley Road, Cambridge, U.K",2,,,no
-"Paediatric Liver, GI and Nutrition Centre, King’s College Hospital, Denmark Hill, London SE5 9RS, UK  ",2,King's College Hospital,I4210153400,no
+"Paediatric Liver, GI and Nutrition Centre, King’s College Hospital, Denmark Hill, London SE5 9RS, UK",2,King's College Hospital,I4210153400,no
 "Peterhouse, Cambridge CB2 1RD, U.K",2,,,no
 "Physical Chemistry Department, King’s College, Newcastle upon Tyne 1",2,Newcastle University,I84884186,no
 "Physical Chemistry Laboratory, King's College, Newcastle upon Tyne, 1",2,Newcastle University,I84884186,no
@@ -554,7 +551,7 @@ former Fellow of Emmanuel College Cambridge,2,,,no
 "late Fellow of St. John’s College Cambridge, Professor of Mathematics, Wellington, New Zealand",2,,,no
 "nos hicieron comentarios de gran utilidad. El presente artículo se publicará en S. Stokes (ed.), Public Opinion and Economic Reforms in New Democracies, Nueva York: Cambridge University",2,,,no
 "now at: Downing College, Cambridge, CB2 1DQ, UK",2,,,no
-" Department of Haematology, Addenbrooke’s Hospital, Cambridge University Hospitals Foundation Trust, Cambridge, UK",2,Cambridge University Hospitals NHS Foundation Trust | Addenbrooke's Hospital,I2802466933 I4210156194,no
+"Department of Haematology, Addenbrooke’s Hospital, Cambridge University Hospitals Foundation Trust, Cambridge, UK",2,Cambridge University Hospitals NHS Foundation Trust | Addenbrooke's Hospital,I2802466933 I4210156194,no
 "††Caldecot Centre, King's College Hospital, London, UK",2,King's College Hospital,I4210153400,no
 "#N#            1 Cambridge Vascular Unit, Cambridge University Hospitals, Addenbrookes NHS Foundation Trust, Cambridge, UK",1,Cambridge University Hospitals NHS Foundation Trust | Addenbrooke's Hospital,I2802466933 I4210156194,no
 "#N#        Diabetes and Nutritional Sciences Division, School of Medicine, King's College, Waterloo Campus, London, UK",1,King's College London,I183935753,no
@@ -778,7 +775,7 @@ former Fellow of Emmanuel College Cambridge,2,,,no
 "5 Epworth Court, King Street, Cambridge, CB1 1LR, Formerly Mechanical Engineering Department, UMIST, Manchester, UK",1,University of Manchester,I28407311,no
 "5 King’s College Road, Toronto, M5S 3G8, Canada",1,,,no
 "5 Renal Unit, King's College Hospital NHS Foundation Trust, London, UK;",1,King's College Hospital NHS Foundation Trust | King's College Hospital,I4210111135 I4210153400,no
-"51 Natal Road, Cambridge CB1 3NY,U.K",1,,,no
+"51 Natal Road, Cambridge CB1 3NY, U.K",1,,,no
 "53 Barrow Road, Cambridge CB2 2AR, UK",1,,,no
 "53, Barrow Road, Cambridge CB2 2AR, UK",1,,,no
 "56 Melvin Way, Histon, Cambridge CB4 4HY, UK",1,,,no
@@ -950,7 +947,7 @@ Applied AI Cambridge University Press &,1,Cambridge University Press,I4210135132
 "Autism Research Centre , Douglas House , 18B Trumpington Road , Cambridge CB2 8AH , UK",1,,,no
 "BCambridge University Hospital, Cambridge, UK",1,Cambridge University Hospitals NHS Foundation Trust,I2802466933,no
 "BERKELEY AND LOS ANGELES, CALIFORNIA CAMBRIDGE UNIVERSITY PRESS, LONDON, ENGLAND",1,,,no
-"BIRPS, Bullard LaboratoriesMadingley Rise, Cambridge, CB3 0EZ, UK",1,,,no
+"BIRPS, Bullard Laboratories Madingley Rise, Cambridge, CB3 0EZ, UK",1,,,no
 "BIRPS, Bullard Laboratories, Madingley Rise, Cambridge CB3 OEZ, U.K",1,,,no
 "BIRPS, Bullard Laboratories, Madingley Rise, Madingley Road, Cambridge CB3 OEZ U.K",1,,,no
 "BULLARD LABORATORIES , MADINGLEY ROAD , CAMBRIDGE CB3 0EZ , UK",1,,,no
@@ -1002,7 +999,7 @@ Bullard Laboratories Madingley Road Cambridge CB3 0EZ United Kingdom,1,,,no
 "C.V.O., M.A., M.D., F.R.C.P., Consulting Physician to St. Bartholomew's Hospital and to the Brompton Hospital, and sometime Fellow of St. John's College, Cambridge; and Harold Richard Aldridge, M.A. formerly Scholar of Peterhouse, Cambridge. Assistant Keeper in the Department of Manuscripts in the British Museum. Pp. 191. Price 15s. Cambridge University Press, 1936",1,British Museum | St Bartholomew's Hospital,I1295435021 I1307195382,no
 "CAMBRIDGE UNIVERSITY PRESS & ASSESSMENT,IELTS UK,BRITISH COUNCIL",1,,,no
 CAMBRIDGE/UK,1,,,no
-"CASP, Department of Earth Sciences, Downing Street, Cambridge CB2 3EQ, UK (e-mail:)",1,,,no
+"CASP, Department of Earth Sciences, Downing Street, Cambridge CB2 3EQ, UK (e-mail: )",1,,,no
 "CASP, Department of Earth Sciences, Downing Street, Cambridge CB2 3EQ, UK (e-mail: )",1,,,no
 "CB3 OHE Cambridge , Cambridge , UK",1,,,no
 "CB30AS Cambridge, U.K.;",1,,,no
@@ -1027,7 +1024,7 @@ CURRENTLY UNDER REVIEW /PRODUCTION AT CAMBRIDGE UNIVERSITY PRESS,1,Cambridge Uni
 "Cambridge , Cambridge University Press , 2019",1,Cambridge University Press,I4210135132,yes
 "Cambridge , Cambridge University Press , 2021",1,Cambridge University Press,I4210135132,yes
 "Cambridge , Cambridge University Press , p",1,Cambridge University Press,I4210135132,yes
-"Cambridge , Cambridge University Press , p. ",1,Cambridge University Press,I4210135132,yes
+"Cambridge , Cambridge University Press , p.",1,Cambridge University Press,I4210135132,yes
 "Cambridge , U",1,,,no
 "Cambridge , UK Cambridge",1,,,no
 "Cambridge , UK,",1,,,no
@@ -1178,7 +1175,7 @@ Cambridge University Press gjamieson@cambridge.org,1,Cambridge University Press,
 "Cambridge University Teaching Hospitals Foundation Trust, Cambridge, UK",1,,,no
 "Cambridge University Teaching Hospitals NHS Foundation Trust, Cambridge",1,Cambridge University Hospitals NHS Foundation Trust,I2802466933,no
 "Cambridge University and the Agricultural and Technical College of Greensboro, North Carolina, USA",1,,,no
-Cambridge University de Universiteit Twente ,1,University of Twente,I94624287,no
+Cambridge University de Universiteit Twente,1,University of Twente,I94624287,no
 "Cambridge University, NHS Foundation Trust, Cambridge, England",1,,,no
 "Cambridge Vascular Unit, Addenbrooke’s Hospital, Cambridge Biomedical Campus, Cambridge, United Kingdom",1,Addenbrooke's Hospital,I4210156194,no
 "Cambridge and Paris, Cambridge University Press and Maison des sciences de l'homme, 1999, pp",1,Cambridge University Press,I4210135132,yes
@@ -1237,7 +1234,7 @@ Cardiovascular Division King's College New Hunt's House Guy's Campus London UK,1
 "Cavendish Laboratory , Madingley Road , Cambridge CB3 0HE , UK;",1,,,no
 "Cavendish Laboratory , Madingley Road, Cambridge CB3 0HE, United Kingdom and , Madingley Road, Cambridge CB3 0TX, United Kingdom",1,,,no
 "Cavendish Laboratory , Madingley Road, Cambridge CB3 OHE , England",1,,,no
-"Cavendish Laboratory 1 , Madingley Road, CambridgeCB3 OHE, England ",1,,,no
+"Cavendish Laboratory 1 , Madingley Road, CambridgeCB3 OHE, England",1,,,no
 "Cavendish Laboratory J. J. Thomson Avenue , Cambridge CB3 0HE , UK",1,,,no
 "Cavendish Laboratory Madingley Rd Cambridge CB3 OHE, U.K",1,,,no
 "Cavendish Laboratory Madingley Road Cambridge CB3 0HE , United Kingdom",1,,,no
@@ -1281,8 +1278,7 @@ Cardiovascular Division King's College New Hunt's House Guy's Campus London UK,1
 "Cavendish Laboratory, Madingly Road, Cambridge CD3 0HE, England;",1,,,no
 "Cavendish Laboratory, P.C.S., Madingley Road, Cambridge, UK",1,,,no
 "Cavendish Laboratory, University of Cain bridge, Madingley Road, Cambridge CR3 OHE, UK",1,,,no
-"Center for Global Change Science, Massachusetts Institute of
-Technology, Cambridge University, Massachusetts 02139, United States",1,Massachusetts Institute of Technology,I63966007,no
+"Center for Global Change Science, Massachusetts Institute of Technology, Cambridge University, Massachusetts 02139, United States",1,Massachusetts Institute of Technology,I63966007,no
 "Center for Quantum Information and Quantum Control Dept. of Electrical and Computer Engineering and Dept. of Physics, 10 King¿s College Road, Toronto, Ontario, M5S 3G4 Canada",1,University of Toronto,I185261750,no
 "Center for Quantum Information and Quantum Control Dept. of Physics and Dept. of Electrical and Computer Engineering, 10 King¿s College Road, Toronto, Ontario, M5S 3G4, Canada",1,University of Toronto,I185261750,no
 "Centre for Bioactivity Screening of Natural Products , Faculty of Pharmacy, King's College , FWB, 150 Stamford Street, London SE1 9NH, UK",1,King's College London,I183935753,no
@@ -1375,7 +1371,7 @@ Corpus Christi College  Cambridge CB1 2RH Cambridge CB2 1RH UK,1,,,no
 Corpus Christi College Cambridge CB2 1RH Email: anw25@cam.ac.uk,1,,,no
 "Corpus Christi College Merton Street, Oxford OX1 4FJ UK",1,,,no
 Corpus Christi College University of Oxford Oxford OX1 4JF United Kingdom,1,University of Oxford,I40120149,no
-Corpus Christi College   Cambridge CB2 1RH   Email: Jbl24@cam.ac.uk,1,,,no
+Corpus Christi College Cambridge CB2 1RH Email: Jbl24@cam.ac.uk,1,,,no
 "Corpus Christi College, Cambridge CB2 1RH, UK E-mail: bh261@cam.ac.uk",1,,,no
 "Corpus Christi College, Cambridge, & University of Melbourne",1,The University of Melbourne,I165779595,no
 "Corpus Christi College, Cambridge, CB2 1RH, United Kingdomf1brookes@dpmms.cam.ac.ukf1",1,,,no
@@ -1417,15 +1413,7 @@ Darwin College and DAMTP,1,,,no
 "Darwin College, Silver Street, Cambridge, Cambridgeshire CB3 9EU, United Kingdom",1,,,no
 "David C Rees BA FRCP is Senior Lecturer and Honorary Consultant in Paediatric Haematology and Clinical Advisor to the Programme at King's College Hospital NHS Foundation Trust, London, UK. Conflicts of interest: none declared",1,King's College Hospital NHS Foundation Trust,I4210111135,no
 "David J Halsall PhD FRCPath CSci is Consultant Clinical Scientist at the Cambridge University Hospitals Trust, UK. Competing interests: none declared",1,Cambridge University Hospitals NHS Foundation Trust,I2802466933,no
-"David Todd est maître de conférences à King’s College London et
- chercheur associé au Centre for History and Economics des universités
- de Cambridge et de Harvard. Il est l’auteur de Free Trade and its
- Enemiesin France, 1814-1851 (Cambridge University Press, 2015), et
- d’articles dans The Historical Journal, Past & Present et Modern
- Intellectual History. Ses recherches actuelles portent sur les
- interactions entre la vie économique en France métropolitaine et les
- aires d’expansion française formelle et informelle hors
- d’Europe",1,Harvard University | King's College London,I136199984 I183935753,no
+"David Todd est maître de conférences à King’s College London et chercheur associé au Centre for History and Economics des universités de Cambridge et de Harvard. Il est l’auteur de Free Trade and its Enemiesin France, 1814-1851 (Cambridge University Press, 2015), et d’articles dans The Historical Journal, Past & Present et Modern Intellectual History. Ses recherches actuelles portent sur les interactions entre la vie économique en France métropolitaine et les aires d’expansion française formelle et informelle hors d’Europe",1,Harvard University | King's College London,I136199984 I183935753,no
 "Dean Hawkes, Emeritus Professor at Cardiff University and Fellow of Darwin College, Cambridge, practises as an architect in Cambridge",1,Cardiff University,I79510175,no
 "Decrre Authorithy, Nova York, Cambridge University Press, 1998",1,Cambridge University Press,I4210135132,yes
 "Demonstrator in Zoology at the Yorkshire College, Leeds, late Scholar of St. John’s College, Cambridge",1,,,no
@@ -1435,7 +1423,7 @@ Darwin College and DAMTP,1,,,no
 "Dental Prosthetics, Department of Prosthetic Dentistry, King's Dental Institute, King's College School of Medicine and Dentistry, Denmark Hill, London SE5 9RW, UK",1,King's College London | King's College School,I183935753 I4210119896,no
 "Deparment of Mathematical Sciences, University of Memphis, Memphis, TN and Trinity College, Cambridge, UK",1,University of Memphis,I94658018,no
 "Departamento de Geografía, King's College London#R##N#Universidad de Londres",1,King's College London,I183935753,no
-"Departmentof Chemistry, Unilever Centre for Molecular Science Informatics, Lensfield Road, Cambridge, CB2 1EW, U.K",1,Unilever (United Kingdom),I1342131907,no
+"Department of Chemistry, Unilever Centre for Molecular Science Informatics, Lensfield Road, Cambridge, CB2 1EW, U.K",1,Unilever (United Kingdom),I1342131907,no
 "Department Oral Pathology, King's College School of Medicine & Dentistry, The Rayne Institute, 123 Coldharbour Lane, London SES 9NU, U.K. Telephone: (071) 274–6222",1,King's College London | King's College School,I183935753 I4210119896,no
 "Department for Otolaryngology, Addenbrooke's Hospital, Cambridge University Hospitals National Health Service (NHS) Foundation Trust, Cambridge, UK",1,National Health Service | Cambridge University Hospitals NHS Foundation Trust | Addenbrooke's Hospital,I125671874 I2802466933 I4210156194,no
 "Department of Academic Neurosurgery, Addenbroke‘s Hospital, Cambridge University Hospital NHS Healthcare Trust, Cambridge, UK",1,Addenbrooke's Hospital,I4210156194,no
@@ -1558,7 +1546,7 @@ Department of Clinical pharmacology; Addenbrooke's Hospital; Cambridge UK,1,Adde
 "Department of Computer Science, King's College, Strand, London WC2R 2LS, UK. mz@dcs.kcl.ac.uk#TAB#",1,King's College London,I183935753,no
 "Department of Computer Science, King’s College",1,Columbia University | King's College London,I78577930 I183935753,no
 "Department of Computer Science, King’s College, Strand, London WC2R 2LS, UK e-mail: dg@dcs.kcl.ac.uk, GB",1,King's College London,I183935753,no
-"Department of Conservative Dentistry, GKT School of Dentistry, King's College ",1,Columbia University | King's College London,I78577930 I183935753,no
+"Department of Conservative Dentistry, GKT School of Dentistry, King's College",1,Columbia University | King's College London,I78577930 I183935753,no
 "Department of Conservative Dentistry, King's College School of Medicine and Dentistry, Denmark Hill, London, UK",1,King's College London | King's College School,I183935753 I4210119896,no
 "Department of Dental Biomaterials, Guy's, King's and St. Thomas' Dental Institute, King's College, Guy's Campus, London, UK",1,King's College London,I183935753,no
 "Department of Dermatology, Addenbrooke’s Hospital, Cambridge University Hospitals NHS Trust , Cambridge ,",1,Addenbrooke's Hospital,I4210156194,no
@@ -1572,7 +1560,7 @@ Department of ENT Addenbrooke's Hospital Cambridge University Hospital Trust Cam
 "Department of Earth Sciences Bullard Laboratories Madingley Road, Cambridge CB3 0EZ UK",1,,,no
 "Department of Earth Sciences, Bullard Laboratories Madingley Road, Cambridge CB3 0EZ",1,,,no
 "Department of Earth Sciences, Bullard Laboratories, Cambridge CB3 0EZ, U.K",1,,,no
-"Department of Earth Sciences, Bullard Laboratories, Madingley RiseMadingley Road, Cambridge CB3 0EZ, UK",1,,,no
+"Department of Earth Sciences, Bullard Laboratories, Madingley Rise Madingley Road, Cambridge CB3 0EZ, UK",1,,,no
 "Department of Earth Sciences, Bullard Laboratories, Madingley Rise Madingley Road, Cambridge CB3 0EZ, UK",1,,,no
 "Department of Earth Sciences, Bullard Laboratories, Madingley Rise, Cambridge, CB3 0EZ, UK",1,,,no
 "Department of Earth Sciences, Bullard Laboratories, Madingley Rise, Cambridge, UK",1,,,no
@@ -1610,7 +1598,7 @@ Department of Electrical and Computer EngineeringUniversity of Toronto10 King's 
 "Department of HRM, King's College, Wilkes-Barre,",1,King's College - Pennsylvania,I4210143716,no
 Department of Haematological Medicine King's College Hospital,1,King's College Hospital,I4210153400,no
 Department of Haematological Medicine King's College Hospital NHS Foundation Trust UK,1,King's College Hospital NHS Foundation Trust | King's College Hospital,I4210111135 I4210153400,no
-"Department of Haematological Medicine  Department of Fetal Medicine e‐mail: aleksandar.mijovic@kcl.ac.uk  Department of Haematological Medicine King's College Hospital Denmark Hill London SE5 9RS, UK",1,King's College London | King's College Hospital,I183935753 I4210153400,no
+"Department of Haematological Medicine Department of Fetal Medicine e‐mail: aleksandar.mijovic@kcl.ac.uk Department of Haematological Medicine King's College Hospital Denmark Hill London SE5 9RS, UK",1,King's College London | King's College Hospital,I183935753 I4210153400,no
 "Department of Haematology Addenbrookes Hospital, Cambridge University Teaching Hospitals NHS Foundation Trust Cambridge UK",1,Cambridge University Hospitals NHS Foundation Trust | Addenbrooke's Hospital,I2802466933 I4210156194,no
 "Department of Haematology, Addenbrooke's Hospital Cambridge CB2 2QQ",1,Addenbrooke's Hospital,I4210156194,no
 "Department of Haematology, Addenbrooke's Hospital, Cambridge University Hospitals NHS Trust, Cambridge CB2 2QQ, UK",1,Addenbrooke's Hospital,I4210156194,no
@@ -2036,7 +2024,7 @@ Dept. of Philosophy King's College Strand London WC2R 2LS Mark.Textor@KCL.AC.UK,
 "Developmental Biology Research Center, The Randall Institute, King's College, 26–29 Drury lane, London WC2B 5RL, GB Fax: +44 171‐497‐9078",1,King's College London,I183935753,no
 "Diabetes Unit, King's College Hospital, London, UK",1,King's College Hospital,I4210153400,no
 "Diabetic Foot Clinic, King's College Hospital, London. avmfoster@hotmail.com",1,King's College Hospital,I4210153400,no
-Digital Industries . At the University of Roehampton . This work is affiliated with University of Cambridge ,1,University of Roehampton,I877107187,no
+Digital Industries . At the University of Roehampton . This work is affiliated with University of Cambridge,1,University of Roehampton,I877107187,no
 "Dipartimento di Economia Internazionale, delle Istituzioni e dello Sviluppo (DISEIS), Centro di Ricerche in Analisi Economica (CRANEC), Facoltà di Scienze Politiche, Università Cattolica, Largo Gemelli 1, Milan, 20123, Italy ; CFAP (Centre for Financial Analysis &Policy), Cambridge Judge Business School, Trumpington Street, Cambridge, CB2 1AG, UK",1,Università Cattolica del Sacro Cuore,I103320735,no
 "Director of Studies in Medical Sciences, Magdalene College, Cambridge, England",1,,,no
 "Director of Theology and Religious Studies, Christ's College, Cambridge, CB2 3BU, UK",1,,,no
@@ -2134,7 +2122,7 @@ Downing College Cambridge 1,1,,,no
 "Emmanuel College , Cambridge, CB2 3AP, UK Phone: (44) (0)1223 330476 Fax: (44) (0)1223 330476 E-mail: sarah.bendall@emma.cam.ac.uk",1,,,no
 "Emmanuel College , Cambridge, CB2 3AP, United Kingdom E-mail: cjp15@cam.ac.uk",1,,,no
 Emmanuel College Cambridge CB2 3AP Email: cjp15@hermes.cam.ac.uk,1,,,no
-"Emmanuel College, Cambridge CB2 3AP, UK jes66@cam.ac.uk",1,,,no
+"Emmanuel College, Cambridge CB2 3AP, UK jes66@cam.ac.uk",1,,,no
 "Emmanuel College, Cambridge, 1851 Exhibitioner",1,,,no
 "Emmanuel College, Cambridge, Charles Maclaren Scholar, Edinburgh University",1,University of Edinburgh,I98677209,no
 "Emmanuel College, St Andrew?s St, Cambridge CB2 3AP, UK",1,,,no
@@ -2169,8 +2157,7 @@ Faculty of law Fitzwilliam College  Cambridge UK,1,,,no
 "Faculté de Théologie Protestante, Université Marc Bloch, Strasbourg (translated by Jack McDonald, Gonville and Caius College, Cambridge",1,Théologie protestante,I4394709278,no
 "Fang Yu From the Department of Physiology and Pathophysiology (C.G., Y.F., X.Z., L.Z., F.Y., Y.Z., Y.G., X.W., W.K.) and Institute of Cardiovascular Sciences (Y.L.), School of Basic Medical Sciences, Peking University, Beijing, P.R. China; Key Laboratory of Molecular Cardiovascular Science, Ministry of Education, Beijing, P.R. China (C.G., Y.F., Y.L., X.Z., L.Z., F.Y., Y.Z., Y.G., X.W., W.K.); Gonville and Caius College, University of Cambridge, Cambridge, United Kingdom (S.S.X.); and Cardiovascular Division, King’s College London BHF Centre, London, United Kingdom (Q.X.)",1,Peking University | King's College London,I20231570 I183935753,no
 "Fellow and Assistant Lecturer, Trinity College, Cambridge",1,,,no
-"Fellow and Director of Studies in History, and Lecturer in History,
-        Fitzwilliam College, Cambridge, UK",1,,,no
+"Fellow and Director of Studies in History, and Lecturer in History, Fitzwilliam College, Cambridge, UK",1,,,no
 "Fellow and former President of Queens’College, Cambridge, CB2 9ET, U.K",1,,,no
 Fellow of Christ's College Cambridge; University of London,1,University of London,I124357947,no
 "Fellow of Christ’s College, Cam­bridge",1,,,no
@@ -2203,7 +2190,7 @@ Fellow of Peterhouse and Professor of Medieval History in the University,1,,,no
 "Firm III Office, Department of Surgery, King's College Hospital, Denmark Hill, UK",1,King's College Hospital,I4210153400,no
 "First Assistant, Department of Obstetrics and Gynaecology, King's College, Newcastle‐upon‐Tyne",1,,,no
 Fitzwiliam College Cambridge CB3 ODG England,1,,,no
-Fitzwilliam College   Storeys Way   Cambridge   CB3 0DG   Email: simonpatrickhull@hotmail.com,1,,,no
+Fitzwilliam College Storeys Way Cambridge CB3 0DG Email: simonpatrickhull@hotmail.com,1,,,no
 "Fitzwilliam College, Cambridge CB3 0DG, U.K",1,,,no
 "Fitzwilliam College, Cambridge, and School of Archaeological Sciences, University of Bradford",1,University of Bradford,I139894009,no
 "Fitzwilliam College, Cambridge. Honorary Professor, University College London",1,University College London,I45129253,no
@@ -2227,7 +2214,7 @@ Formerly with University of Cambridge Local Examinations Syndicate,1,,,no
 "Frank Smart Students, Gonville and Caius College",1,,,no
 "Free University of Brussels (VUB) and Darwin College, Cambridge",1,Vrije Universiteit Brussel,I13469542,no
 Free University of Brussels(VUB) and Darwin College Cambridge,1,Vrije Universiteit Brussel,I13469542,no
-"From Cerebrovascular Unit (T.-H.C., T.R., V.D., L.D., N.N.), Hôpital Neurologique Pierre Wertheimer, Hospices Civils de Lyon; Creatis-LRMN (T.-H.C., M.H., T.R., V.T., L.D., N.N.), UMR 5520-Inserm 630, Claude Bernard Lyon 1 University; Neuroradiology Department (M.H.), Hôpital Neurologique Pierre Wertheimer, Hospices Civils de Lyon; Stroke Research Group (J.A.A., J.-C.B.), Department of Clinical Neurosciences, University of Cambridge, Cambridge, UK; Center of Functionally Integrative Neuroscience ",1,Lyon 1 Université | Inserm | Hospices Civils de Lyon | Hôpital Pierre Wertheimer | Centre de Recherche en Acquisition et Traitement de l'Image pour la Santé,I100532134 I154526488 I4210100596 I4210105768 I4210138704,no
+"From Cerebrovascular Unit (T.-H.C., T.R., V.D., L.D., N.N.), Hôpital Neurologique Pierre Wertheimer, Hospices Civils de Lyon; Creatis-LRMN (T.-H.C., M.H., T.R., V.T., L.D., N.N.), UMR 5520-Inserm 630, Claude Bernard Lyon 1 University; Neuroradiology Department (M.H.), Hôpital Neurologique Pierre Wertheimer, Hospices Civils de Lyon; Stroke Research Group (J.A.A., J.-C.B.), Department of Clinical Neurosciences, University of Cambridge, Cambridge, UK; Center of Functionally Integrative Neuroscience",1,Lyon 1 Université | Inserm | Hospices Civils de Lyon | Hôpital Pierre Wertheimer | Centre de Recherche en Acquisition et Traitement de l'Image pour la Santé,I100532134 I154526488 I4210100596 I4210105768 I4210138704,no
 "From Donders Institute for Brain, Cognition and Behaviour, Department of Neurology (R.M.A., S.M.A.v.d.B., I.W.M.v.U., L.C.A.R.-J., N.A.M.M., P.S., H.C.S., E.J.v.D., F.-E.d.L.), and Diagnostic Image Analysis Group, Department of Radiology and Nuclear Medicine (M.G., B.P.), Radboudumc; Institute for Computing and Information Sciences (M.G.), Radboud University, Nijmegen, the Netherlands; and Department of Clinical Neurosciences, Neurology Unit (L.C.A.R.-J.), University of Cambridge, UK",1,"Radboud University Nijmegen | Radboud University Medical Center | Donders Institute for Brain, Cognition and Behaviour",I145872427 I2802934949 I4405261313,no
 "From l’Institut du Thorax, INSERM U533 (A.R., S.L.B., C.M., A.-L.L., M.S., S.D., D.E., F.C.), Faculté de Médecine, Nantes, France; the Department of Medical Physiology (T.A.B.v.V., H.V.M.v.R.), University Medical Center, Utrecht, the Netherlands; the Experimental and Molecular Cardiology Group (J.M.T.d.B.), Academic Medical Center, Amsterdam, the Netherlands; the Section of Cardiovascular Biology (C.A.G., W.H.C., A.A.G.), Departments of Biochemistry and Physiology, University of Cambridge,",1,Inserm | Amsterdam UMC Location University of Amsterdam | University Medical Center Utrecht | Institut du Thorax,I154526488 I2802928900 I3018483916 I4210144168,no
 "From the 1 Infectious Diseases Unit, Addenbrooke's Hospital, Cambridge University Hospitals NHS Trust, Cambridge, 2 Clinical Microbiology Laboratory, Health Protection Agency, Addenbrooke's Hospital, Cambridge, and 3 School of Medicine, Health Policy and Practice, University of East Anglia, Norwich, UK",1,University of East Anglia | Addenbrooke's Hospital,I1118541 I4210156194,no
@@ -2326,7 +2313,7 @@ Harvard University University of Oxford Universidad Nacional Autónoma de Méxic
 "Hills Road, Cambridge CB2 0QH, UK ,",1,,,no
 "Hills Road, Cambridge CB2 0QH, UK 3 , ,",1,,,no
 "Hills Road, Cambridge CB2 8PH, UK 2",1,,,no
-"Histopathology, King’s College Hospital, Denmark Hill, London, SE5 9RS, UK ",1,King's College Hospital,I4210153400,no
+"Histopathology, King’s College Hospital, Denmark Hill, London, SE5 9RS, UK",1,King's College Hospital,I4210153400,no
 "Hitachi Cambridge Laboratory , Cavendish Laboratory , Madingley Road , Cambridge CB3 0HE , UK",1,,,no
 "Hitachi Cambridge Laboratory , Cavendish Laboratory , Madingley Road , Cambridge CB3 0HE , United Kingdom",1,,,no
 "Hitachi Cambridge Laboratory , Madingley Road , Cambridge CB3 0HE , U. K",1,,,no
@@ -2458,7 +2445,7 @@ Jesus College and Clare HallCambridge,1,,,no
 "John Wiens is chief scientist at ecology research group Point Blue in California, US. He is also the editor of Oil in the Environment: Legacies and lessons of the Exxon Valdez oil spill (Cambridge University Press)",1,,,no
 John's College Cambridge,1,,,no
 "Jonathan Byrne PhD MRCP is a Consultant Cardiologist at King’s College Hospital, London, UK. Competing interests: none declared",1,King's College Hospital,I4210153400,no
-"Joseph Needham, F.R.S., just-retired Master of Gonville and Caius College, Cambridge, England, is the chief editor and author of S cience and C ivilization in C hina , published by Cambridge University Press. He has been at work on this encyclopedic set for the past thirty years. The first volume appeared in 1954; four have been published and a fifth is in press. Seven or eight more are planned, some in several parts ",1,Cambridge University Press,I4210135132,yes
+"Joseph Needham, F.R.S., just-retired Master of Gonville and Caius College, Cambridge, England, is the chief editor and author of S cience and C ivilization in C hina , published by Cambridge University Press. He has been at work on this encyclopedic set for the past thirty years. The first volume appeared in 1954; four have been published and a fifth is in press. Seven or eight more are planned, some in several parts",1,Cambridge University Press,I4210135132,yes
 "Joseph Needham, F.R.S., just-retired Master of Gonville and Caius College, Cambridge, England, is the chief editor and author of Science and Civilization in China, published by Cambridge University Press. He has been at work on this encyclopedic set for the past thirty years. The first volume appeared in 1954",1,Cambridge University Press,I4210135132,yes
 "Joseph Needham, FRS, chief editor and author of S cience and C ivilisation in C hina , an encyclopedic set of volumes published by Cambridge University Press, recently retired as Master of Gonville and Caius College, Cambridge. This article is excerpted from C elestial L ancets : A H istory and R ationale of A cupuncture and M oxa , to be published by Cambridge University Press this year",1,Cambridge University Press,I4210135132,yes
 "Joseph Needham, FRS, chief editor and author of Science and Civilisation in China, an encyclopedic set of volumes published by Cambridge University Press, recently retired as Master of Gonville and Caius College, Cambridge. This article is excerpted from Celestial Lancets: A History and Rationale of Acupuncture and Moxa, to be published by Cambridge University Press this year",1,Cambridge University Press,I4210135132,yes
@@ -2581,7 +2568,7 @@ King’s College Hospital and Guy’s King’s and St. Thomas’ Medical School,
 "King’s College Hospital, Department of Paediatric Surgery, Denmark Hill, London SE5 9RS, UK +0044 0 203 299 3350; +0044 0 203 299 4021; Markdav2@ntlworld.com",1,King's College Hospital,I4210153400,no
 "King’s College Hospital, London SE1 9RT johno_breeze@hotmail.co.uk",1,King's College Hospital,I4210153400,no
 "King’s College Hospital, University Department of Neurology, London, England",1,King's College Hospital,I4210153400,no
-"King’s College Hospital London, UK  Email: carloslojorial@doctors.org.uk",1,King's College Hospital,I4210153400,no
+"King’s College Hospital London, UK Email: carloslojorial@doctors.org.uk",1,King's College Hospital,I4210153400,no
 King’s College Londan djdh_robertson@hotmail.com,1,King's College London,I183935753,no
 King’s College Londan roland.mayer@kcl.ac.uk,1,King's College London,I183935753,no
 King’s College Research Centre,1,,,no
@@ -2810,7 +2797,7 @@ Obstetric Physician to King's College Hospital; Lecturer on Practical Obstetrics
 "Oncology Centre, Box 193, Addenbrooke's Hospital, Cambridge University Hospital NHS Trust, Hills Road, Cambridge CB2 0QQ, UK",1,Addenbrooke's Hospital,I4210156194,no
 "Oncology Centre, Box 193, Addenbrooke’s Hospital, Cambridge University Hospital NHS Trust, Cambridge CB2 0QQ",1,Addenbrooke's Hospital,I4210156194,no
 Oncology Centre; Cambridge University Hospitals NHS Trust; Cambridge CB2 0QQ,1,Cambridge University Hospitals NHS Foundation Trust,I2802466933,no
-"OptoelectronicsGroup, Cavendish Laboratory, J J Thomson Avenue, Cambridge CB3 0HE, United Kingdom",1,,,no
+"Optoelectronics Group, Cavendish Laboratory, J J Thomson Avenue, Cambridge CB3 0HE, United Kingdom",1,,,no
 "Optoelectronics Group , Cavendish Laboratory , JJ Thomson Avenue , Cambridge CB3 0HE , UK",1,,,no
 Optoelectronics Group Cavendish Laboratory J J Thomson Avenue Cambridge CB3 0HE UK,1,,,no
 "Optoelectronics Group, Cavendish Laboratory, J J Thomson Avenue, Cambridge CB3 0HE, UK",1,,,no
@@ -2972,9 +2959,7 @@ Regional Molecular Genetics Laboratory; Cambridge University NHS Foundation Trus
 "Research Fellow of Emmanuel College, Cambridge",1,,,no
 "Research Fellow, Trinity College, Cambridge, UK; Lloyd Dan David Research Fellow, Centre for Research in Arts, Social Sciences and Humanities, Cambridge, UK",1,,,no
 "Research Scholar of Emmanuel College, Cambridge",1,,,no
-"Research Scientist and Consultant,
-        Professor of Physics and Electrical Engineering,
-        Harvard University, Cambridge, UK",1,Harvard University,I136199984,no
+"Research Scientist and Consultant, Professor of Physics and Electrical Engineering, Harvard University, Cambridge, UK",1,Harvard University,I136199984,no
 "Research Student at Emmanuel College , Cambridge",1,,,no
 "Research Student of Emmanuel College), Zoological Laboratory, Cambridge",1,,,no
 "Research Student of King’s College, Cambridge, Fellow of University College, London, 1851 Exhibition Science Research Scholar",1,University College London | King's College London,I45129253 I183935753,no
@@ -3030,8 +3015,7 @@ School of Education King’s College,1,Columbia University | King's College Lond
 "Scott Polar Research Institute, Lensfield Road , Cambridge, CB2 1ER, U.K",1,,,no
 "Scott Polar Research Institute, Lensfield Road, Cambridge, CB2 1ER, United Kingdom",1,,,no
 "Sea Ice Group, Scott Polar Research Institute, Lensfield Road, Cambridge, CB2 1ER, UK",1,,,no
-"Secretary General,
-        Lensfield Road Cambridge, CB2 1ER, UK",1,,,no
+"Secretary General, Lensfield Road Cambridge, CB2 1ER, UK",1,,,no
 "Secretory and Soft Tissue Research Unit, Department of Oral Pathology, The Rayne Institute, King's College School of Medicine and Dentistry London, UK",1,King's College London | King's College School,I183935753 I4210119896,no
 "Section of Schizophrenia, Imaging and Therapeutics, Division of Psychological Medicine and Psychiatry, Institute of Psychiatry, King’s College, PO51, London SE5 8AF, UK",1,King's College London,I183935753,no
 "Segun Fatumo https://orcid.org/0000-0003-4525-3362 The African Computational genomics (TACG) Research group, Medical Research Council/Uganda Virus Research Institute (MRC/UVRI) and London School of Hygiene and Tropical Medicine (LSHTM), Entebbe, Uganda (S.F., T.S., B.U., C.E., M.N., O.S.). Department of Non-communicable Disease Epidemiology (NCDE), London School of Hygiene and Tropical Medicine London, United Kingdom (S.F.). H3Africa Bioinformatics Network (H3ABioNet) Node, Centre for Genomics Research and Innovation, NABDA/FMST, Abuja, Nigeria (S.F., C.E.). MRC Biostatistics Unit, School of Clinical Medicine (S.F., S.B.), University of Cambridge, United Kingdom",1,Medical Research Council | Uganda Virus Research Institute | London School of Hygiene & Tropical Medicine | MRC/UVRI & LSHTM Uganda Research Unit,I90344618 I91369620 I4210089966 I4405277452,no
@@ -3055,7 +3039,7 @@ Sidney Sussex College CambridgeMathematisches Institut der Universität Tübinge
 Simon Cottam MBChB FRCA is a Consultant Anaesthetist at King's College Hospital. His main interests include hepatobiliary and transplant anaesthesia. Conflicts of interest: none declared,1,King's College Hospital,I4210153400,no
 "Sir Anthony Mason is Chairman of the Council of the National Library of Australia. He is also Chancellor of the University of New South Wales and National Fellow, Research School of Social Sciences at the Australian National University. He is involved in many other legal pursuits. He has had a distinguished legal career spanning over 40 years. He was appointed a Queen's Counsel in 1964 and was Commonwealth Solicitor-General from 1964 to 1969. He was a Chief Justice of the Court of Appeal, Supreme Court of New South Wales from 1969 to 1972. He was a Justice of the High Court of Australia from 1972 to 1987 and Chief Justice from 1987 to 1995. He holds Honorary Doctorates from the ANU, the University of Sydney, the University of Melbourne, Monash University, Griffith University and Deakin University, and is an Honorary Doctor of Civil Law at Oxford University. For a year from October 1996 Sir Anthony will be a Fellow of Gonville and Caius College, Cambridge University where he will take up the Arthur Goodheart Chair of Legal Science. Reading the future is the inaugural Australian Library Week Oration, and was delivered to an invited audience in Sydney on 1 May 1996",1,UNSW Sydney | Monash University | Australian National University | The University of Sydney,I31746571 I56590836 I118347636 I129604602,no
 Skin Infection Clinic Dermatology Department King's College Hospital NHS Trust Denmark Hill London SE5 9RS U.K,1,King's College Hospital,I4210153400,no
-"Skin Infection Clinic,Department of Dermatology, King’s College Hospital NHS Foundation Trust, London SE5 9RS, U.K.  ",1,King's College Hospital NHS Foundation Trust | King's College Hospital,I4210111135 I4210153400,no
+"Skin Infection Clinic,Department of Dermatology, King’s College Hospital NHS Foundation Trust, London SE5 9RS, U.K.",1,King's College Hospital NHS Foundation Trust | King's College Hospital,I4210111135 I4210153400,no
 Slate Hall Veterinary Practice Cambridge Cambridgeshire CB24 8QG UK,1,,,no
 "Social, Genetic and Developmental Psychiatry Centre, Institute of Psychiatry, King’s College, Box Number P080, De Crespigny Park, London SE5 8AF, United Kingdom",1,King's College London,I183935753,no
 "Sociology, Trinity College, Cambridge CB2 1TQ, United Kingdom. wgr@wgrunciman.u-net.com",1,,,no
@@ -3117,7 +3101,7 @@ St. John’s College Cambridge CB2 1TP UK,1,,,no
 "TCM Group, Cavendish Laboratory, Cambridge CB3 0HE (United Kingdom)",1,,,no
 "TCM Group, Cavendish Laboratory, Madingley Road, Cambrdige CB3 0HE, U.K",1,,,no
 "TCM Group, Cavendish Laboratory, Madingley Road, Cambridge CB3 OHE, U.K",1,,,no
-"TCM Group, Cavendish Laboratory, Madingley Road, Cambridge, UK CB3 0HE ",1,,,no
+"TCM Group, Cavendish Laboratory, Madingley Road, Cambridge, UK CB3 0HE",1,,,no
 "TCM, Cavendish Laboratory , Madingley Road, Cambridge , CB3 0HE, U.K",1,,,no
 "TCM, Cavendish Laboratory, Madingley Road, Cambridge, CB3 OHE, UK",1,,,no
 "TCM, Cavendish Laboratory, Madingley Road, Cambridge, CB3 OHE, United Kingdom",1,,,no
@@ -3141,10 +3125,7 @@ The Department of Haematological Medicine King's College Hospital London UK,1,Ki
 "The Division of Cancer Studies, King’s College School of Medicine, London, UK",1,King's College London,I183935753,no
 "The Edward S. Rogers Sr., Department of Electrical and Computer Engineering, 10 King¿s College Rd., Toronto, Ontario, M5S 3G4 Canada",1,,,no
 "The Ethnographer's Eye, Cambridge University Press, New York, 2001",1,Cambridge University Press,I4210135132,yes
-"The Global Revolution. A History of
- International Communism (Oxford UP, 2014). Il travaille actuellement à
- la Cambridge History of Communism, à paraître en 2017 (Cambridge
- University Press)",1,Cambridge University Press,I4210135132,yes
+"The Global Revolution. A History of International Communism (Oxford UP, 2014). Il travaille actuellement à la Cambridge History of Communism, à paraître en 2017 (Cambridge University Press)",1,Cambridge University Press,I4210135132,yes
 "The Good Museums Guide (Papermac, 1980). La Cambridge University Press a entrepris en 1987 la publication de ses deux dernières œuvres: The Cambridge Guide to the Museums of Britain and Ireland (en collaboration avec Ann Nicholls) et Museums of Influence, où l'auteur étudie trentesept musées du monde entier qui ont influencé la pratique et la théorie muséologiques depuis deux cents ans",1,Cambridge University Press,I4210135132,yes
 "The Harris Birthright Research Centre for Fetal Medicine, King's College Hospital Medical School;",1,Harris Birthright Research Centre for Fetal Medicine | King's College Hospital,I4210136526 I4210153400,no
 "The Head and Neck Cancer Centre at Guy’s, King’s and St Thomas’ Hospitals, King’s College Hospital, London,",1,Guy's Hospital | St Thomas' Hospital | King's College Hospital,I1298207432 I1324925910 I4210153400,no
@@ -3195,8 +3176,8 @@ The Rosie Maternity Hospital Cambridge University Hospitals NHS Trust,1,Rosie Ho
 "The authors are with the Energy Research Group, Cavendish Laboratory, Madingley Road, Cambridge CB3 0HE, UK",1,,,no
 "The reviewer, the author of Lost Languages: The Enigma of the World's Undeciphered Scripts, is at Wolfson College, Cambridge CB3 9BB, UK. E-mail: ar471@cam.ac.uk",1,,,no
 "Theology , Cambridge University Press , Cambridge 1990 ,",1,Cambridge University Press,I4210135132,yes
-"Theology Department King's College 133 North River Street Wilkes‐Barre, PA 18711 USA",1,King's College - Pennsylvania,I4210143716,no
-"Theoretical Computer Science 5 , Cambridge University Press , Cambridge , 1989 ",1,Cambridge University Press,I4210135132,yes
+"Theology Department King's College 133 North River Street Wilkes‐Barre, PA 18711 USA",1,King's College - Pennsylvania,I4210143716,no
+"Theoretical Computer Science 5 , Cambridge University Press , Cambridge , 1989",1,Cambridge University Press,I4210135132,yes
 "Theory of Condensed Matter Group, Cavendish Laboratory, Madingley Road, Cambridge, CB3 0HE ; Department of Physics, Nanjing Teacher's University, Nanjing, China",1,,,no
 "Theory of Condensed Matter, Cavendish Laboratory, Cambridge CB3 0HE, United Kingdom. fink@lps.ens.fr",1,,,no
 "These experiments were aided by a contract between the Office of Naval Research, Department of the Navy, Washington, and Duke University, NR 160–244 and by a grant of funds from the Rockefeller Foundation to the Parapsychology Laboratory of Duke University. The Fulbright Commission provided funds covering travel for R. H. Thouless from Cambridge University to Duke University and return. The Department of Conservation and Development of North Carolina and of Virginia co-operated by permitting the use of forestry look-out towers for releases",1,Duke University | Office of Naval Research,I170897317 I175003984,no
@@ -3252,7 +3233,7 @@ Trinity College Cambridge: University Demonstrator in Palæobotany*,1,,,no
 "Unilever Centre for Molecular Science Informatics, Department of Chemistry, Lensfield Road, Cambridge, CB2 1EW, UK phone: +44 (0)1223",1,Unilever (United Kingdom),I1342131907,no
 "Unilever Centre for Molecular Sciences Informatics, University Chemical Laboratory, Lensfield Road, Cambridge, CB2 1EW, UK",1,,,no
 Unit of Oral Health Services Research and Dental Public Health Formerly King's College Hospital NHS Foundation Trust London UK,1,King's College Hospital NHS Foundation Trust,I4210111135,no
-"United Nations Action New York , Cambridge University Press , 2016 , 422 p ",1,Cambridge University Press,I4210135132,yes
+"United Nations Action New York , Cambridge University Press , 2016 , 422 p",1,Cambridge University Press,I4210135132,yes
 "United Oxford & Cambridge University Club, 71 Pall Mall,  London, SW1Y 5HD, UK",1,,,no
 "Univ. Aberdeen, King's Coll., Dep. Geol. & Pet. Geol., Aberdeen, United Kingdom",1,University of Aberdeen,I195460627,no
 "Univ. of Cambridge Comput. Lab., Cambridge, MA, USA",1,,,no
@@ -3295,7 +3276,7 @@ University of London University of Cambridge,1,University of London,I124357947,n
 "University of Memphis, Department of Mathematics, USA and Trinity College, Cambridge CB2 1TQ, UK#TAB#",1,University of Memphis,I94658018,no
 "University of Memphis, Memphis, TN 38152, USA and Trinity College, Cambridge CB2 1TQ, UK (e-mail: bollobas@msci.memphis.edu)#TAB#",1,University of Memphis,I94658018,no
 "University of Ottawa, Ottawa & Darwin College, Cambridge",1,University of Ottawa,I153718931,no
-University of Oxford  University of Cambridge,1,University of Oxford,I40120149,no
+University of Oxford University of Cambridge,1,University of Oxford,I40120149,no
 "University of Pennsylvania Law School & the Department of Medical Ethics and Health Policy, Perelman School of Medicine at the University of Pennsylvania; Harvard University; Harvard Law School; Cambridge University; Harvard College",1,University of Pennsylvania | Harvard University,I79576946 I136199984,no
 "University of St Andrews CAMBRIDGE UNIVERSITY PRESS CAMBRIDGE UNIVERSITY PRESS University Printing House, Cambridge CB2 8Bs, United Kingdom",1,Cambridge University Press,I4210135132,yes
 "Universität Basel und Christ's College, Cambridge",1,University of Basel,I1850255,no
@@ -3349,20 +3330,7 @@ Wireless Business Unit at Cambridge Consultants,1,Cambridge Consultants (United 
 "Yi Zhu From the Department of Physiology and Pathophysiology (C.G., Y.F., X.Z., L.Z., F.Y., Y.Z., Y.G., X.W., W.K.) and Institute of Cardiovascular Sciences (Y.L.), School of Basic Medical Sciences, Peking University, Beijing, P.R. China; Key Laboratory of Molecular Cardiovascular Science, Ministry of Education, Beijing, P.R. China (C.G., Y.F., Y.L., X.Z., L.Z., F.Y., Y.Z., Y.G., X.W., W.K.); Gonville and Caius College, University of Cambridge, Cambridge, United Kingdom (S.S.X.); and Cardiovascular Division, King’s College London BHF Centre, London, United Kingdom (Q.X.)",1,Peking University | King's College London,I20231570 I183935753,no
 "Youfei Guan From the Department of Physiology and Pathophysiology (C.G., Y.F., X.Z., L.Z., F.Y., Y.Z., Y.G., X.W., W.K.) and Institute of Cardiovascular Sciences (Y.L.), School of Basic Medical Sciences, Peking University, Beijing, P.R. China; Key Laboratory of Molecular Cardiovascular Science, Ministry of Education, Beijing, P.R. China (C.G., Y.F., Y.L., X.Z., L.Z., F.Y., Y.Z., Y.G., X.W., W.K.); Gonville and Caius College, University of Cambridge, Cambridge, United Kingdom (S.S.X.); and Cardiovascular Division, King’s College London BHF Centre, London, United Kingdom (Q.X.)",1,Peking University | King's College London,I20231570 I183935753,no
 "Young Adult Hip Service, Department of Trauma & Orthopaedics, Addenbrooke's - Cambridge University NHS Foundation Trust, Hills Road, Cambridge, CB2 0QQ, UK. vk279@cam.ac.uk",1,Addenbrooke's Hospital,I4210156194,no
-"Z. G. Vranesic is with the Department of Electrical and
-Computer Engineering, University of Toronto, Toronto, Canada.When this
-research was done, all other authors were with the Department of
-Electrical and Computer Engineering, McGill University, 3480 University
-Street, Montreal, Quebec, Canada, H3A 2A7.T. H. Szymanski is currently
-with the Department of Electrical and Computer Engineering, McMaster
-University, Hamilton, Canada. F. A. P. Tooley is with Terahertz
-Photonics, Livingston, UK.D. R. Rolston is with Lighthouse Photonics
-Inc., Quebec, Canada. M. H. Ayliffe is with Ignis Optics Inc., San Jose,
-California.F. K. Lacroix is with Ciena Inc., San Jose, California. B.
-Robertson is with the Department of Engineering, Cambridge University,
-UK.E. Bernier is with Nortel Networks Inc., Ottawa, Canada.D. F.
-Brosseau is with the Canadian National Railway Inc., Montreal,
-Canada",1,McGill University | McMaster University | University of Toronto,I5023651 I98251732 I185261750,no
+"Z. G. Vranesic is with the Department of Electrical and Computer Engineering, University of Toronto, Toronto, Canada.When this research was done, all other authors were with the Department of Electrical and Computer Engineering, McGill University, 3480 University Street, Montreal, Quebec, Canada, H3A 2A7.T. H. Szymanski is currently with the Department of Electrical and Computer Engineering, McMaster University, Hamilton, Canada. F. A. P. Tooley is with Terahertz Photonics, Livingston, UK.D. R. Rolston is with Lighthouse Photonics Inc., Quebec, Canada. M. H. Ayliffe is with Ignis Optics Inc., San Jose, California.F. K. Lacroix is with Ciena Inc., San Jose, California. B. Robertson is with the Department of Engineering, Cambridge University, UK.E. Bernier is with Nortel Networks Inc., Ottawa, Canada.D. F. Brosseau is with the Canadian National Railway Inc., Montreal, Canada",1,McGill University | McMaster University | University of Toronto,I5023651 I98251732 I185261750,no
 Zagrebu i sveučilištima Crne Gore Cambridge University Press,1,Cambridge University Press,I4210135132,yes
 "Zoological Department, King's College, Strand",1,,,no
 "[Center for Telecommunications Research, King''s College, UK]",1,King's College London,I183935753,no
@@ -3408,7 +3376,7 @@ Zagrebu i sveučilištima Crne Gore Cambridge University Press,1,Cambridge Unive
 "com.pub2web.rdf.cci.facet.ContentItem[id=http://iet.metastore.ingenta.com/content/journals/10.1049/ir_20050614-af1,webId=/content/journals/10.1049/ir_20050614-af1,properties={vcard_country-name=UK, vcard_organisation-name=Cambridge Consultants}]",1,Cambridge Consultants (United Kingdom),I4210129592,no
 "court road,Cambridge CB21QT,UK)",1,,,no
 "d Addenbrooke’s Hospital, Cambridge University Hospitals NHS Trust, Cambridge and",1,Addenbrooke's Hospital,I4210156194,no
-"ed. Peter Laslett , Cambridge , Cambridge University Press , 198 , p. 269 ",1,Cambridge University Press,I4210135132,yes
+"ed. Peter Laslett , Cambridge , Cambridge University Press , 198 , p. 269",1,Cambridge University Press,I4210135132,yes
 "editor of Wallace Stevens in Context (Cambridge University Press, 2017)",1,,,no
 "eds., (Centre for Economic Policy Research, Cambridge University Press, 1993) pp. 388",1,Cambridge University Press,I4210135132,yes
 "emeritus professor of chemistry in the University of London, is at 12 Hills Avenue, Cambridge, CB1 4XA, UK",1,University of London,I124357947,no
@@ -3446,8 +3414,8 @@ Zagrebu i sveučilištima Crne Gore Cambridge University Press,1,Cambridge Unive
 "§Cambridge Centre for Smart Infrastructure and Construction (CSIC), Cambridge, UK",1,,,no
 "« Paraître et se vêtir au XVIe siècle : morales vestimentaires », Actes du XIIIe colloque du Puy-en-Velay, dans Marie Viallon (prés.), Publications de l’université de Saint-Étienne, 2006, p. 11-36 et « The Dressed Body : the Moulding of Identities in 16th Century France », chapitre 6 dans H. Roodenburg (éd.), The Fashioning of Self : Forging an European Identity ca. 1400-1700, Cambridge, Cambridge University Press- European Science Foundation, 2007, p. 227-257",1,,,no
 "¶ Department of Neurology, Institute of Psychiatry and King's College School of Medicine and Dentistry, London SE5 8AF, United Kingdom",1,King's College London,I183935753,no
-" Consultant and Honorary Senior Lecturer, Department of Anaesthesia, King‘s College, St Thomas‘ Campus, London, UK",1,King's College London,I183935753,no
-" Bullard Laboratories, Madingley Road, Cambridge CB3 0EZ, UK",1,,,no
+"Consultant and Honorary Senior Lecturer, Department of Anaesthesia, King‘s College, St Thomas‘ Campus, London, UK",1,King's College London,I183935753,no
+"Bullard Laboratories, Madingley Road, Cambridge CB3 0EZ, UK",1,,,no
 "–1800. Cambridge u.a., Cambridge University Press. 261 Seiten. Taschenbuch. GBP 19,99. ISBN 978-0-521-13959-5",1,Cambridge University Press,I4210135132,yes
 "‡Cardiovascular Division, King’s College of London, London, United Kingdom",1,King's College London,I183935753,no
 "∥Department of Rheumatology, King's College HospitalDenmark Hill, London SE5 9RS",1,King's College Hospital,I4210153400,no

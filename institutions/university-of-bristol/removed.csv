@@ -78,7 +78,7 @@ of Bristol,2,,,no
 *Email: Ruth.Deakin-Crick@bristol.ac.uk,1,,,no
 "*Upper Gastrointestinal/Soft Tissue Unit, Princess Alexandra Hospital, School of Medicine, The University of Queensland, Brisbane, Queensland, Australia †Upper Gastrointestinal/Soft Tissue Unit, Princess Alexandra Hospital, Discipline of Surgery, The University of Queensland, Brisbane, Queensland, Australia ‡Epidemiology & Biostatistics, School of Public Health, The University of Queensland, Public Health Building, Herston, Queensland, Australia §The University of Queensland, Diamantina Institute, Translational Research Institute, Woolloongabba, Queensland, Australia ¶The University of Queensland, Diamantina Institute and School of Medicine, Translational Research Institute, Woolloongabba, Queensland, Australia ||Mater Medical Research Institute, Mater Health Services, Raymond Terrace, South Brisbane, Australia **Bristol Centre for Surgical Research, School of Social & Community Medicine, University of Bristol, Bristol, UK",1,The University of Queensland | Translational Research Institute | Princess Alexandra Hospital,I165143802 I1308309334 I2801814493,no
 "*Visiting Professor, Universities of Leiden (NL), Bristol, UK and Wuhan (PRC)",1,Leiden University,I121797337,no
-", Bristol : Bristol University Press ",1,Bristol University Press,I4394709140,yes
+", Bristol : Bristol University Press",1,Bristol University Press,I4394709140,yes
 ", Bristol, 2001",1,,,no
 ", Office Room 1.01b, Canynge Hall, 39 Whatley Road, Bristol, BS8 2PS, UK. c.salisbury@bristol.ac.uk",1,,,no
 . Bristol BS16 1LE,1,,,no
@@ -117,7 +117,7 @@ of Bristol,2,,,no
 "BrisSynBio, Bristol, BS8 1TQ, UK. lucia.marucci@bristol.ac.uk",1,BrisSynBio,I4405271600,no
 "BrisSynBio, Bristol, UK. lucia.marucci@bristol.ac.uk",1,BrisSynBio,I4405271600,no
 "BrisSynBio, Life Sciences Building, Bristol BS8 1TQ, UK",1,BrisSynBio,I4405271600,no
-"BrisSynBio, Life Sciences Building, TyndallAvenue, Bristol BS8 1TQ, U.K",1,BrisSynBio,I4405271600,no
+"BrisSynBio, Life Sciences Building, Tyndall Avenue, Bristol BS8 1TQ, U.K",1,BrisSynBio,I4405271600,no
 "BrisSynBio, Life Sciences Building, Tyndall Avenue, Bristol, BS8 1TQ UK",1,BrisSynBio,I4405271600,no
 "BrisSynBio, Life Sciences Building, Tyndall Avenue, Bristol, BS8 1TQ, UK. p.curnow@bristol.ac.uk",1,BrisSynBio,I4405271600,no
 "BrisSynBio, Life Sciences Building, Tyndall Avenue, Bristol, U.K",1,BrisSynBio,I4405271600,no
@@ -131,7 +131,7 @@ of Bristol,2,,,no
 Bristol BS9 3RU,1,,,no
 Bristol BTS U.K,1,,,no
 Bristol Bay Campus of the University of Alaska,1,University of Alaska System,I2802090665,no
-Bristol Bay Campus of the University of Alaska ,1,University of Alaska System,I2802090665,no
+Bristol Bay Campus of the University of Alaska,1,University of Alaska System,I2802090665,no
 "Bristol BioEnergy Centre , University of Western England , Bristol , UK,",1,University of the West of England,I178535277,no
 "Bristol Business School , Faculty of Business and Law , University of the West of England , Bristol",1,University of the West of England,I178535277,no
 "Bristol Business School Centre for Research on Work and Organisation Seminar , Wednesday 3 rd",1,,,no
@@ -178,7 +178,7 @@ Bristol Medical School (THS); University of Manchester,1,University of Mancheste
 Bristol University Press Durham Research,1,Bristol University Press,I4394709140,yes
 "Bristol University Press University of Bristol 1-9 Old Park Hill Bristol BS2 8BB UK Easy Access System Europe , Mustamäe tee 50 , 10621 Tallinn , Estonia ,",1,Bristol University Press,I4394709140,yes
 Bristol University Press University of Bristol 1-9 Old Park Hill Bristol BS2 8BB Uk,1,Bristol University Press,I4394709140,yes
-Bristol University Press) ,1,Bristol University Press,I4394709140,yes
+Bristol University Press),1,Bristol University Press,I4394709140,yes
 "Bristol University Press, 2024, 344 pages",1,Bristol University Press,I4394709140,yes
 "Bristol Vet Specialists , Bristol ,",1,,,no
 "Bristol Vet Specialists, CVS Group PLC , Bristol,",1,,,no
@@ -275,15 +275,7 @@ Department of Hematology and Oncology University Hospital Bristol Bristol United
 "Department of Mathematics, University Walk, Bristol, U.K",1,,,no
 "Department of Mathematics, University Walk, Clifton, Bristol, BS8 1TW, U.K",1,,,no
 "Department of Mechanical Engineering, University Walk, Bristol BS8 1TR, U.K",1,,,no
-"Department of Medicine, University of Cambridge, Level 5, Box 157, Addenbrooke's Hospital, Cambridge CB2 2QQ, UK, 
-
-bClinical Genetics Service, Institute of Child Health, Bristol Royal Hospital for Sick Children, St Michael's Hill, Bristol BS2 8BJ, UK, 
-
-cUniversity of Bristol, Department of Paediatric Pathology, St Michael's Hospital, Southwell Street, Bristol BS2 8EG, UK, 
-
-dPaediatric Liver Service, King's College Hospital, Denmark Hill, London SE5 9RS, UK, 
-
-eThe Liver Unit, The Birmingham Children's Hospital NHS Trust, Steelhouse Lane, Birmingham B4 6NH, UK",1,University of Cambridge | Bristol Royal Hospital for Children | St Michael's Hospital | Addenbrooke's Hospital,I241749 I2801868026 I4210131164 I4210156194,no
+"Department of Medicine, University of Cambridge, Level 5, Box 157, Addenbrooke's Hospital, Cambridge CB2 2QQ, UK, bClinical Genetics Service, Institute of Child Health, Bristol Royal Hospital for Sick Children, St Michael's Hill, Bristol BS2 8BJ, UK, cUniversity of Bristol, Department of Paediatric Pathology, St Michael's Hospital, Southwell Street, Bristol BS2 8EG, UK, dPaediatric Liver Service, King's College Hospital, Denmark Hill, London SE5 9RS, UK, eThe Liver Unit, The Birmingham Children's Hospital NHS Trust, Steelhouse Lane, Birmingham B4 6NH, UK",1,University of Cambridge | Bristol Royal Hospital for Children | St Michael's Hospital | Addenbrooke's Hospital,I241749 I2801868026 I4210131164 I4210156194,no
 "Department of Neurosurgery and Stanford Stroke Center, Stanford University Medical Center, Stanford, California, USA; Department of Neurosurgery, Bristol Institute of Clinical Neuroscience, North Bristol University Hospital, Bristol, UK",1,Stanford University | Stanford Medicine,I97018004 I4210137306,no
 "Department of Neurosurgery, Stanford University, Stanford, California, USA; Department of Neurosurgery, North Bristol University Hospital, Bristol, United Kingdom. Electronic address: marioteo@doctors.org.uk",1,Stanford University,I97018004,no
 "Department of Ophthalmology, Bristol Eye Hospital, Lower Maudlin Street, Avon, UK",1,Bristol Eye Hospital,I4210109786,no
@@ -349,7 +341,7 @@ Department of internal medicine University Hospital Bristol  Bristol UK,1,,,no
 "Division of Psychology and Language Sciences, Faculty of Brain Sciences, University College LondonLondon, UK; Department of Experimental Psychology, University of OxfordOxford, UK",1,University of Oxford | University College London,I40120149 I45129253,no
 "Dr Matthias Egger, Department of Social Medicine, Canynge Hall, Whiteladies Road, Bristol BS8 2PR, UK",1,,,no
 ENT University Hospital Bristol Bristol UK,1,,,no
-"Economics , Bristol : Bristol University Press ",1,Bristol University Press,I4394709140,yes
+"Economics , Bristol : Bristol University Press",1,Bristol University Press,I4394709140,yes
 Email: eleanore.hickman@bristol.ac.uk,1,,,no
 Enfermeira. PhD pela Universidade de Bristol UK,1,,,no
 "Epidemiology & Public Health Medicine, Canynge Hall, Whiteladies Road, Bristol BS8 2PR, UK",1,,,no
@@ -588,7 +580,7 @@ University of Bristol Dental Hospital Department of Oral and Maxillofacial Radio
 "University of Bristol Dental Hospital, Lower Maudlin Street, Bristol, Somerset BS1 2LY, UK",1,University Of Bristol Dental Hospital,I2800072022,no
 "University of Bristol Hospitals NHS Foundation Trust, Bristol, UK",1,University Hospitals Bristol NHS Foundation Trust,I2800789647,no
 "University of Bristol Hospitals and Weston NHS Trust , Bristol , UK",1,University Hospitals Bristol and Weston NHS Foundation Trust,I4392738148,no
-"University of Bristol NHS Foundation Trust, EducationCentre, Level 3, MaudlinStreet, Bristol BS2 8AE, UK",1,Bristol NHS Foundation Trust,I4405276282,no
+"University of Bristol NHS Foundation Trust, Education Centre, Level 3, Maudlin Street, Bristol BS2 8AE, UK",1,Bristol NHS Foundation Trust,I4405276282,no
 "University of Bristol NHS Foundation Trust, UK",1,,,no
 "University of Bristol and McGill University, Montreal, Canada",1,McGill University,I5023651,no
 "University of Bristol o The University of Chicago Press Howard House 1427 East 60th Street Queen's Avenue Chicago , IL 60637 , USA",1,University of Chicago,I40347166,no

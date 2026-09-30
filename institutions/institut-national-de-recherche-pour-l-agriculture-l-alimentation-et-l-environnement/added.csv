@@ -1,8 +1,6 @@
 raw_affiliation_string,works,previously_assigned_to,previously_assigned_ids,previously_counted_via_lineage
 "(INRAE, UMR SELMET, UMR MoSAR)",26,,,no
-"ASTREDHOR Sud-Ouest (Site Inrae - 71 avenue Edouard Bourlaux
-CS 20032
-33882 VILLENAVE D'ORNON Cedex - France)",17,"Animal, Santé, Territoires, Risques et Ecosystèmes",I4210094754,yes
+ASTREDHOR Sud-Ouest (Site Inrae - 71 avenue Edouard Bourlaux CS 20032 33882 VILLENAVE D'ORNON Cedex - France),17,"Animal, Santé, Territoires, Risques et Ecosystèmes",I4210094754,yes
 Centre IRD de Montpellier,14,Services déconcentrés d'appui à la recherche Occitanie-Montpellier | Institut de Recherche pour le Développement,I4210147367 I4210166444,yes
 "UMº 1062 Centre de Biologie pour la Gestion des Populations, INÞe, CIÞD, Institut Agro Montpellier, IºD, Univ. Montpellier. 755 avenue du Campus Agropolis, 34988 Montferrier-sur-Lez, France",10,Université de Montpellier | Institut Agro Montpelier | Centre de Biologie pour la Gestion des Populations,I19894307 I4210136436 I4210147278,yes
 (IRNAE),8,,,no
@@ -100,8 +98,7 @@ BIOEMCO UMR 7618 CNRS‐INRA‐ENS‐Paris 6 Bâtiment EGER Aile B 78820 Thiverv
 "Centre Européen des Sciences du Goût, CNRS-UB-INRA, 21000 Dijon, France",2,Centre des Sciences du Goût et de l'Alimentation | Centre National de la Recherche Scientifique,I4210167300 I1294671590,yes
 "Centre INRA d'Angers, Station de Pathologie végétale, BP 57, 49071 Beaucouzé cedex, France",2,Pathologie végétale,I4405263555,yes
 "Centre INRA de Bordeaux, Université de Bordeaux, Villenave d’Ornon, France",2,Biologie du Fruit et Pathologie | Université de Bordeaux,I4210089449 I15057530,yes
-"Centre d'Etudes Spatiales de la Biosphère, Université de
-Toulouse, CNRS/CNES/IRD/INRA/UPS, Toulouse, France",2,Centre d'Études Spatiales de la Biosphère | Université Toulouse III - Paul Sabatier | Institut de Recherche pour le Développement | Centre National de la Recherche Scientifique | Université de Toulouse,I4210100083 I134560555 I4210166444 I1294671590 I4405258862,yes
+"Centre d'Etudes Spatiales de la Biosphère, Université de Toulouse, CNRS/CNES/IRD/INRA/UPS, Toulouse, France",2,Centre d'Études Spatiales de la Biosphère | Université Toulouse III - Paul Sabatier | Institut de Recherche pour le Développement | Centre National de la Recherche Scientifique | Université de Toulouse,I4210100083 I134560555 I4210166444 I1294671590 I4405258862,yes
 "Centre de Bioingénierie Gilbert Durand, Département de Génie Biochemique et Alimentaire, INSA, UMR CNRS, LA INRA, Complexe Scientifique de Rangueil, Toulouse, France",2,Institut National des Sciences Appliquées de Toulouse | Centre National de la Recherche Scientifique,I196454796 I1294671590,no
 "Centre de Bioingénierie Gilbert Durand, UMR CNRS 5504, UMR INRA 792, Institut National des Sciences Appliquées, 135 Avenue de Rangueil, 31077 Toulouse Cedex 4, France",2,Institut National des Sciences Appliquées de Toulouse | Centre National de la Recherche Scientifique,I196454796 I1294671590,no
 "Centre de Biologie et Gestion des Populations, INRA UMR 1062, Campus International de Baillarguet, CS 30016, 34988 Montferrier/Lez cedex, France",2,Centre de Biologie pour la Gestion des Populations,I4210147278,yes
@@ -318,12 +315,7 @@ Laboratoire de Recherches sur le Développement de l’Elevage. INRA SAD. Corte.
 "Station de recherches .sur la vache laitière , lnra , 35590 Stiiiit-Gilles ;",2,,,no
 "Station de zootechnie , Inra , BP 1232 , 97185 Pointe-à-Pitre cedex ;",2,Institut National de la Recherche Agronomique,I1314251682,no
 "Station expérimentale d'Aviculture du Magneraud, 1. N. R. A., 17700 Surgères",2,,,no
-"TBI-PHYGE - PHYGE - Integrated physiology and functional genomics of yeast and filamentous fungi (Integrated physiology and functional genomics of yeast and filamentous fungi (PHYGE)
-TBI
-INSA/CNRS 5504  
-UMR INSA/INRA 792
-135 avenue de Rangueil
-31077 Toulouse CEDEX 04 - France)",2,Centre National de la Recherche Scientifique,I1294671590,no
+TBI-PHYGE - PHYGE - Integrated physiology and functional genomics of yeast and filamentous fungi (Integrated physiology and functional genomics of yeast and filamentous fungi (PHYGE) TBI INSA/CNRS 5504 UMR INSA/INRA 792 135 avenue de Rangueil 31077 Toulouse CEDEX 04 - France),2,Centre National de la Recherche Scientifique,I1294671590,no
 "The Centre National de la Recherche Scientifique, UPR 1524, INRA, Jouy-en-Josas, France",2,Centre National de la Recherche Scientifique | Institut Cochin,I1294671590 I4210141964,no
 "Toulouse School of Economics (LERNA‐INRA), France",2,Toulouse School of Economics,I4210092408,no
 "Toulouse School of Economics, University of Toulouse Capitol (INRA), France",2,Toulouse School of Economics,I4210092408,no
@@ -440,17 +432,9 @@ Unité dEcologie et de Physiologie du Système Digestif I.N.R.A. Centre de Reche
 "the Laboratoire des Maladies Métaboliques et des Micronutriments (INRA) (I.D., V.A.-B.), Equipe Vitamines, Clermont-Ferrand, France",2,,,no
 "Équipe nutrition, aquaculture environnement, Unité mixte Inra–Ifremer de nutrition des poissons, Station d’hydrobiologie Inra, 64310 Saint-Pée-sur-Nivelle, France",2,Nutrition Metabolism Aquaculture | Ifremer,I4210112248 I154202486,yes
 "‡‡Unité PRC, UMR 6175 INRA-CNRS-Université de Tours-Haras Nationaux, 37380 Nouzilly, France",2,Physiologie de la Reproduction et des Comportements | Université de Tours | Centre National de la Recherche Scientifique,I4210116130 I110017253 I1294671590,yes
-"
-             Aïcha Bourad est docteure en science politique. Suite à une première recherche sur la construction sociale du charisme à partir de la candidature de José Bové à l’élection présidentielle de 2007, elle a travaillé de 2019 à 2021 sur les conditions de production et de mise en application des réglementations sur la commercialisation des semences au sein du laboratoire Odyssée de l’INRAe et du Labex SMS.
-",1,,,no
-"
-INRA UMR SAD-APT, 16, rue Claude Bernard, 75231 Paris CEDEX 05
-Courriel : pierre.labarthe@inapg.inra.fr
-Pierre Labarthe est doctorant en sciences économiques au sein du département Sciences pour l’action et le développement de l’INRA. Son travail de recherche porte sur la dynamique des investissements immatériels en agriculture et la performance des services. Sa thèse s’appuie sur l’analyse institutionnelle historique des dispositifs de conseil technique agricole dans trois pays européens : France, Pays-Bas et Allemagne. Il a publié à ce sujet un article dans le volume 7 de la revue Géographie, Économie, Société.
-",1,"Département sciences pour l'action, les transitions, les territoires | Lyon 1 Université",I4210146462 I100532134,yes
-"
-INRAE ASTER-Mirecourt
-",1,ASTER | Agrosystèmes territoires ressources Mirecourt,I111368775 I4405258581,yes
+"Aïcha Bourad est docteure en science politique. Suite à une première recherche sur la construction sociale du charisme à partir de la candidature de José Bové à l’élection présidentielle de 2007, elle a travaillé de 2019 à 2021 sur les conditions de production et de mise en application des réglementations sur la commercialisation des semences au sein du laboratoire Odyssée de l’INRAe et du Labex SMS.",1,,,no
+"INRA UMR SAD-APT, 16, rue Claude Bernard, 75231 Paris CEDEX 05 Courriel : pierre.labarthe@inapg.inra.fr Pierre Labarthe est doctorant en sciences économiques au sein du département Sciences pour l’action et le développement de l’INRA. Son travail de recherche porte sur la dynamique des investissements immatériels en agriculture et la performance des services. Sa thèse s’appuie sur l’analyse institutionnelle historique des dispositifs de conseil technique agricole dans trois pays européens : France, Pays-Bas et Allemagne. Il a publié à ce sujet un article dans le volume 7 de la revue Géographie, Économie, Société.",1,"Département sciences pour l'action, les transitions, les territoires | Lyon 1 Université",I4210146462 I100532134,yes
+INRAE ASTER-Mirecourt,1,ASTER | Agrosystèmes territoires ressources Mirecourt,I111368775 I4405258581,yes
 """Biology of Polyomaviruses"" Team, ISP 1282, INRA University of Tours, Tours, France. mahtab.samimi@univ-tours.fr",1,Université de Tours | Centre Hospitalier Universitaire de Tours,I110017253 I4210095477,no
 """Réseau national alimentation cancer recherche (Réseau NACRe), www.inrae.fr/nacre, Jouy-en-Josas, France""",1,,,no
 "# INRA, UMR791, F-75231 Paris, France",1,,,no
@@ -486,11 +470,7 @@ INRAE ASTER-Mirecourt
 ") Station de Recherehes de Yiticulture , INRA Centre de Recherehes de Bordeaux , Villenave d'Ornon , France",1,Biologie du Fruit et Pathologie,I4210089449,yes
 ") Unité Elevage et Alimentation du Cheval, l. N. R. A., Theix, 63122 Ceyrat France",1,Institut de l’Elevage,I4210113835,no
 ") l.N.R.A., Laboratoire de la Digestion, Theix, 63122 Ceyrat, France",1,,,no
-"*
-            UMR ECOBIOP, Station d’hydrobiologie INRA, BP3, 64310 St Pée sur Nivelle, France and 
-
-            ‡
-            UR PSH, INRA Domaine Saint Paul, Site Agroparc, 84914 Avignon Cedex 9, France",1,Nutrition Metabolism Aquaculture,I4210112248,yes
+"* UMR ECOBIOP, Station d’hydrobiologie INRA, BP3, 64310 St Pée sur Nivelle, France and ‡ UR PSH, INRA Domaine Saint Paul, Site Agroparc, 84914 Avignon Cedex 9, France",1,Nutrition Metabolism Aquaculture,I4210112248,yes
 "**CESAER-INRA (UMR 1041) and EQUIPPE (University of Lille 1, France). email",1,Centre d'économie et de sociologie appliquées à l'agriculture et aux espaces ruraux,I4210122871,yes
 "*Harvard University (Center for Risk Analysis), Boston, MA; Toulouse School of Economics (LERNA-INRA), Toulouse, France; e-mail: [email protected]",1,Toulouse School of Economics,I4210092408,no
 "*Laboratoire de Génétique biochimique et de Cytogénétique, INRA CRJ, 78352 Jouy en Josas cedex, France",1,Département Génétique Animale,I4210116501,yes
@@ -509,7 +489,7 @@ INRAE ASTER-Mirecourt
 ". Station de Recherches sur la Viande-INRA , 63122 Saint-Genès-Champanelle",1,Institut National de la Recherche Agronomique | Unité Mixte de Recherche sur les Herbivores | Centre de Recherche en Nutrition Humaine d'Auvergne,I1314251682 I4210138910 I4210137075,yes
 ". Station de Zoologie et d'Apidologie , lNRA , 84140 Montfavet , France",1,,,no
 ". Station de Zoologie et d'Apidologie, lNRA, 84140 Montfavet, France",1,,,no
-. Unité Méthodologie d'analyse du risque alimentaire Mét @ risk-INRA 1204 / INAP-G -Paris - France ,1,,,no
+. Unité Méthodologie d'analyse du risque alimentaire Mét @ risk-INRA 1204 / INAP-G -Paris - France,1,,,no
 . Unité Méthodologie d'analyse du risque alimentaire Mét@risk-INRA 1204/INA-PG -Paris -France,1,,,no
 . Unité Méthodologie d'analyse du risque alimentaire Mét@risk-INRA 1204/INAP-G -Paris -France,1,,,no
 ".N.R.A., Station d'Agronomie, 28, rue de Herrlisheim, F 68021 Colmar",1,Département agronomie et sciences de l'environnement pour les agroécosystèmes,I4210103063,yes
@@ -1315,8 +1295,7 @@ INRA-SAE2,1,Évolution Paris Seine,I4210138667,no
 "INRA-Unité Expérimentale du Pôle d'Expérimentation Avicole de Tours UEPEAT, Nouzilly, France",1,Biologie des oiseaux et aviculture,I4210123167,yes
 "INRA-Unité Maladies Métaboliques et Micronutriments--Centre de Recherche de Clermont-Fd (Champanelle, France)",1,Centre de Recherche en Nutrition Humaine d'Auvergne,I4210137075,yes
 "INRA-Unité Plantes et Systèmes de Culture Horticoles, Site Agroparc, Avignon, France",1,Plantes et systèmes de culture horticoles,I4210086462,yes
-"INRA-Unité Protéines Végétales et leurs Interactions, 
-BP 71627, 44316, Nantes, France",1,Biopolymères Interactions Assemblages,I4210099947,yes
+"INRA-Unité Protéines Végétales et leurs Interactions, BP 71627, 44316, Nantes, France",1,Biopolymères Interactions Assemblages,I4210099947,yes
 "INRA-Unité de Bioclimatologie, F-78850 Thiverval-Grignon, France",1,Biologie et gestion des champignons phytopathogènes,I4210134313,yes
 "INRA-Unité de Biométrie et Intelligence Artificielle, Domaine de Vilvert, 78352 Jouy-en-Josas, France. ckervran@irisa.fr",1,,,no
 "INRA-Unité de Nutrition Humaine et Physiologie Intestinale, Paris, France",1,Physiologie de la Nutrition et du Comportement Alimentaire | Unité de Nutrition Humaine,I4210134531 I4210086514,yes
@@ -1384,12 +1363,8 @@ INRA‐Lusignan Lusignan France,1,Unité de Recherche Pluridisciplinaire Prairie
 "INSERM U1208, INRA USC1361 Stem Cell and Brain Research Institute Department of Pluripotent Stem Cells in Mammals,  Bron, France",1,Inserm | Institut Cellule Souche et Cerveau,I154526488 I4210129939,yes
 "INSERM U557 (UMR Inserm; INRA; CNAM, Université Paris 13), 93017 Paris, France",1,Inserm | Paris Cardiovascular Research Center | Conservatoire National des Arts et Métiers | Université Sorbonne Paris Nord,I154526488 I4210131199 I124158823 I4210091279,no
 "INSERM UMR_S 1317, INRAE UMR_A 1341",1,"Institut National de la Recherche Agronomique | Nutrition, métabolismes et cancer",I1314251682 I4387156410,yes
-"INSTITUT NATIONAL DE RECHERCHE POUR L’AGRICULTURE, L’ALIMENTATION ET L’ENVIRONNEMENT
-LABORATOIRE INTERDISCIPLINAIRE SCIENCES INNOVATIONS ET SOCIETE
-UNIVERSITE GUSTAVE EIFFEL",1,,,no
-"INSTITUT NATIONAL DE RECHERCHE POUR L’AGRICULTURE, L’ALIMENTATION ET L’ENVIRONNEMENT
-LABORATOIRE INTERDISCIPLINAIRE SCIENCES INNOVATIONS ET SOCIETE
-UNIVERSITÉ GUSTAVE EIFFEL",1,,,no
+"INSTITUT NATIONAL DE RECHERCHE POUR L’AGRICULTURE, L’ALIMENTATION ET L’ENVIRONNEMENT LABORATOIRE INTERDISCIPLINAIRE SCIENCES INNOVATIONS ET SOCIETE UNIVERSITE GUSTAVE EIFFEL",1,,,no
+"INSTITUT NATIONAL DE RECHERCHE POUR L’AGRICULTURE, L’ALIMENTATION ET L’ENVIRONNEMENT LABORATOIRE INTERDISCIPLINAIRE SCIENCES INNOVATIONS ET SOCIETE UNIVERSITÉ GUSTAVE EIFFEL",1,,,no
 "ISPA, UMR 1391, INRA Nouvelle-Aquitaine, Université de Bordeaux, Grande Ferrage, Villenave d’Ornon, France",1,Unité mixte de recherche Œnologie | Biologie du Fruit et Pathologie | Université de Bordeaux,I4210134216 I4210089449 I15057530,yes
 "Ingénierie Moléculaire INRA, Nantes, France",1,,,no
 "Ingénieur Agronome,INRA UMR SADAPT, Équipe Agricultures Urbaines",1,Institut National de la Recherche Agronomique,I1314251682,no
@@ -1780,7 +1755,7 @@ Laboratoire de Pharmacologie-ToxicologieUR 66Institut National de la Recherche A
 "Laboratoire de Physiologie de la Nutrition , . N. R.A. , 78350Jouy- en-Josas , France",1,,,no
 "Laboratoire de Physiologie de la Nutrition I.N.R.A., 78350 Jouy-en-Josas, France",1,Virologie et Immunologie Moléculaires,I4210114484,yes
 "Laboratoire de Physiologie de la Nutrition I.N.R.A.-C.N.R.Z., Jouy-en-Josas, France",1,Virologie et Immunologie Moléculaires,I4210114484,yes
-Laboratoire de Physiologie de la Nutrition INRA-CNRZ. 78350 Jouy-en-Josas ( France ) ,1,Virologie et Immunologie Moléculaires,I4210114484,yes
+Laboratoire de Physiologie de la Nutrition INRA-CNRZ. 78350 Jouy-en-Josas ( France ),1,Virologie et Immunologie Moléculaires,I4210114484,yes
 Laboratoire de Physiologie de la Nutrition INRA-CNRZ. 78350 Jouy-en-Josas (France),1,Virologie et Immunologie Moléculaires,I4210114484,yes
 "Laboratoire de Physiologie de la Nutrition, 1. N. R.A., 78350 Jouy-en-Josas, France. (",1,"Laboratoire de recherche en cardiovasculaire, métabolisme, diabétologie et nutrition",I4210126950,yes
 "Laboratoire de Physiologie de la Nutrition, INRA-Centre de Recherches de Jouy, Jouy-en-Josas, France",1,Services déconcentrés d'appui à la recherche Ile-de-France-Jouy-en-Josas-Antony | Virologie et Immunologie Moléculaires | Département Génétique Animale,I4210099460 I4210114484 I4210116501,yes
@@ -2038,8 +2013,7 @@ Neuro‐Gastroenterology and Nutrition Unit INRA Toulouse France,1,NutriNeuro,I4
 "Ouest-Genopole Campus de Beaulieu - INRAE, UR1037 Fish Physiology and Genomics, BIOSIT",1,Laboratoire de Physiologie et Génomique des Poissons,I4210141078,yes
 "P. Grolier, P. Borel, Equipe “Vitamines,” Unité Maladies Métaboliques et micronutriments, INRA Centre de Theix, Saint-Genès Champanelle, France",1,Institut National de la Recherche Agronomique,I1314251682,no
 "PEAT, UE1295 - INRAE Centre Val de Loire, 37380",1,Services déconcentrés d'appui à la recherche Val de Loire,I4210129154,yes
-"PPB - Prédéveloppement en Biotechnologies - Welience Agroalimentaire et Bio-industriel [Dijon] (Plateforme de Pré-développement en Biotechnologie
-Site INRA - 17 rue Sully 21065 DIJON - France)",1,,,no
+PPB - Prédéveloppement en Biotechnologies - Welience Agroalimentaire et Bio-industriel [Dijon] (Plateforme de Pré-développement en Biotechnologie Site INRA - 17 rue Sully 21065 DIJON - France),1,,,no
 "PRC, UMR 7247 INRA/CNRS/Université François-Rabelais de Tours/IFCE Nouzilly, France",1,Physiologie de la Reproduction et des Comportements | Université de Tours | Centre National de la Recherche Scientifique,I4210116130 I110017253 I1294671590,yes
 "PRC, UMR INRA0085, CNRS 7247, Centre INRA Val de Loire, 37380 Nouzilly, France; Florimond Desprez, 3 Rue Florimond Desprez, 59242 Cappelle en Pélève, France",1,Physiologie de la Reproduction et des Comportements | Services déconcentrés d'appui à la recherche Val de Loire | Centre National de la Recherche Scientifique,I4210116130 I4210129154 I1294671590,yes
 "PRT PEE, encadrée par Emmanuel Piron, ingénieur en agricuINRAE Plateau de Recherche Technologique Pôle Epandage Environnement",1,,,no
@@ -2101,7 +2075,7 @@ Résistance Induite et Bioprotection des Plantes UMR INRAE 1488 RIBP,1,,,no
 "SaAB Team/BIA Unit, INRA Toulouse, Castanet-Tolosan, France. matthieu.vignes@toulouse.inra.fr",1,Génétique Physiologie et Systèmes d'Elevage,I4210154939,yes
 "Santé environnementale / Sciences de la vie Domaine du doctorat : Agrosciences , Environnement et Santé Laboratoire de Toxicologie Environnementale UR INRAE 0406 A&E",1,Département Santé des Plantes et Environnement | Département agronomie et sciences de l'environnement pour les agroécosystèmes,I4210135948 I4210103063,yes
 "Section of Anaesthesiology, Université de Lyon, VetAgro Sup, Marcy l'Etoile, France; Laboratoire Carmen, INSERM U1060, INRA U1235, INSA Lyon, Université Claude Bernard Lyon 1, 69621 Villeurbanne Cedex, France",1,"Lyon 1 Université | Laboratoire de recherche en cardiovasculaire, métabolisme, diabétologie et nutrition | VetAgro Sup | Hospices Civils de Lyon | Inserm | Institut National des Sciences Appliquées de Lyon",I100532134 I4210126950 I4210104684 I4210100596 I154526488 I48430043,yes
-"Senior Research Scientist, Institut National de Recherche Pour L'Agriculture, L'Alimentation et L'Environnement, Dept. of Aqua, Environnement Territoires et Infrastructures Research Unit, Gazinet, F-33612 Cestas, France; Adjunct Senior Lecturer, School of Civil, Environmental and Mining Engineering, Univ. of Adelaide, Adelaide, SA 5005, Australia. ORCID: ",1,,,no
+"Senior Research Scientist, Institut National de Recherche Pour L'Agriculture, L'Alimentation et L'Environnement, Dept. of Aqua, Environnement Territoires et Infrastructures Research Unit, Gazinet, F-33612 Cestas, France; Adjunct Senior Lecturer, School of Civil, Environmental and Mining Engineering, Univ. of Adelaide, Adelaide, SA 5005, Australia. ORCID:",1,,,no
 "Service Commun de Cytométrie, Centre INRA de Tours, 37380 Nouzilly, France",1,Services déconcentrés d'appui à la recherche Val de Loire,I4210129154,yes
 "Service Commun de Cytométrie-INRA, Station de Pathologie Aviaire et de Parasitologie, Nouzilly, France",1,Biologie des oiseaux et aviculture,I4210123167,yes
 "Service Commun de Microscopic Electronique, lNRA, BV 1540, Dijon, France",1,,,no
@@ -2170,12 +2144,12 @@ Résistance Induite et Bioprotection des Plantes UMR INRAE 1488 RIBP,1,,,no
 "Station de Génétique et Amélioration des Plantes, INRA Route de Saint Cyr, Versailles, France",1,Département Biologie et Amélioration des Plantes,I4210159916,yes
 "Station de Nutrition et Alimentation (INRA) de /'INA-PG, 16, rue C-Bernard, 75231 Paris Cedex 05, France",1,Physiologie de la Nutrition et du Comportement Alimentaire,I4210134531,yes
 "Station de Nutrition et Alimentation (INRA) de /'INA-PG, 16, rue C-Bernard, 75231 Paris Cedex 05;",1,Physiologie de la Nutrition et du Comportement Alimentaire,I4210134531,yes
-"Station de Nutrition et Alimentation , /. NR.A.I/.N.A .-P.G. , 16, rue Claude-Bernard , 75231 Paris Cedex 05 ",1,Physiologie de la Nutrition et du Comportement Alimentaire | Clinique Claude-Bernard,I4210134531 I4210141325,yes
-"Station de Nutrition et Alimentation Il.N.R.A.I de '). N. A . -PG. 16 , rue CI. Bernard , 75231 Paris Cedex 05 ",1,Physiologie de la Nutrition et du Comportement Alimentaire,I4210134531,yes
+"Station de Nutrition et Alimentation , /. NR.A.I/.N.A .-P.G. , 16, rue Claude-Bernard , 75231 Paris Cedex 05",1,Physiologie de la Nutrition et du Comportement Alimentaire | Clinique Claude-Bernard,I4210134531 I4210141325,yes
+"Station de Nutrition et Alimentation Il.N.R.A.I de '). N. A . -PG. 16 , rue CI. Bernard , 75231 Paris Cedex 05",1,Physiologie de la Nutrition et du Comportement Alimentaire,I4210134531,yes
 "Station de Nutrition et Alimentation Il.N.R.A.I de 1'). N. A . -PG. 16, rue CI. Bernard, 75231 Paris Cedex 05",1,Physiologie de la Nutrition et du Comportement Alimentaire,I4210134531,yes
-"Station de Nutrition et Alimentation fI. N. R.A. ) / de / 'I.N.A.-P. G . 16 , rue Claude Bernard , 75231 Paris Cedex 05 ",1,Physiologie de la Nutrition et du Comportement Alimentaire | Clinique Claude-Bernard,I4210134531 I4210141325,yes
+"Station de Nutrition et Alimentation fI. N. R.A. ) / de / 'I.N.A.-P. G . 16 , rue Claude Bernard , 75231 Paris Cedex 05",1,Physiologie de la Nutrition et du Comportement Alimentaire | Clinique Claude-Bernard,I4210134531 I4210141325,yes
 "Station de Nutrition et Alimentation fI. N. R.A. ) / de /'I.N.A.-P. G. 16, rue Claude Bernard, 75231 Paris Cedex 05",1,Physiologie de la Nutrition et du Comportement Alimentaire,I4210134531,yes
-"Station de Nutrition et Alimentation fl.N.R.A .) de INA-PG 16, rue Claude-Bernard , 75231 Paris Cedex 05 ",1,Physiologie de la Nutrition et du Comportement Alimentaire | Clinique Claude-Bernard,I4210134531 I4210141325,yes
+"Station de Nutrition et Alimentation fl.N.R.A .) de INA-PG 16, rue Claude-Bernard , 75231 Paris Cedex 05",1,Physiologie de la Nutrition et du Comportement Alimentaire | Clinique Claude-Bernard,I4210134531 I4210141325,yes
 "Station de Nutrition et Alimentation fl.N.R.A.) de INA-PG 16, rue Claude-Bernard, 75231 Paris Cedex 05",1,Physiologie de la Nutrition et du Comportement Alimentaire | Clinique Claude-Bernard,I4210134531 I4210141325,yes
 "Station de Nutrition et Alimentation, INA INRA PG, Paris, France",1,Physiologie de la Nutrition et du Comportement Alimentaire,I4210134531,yes
 "Station de Pathologie Aviaire, Unité d'Helminthologie, INRA Tours-Nouzilly, Monnaie, France",1,Biologie des oiseaux et aviculture | Services déconcentrés d'appui à la recherche Val de Loire,I4210123167 I4210129154,yes
@@ -2252,7 +2226,7 @@ Résistance Induite et Bioprotection des Plantes UMR INRAE 1488 RIBP,1,,,no
 "Station de génétique quantitative et appliquée, Centre de recherche Inra de Jouy-en-Josas, 78352 Jouy-en-Josas cedex;",1,Département Génétique Animale,I4210116501,yes
 "Station de génétique quantitative et appliquée, Centre de recherche Inra de Jouy-en-Josas, 78352 Jouy-en-Josas;",1,Département Génétique Animale,I4210116501,yes
 "Station de génétique quantitative et appliquée, INRA-CRJ-78352-Jouy-en-Josas, France",1,Département Génétique Animale,I4210116501,yes
-"Station de nutrition et alimentation (I.N. R.A .J de 17.N. A. -PG 16, rue CI. -Bernard , 75231 Paris Cedex 05 ",1,Physiologie de la Nutrition et du Comportement Alimentaire,I4210134531,yes
+"Station de nutrition et alimentation (I.N. R.A .J de 17.N. A. -PG 16, rue CI. -Bernard , 75231 Paris Cedex 05",1,Physiologie de la Nutrition et du Comportement Alimentaire,I4210134531,yes
 "Station de pathologie végétale, INRA La Grande-Ferrade, 33140, Pont-de-la-Maye, France",1,Pathologie végétale,I4405263555,yes
 "Station de pathologie végétale, INRA La Grande‐Ferrade, 33140, Pont‐de‐la‐Maye, France",1,Institut National de la Recherche Agronomique | Pathologie végétale,I1314251682 I4405263555,yes
 "Station de recherches .sur la vache laitière, lnra, 35590 Stiiiit-Gilles ;",1,,,no
@@ -2966,11 +2940,7 @@ Unité de recherche Mathématiques et Informatique Appliquées INRA  Jouy‐en�
 "the Institut Jean-Pierre Bourgin, UMR1318 INRA-AgroParisTech, 78026 Versailles Cedex, France, and",1,Institut Jean-Pierre Bourgin,I4210107368,yes
 "ÉCOLE DOCTORALE Santé , Sciences Biologiques et Chimie du Vivant INRAE Val de Loire , UR Écosystèmes Forestiers THÈSE présentée",1,Ecosystèmes forestiers,I4405263533,yes
 "École Nationale d’Ingénieurs des Travaux Agricoles, Unité Élevage et Production des Ruminants (soutenue par l’INRA), 63370 Lempdes, France",1,,,no
-"Écologie
-
-	Équipe « Gestion des Populations Invasives », Inra Scribe
-	Campus de Beaulieu
-	35042 - Rennes Cedex",1,Institut National de la Recherche Agronomique,I1314251682,no
+"Écologie Équipe « Gestion des Populations Invasives », Inra Scribe Campus de Beaulieu 35042 - Rennes Cedex",1,Institut National de la Recherche Agronomique,I1314251682,no
 "Équipe Valeur Alimentaire , Station de Recherches sur la Nutrition des Herbivores Inra , Theix , 63122 , Saint-Genès-Champanelle , France",1,Unité Mixte de Recherche sur les Herbivores,I4210138910,yes
 "Équipe associée Inra-Ensar de recherches sur la traite , 65, rue de Saint-Brieuc , 35042 Rennes cedex , France",1,,,no
 "Équipe de Recherches sur la Qualité des Bois , Centre INRA de Nancy , 54280 Champenoux , France",1,,,no
