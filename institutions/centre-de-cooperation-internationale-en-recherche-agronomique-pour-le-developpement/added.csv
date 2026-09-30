@@ -91,8 +91,7 @@ Cariad SE,3,,,no
 "Centre de Coopération Internationale en Recherche Agronomique pour le Développement (CIRAD)-RP-PCP, University of Zimbabwe, Harare, Zimbabwe",3,University of Zimbabwe,I153455119,no
 "Cirad - Intertryp, United States",3,,,no
 "Cirad, UPR Forêts et Sociétés",3,Forests and Societies,I4210126969,yes
-"Cirad-ES -
-        Département Environnements et Sociétés",3,Forests and Societies,I4210126969,yes
+Cirad-ES - Département Environnements et Sociétés,3,Forests and Societies,I4210126969,yes
 "ICRISAT/CIRAD Sorghum Ecophysiology Project, BP 320, Bamako, Mali",3,International Crops Research Institute for the Semi-Arid Tropics,I48025715,no
 "INRA, CIRAD - UMR Innovation",3,Institut Agro Montpelier | Innovation and Development in Agriculture and Food,I4210136436 I4210125327,yes
 "UMR G-EAU, CIRAD, Maputo,  Mozambique",3,"Gestion de l'Eau, Acteurs, Usages",I4210112109,yes
@@ -200,12 +199,8 @@ UMR 117 ASTRE-CIRAD,2,"Animal, Santé, Territoires, Risques et Ecosystèmes",I42
 "e-mail: henri.bailleres@cirad.fr, , , , , , FR",2,,,no
 "e-mail: henri.bailleres@cirad.fr, , FR",2,,,no
 www.cirad,2,,,no
-"
-	CIRAD, UMR ARTDEV, vincent.ribier@cirad.fr
-	",1,"Acteurs, Ressources et Territoires dans le Développement",I4210097770,yes
-"
-	UMR ART-Dev-CIRAD
-	",1,"Acteurs, Ressources et Territoires dans le Développement",I4210097770,yes
+"CIRAD, UMR ARTDEV, vincent.ribier@cirad.fr",1,"Acteurs, Ressources et Territoires dans le Développement",I4210097770,yes
+UMR ART-Dev-CIRAD,1,"Acteurs, Ressources et Territoires dans le Développement",I4210097770,yes
 "#N# 3CIRAD-PERSYST, France",1,,,no
 "'A Surgente', Cargèse, Corsica, France. uilenber@cirad.fr",1,,,no
 ( ) UMR 53 -CIRAD 3P -7 ch . de l'IRAT 97410 St Pierre (La Réunion) - FRANCE -,1,Peuplements végétaux et bioagresseurs en milieu tropical,I4210135772,yes
@@ -247,8 +242,7 @@ www.cirad,2,,,no
 ". CIRAD-Elevage, 97410 St-Pierre, La Réunion",1,Peuplements végétaux et bioagresseurs en milieu tropical,I4210135772,yes
 ". IEMWKZIRAD, 10 rue Pierre Curie, 94704 Maisons-Alfort Cédex",1,,,no
 ". Mission IEMWICIRAD, BP 1232. 97184 Pointe-à-Pitre Cédex",1,Centre Hospitalier Universitaire Pointe-à-Pitre,I4210142474,no
-"1
-            Institut für Vergleichende Tropenmedizin und Parasitologie, Munich, Germany, 2Centre d’Ecologie Fonctionnelle et Evolutive, CNRS, Montpellier, France and 3CIRAD–Elevage et Médecine Vétérinaire Tropicale, Montpellier, France",1,Centre d'Écologie Fonctionnelle et Évolutive | Centre National de la Recherche Scientifique,I4210089824 I1294671590,no
+"1 Institut für Vergleichende Tropenmedizin und Parasitologie, Munich, Germany, 2Centre d’Ecologie Fonctionnelle et Evolutive, CNRS, Montpellier, France and 3CIRAD–Elevage et Médecine Vétérinaire Tropicale, Montpellier, France",1,Centre d'Écologie Fonctionnelle et Évolutive | Centre National de la Recherche Scientifique,I4210089824 I1294671590,no
 "1 Present address: UMR CIRAD-CNRS-ENGREF-INRA ECOFOG, Campus agronomique, BP709, F-97387 Kourou cedex, Guyane Française",1,"Ecologie des Forêts de Guyane | Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",I4210149672 I4210088668,yes
 "10CIRAD, UMR PVBMT, F-97410 St Pierre, La Réunion, France",1,Peuplements végétaux et bioagresseurs en milieu tropical,I4210135772,yes
 "1CIRAD , UPR GECO , F-97130 Capesterre-Belle-Eau , Guadeloupe , France ;",1,,,no
@@ -320,7 +314,7 @@ www.cirad,2,,,no
 "ACIRAD, UPR Systèmes de pérennes, F-34398 Montpellier, France",1,Fonctionnement et Conduite des Systèmes de Culture Tropicaux et Méditerranéens,I4210123768,yes
 "AGIRs Unit (UR22), Centre de Coopération Internationale en Recherche Agronomique pour le Développement, Montpellier, France; Laboratoire de Santé Animale, Agence de Sécurité Sanitaire, Maisons-Alfort, France; Veterinary Epidemiology Economics and Public Health, Royal Veterinary College, London, United Kingdom. Electronic address: timotheevergne@yahoo.com",1,,,no
 Adresse email : claire.bernard-mongin[at]cirad.fr,1,,,no
-"African Conservation Tillage Initiative (ACT)01 BP 1607Ouagadougou 01Burkina Faso, 													CiradUMR Innovation73, 													avenue Jean-François Breton34398 Montpellier 5France, 													CiradUMR Innovation10, 													rue des Près57230 BitcheFrance",1,,,no
+"African Conservation Tillage Initiative (ACT)01 BP 1607Ouagadougou 01Burkina Faso, CiradUMR Innovation73, avenue Jean-François Breton34398 Montpellier 5France, CiradUMR Innovation10, rue des Près57230 BitcheFrance",1,,,no
 "Agricultural Research Centre For International Development, Paris, France",1,,,no
 "Agricultural Research Centre for International Development (CIRAD), People's Republic of Congo",1,,,no
 "Agricultural Research Centre for International Development (CIRAD), UMR Genetic Improvement and Adaptation of Plants (AGAP) Institut, Bobo-Dioulasso 01, Burkina Faso",1,,,no
@@ -347,14 +341,8 @@ Author for correspondence: tel +33(0)4 67 59 37 63; fax +33(0)4 67 59 38�
 "Biomass Energy and Biofuels Laboratory 2iE-CIRAD (LBEB), International Institute for Water and Environmental Engineering (2iE Foundation), Ouagadougou, Burkina Faso",1,International Institute for Water and Environmental Engineering,I4210107488,no
 "Biomass Energy and Biofuels Laboratory 2iE-CIRAD (LBEB), International Institute for Water and Environmental Engineering(2iE Foundation), Ouagadougou, Burkina Faso",1,International Institute for Water and Environmental Engineering,I4210107488,no
 "Biostatistiques, CIRAD, UMR ASTRE",1,"Animal, Santé, Territoires, Risques et Ecosystèmes",I4210094754,yes
-"Bois et Forêts des Tropiques - CIrad
-Campus international de Baillarguet
-TAC105/D
-34398 Montpellier Cedex 5",1,Forests and Societies,I4210126969,yes
-"Bois et Forêts des Tropiques - CIrad
-Campus international de Baillarguet
-TAC105/D
-34398 Montpellier Cedex 5",1,Forests and Societies,I4210126969,yes
+Bois et Forêts des Tropiques - CIrad Campus international de Baillarguet TAC105/D 34398 Montpellier Cedex 5,1,Forests and Societies,I4210126969,yes
+Bois et Forêts des Tropiques - CIrad Campus international de Baillarguet TAC105/D 34398 Montpellier Cedex 5,1,Forests and Societies,I4210126969,yes
 "C-RADAR, Paris, FR",1,,,no
 "C.I.R.A.D., Biotrop, Laboratoire de culture in vitro, B.P. 5035, 34032, Montpellier -, FRANCE",1,,,no
 "C.I.R.A.D/F.L.H.O.R., Laboratoire d'Entomologie , Station de Bassin Martin, B.P. 180, 97455, Saint-Pierre Cedex, LaRéunion, France",1,,,no
@@ -382,8 +370,7 @@ CIAT - CIRAD-UMR Qualisud; Cali Colombia,1,International Center for Tropical Agr
 "CIRA , 11 Rue Charcot , 92800 , Puteaux , France",1,,,no
 "CIRA, 11 Rue Charcot, 92800, Puteaux, France",1,,,no
 "CIRA, 11, rue Charcot, 92800 Puteaux, France",1,,,no
-"CIRAD
-Umr AMAP",1,Amélioration Génétique et Adaptation des Plantes méditerranéennes et tropicales,I4210120904,yes
+CIRAD Umr AMAP,1,Amélioration Génétique et Adaptation des Plantes méditerranéennes et tropicales,I4210120904,yes
 CIRAD  Embrapa‐Belém Brazil,1,Brazilian Agricultural Research Corporation,I199691007,no
 "CIRAD ( UMR ARTDEV) ,",1,"Acteurs, Ressources et Territoires dans le Développement",I4210097770,yes
 "CIRAD (Agricultural Research Centre for International Development), UMR (Unité´ Mixte de Recherche), ASTRE (Animal, Health, Territories, Risks and Ecosystems), Petit-Bourg",1,"Animal, Santé, Territoires, Risques et Ecosystèmes",I4210094754,yes
@@ -694,7 +681,7 @@ CIRAD – EMBRAPA UnB/CDS  Belém DF Brazil,1,Brazilian Agricultural Research Co
 "CIRAD, UMR Qualisud, Station de Neufchâteau, Sainte-Marie, 97130 Capesterre-Belle-Eau, Guadeloupe (FWI)",1,UMR QualiSud | Institut Pasteur de la Guadeloupe,I4387152967 I4210149295,yes
 "CIRAD, UMR SELMET (Systèmes d'élevage méditerranéens et tropicaux),",1,Systèmes d’élevage méditerranéens et tropicaux,I4210158756,yes
 "CIRAD, UMR SELMET (Systèmes d’élevage méditerranéens et tropicaux),",1,Systèmes d’élevage méditerranéens et tropicaux,I4210158756,yes
-"CIRAD, UMR SELMET A , , ",1,Systèmes d’élevage méditerranéens et tropicaux,I4210158756,yes
+"CIRAD, UMR SELMET A , ,",1,Systèmes d’élevage méditerranéens et tropicaux,I4210158756,yes
 "CIRAD, UMR SELMET, Burkina Faso",1,Systèmes d’élevage méditerranéens et tropicaux,I4210158756,yes
 "CIRAD, UMR SELMET, Hanoi, Viet Nam",1,Systèmes d’élevage méditerranéens et tropicaux,I4210158756,yes
 "CIRAD, UMR SELMET, Sénégal",1,Systèmes d’élevage méditerranéens et tropicaux,I4210158756,yes
@@ -862,7 +849,7 @@ CIRAD-UMR-ABSys Research,1,ABSys | ABS Consulting (United States),I4399598408 I4
 "CIRAD-UPR Tree Crop-Based Systems, HRPP, Research and Development Building 3rd Floor, Kasetsart University, Bangkok 10900, Thailand",1,Kasetsart University,I198105771,no
 "CIRAD-UPR75 & CIRAD-DG , Station de Neufchateau , 97130 Capesterre Belle-Eau , Guadeloupe , FWI",1,CIRAD - Direction générale,I4405252979,yes
 "CIRAD-icipe, PO Box 30777, 00100 Nairobi, Kenya",1,International Centre of Insect Physiology and Ecology,I168685008,no
-CIRAD. Direction Régionale d'Afrique Centrale. Unité de Recherche Biens et Services des Écosystèmes Forestiers tropicaux (UR B&SEF). Département Environnement et Sociétés. BP 2572 . Rue Joseph Essono Balla. Yaoundé (Cameroun) ,1,,,no
+CIRAD. Direction Régionale d'Afrique Centrale. Unité de Recherche Biens et Services des Écosystèmes Forestiers tropicaux (UR B&SEF). Département Environnement et Sociétés. BP 2572 . Rue Joseph Essono Balla. Yaoundé (Cameroun),1,,,no
 "CIRAD. UMR AGAP; Palmira, Valle Del Cauca, Colombia",1,,,no
 CIRAD. UMR ART-Dev,1,"Acteurs, Ressources et Territoires dans le Développement",I4210097770,yes
 "CIRAD/AMSA Bosques de Alisos 45A, Bosques de las Lomas, C.P. 05120, México, DF, Mexico",1,Bosque School,I2910502291,no
@@ -976,7 +963,7 @@ Centre for International Cooperation in Agronomic Research for Development,1,,,n
 "Centre international en recherche agronomique pour le développement (Cirad), UMR 112 Selmet Systèmes d'élevage méditerranéens et tropicaux, Station Ligne-Paradis, 7, chemin de l'IRAT, F-97410 Saint-Pierre de la Réunion",1,Peuplements végétaux et bioagresseurs en milieu tropical,I4210135772,yes
 "Centre international en recherche agronomique pour le développement (Cirad), UMR 112 Selmet Systèmes d’élevage méditerranéens et tropicaux, Station Ligne-Paradis, 7, chemin de l’IRAT, F-97410 Saint-Pierre de la Réunion ; méls :",1,Systèmes d’élevage méditerranéens et tropicaux,I4210158756,yes
 Centro Internacional de Investigación Agronómica para el Desarrollo. Montpellier. Francia,1,,,no
-"Centro de Cooperación Internacional en Investigación Agronómica para el Desarrollo (CIRAD) , Francia. UMR ""Acto- res , Recursos y Territorios en el Desarrollo"" (ART-Dev) ",1,,,no
+"Centro de Cooperación Internacional en Investigación Agronómica para el Desarrollo (CIRAD) , Francia. UMR ""Acto- res , Recursos y Territorios en el Desarrollo"" (ART-Dev)",1,,,no
 "Centro de Cooperación Internacional en Investigación Agronómica para el Desarrollo (CIRAD), Francia. Instituto Interamericano de Cooperación para la Agricultura (IICA), México",1,Instituto Interamericano de Cooperación para la Agricultura,I4210106334,no
 "Centro de Cooperación Internacional en Investigación Agronómica para el Desarrollo, Programa Cooperativo de Desarrollo de la Agroindustria Rural de América, París, Francia",1,,,no
 Centro de Cooperação Internacional em Pesquisa Agronômica para o Desenvolvimento (CIRAD) e Universidade de Brasília (UnB),1,,,no
@@ -996,7 +983,7 @@ Cirad - UMR PVBMT,1,Peuplements végétaux et bioagresseurs en milieu tropical,I
 "Cirad Emvt Station de Ligne-Paradis , 7 chemin de l'IRAT , 97410 Saint-Pierre , La Réunion",1,Peuplements végétaux et bioagresseurs en milieu tropical,I4210135772,yes
 "Cirad Emvt Station de Ligne-Paradis, 7 chemin de l’IRAT, 97410 Saint-Pierre, La Réunion",1,Peuplements végétaux et bioagresseurs en milieu tropical,I4210135772,yes
 "Cirad Indonesia , Jakarta , DKI Jakarta , Indonesia",1,State University of Jakarta,I3133421993,no
-"Cirad Padef, 													BP 20, 													97408 Saint-Denis, 													Inra-Sad-Cirad, 													Pôle Elevage, 													7, 													chemin IRAT, 													Ligne Paradis, 													97410 St Pierre",1,,,no
+"Cirad Padef, BP 20, 97408 Saint-Denis, Inra-Sad-Cirad, Pôle Elevage, 7, chemin IRAT, Ligne Paradis, 97410 St Pierre",1,,,no
 Cirad UMR AGAP IAPAR-AMG Biotecnologia km375 CE 86047-902 Tres Marcos Caixa Postal 481 Londrina -PR Br esil,1,Instituto Agronômico do Paraná | Amélioration Génétique et Adaptation des Plantes méditerranéennes et tropicales | AGCO (Netherlands),I4210166948 I4210120904 I882437043,yes
 Cirad UMR AMAP,1,Amélioration Génétique et Adaptation des Plantes méditerranéennes et tropicales,I4210120904,yes
 Cirad UMR Art-Dev,1,"Acteurs, Ressources et Territoires dans le Développement",I4210097770,yes
@@ -1005,7 +992,7 @@ Cirad UMR G-eau,1,"Gestion de l'Eau, Acteurs, Usages",I4210112109,yes
 Cirad UMR Qualisud,1,UMR QualiSud,I4387152967,yes
 "Cirad UMR Tetis, Observatoire de l'Aménagement du Territoire et du Foncier-Madagascar",1,"Centre National de la Recherche Appliquée au Developpement Rural | Territoires, Environnement, Télédétection et Information Spatiale",I4210153489 I4387153996,yes
 Cirad UPR Hortsys,1,University of Puerto Rico at Carolina | Fonctionnement agroécologique et performances des systèmes de culture horticoles,I920381996 I4401726826,yes
-"Cirad UR GreenLERG/ESP Campus international de BaillarguetTAC-47 / F34398 cedex MontpellierFrance, 													Cirad UR GreenUniversité de BrasiliaFaculté de technologieCampus Universitario Darcy RibeiroAsa Norte, 													70.910-900BrasiliaBrésil, 													Inra, 													UR Ecodeveloppement 31326 Castanet-Tolosan cedexFrance, 													Inra UMR DynaforDomaine Saint Paul84914 Avignon cedex 09France, 													Instituto Plan Agropecuario Bvar Artigas 3802MontevideoUruguay",1,"Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",I4210088668,no
+"Cirad UR GreenLERG/ESP Campus international de BaillarguetTAC-47 / F34398 cedex MontpellierFrance, Cirad UR GreenUniversité de BrasiliaFaculté de technologieCampus Universitario Darcy RibeiroAsa Norte, 70.910-900BrasiliaBrésil, Inra, UR Ecodeveloppement 31326 Castanet-Tolosan cedexFrance, Inra UMR DynaforDomaine Saint Paul84914 Avignon cedex 09France, Instituto Plan Agropecuario Bvar Artigas 3802MontevideoUruguay",1,"Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",I4210088668,no
 Cirad UR « Syste `mes d'e ´levage » Station de Ligne-Paradis -7 chemin de l'IRAT 97410 Saint-Pierre Ile de la Re ´union <vincent,1,,,no
 "Cirad – UMR AMAP, BP 709, 97379 Kourou Cedex, French Guiana",1,UMR Botanique et Modélisation de l’Architecture des Plantes et des végétations,I4210121611,yes
 Cirad – UMR Moisa,1,Montpellier Interdisciplinary center on Sustainable Agri-food systems: social and nutritional sciences,I4210100385,yes
@@ -1031,7 +1018,7 @@ Cirad-emvt Campus International de Baillarguet TA,1,,,no
 "Cirad-emvt, station de Ligne-Paradis, 7 chemin de l’Irat, Ligne Paradis, 97410 Saint-Pierre, Réunion",1,Peuplements végétaux et bioagresseurs en milieu tropical,I4210135772,yes
 Cirad-forêt Campus International de Baillarguet TA,1,,,no
 "Cirad2477, Avenue du Val de Montferrand, BP 5035, 34032 Montpellier, France",1,,,no
-"CiradEnvironnement et Société UMR Innovation BP 5032 TA 60/15 73, 													rue J.-F. Breton 34398 Montpellier cedex 5",1,Forests and Societies | Innovation and Development in Agriculture and Food,I4210126969 I4210125327,yes
+"CiradEnvironnement et Société UMR Innovation BP 5032 TA 60/15 73, rue J.-F. Breton 34398 Montpellier cedex 5",1,Forests and Societies | Innovation and Development in Agriculture and Food,I4210126969 I4210125327,yes
 "CiradFort, Campus International de Baillargue Montpellier Cedex 5, France",1,,,no
 "ClRAD, UPR B&SEF, France",1,,,no
 Contact Address: thierry.lefrancois@cirad.fr,1,,,no
@@ -1143,7 +1130,7 @@ IICIRAD,1,,,no
 "IRFA/CIRAD, c/o Unité CIFA, Faculté des Sciences Agronomiques, Université Catholique de Louvain, place Croix du Sud, 1, 1348 Louvain-la-Neuve Belgium",1,UCLouvain,I95674353,no
 "Inra-Sad-Cirad, Pôle Elevage, 7, chemin IRAT, Ligne Paradis, 97410 St Pierre",1,,,no
 "Inra/Cirad, Equipe Gestion des déchets organiques, BP 20, 97490 Saint-Denis Messag, Cedex 09, Reunion (F)",1,"Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",I4210088668,no
-"InraUMR 1273 MétafortTheix 63122Saint Genès ChampanelleFrance <dedieu@clermont.inra.fr>, 													InraUMR 1201 DynaforBP 52627F-31326 Castanet-Tolosan cedexFrance <gibon@toulouse.inra.fr>, 													CiradUMR 84 ERRCMontpellier Supagro2, 													place Viala34060 Montpellier CedexFrance <ickowicz@cirad.fr>, 													CiradIFRAI GIP Inra-Cirad42, 													rue Scheffer75116 ParisFrance <tourrand@aol.com>, 													Benoit Dedieu est le coordinateur du projet Trans (Transformations de l'élevage et dynamique des espaces)., 													Annick Gibon, 													Alexandre Ickowicz et Jean-François Tourrand sont les animateurs scientifiques du volet « Transformations des activités d'élevage et gestion durable des ressources naturelles et des paysages, 													modèles et outils pour la maîtrise des dynamiques à l'échelle de territoires »",1,"Institut National de la Recherche Agronomique | Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",I1314251682 I4210088668,no
+"InraUMR 1273 MétafortTheix 63122Saint Genès ChampanelleFrance <dedieu@clermont.inra.fr>, InraUMR 1201 DynaforBP 52627F-31326 Castanet-Tolosan cedexFrance <gibon@toulouse.inra.fr>, CiradUMR 84 ERRCMontpellier Supagro2, place Viala34060 Montpellier CedexFrance <ickowicz@cirad.fr>, CiradIFRAI GIP Inra-Cirad42, rue Scheffer75116 ParisFrance <tourrand@aol.com>, Benoit Dedieu est le coordinateur du projet Trans (Transformations de l'élevage et dynamique des espaces)., Annick Gibon, Alexandre Ickowicz et Jean-François Tourrand sont les animateurs scientifiques du volet « Transformations des activités d'élevage et gestion durable des ressources naturelles et des paysages, modèles et outils pour la maîtrise des dynamiques à l'échelle de territoires »",1,"Institut National de la Recherche Agronomique | Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",I1314251682 I4210088668,no
 "Institut National de la Recherche Agronomique, Unité Mixte de Recherche Amélioration Génétique et Adaptation des Plantes Méditerranéennes et Tropicales, F-34060 Montpellier, France (I.F., N.C.); andCentre de Coopération Internationale en Recherche Agronomique Pour le Développement, Unité Mixte de Recherche AGAP, F-34398 Montpellier, France (A.D., G.D., J.-F.D.) irisfischer402@gmail.com chantret@supagro.inra.fr",1,"Amélioration Génétique et Adaptation des Plantes méditerranéennes et tropicales | Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",I4210120904 I4210088668,yes
 "Institut d'Elevage et de Médecine vétérinaire des Pays tropicaux (C.I.R.A.D.) 10, rue Pierre Curie, 94704, Maisons-Alfort Cedex, France. (",1,,,no
 "Institut de Recherche pour le Developpement (IRD), UMR IRD-CIRAD 177 INTERTRYP CIRDES 01, Bobo-Dioulasso, Burkina Faso",1,Centre international de recherche-développement sur l'elevage en zone subhumide,I4210153406,no
@@ -1188,7 +1175,7 @@ Instituto de Investigaciones sobre frutales y cítricos de Francia. IRFA/CIRAD,1
 "La Recherche Agronomique Pour le Développement (CIRAD), UMR Contrôle des Maladies Animales, Exotiques et Émergentes (CMAEE)Petit-Bourg, France; Institut National de la Recherche Agronomique, UMR1309 CMAEEMontpellier, France",1,"Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",I4210088668,no
 "Laboratoire Matériaux et Molécules en Milieux Amazonien, CIRAD - UMR ECOFOG Campus Troubiran, Route de Baduel, 97337 Cayenne, FRENCH GUIANA",1,University of French Guiana | Ecologie des Forêts de Guyane,I2800447973 I4210149672,yes
 Laboratoire de Biotechnologie des Symbioses Forestières Tropicales (CIRAD-Forêt/ORSTOM),1,Laboratoire des Symbioses Tropicales et Méditerranéennes,I4210165061,yes
-"Laboratoire de génétique des poissons Inra 78350 Jouy-en-Josas France, 													CiradUR « Aquaculture et gestion des ressources aquatiques » TA B-20/01 Avenue Agropolis 34398 Montpellier cedex 5 France",1,"Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",I4210088668,no
+"Laboratoire de génétique des poissons Inra 78350 Jouy-en-Josas France, CiradUR « Aquaculture et gestion des ressources aquatiques » TA B-20/01 Avenue Agropolis 34398 Montpellier cedex 5 France",1,"Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",I4210088668,no
 "Laboratoire des Symbioses Tropicales et Méditerranéennes (LSTM), UMR 113 CIRAD/INRA/IRD/SupAgro/UMII, Centre IRD, Nouméa, Nouvelle-Calédonie. philippe.jourand@ird.fr",1,Laboratoire des Symbioses Tropicales et Méditerranéennes,I4210165061,yes
 "Laboratoire des Symbioses Tropicales et Méditerranéennes, UMR 113 Agro-M/CIRAD/INRA/IRD/UM2, B.P. A5, 98 848 Nouméa CEDEX, Nouvelle-Calédonie",1,Laboratoire des Symbioses Tropicales et Méditerranéennes,I4210165061,yes
 "Laboratoire des Symbioses Tropicales et Méditerranéennes-UMR 113, Centro de Cooperación Internacional en Investigación Agronómica para el Desarrollo (CIRAD), Francia",1,Laboratoire des Symbioses Tropicales et Méditerranéennes,I4210165061,yes
@@ -1197,8 +1184,7 @@ Laboratoire de Biotechnologie des Symbioses Forestières Tropicales (CIRAD-Forê
 "Land Development Department, CIRAD, UMR Eco and Sols, Ecologie Fonctionnelle & Biogéochimie des Sols & Agroécosystèmes (SupAgro-CIRAD-INRA-IRD), 2003/61 Paholyothin Road, Lardyao Chatuchak, Bangkok, 10900, Thailand",1,Ecologie fonctionnelle & biogéochimie des sols & des agro-systèmes,I4210091717,yes
 "Lescuyer Guillaume, économieCirad, unité BSEFCiforBP 2008, Yaoundé, Cameroun",1,,,no
 "Marie Hrabanski est sociologue au Centre de coopération internationale en recherche agronomique pour le développement (Cirad) (Arena-UMR ART-Dev, Université Paul-Valéry-Montpellier-III). Ses travaux portent principalement sur les stratégies de représentation des intérêts agricoles dans un contexte de transnationalisation des politiques agricoles",1,"Acteurs, Ressources et Territoires dans le Développement",I4210097770,yes
-"Marie Hrabanski est sociologue au Centre de coopération internationale en recherche agronomique pour le développement (Cirad) (Arena-UMR ART-Dev, Université Paul-Valéry-Montpellier-III). Ses travaux portent principalement sur les stratégies de représentation des intérêts agricoles dans un contexte de transnationalisation des politiques agricoles.
-",1,"Acteurs, Ressources et Territoires dans le Développement",I4210097770,yes
+"Marie Hrabanski est sociologue au Centre de coopération internationale en recherche agronomique pour le développement (Cirad) (Arena-UMR ART-Dev, Université Paul-Valéry-Montpellier-III). Ses travaux portent principalement sur les stratégies de représentation des intérêts agricoles dans un contexte de transnationalisation des politiques agricoles.",1,"Acteurs, Ressources et Territoires dans le Développement",I4210097770,yes
 "Marie-Pierre Ledru est directrice de recherche à l’Institut de recherche pour le développement (IRD), membre de l’Institut des sciences de l’évolution de Montpellier (Unité mixte de recherche Université de Montpellier, Centre national de la recherche scientifique, Institut de recherche pour le développement, École pratique des hautes études, Centre de coopération internationale en recherche agronomique, Institut national de recherches archéologiques préventives).ORCID : http://orcid.org/0000-0002-8079-9320",1,Institut de Recherche pour le Développement | Institut de Recherche pour le Développement | Université de Montpellier | Centre National de la Recherche Scientifique,I1306264927 I4210166444 I19894307 I1294671590,no
 "National Agricultural College of Meknès , km 10, Haj Kaddour Road, BP S/40 Meknès, Morocco and CIRAD, G-EAU Research Unit",1,"École Nationale d'Agriculture de Meknès | Gestion de l'Eau, Acteurs, Usages",I4210142313 I4210112109,yes
 "PATHOTROP , Institut d'élevage et de médecine vétérinaire des pays tropicaux Centre international de recherche agronomique du développement , 10, rue Pierre-Curie , 94704 Maisons Alfort , France",1,,,no
@@ -1226,21 +1212,18 @@ Laboratoire de Biotechnologie des Symbioses Forestières Tropicales (CIRAD-Forê
 "Respectively, Centre de coopération internationale en recherche agronomique pour le développement (CIRAD) UMR (Unité Mixte de Recherche) Innovation, Montpellier, France and National Law School of India University, Bangalore, India; CIRAD, UMR Goods and Services of Tropical Forest Ecosystems, Montpellier, France and French Institute of Pondicherry, Pondicherry, India; University of Agricultural Sciences, College of Forestry, Ponnampet, Karnataka, India; and CIRAD, UMR Eco&amp;Sols, Montpellier,",1,Ecologie fonctionnelle & biogéochimie des sols & des agro-systèmes | Innovation and Development in Agriculture and Food,I4210091717 I4210125327,yes
 "Risède Jean-Michel, Cirad – UPR Geco",1,Fonctionnement écologique et gestion durable des agrosystèmes bananiers et ananas,I4401726858,yes
 "SODECOTON (Société de Développement du Coton du Cameroun) en partenariat avec l'IRAD (Institut de Recherche Agricole pour le Développement) et le CIRAD (Centre international de Recherche Agronomique pour le Développement) , pour le financement accordé à la réalisation de ce travail",1,Institut de Recherche Agricole pour le Développement,I4210131099,no
-"Salgado Paulo, Cirad – UMR Selmet – Antsirabe, Madagascar
-",1,Systèmes d’élevage méditerranéens et tropicaux,I4210158756,yes
+"Salgado Paulo, Cirad – UMR Selmet – Antsirabe, Madagascar",1,Systèmes d’élevage méditerranéens et tropicaux,I4210158756,yes
 "Service dAlimentation , IEMVTlCIRAD , 10, rue P-Curie , 94704 Maisons-Alfort Cedex , France;",1,,,no
 "Service dAlimentation, IEMVTlCIRAD, 10, rue P-Curie, 94704 Maisons-Alfort Cedex, France;",1,,,no
 Socio-anthropologue au CIRADE-mail : laurence.boutinot@cirad.fr,1,,,no
 Socio-anthropologue au CiradE-mail : laurence.boutinot@cirad.fr,1,,,no
 "Socio-économisteUMR « Marchés, Organisations, Institutions, Stratégies d’Acteurs »CIRADMontpelliernicolas.bricas@cirad.fr",1,Montpellier Interdisciplinary center on Sustainable Agri-food systems: social and nutritional sciences,I4210100385,yes
 "Sociologie, CIRAD, UMR G-eau",1,"Gestion de l'Eau, Acteurs, Usages",I4210112109,yes
-"Sociologue
-CIRAD, UMR ART-Dev",1,"Acteurs, Ressources et Territoires dans le Développement",I4210097770,yes
+"Sociologue CIRAD, UMR ART-Dev",1,"Acteurs, Ressources et Territoires dans le Développement",I4210097770,yes
 "Systèmes d'élevage méditerranéens et tropicaux, Centre de Coopération Internationale en Recherche Agronomique pour le Développement (CIRAD), 7 ch de l'IRAT, 97410 Saint-Pierre, Reunion",1,Peuplements végétaux et bioagresseurs en milieu tropical,I4210135772,yes
 "Systèmes d’élevage méditerranéens et tropicaux, Centre de Coopération Internationale en Recherche Agronomique pour le Développement (CIRAD), 7 ch de l’IRAT, 97410 Saint-Pierre, Reunion",1,Peuplements végétaux et bioagresseurs en milieu tropical,I4210135772,yes
 "Tancrède Voituriez est docteur en économie, chercheur au Centre de coopération internationale en recherche agronomique pour le développement (Cirad) et directeur du programme « Gouvernance » à l'Institut du développement durable et des relations internationales (Iddri-Sciences Po). Ses travaux portent sur les conditions d'efficacité des politiques publiques et la conformité de celles-ci avec les règles de l'Organisation mondiale du commerce",1,,,no
-"Tancrède Voituriez est docteur en économie, chercheur au Centre de coopération internationale en recherche agronomique pour le développement (Cirad) et directeur du programme « Gouvernance » à l’Institut du développement durable et des relations internationales (Iddri-Sciences Po). Ses travaux portent sur les conditions d’efficacité des politiques publiques et la conformité de celles-ci avec les règles de l’Organisation mondiale du commerce.
-",1,,,no
+"Tancrède Voituriez est docteur en économie, chercheur au Centre de coopération internationale en recherche agronomique pour le développement (Cirad) et directeur du programme « Gouvernance » à l’Institut du développement durable et des relations internationales (Iddri-Sciences Po). Ses travaux portent sur les conditions d’efficacité des politiques publiques et la conformité de celles-ci avec les règles de l’Organisation mondiale du commerce.",1,,,no
 "The Institut de Recherche pour le Développement - The Centre de coopération internationale en recherche agronomique pour le développement (IRD-CIRAD), Bobo-Dioulasso, Burkina Faso",1,Institut de Recherche Pour le Développement,I4210148144,no
 "They wish to thank the French Ministry of Agriculture, CIRAD, ENGREF and the British Council for funding. The views expressed in this article are those of the authors alone",1,British Council,I1323185340,no
 "U.R. Productions animales -Cirad-Emvt , Campus international du Baillarguet , B.P. 5035 , 34032 Montferrier-sur-Lez",1,Centre de Biologie pour la Gestion des Populations,I4210147278,yes
@@ -1291,8 +1274,7 @@ UMR G-EAU/Cirad-ES,1,"Gestion de l'Eau, Acteurs, Usages",I4210112109,yes
 "UMR PVBMT CIRAD / Université de La Réunion, Pôle de Protection des Plantes",1,Peuplements végétaux et bioagresseurs en milieu tropical,I4210135772,yes
 "UMR PVBMT, 3P-CIRAD, 7 chemin de l'Irat, Ligne paradis, 97410, Saint Pierre, Réunion",1,Peuplements végétaux et bioagresseurs en milieu tropical,I4210135772,yes
 "UMR PVBMT, CIRAD, Saint-Pierre, Reunion Island",1,Peuplements végétaux et bioagresseurs en milieu tropical,I4210135772,yes
-"UMR PVBMT, CIRAD-Université de La Réunion, 97415 Saint-Denis, La Réunion
-Current address: Université Libre de Bruxelles, 1050 Brussels, Belgium",1,Université Libre de Bruxelles | Peuplements végétaux et bioagresseurs en milieu tropical,I132053463 I4210135772,yes
+"UMR PVBMT, CIRAD-Université de La Réunion, 97415 Saint-Denis, La Réunion Current address: Université Libre de Bruxelles, 1050 Brussels, Belgium",1,Université Libre de Bruxelles | Peuplements végétaux et bioagresseurs en milieu tropical,I132053463 I4210135772,yes
 "UMR PVBMT, French Agricultural Research Centre for International Development , Réunion Island",1,Peuplements végétaux et bioagresseurs en milieu tropical,I4210135772,yes
 "UMR Peuplement Végétaux et Bioagresseurs en Milieu Tropical (PVBMT), CIRAD, Saint-Pierre, Reunion",1,Peuplements végétaux et bioagresseurs en milieu tropical,I4210135772,yes
 "UMR Peuplements Végétaux et Bioagresseurs en Milieu Tropical, CIRADSaint-Pierre, France",1,Peuplements végétaux et bioagresseurs en milieu tropical,I4210135772,yes
@@ -1323,13 +1305,7 @@ UPR SCA Centre of International Cooperation in Agronomy Research for Development
 "University/CIRAD UMR CNRS 8568, Brazil",1,CIRED,I4210103046,yes
 "Université Antilles-Guyane -CIRAD , UMR ECOFOG",1,Université des Antilles | Ecologie des Forêts de Guyane,I52585520 I4210149672,yes
 "Véronique Ancey conduit ses recherches à l’UMR Art-Dev du département Environnements et Sociétés du Cirad (Centre de coopération internationale en recherche agronomique pour le développement), à Montpellier. À partir de ses travaux précédents sur l’objet singulier qu’est le pastoralisme au Sahel, elle fait une sociologie des pratiques et des discours à l’interface des mondes de l’aide, des politiques et des sociétés rurales. Ses analyses portent sur des enjeux matériels (qualification des ressources et des biens), sur des logiques d’actions (rapport à l’incertitude) et sur l’émergence des formes de citoyenneté dans les pays sous aide. A récemment publié : Ancey V., Freguin-Gresh S., 2016, « Las familias, el trabajo y la explotación agrícola », dans Sourisseau J.-M. (ed.), Las agriculturas familiares y los mundos del futuro, San José/IICA, Paris/AFD, p. 65-80, http://www.iica.int/es/publications/las-agriculturas-familiares-y-los-mundos-del-futuro (consulté en mai 2017). Ancey V., 2016, « Comment se construit l’invisibilité des populations pastorales au Sahel : l’expérience de la crise alimentaire de 2005 au Niger », Cahiers Agricultures, vol. 25, no 5, https://www.cahiersagricultures.fr/articles/cagri/pdf/2016/05/cagri160081.pdf (consulté en mai 2017). Ancey V., Corniaux C., Touré I. et al., 2016, « La mobilité pastorale, un enjeu sahélien devenu sous-régional », dans Pesche D., Losch B., Imbernon J. (dir.), Une nouvelle ruralité émergente : regards croisés sur les transformations rurales africaines, Montpellier, Cirad/Nepad, p. 60-61",1,,,no
-"aCIRAD, Unité Propre de Recherche Risque Environnemental lié au Recyclage, avenue Agropolis, 34398 Montpellier Cedex 5, France
-          
-, 
-
-            
-              b
-            INRA, Unité de Recherche Agronomie Laon-Reims-Mons, rue Fernand Christ, 02007 Laon Cedex, France, cLaboratory for Soil and Water Management, Department of Land Management, K.U. Leuven, Kasteelpark Arenberg 20, 3001 Heverlee, Belgium, and dINRA, Unité Mixte de Recherche Climat, Sol et Environnement, Domaine Saint Paul, Site Agroparc, 84914 Avignon Cedex 9, France",1,"Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",I4210088668,no
+"aCIRAD, Unité Propre de Recherche Risque Environnemental lié au Recyclage, avenue Agropolis, 34398 Montpellier Cedex 5, France , b INRA, Unité de Recherche Agronomie Laon-Reims-Mons, rue Fernand Christ, 02007 Laon Cedex, France, cLaboratory for Soil and Water Management, Department of Land Management, K.U. Leuven, Kasteelpark Arenberg 20, 3001 Heverlee, Belgium, and dINRA, Unité Mixte de Recherche Climat, Sol et Environnement, Domaine Saint Paul, Site Agroparc, 84914 Avignon Cedex 9, France",1,"Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",I4210088668,no
 "aENGREF, 19 av. du Maine, 75732 Paris Cedex 15, France, bCIRAD, UPR80, TA 10/D, 34398 Montpellier Cedex 5, France, cIRD, UR SeqBio, SupAgro – Bâtiment 12, 2 place Viala, 34060 Montpellier Cedex 1, France, dDepartment of Forest Sciences, ESALQ/USP, Piracicaba, SP, Brazil, eLaboratório de Biogeoquímica Ambiental, CENA/USP, Piracicaba, SP, Brazil, and fINRA Centre de Nancy, Biogéochimie des Ecosystèmes Forestiers, 54280 Champenoux, France",1,"Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",I4210088668,no
 "aINRA, UMR1091 Environnement et Grandes Cultures, F-78850 Thiverval-Grignon, France, bINRA, UR1158 Agronomie Laon-Reims-Mons, F-51686 Reims, France, cPhalippou-Frayssinet, Organic Fertilizers, F-81240 Rouairoux, France, dCIRAD, UPR Risque Environnemental Lié au Recyclage, F-34398 Montpellier, France, eINRA, UMR1229 Microbiologie et Géochimie des Sols, F-21034 Dijon, France, fLCA, F-17074 La Rochelle, France, gINRA, UMR1220 Transfert Sol-Plante et Cycle des Eléments Minéraux dans les Ecosystèmes Cultivés, F-33883 Villenave d’Ornon, France, hINRA, UR1158 Agronomie Laon-Reims-Mons, F-02007 Laon, France, iRITTMO, F-68740 Nambsheim, France, jINRA, UMR1059 Sol Agronomie Spatialisation, F-29000 Quimper, France, kSAS, F-45160 Ardon, France, and lLDAR, F-02007 Laon, France",1,"Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",I4210088668,no
 "ainsi que Les politiques de l'eau, LGDJ – Clefs/politique (2019) (avec S. Barone).CIRAD, UMR G-EAU, ORCID : 0000-0001-6989-5461",1,"Gestion de l'Eau, Acteurs, Usages | ORCID",I4210112109 I4210142152,yes
@@ -1350,5 +1326,5 @@ perrine.burnod@cirad.fr,1,,,no
 "Центр агрономических исследований в области развития (CIRAD), Франция, г. Монпелье",1,,,no
 استاد مؤسسة تحقیقات سیراد، مونپولیه، فرانسه,1,,,no
 سرپرست آزمایشگاه حفاظت چوب موسسه تحقیقاتی سیراد، فرانسه#N#استاد دانشگاه مون‌پلیه-گروه بیوووب، سیراد، فرانسه,1,,,no
-" CIRAD, UR AGIRs, Department of Zoology and Entomology, Mammal Research Institute, University of Pretoria, Pretoria, South Africa",1,University of Pretoria,I69552723,no
+"CIRAD, UR AGIRs, Department of Zoology and Entomology, Mammal Research Institute, University of Pretoria, Pretoria, South Africa",1,University of Pretoria,I69552723,no
 "• CIRAD UMR ART-Dev, 01 BP 6483 Abidjan 01, Côte",1,"Acteurs, Ressources et Territoires dans le Développement",I4210097770,yes

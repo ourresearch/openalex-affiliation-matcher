@@ -28,8 +28,7 @@ Manchester M13 9PT,20,,,no
 South Manchester University Hospital,13,,,no
 "Manchester Centre for Sexual Health, Central Manchester University Hospitals NHS Foundation Trust, Manchester, UK",12,,,no
 "NIHR Manchester Biomedical Research Centre, Manchester University Hospitals NHS Foundation Trust, Manchester, UK",12,Manchester University NHS Foundation Trust | NIHR Manchester Biomedical Research Centre,I4210092852 I4210159460,no
-"University of Sheffield
-University of Manchester",12,University of Sheffield,I91136226,no
+University of Sheffield University of Manchester,12,University of Sheffield,I91136226,no
 "Central Manchester University Hospitals, Manchester, United Kingdom",11,,,no
 "Department of Biological Sciences, Manchester Polytechnic, UK",11,,,no
 "Department of Vascular and Endovascular Surgery, Manchester Royal Infirmary, Central Manchester University Hospitals NHS Foundation Trust, Manchester, UK",11,National Health Service | Manchester Royal Infirmary,I125671874 I2801926401,no
@@ -373,7 +372,7 @@ Department of Medicine University Hospital of South Manchester Manchester,2,,,no
 "Kingston University; the Department of Sociology and Social Theory Centre, University of Warwick; Manchester University Press;",2,University of Warwick | Kingston University London,I39555362 I205051169,no
 "M and I Materials, Manchester, U.K",2,,,no
 "M&I Materials, Manchester, U.K",2,,,no
-Manchester ,2,,,no
+Manchester,2,,,no
 "Manchester , Manchester , UK",2,,,no
 "Manchester Academic Health Science Centre, Manchester Royal Eye Hospital, Central Manchester University Hospitals NHS Foundation Trust, Manchester, UK",2,Manchester Academic Health Science Centre | Manchester Royal Eye Hospital,I2799725268 I2801704036,no
 "Manchester Adult Cystic Fibrosis Unit, South Manchester University Hospitals NHS Trust, Wythenshawe Hospital, Manchester M23 9LT, UK",2,Wythenshawe Hospital,I4210150798,no
@@ -514,9 +513,7 @@ University of Manchester NHS Foundation Trust,2,Manchester University NHS Founda
 "Wolfson College, OxfordUniversity of Manchester",2,University of Oxford,I40120149,no
 "Wythenshawe Hospital, Manchester University Foundation Trust , Manchester , United Kingdom",2,Wythenshawe Hospital,I4210150798,no
 "Wythenshawe Hospital, University of Manchester NHS Foundation Trust, Manchester, UK",2,Wythenshawe Hospital,I4210150798,no
-"
-                   
-                Manchester",1,,,no
+Manchester,1,,,no
 "#N#            1 Department of Vascular Surgery, South Manchester University Hospitals Trust, Manchester, UK",1,,,no
 "#N#            2 Department of Radiology, South Manchester University Hospitals Trust, Manchester, UK",1,,,no
 "#N# 2Department of Clinical Immunology, Manchester Royal Infirmary, Central Manchester University Hospitals NHS Foundation Trust, Manchester, UK",1,Manchester Royal Infirmary,I2801926401,no
@@ -571,7 +568,7 @@ University of Manchester NHS Foundation Trust,2,Manchester University NHS Founda
 "1 Computational Biology Unit, Bergen Center for Computational Science, Uni Research, 5008 Bergen, Norway, 2Department of Informatics, University of Bergen, 5008 Bergen, Norway, 3Université Lyon 1; CNRS, UMR 5086; IBCP, Institut de Biologie et Chimie des Protéines, 69367 Lyon Cedex 07, France, 4Center for Biological Sequence Analysis, Department of Systems Biology, Technical University of Denmark, 2800 Kongens Lyngby, Denmark, 5Institute for Bioinformatics, Center for Biotechnology, Bielefeld University, 33594 Bielefeld, Germany, 6School of Computer Science, The University of Manchester, Manchester, M13 9PL, UK and 7European Bioinformatics Institute, EMBL, Wellcome Trust Genome Campus, Hinxton, Cambridge, CB10 1SD, UK",1,University of Bergen | Bielefeld University | Technical University of Denmark | Institut de Biologie et de Chimie des Protéines | Centre d'Énergétique et de Thermique de Lyon,I4432739 I20121455 I96673099 I4210087293 I4210104752,no
 "1 Department of Medicine, University Hospital of South Manchester, Manchester M23 9LT, United Kingdom",1,,,no
 "1 Department of Pediatrics I, University Children's Hospital, Heidelberg, Germany. 2 Hanover Medical School, Hanover, Germany. 3 IRCCS Ospedale Pediatrico Bambino Gesù, Rome, Italy. 4 Faculty of Medicine, Department of Pediatric Nephrology, Hacettepe University, Ankara, Turkey. 5 University Children's Hospital, Department of General Pediatrics, Pediatric Nephrology, Münster, Germany. 6 Olga Children's Hospital, Clinic of Stuttgart, Stuttgart, Germany. 7 Royal Manchester Children's Hospital, Central Manchester University Hospitals NHS Foundation Trust, Manchester Academic Health Science Center, Manchester, United Kingdom. 8 Baskent University, Adana Teaching and Research Center, Department of Pediatric Nephrology, Adana, Turkey. 9 Great Ormond Street Hospital, Great Ormond Street, London, United Kingdom. 10 Ankara University Faculty of Medicine, Dikimevi, Ankara, Turkey. 11 University Children's Hospital, Hamburg, Germany. 12 University Children's Hospital, Tübingen, Germany. 13 Univers",1,Hacettepe University | Great Ormond Street Hospital | Bambino Gesù Children's Hospital | Royal Manchester Children's Hospital,I66514158 I2800129641 I4210123352 I4210160221,no
-"1 ISEG–Universidade Técnica de Lisboa  and Manchester Business School, UK jpereira@iseg.utl.pt , 2 Manchester Business School, UK dnewton@man.mbs.ac.uk ., 3 Manchester Business School, UK dpaxson@man.mbs.ac.uk ",1,ISEG - Instituto Superior de Economia e Gestão | Universidade Técnica de Lisboa,I4403386696 I4405264366,no
+"1 ISEG–Universidade Técnica de Lisboa  and Manchester Business School, UK jpereira@iseg.utl.pt , 2 Manchester Business School, UK dnewton@man.mbs.ac.uk ., 3 Manchester Business School, UK dpaxson@man.mbs.ac.uk",1,ISEG - Instituto Superior de Economia e Gestão | Universidade Técnica de Lisboa,I4403386696 I4405264366,no
 "1 Manchester, Maryland",1,,,no
 "1. Tyndall Centre for Climate Change Research, UMIST, UK",1,,,no
 "1.001 Manchester Interdisciplinary Biocentre, 131 Princess Street, Manchester, M1 7DN, UK",1,,,no
@@ -710,8 +707,7 @@ Biochemistry Department University Hospital of South Manchester Manchester UK,1,
 "C.P.C. (U.K.), Manchester UK",1,,,no
 "C.R.C., Department of Medical Oncology, Christie Hospital, Manchester, England",1,The Christie Hospital,I4210131968,no
 "CCL , UMIST P.O. Box 88 Manchester M60 1QD",1,,,no
-"CRC Department of Carcinogenesis. Paterson Institute for Cancer
-                        Research, University of ManchesterManchester M13 9PT, UK",1,Cancer Research UK Manchester Institute,I4210129527,yes
+"CRC Department of Carcinogenesis. Paterson Institute for Cancer Research, University of ManchesterManchester M13 9PT, UK",1,Cancer Research UK Manchester Institute,I4210129527,yes
 "Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency, Vancouver, BC V5Z 4S6, Canada, 2 Wellcome Trust Sanger Institute, CB10 1SA Hinxton, UK, 3 VIB Department of Molecular and Developmental Genetics, Katholieke Universiteit Leuven, 3000 Leuven, Belgium, 4 Department of Computational Biology, School of Medicine, 3501 Fifth Avenue, University of Pittsburgh, Pittsburgh, PA 15213, USA, 5 DEPSN, Institut Alfred Fessard, CNRS, 91198 Gif-sur-Yvette, France, 6 New York State Center of Excellence in Bioinformatics and the Life Sciences, Buffalo, NY 14203, 7 Center for Comparative Genomics and Bioinformatics, Department of Biochemistry and Molecular Biology, The Pennsylvania State University, University Park, PA 16802, USA, 8 VIB Department for Molecular Biomedical Research, Ghent University, 9052 Ghent, Belgium, 9 Bioinformatics and Genomics Program, Centre de Regulació Genòmica. Dr Aiguader 88, 08003 Barcelona, Catalonia, Spain, 10 Centre for Molecular Medicine and Therapeutics, University of British Columbia, Vancouver, BC V5Z 4H4, Canada, 11 Faculty of Life Sciences, University of Manchester, Michael Smith Building, Oxford Road, Manchester, M13 9PT, UK and 12 Department of genetics and pathology, Uppsala University, SE-75185 Uppsala, Sweden",1,KU Leuven | Uppsala University | University of Pittsburgh | BC Cancer Agency | Wellcome Sanger Institute | Canada's Michael Smith Genome Sciences Centre,I99464096 I123387679 I170201317 I1289530486 I2802476451 I4210133112,no
 "Cancer Research Campaign Department of Medical Oncology, Christie Hospital & Holt Radium Institute, Manchester, England",1,Cancer Research UK Manchester Institute | The Christie Hospital,I4210129527 I4210131968,yes
 "Cara Saxon (Lead Author): Consultant Physician in Genitourinary Medicine, Withington Clinic, Manchester University Hospitals NHS Foundation Trust, Manchester, UK",1,Manchester University NHS Foundation Trust,I4210092852,no
@@ -756,8 +752,7 @@ Central Manchester University Hospitals NHS Foundation Trust; Department of Repr
 "Central Manchester University Hospitals NHS Trust Transplantation Laboratory, Manchester Royal Infirmary Manchester UK",1,Manchester Royal Infirmary,I2801926401,no
 "Central Manchester University Hospitals NHS Trust, Anaesthesia, MRI, Oxford Road, Manchester M13 9WL, United Kingdom",1,Manchester Royal Infirmary,I2801926401,no
 "Central Manchester University Hospitals NHS Trust, Clinical Virology Department and PHE Public Health Laboratory, Clinical Sciences Building, Manchester Royal Infirmary, Manchester, M13 9WL, UK",1,Manchester Royal Infirmary,I2801926401,no
-"Central Manchester University Hospitals NHS Trust, Manchester Academic Health Science Centre, Regional Genetics Laboratory Service, Genetic Medicine,
-Manchester, UK",1,Manchester Academic Health Science Centre,I2799725268,no
+"Central Manchester University Hospitals NHS Trust, Manchester Academic Health Science Centre, Regional Genetics Laboratory Service, Genetic Medicine, Manchester, UK",1,Manchester Academic Health Science Centre,I2799725268,no
 "Central Manchester University Hospitals NHS Trust, Manchester Academic Health Science Centre, Regional Genetics Laboratory Service, Genetic Medicine, Manchester, UK",1,Manchester Academic Health Science Centre,I2799725268,no
 "Central Manchester University Hospitals NHS Trust, Trafford General Hospital, Moorside Road, Manchester M41 5SL, United Kingdom",1,Trafford General Hospital,I2799507921,no
 "Central Manchester University Hospitals NHS, Greater Manchester, United Kingdom",1,,,no
@@ -766,8 +761,7 @@ Manchester, UK",1,Manchester Academic Health Science Centre,I2799725268,no
 "Central Manchester University Hospitals and St Mary's Hospital, Manchester M13 9WL",1,St Mary's Hospital,I4210087748,no
 "Central Manchester University Hospitals and St Mary's Hospital, Oxford Road, Manchester, UK",1,St Mary's Hospital,I4210087748,no
 "Central Manchester University Hospitals, Department of Oesophago-Gastric Surgery, Manchester, United Kingdom",1,,,no
-"Central Manchester University Hospitals, Manchester Auditory Implant Centre,
-Manchester, United Kingdom",1,,,no
+"Central Manchester University Hospitals, Manchester Auditory Implant Centre, Manchester, United Kingdom",1,,,no
 "Central Manchester University Hospitals, Manchester Auditory Implant Centre, Manchester, United Kingdom",1,,,no
 "Central Manchester University Hospitals, Manchester M13 9WL, UK",1,,,no
 "Central Manchester University Hospitals, Manchester Royal Infarmary- Department of Hepato-Pancreato-Biliary Surgery, Manchester, United Kingdom",1,Manchester Royal Infirmary,I2801926401,no
@@ -1034,7 +1028,7 @@ Department of Computation UMIST Sackville StreetManchesterM60 IQD ans2@co.umist.
 "Department of Critical Care Medicine, Wythenshawe Hospital, Manchester University NHS Foundation, Manchester, UK",1,Manchester University NHS Foundation Trust | Wythenshawe Hospital,I4210092852 I4210150798,no
 "Department of Critical Care, Manchester Royal Infirmary, Central Manchester University NHS Hospitals, Manchester Academic Health Science Centre, Manchester, M13 9WL, UK",1,Manchester Academic Health Science Centre | Manchester Royal Infirmary,I2799725268 I2801926401,no
 "Department of Data Analytics and Technology, University of Greater Manchester Manchester",1,University of Greater Manchester,I165678365,no
-"Department of Dermatology and Transplant Unit, Manchester Royal Infirmary, Central Manchester University Hospitals NHS Foundation Trust, Oxford Road, Manchester, UK  ",1,Manchester Royal Infirmary,I2801926401,no
+"Department of Dermatology and Transplant Unit, Manchester Royal Infirmary, Central Manchester University Hospitals NHS Foundation Trust, Oxford Road, Manchester, UK",1,Manchester Royal Infirmary,I2801926401,no
 "Department of Diabetes and Endocrinology, Manchester University Hospitals NHS Foundation Trust, UK",1,Manchester University NHS Foundation Trust,I4210092852,no
 "Department of Diabetes and Endocrinology, South Manchester University Hospitals NHS Foundation Trust ManchesterUK",1,,,no
 Department of Diabetes and Endocrinology; South Manchester University Hospitals; Manchester UK,1,,,no
@@ -1326,17 +1320,7 @@ Department of Otolaryngology University Hospital of South Manchester Manchester 
 "Department of Paediatric Otolaryngology, Royal Manchester Children’s Hospital, Central Manchester University Hospitals NHS Foundation Trust, Manchester Academic Health Science Centre, Manchester, United Kingdom",1,Manchester Academic Health Science Centre | Royal Manchester Children's Hospital,I2799725268 I4210160221,no
 "Department of Paediatric Radiology, Royal Manchester Children's Hospital, Central Manchester University Hospitals NHS Foundation Trust, Oxford Road, Manchester, M13 9WL, UK. stavros.stivaros@manchester.ac.uk",1,Royal Manchester Children's Hospital,I4210160221,no
 "Department of Paediatric Surgery, Royal Manchester Children's Hospital, Central Manchester University Hospitals, Oxford Road, Manchester, M13 9WL, UK",1,Royal Manchester Children's Hospital,I4210160221,no
-"Department of Paediatrics, Gifu University School of Medicine, 40 Tsukasa-machi, Gifu 500-8076, Japan, 
-
-bFaculty of Human Welfare, Chubu Gakuin University, Seki 501-3936, Japan, 
-
-cDepartment of Life Science, Himeji Institute of Technology, Kamigori, Hyogo 678-1297, Japan, 
-
-dDepartment of Biology, Faculty of Science, Kyushu University, Fukuoka 812-8581, Japan, 
-
-eDepartment of Paediatrics and Clinical Chemistry, University of Amsterdam, The Netherlands, 
-
-fWillink Biochemical Genetics Unit, Royal Manchester Children's Hospital, University of Manchester School of Medicine, Manchester, UK",1,Gifu University | Chubu Gakuin University | Kyushu University | University of Amsterdam | Royal Manchester Children's Hospital,I42405503 I112056358 I135598925 I887064364 I4210160221,no
+"Department of Paediatrics, Gifu University School of Medicine, 40 Tsukasa-machi, Gifu 500-8076, Japan, bFaculty of Human Welfare, Chubu Gakuin University, Seki 501-3936, Japan, cDepartment of Life Science, Himeji Institute of Technology, Kamigori, Hyogo 678-1297, Japan, dDepartment of Biology, Faculty of Science, Kyushu University, Fukuoka 812-8581, Japan, eDepartment of Paediatrics and Clinical Chemistry, University of Amsterdam, The Netherlands, fWillink Biochemical Genetics Unit, Royal Manchester Children's Hospital, University of Manchester School of Medicine, Manchester, UK",1,Gifu University | Chubu Gakuin University | Kyushu University | University of Amsterdam | Royal Manchester Children's Hospital,I42405503 I112056358 I135598925 I887064364 I4210160221,no
 "Department of Paediatrics, South Manchester University Hospital NHS Trust, Wythenshawe, Manchester, UK",1,Wythenshawe Hospital,I4210150798,no
 "Department of Paediatrics, University of Cambridge, Manchester 13 U.K",1,University of Cambridge,I241749,no
 "Department of Paediatrics, University of Cambridge, Manchester, U.K",1,University of Cambridge,I241749,no
@@ -1346,7 +1330,7 @@ Department of Pathology University Hospital of South Manchester Manchester UK,1,
 "Department of Pathology, Central Manchester University Hospitals NHS Foundation Trust, Oxford Road, Manchester M13 9WL, UK",1,,,no
 "Department of Pathology, Manchester Royal Infirmary, Central Manchester University Hospitals Foundation Trust, Manchester Academic Health Science Centre, Manchester, United Kingdom",1,Manchester Academic Health Science Centre | Manchester Royal Infirmary,I2799725268 I2801926401,no
 "Department of Pathology, Manchester Royal Infirmary, Central Manchester University Hospitals NHS Foundation Trust, Manchester, UK",1,Manchester Royal Infirmary,I2801926401,no
-"Department of Pathology, Royal Group of Hospitals Trust, Belfast, 1Department of Virology and 2Department of Pathology, Central Manchester University Hospitals NHS Trust, Manchester, UK",1,,,no
+"Department of Pathology, Royal Group of Hospitals Trust, Belfast, 1Department of Virology and 2Department of Pathology, Central Manchester University Hospitals NHS Trust, Manchester, UK",1,,,no
 "Department of Pathology, South Manchester University Hospital NHS Trust, Southmoor Road, Manchester M23 9LT, UK",1,,,no
 "Department of Pathology, South Manchester University Hospital Trust, Wythenshawe Hospital, Manchester M23 9LT, UK",1,Wythenshawe Hospital,I4210150798,no
 "Department of Pathology, South Manchester University NHS Trust, Withington Hospital, Nell Lane, Manchester M20 2LR, UK",1,Withington Community Hospital,I2800824388,no
@@ -1401,9 +1385,8 @@ Department of Plastic and Reconstructive Surgery; University Hospital of South M
 "Department of Psychiatry, University of South Manchester Manchester, United Kingdom",1,,,no
 "Department of Psychology , Manchester Polytechnic , Manchester, M13 OJA, UK",1,,,no
 Department of Psychology ESRC Centre for Research on Innovation and Competition (CRIC ) University of Central Lancashire University of Manchester PR1 2HE M13 9QH UK UK,1,University of Lancashire,I185852735,no
-"Department of Psychology and Speech Pathology, Manchester
-Polytechnic, Hathersage Road, Manchester M13 OJA, UK",1,,,no
-"Department of Psychology and Speech Pathology, ManchesterPolytechnic, Hathersage Road, Manchester M13 0JA, UK",1,,,no
+"Department of Psychology and Speech Pathology, Manchester Polytechnic, Hathersage Road, Manchester M13 OJA, UK",1,,,no
+"Department of Psychology and Speech Pathology, Manchester Polytechnic, Hathersage Road, Manchester M13 0JA, UK",1,,,no
 "Department of Psychology and Speech Pathology, Manchester Polytechnic, Hathersage Road, M13 OJA, Manchester, UK",1,,,no
 "Department of Psychology, Manchester Polytechnic, Elizabeth Gaskell Hathersage Road, Manchester M13 OJA, UK",1,,,no
 "Department of Psychology, Manchester Polytechnic, Elizabeth Gaskell, Hathersage Road, Manchester M13 0JA, UK",1,,,no
@@ -1425,12 +1408,8 @@ Polytechnic, Hathersage Road, Manchester M13 OJA, UK",1,,,no
 "Department of Radiology, Manchester Royal Infirmary, Manchester University Hospitals NHS Foundation Trust, Manchester Academic Health Science Centre, Manchester, M13 9WL, UK",1,Manchester Academic Health Science Centre | Manchester Royal Infirmary,I2799725268 I2801926401,no
 "Department of Radiology, Manchester Royal Infirmary, Manchester University Hospitals NHS Foundation Trust, Manchester, UK",1,Manchester Royal Infirmary | Manchester University NHS Foundation Trust,I2801926401 I4210092852,no
 "Department of Radiology, Renal Medicine, University Hospital of South Manchester, Manchester, UK",1,,,no
-"Department of Radiology, South Manchester
-University Hospitals NHS Trust, Southmoor Road, Wythenshawe,
-Manchester M23 9LT, UK, , , , , , UK",1,Wythenshawe Hospital,I4210150798,no
-"Department of Radiology, South Manchester University
-Hospitals Trust, Wythenshawe Hospital,  Manchester M23 9LT,
-UK, , , , , , UK",1,Wythenshawe Hospital,I4210150798,no
+"Department of Radiology, South Manchester University Hospitals NHS Trust, Southmoor Road, Wythenshawe, Manchester M23 9LT, UK, , , , , , UK",1,Wythenshawe Hospital,I4210150798,no
+"Department of Radiology, South Manchester University Hospitals Trust, Wythenshawe Hospital,  Manchester M23 9LT, UK, , , , , , UK",1,Wythenshawe Hospital,I4210150798,no
 "Department of Radiology, South Manchester University Hospital NHS Trust, Nell Lane, Withington, Manchester M20 2LR, UK",1,,,no
 "Department of Radiology, South Manchester University Hospital NHS Trust, Southmoor Road, Wythenshawe, Manchester M23 8LR, UK",1,Wythenshawe Hospital,I4210150798,no
 "Department of Radiology, South Manchester University Hospital NHS Trust, Withington Hospital, Manchester, UK",1,,,no
@@ -1477,8 +1456,7 @@ UK, , , , , , UK",1,Wythenshawe Hospital,I4210150798,no
 "Department of Reproductive Medicine, Old St Mary's Hospital, Manchester University Hospitals NHS Foundation Trust, Manchester Academic Health Science Centre, Oxford Road, Manchester, M13 9WL, UK",1,Manchester Academic Health Science Centre | St Mary's Hospital | Manchester University NHS Foundation Trust,I2799725268 I4210087748 I4210092852,no
 "Department of Reproductive Medicine, St Mary's Hospital, Central Manchester University Hospital NHS Foundation Trust, Manchester Academic Health Science Centre (MAHSC), Manchester, England M13 0JH, UK",1,Manchester Academic Health Science Centre | St Mary's Hospital,I2799725268 I4210087748,no
 "Department of Reproductive Medicine, St Mary's Hospital, Central Manchester University Hospitals Foundation Trust, Manchester M13 0JH, UK",1,St Mary's Hospital,I4210087748,no
-"Department of Reproductive Medicine, St Mary's Hospital, Central Manchester University Hospitals NHS Foundation Trust, Manchester Academic Health Sciences Centre,
-Manchester, UK",1,Manchester Academic Health Science Centre | St Mary's Hospital,I2799725268 I4210087748,no
+"Department of Reproductive Medicine, St Mary's Hospital, Central Manchester University Hospitals NHS Foundation Trust, Manchester Academic Health Sciences Centre, Manchester, UK",1,Manchester Academic Health Science Centre | St Mary's Hospital,I2799725268 I4210087748,no
 "Department of Reproductive Medicine, St Mary's Hospital, Central Manchester University Hospitals NHS Foundation Trust, Manchester Academic Health Sciences Centre, Oxford Road, Manchester, UK",1,Manchester Academic Health Science Centre | St Mary's Hospital,I2799725268 I4210087748,no
 "Department of Reproductive Medicine, St Mary's Hospital, Central Manchester University Hospitals NHS Foundation Trust, Manchester Academic Health Sciences Centre, Oxford Road, Manchester, UK. Daniel.Brison@manchester.ac.uk",1,Manchester Academic Health Science Centre | St Mary's Hospital,I2799725268 I4210087748,no
 "Department of Reproductive Medicine, St Mary's Hospital, Central Manchester University Hospitals NHS Foundation Trust, Manchester Academic Health Sciences Centre,, Oxford Road, Manchester M13 9WL, UK",1,Manchester Academic Health Science Centre | St Mary's Hospital,I2799725268 I4210087748,no
@@ -1498,7 +1476,7 @@ Manchester, UK",1,Manchester Academic Health Science Centre | St Mary's Hospital
 "Department of Respiratory Medicine, South Manchester University Hospitals, Wythenshawe, Manchester, United Kingdom",1,Wythenshawe Hospital,I4210150798,no
 "Department of Respiratory Medicine, University Hospital of South Manchester, Manchester, United Kingdom",1,,,no
 "Department of Respiratory Medicine, Wythenshawe Hospital, Manchester University Hospital Foundation Trust, Manchester, UK",1,Manchester University NHS Foundation Trust | Wythenshawe Hospital,I4210092852 I4210150798,no
-"Department of Rheumatology , Stopford Building , Oxford Road , Manchester M13 9PT ",1,,,no
+"Department of Rheumatology , Stopford Building , Oxford Road , Manchester M13 9PT",1,,,no
 Department of Rheumatology University Hospital of South Manchester Manchester,1,,,no
 "Department of Rheumatology, Manchester University NHS Trust, Trafford General Hospital, Davyhulme, Manchester, UK",1,Trafford General Hospital,I2799507921,no
 "Department of Rheumatology, South Manchester University Hospitals NHS Trust, Withington Hospital, Manchester, UK, , , , , , GB",1,,,no
@@ -1568,7 +1546,7 @@ Department of Urology University Hospital of South Manchester 2 Manchester UK,1,
 "Department of Urology, South Manchester University Hospitals Trust, Wythenshawe Hospital, Manchester, United Kingdom",1,Wythenshawe Hospital,I4210150798,no
 "Department of Urology, South Manchester University Hospitals, Withington, Manchester M20 2LR, UK, , , , , , GB",1,,,no
 "Department of Urology, South Manchester University Hospitals, Withington, Manchester M20 2LR, UK, , GB",1,,,no
-"Department of Urology, University Hospital South Manchester , Manchester, United Kingdom ",1,,,no
+"Department of Urology, University Hospital South Manchester , Manchester, United Kingdom",1,,,no
 "Department of Urology, University Hospital South Manchester, Manchester, United Kingdom",1,,,no
 "Department of Urology, University Hospital of South Manchester, Manchester M20 8LR, UK",1,,,no
 "Department of Urology, University Hospital of South Manchester, Manchester, U.K",1,,,no
@@ -1626,8 +1604,7 @@ Departments of Diagnostic Radiology University Hospital of South Manchester 1 Ma
 "Dermatology Department, Manchester Royal Infirmary, Central Manchester University Hospitals NHS Foundation Trust, Manchester, UK",1,Manchester Royal Infirmary,I2801926401,no
 "Dick Goedhart Manchester Heart Centre, Manchester Royal Infirmary, Central Manchester University Hospitals NHS Trust, United Kingdom",1,Manchester Royal Infirmary,I2801926401,no
 "Dipali Verma MBBS DA FRCA is a Clinical Fellow in Obstetric Anaesthesia at Central Manchester University Hospitals NHS Trust, Manchester, UK. Conflicts of interest: none",1,,,no
-"Director of Pharmacy,
-        South Manchester University Hospitals NHS Trust, Withington Hospital, Manchester, England",1,,,no
+"Director of Pharmacy, South Manchester University Hospitals NHS Trust, Withington Hospital, Manchester, England",1,,,no
 "Director of the Manchester Biotechnology Centre, PO Box 88, Manchester, M60 1QD, UK",1,,,no
 "Director of the R&D Research Unit, Manchester BusinessSchool, Booth St West, Manchester M15 6PO, UK. Tel: 061 275 6455",1,,,no
 "Director, NIHR Manchester Biomedical Research Centre, Manchester University Foundation Trust, Manchester, United Kingdom",1,NIHR Manchester Biomedical Research Centre,I4210159460,no
@@ -1697,7 +1674,7 @@ Edge Hill University of Manchester,1,Edge Hill University,I165525304,no
 "From the *University Hospital of South Manchester, Manchester, England; †Department of Cardiothoracic Anaesthesia and Critical Care, Manchester Royal Infirmary, Central Manchester University Hospitals, Manchester, England; ‡Critical Care Research Group, University of Queensland, Brisbane, Australia; and §Department of Anaesthesiology and Intensive Care, Philipps University, Marburg, Germany",1,Philipps University of Marburg | The University of Queensland | Manchester Royal Infirmary,I161103922 I165143802 I2801926401,no
 "From the 1 Department of Acute Medicine, University Hospital of South Manchester, Manchester, UK,",1,,,no
 "From the 1 Department of Diabetes & Endocrinology, South Manchester University Hospital, Manchester, and 2 New Cross Hospital, Wolverhampton, UK",1,New Cross Hospital,I2799762726,no
-"From the Cardiovascular Research Unit of the Center for Experimental Surgery and Anesthesiology (W.V., D.D.K., P.V., A.M., R.Q., P.H.), Department of Cardiology (J.G., M.-C.H.), Katholieke Universiteit Leuven, and the Department of Medicine, Unit of Pharmacology and Therapeutics, Université Catholique de Louvain (M.P., J.-L.B.), Belgium; Lawrence Berkeley National Laboratory, Berkeley, Calif (J.K.B.); the University of Manchester, Department of Medicine, Manchester Royal Infirmary, Manchester, UK ",1,UCLouvain | KU Leuven | Manchester Royal Infirmary,I95674353 I99464096 I2801926401,no
+"From the Cardiovascular Research Unit of the Center for Experimental Surgery and Anesthesiology (W.V., D.D.K., P.V., A.M., R.Q., P.H.), Department of Cardiology (J.G., M.-C.H.), Katholieke Universiteit Leuven, and the Department of Medicine, Unit of Pharmacology and Therapeutics, Université Catholique de Louvain (M.P., J.-L.B.), Belgium; Lawrence Berkeley National Laboratory, Berkeley, Calif (J.K.B.); the University of Manchester, Department of Medicine, Manchester Royal Infirmary, Manchester, UK",1,UCLouvain | KU Leuven | Manchester Royal Infirmary,I95674353 I99464096 I2801926401,no
 "From the Centre for Ophthalmology and Vision Research, Institute of Human Development and the3Manchester Royal Eye Hospital and4Centre for Advanced Discovery and Experimental Therapeutics, Central Manchester University Hospitals NHS Foundation Trust, Manc",1,Manchester Royal Eye Hospital,I2801704036,no
 "From the Clinical Neurosciences, Clinical and Experimental Sciences, Faculty of Medicine, University of Southampton, Southampton, United Kingdom (P.G., J.D., J.A.R.N., D.B., D.O.B., I.G.); Neurosurgery, Wessex Neurological Centre, University Hospital Southampton NHS Foundation Trust, Southampton, United Kingdom (A.J.D., D.O.B., I.G.); R&amp;D, Bio Products Laboratory Limited, Hertfordshire, United Kingdom (A.I.O.); and the Institute of Cardiovascular Sciences, University of Manchester, Manchester,",1,University of Southampton | University Hospital Southampton NHS Foundation Trust,I43439940 I2802965805,no
 "From the Department of Anaesthetics, Central Manchester University Hospitals, Manchester, UK",1,,,no
@@ -2103,7 +2080,7 @@ Manchester M20 1JA,1,,,no
 Manchester M31 3SL,1,,,no
 "Manchester M40 3AN, UK E-mail: o.dearlove@man.ac.uk",1,,,no
 "Manchester M41 5SL, UK",1,,,no
-Manchester M60 1Q D U .K ,1,,,no
+Manchester M60 1Q D U .K,1,,,no
 "Manchester Met University, Department of Life Sciences",1,Manchester Metropolitan University,I11983389,no
 "Manchester Met. University, Manchester Met. University, Manchester, United Kingdom",1,Manchester Metropolitan University,I11983389,no
 "Manchester Metroplitan University, Manchester, M13 0JA, UK",1,Manchester Metropolitan University,I11983389,no
@@ -2493,8 +2470,7 @@ Paediatric ENT Department Manchester Academic Health Science Centre Royal Manche
 "Parveez Peer MBBS FRCA DESA is a Fellow in Obstetric Anaesthesia at Central Manchester University Hospitals and St Mary's Hospital, Manchester, UK. Conflicts of interest: none",1,St Mary's Hospital,I4210087748,no
 "Pavan Kochhar FRCA is a Consultant Anaesthetist at Manchester Royal Infirmary, Central Manchester University Hospitals NHS Foundation Trust, UK. Conflicts of interest: none declared",1,Manchester Royal Infirmary,I2801926401,no
 "Performing Presence: Between the Live and the Simulated, coauthored with Nick Kaye (Manchester University Press, 2011)",1,,,no
-"Performing Presence: Between the Live and the Simulated, with Gabriella Giannachi (Manchester University Press, 2011). From 2005 to 2010 he led Performing Presence: from the live to the simulated () in collaboration with Gabriella Giannachi, a research project
-                            funded by the UK Arts and Humanities Research Council",1,,,no
+"Performing Presence: Between the Live and the Simulated, with Gabriella Giannachi (Manchester University Press, 2011). From 2005 to 2010 he led Performing Presence: from the live to the simulated () in collaboration with Gabriella Giannachi, a research project funded by the UK Arts and Humanities Research Council",1,,,no
 "Pertussis Reference Laboratory, University Department of Medical Microbiology, Clinical Sciences Building, MRI, Manchester M13 9WL, UK",1,Manchester Royal Infirmary,I2801926401,no
 "PhD Student in Division of Nursing, Midwifery and Social Work University of Manchaster; Oxford Rd, Manchester M13 9PL, Britania Raya",1,,,no
 "PhD Student, University of Greater Manchester",1,University of Greater Manchester,I165678365,no
@@ -2785,12 +2761,12 @@ The NIHR Manchester Musculoskeletal Biomedical Research Unit Central Manchester 
 "The Transplant Centre, South Manchester University Hospitals NHS Trust, Wythenshawe, Manchester, United Kingdom",1,Wythenshawe Hospital,I4210150798,no
 "The Transplant Centre, South Manchester University Hospitals Trust, Wythenshawe, Manchester, United Kingdom",1,Wythenshawe Hospital,I4210150798,no
 "The Transplant Centre, University Hospital of South Manchester, Manchester, M23 9LT, UK",1,Manchester University NHS Foundation Trust,I4210092852,no
-"The Transplant Unit University Hospital of South Manchester          Southmoor Road          Manchester          M23 9LT          UK",1,Manchester University NHS Foundation Trust,I4210092852,no
+The Transplant Unit University Hospital of South Manchester Southmoor Road Manchester M23 9LT UK,1,Manchester University NHS Foundation Trust,I4210092852,no
 "The Transplant Unit, Manchester Royal Infirmary, Central Manchester University Hospitals, Manchester, United Kingdom",1,Manchester Royal Infirmary,I2801926401,no
 "The Transplant Unit, University Hospital of South Manchester , Southmoor Road, Manchester, M23 9LT ,",1,,,no
 "The UniversiTy of ManchesTer,",1,,,no
 "The University Hospital of South Manchester, Manchester, UK",1,,,no
-The University o Greater Manchester ,1,,,no
+The University o Greater Manchester,1,,,no
 The University of Greater Manchester,1,University of Greater Manchester,I165678365,no
 "The University of Law, Business School (Manchester), United Kingdom",1,The University of Law,I4210095757,no
 "The University of Manchester Stroke & Vascular Centre, Manchester Academic Health Science Centre, Salford Royal Hospitals NHS Foundation Trust, Eccles Old Road, Stott Lane, Salford, M6 8HD, United Kingdom",1,Manchester Academic Health Science Centre | Salford Royal NHS Foundation Trust | Salford Royal Hospital,I2799725268 I2801120809 I4210111611,no
@@ -2950,8 +2926,7 @@ University of Manchester NHS Foundation Trust National Tracheostomy Safety Proje
 "University of South Manchester, Manchester, UK",1,,,no
 "University of South Manchester, Manchester, United Kingdom",1,,,no
 "University of Tennessee Oak Ridge National Laboratory University of Manchester,Oak Ridge,TN,USA",1,Oak Ridge National Laboratory,I1289243028,no
-"University of Wisconsin, Madison
-University of Manchester",1,University of Wisconsin–Madison,I135310074,no
+"University of Wisconsin, Madison University of Manchester",1,University of Wisconsin–Madison,I135310074,no
 "Université Paris-Est (IFRIS) and University of Manchester (MIOIR), Cite Descartes, 5 Bd Descartes, 77454 Marne-la-Vallée Cedex 2, France",1,Paris-Est Sup,I2800365227,no
 "Université de Caen Basse-Normandie, UMR 950 Ecophysiologie Végétale, Agronomie et nutritions N, C, S, Esplanade de la Paix, 14032 Caen Cedex, France INRA, UMR 950 Ecophysiologie Végétale, Agronomie et nutritions N, C, S, Esplanade de la Paix, 14032 Caen Cedex, France Laboratoire d'Ecologie Alpine, UMR 5553 CNRS-UJF, Université de Grenoble, BP 53, F-38041 Grenoble Cedex 09, France Institute of Ecology, University of Innsbruck, Sternwartestr. 15, 6020 Innsbruck, Austria Faculty of Life Sciences, Michael Smith Building, University of Manchester, Oxford Road, Manchester M13 9PT, UK",1,Université de Caen Normandie | Université Joseph Fourier | Universität Innsbruck | Centre National de la Recherche Scientifique | Laboratoire d'Écologie Alpine,I98702875 I177483745 I190249584 I1294671590 I4210137965,no
 "Université de Caen Basse-Normandie, UMR 950 Ecophysiologie Végétale, Agronomie et nutritions N, C, S, Esplanade de la Paix, 14032 Caen Cedex, France INRA, UMR 950 Ecophysiologie Végétale, Agronomie et nutritions N, C, S, Esplanade de la Paix, 14032 Caen Cedex, France Laboratoire d'Ecologie Alpine, UMR 5553 CNRS-UJF, Université de Grenoble, BP 53, F-38041 Grenoble Cedex 09, France Institute of Ecology, University of Innsbruck, Sternwartestr. 15, 6020 Innsbruck, Austria Faculty of Life Sciences, Michael Smith Building, University of Manchester, Oxford Road, Manchester M13 9PT, UK fabricegrassein@aim.com",1,Université de Caen Normandie | Université Joseph Fourier | Universität Innsbruck | Centre National de la Recherche Scientifique | Laboratoire d'Écologie Alpine,I98702875 I177483745 I190249584 I1294671590 I4210137965,no
@@ -3079,8 +3054,8 @@ supported in part by an Emeritus Professorship in the University of Manchester. 
 "to Sofia Douzgou, MD, PhD, Manchester Centre for Genomic Medicine, Central Manchester University Hospitals NHS Foundation Trust, Saint Mary's Hospital Oxford Road, Manchester M13 9WL, UK Tel: +44 161 276 6268",1,St Mary's Hospital,I4210087748,no
 "un livre sur le ‘middlebrow’ (littérature moyenne) en France, Middlebrow Matters Women's reading and the literary canon in France since the Belle Époque, paru en 2018 (Liverpool University Press). Elle publie aussi sur le cinéma et co-dirige une série French Film Directors pour Manchester University Press (50 volumes déjà – et ça continue)",1,,,no
 "|| Endocrinology Department, Central Manchester University Hospitals NHS Foundation Trust, Oxford Road, Manchester M13 9PT, United Kingdom",1,,,no
-" Consultant Anaesthetist, South Manchester University Hospitals NHS Trust, Wythenshawe, UK",1,Wythenshawe Hospital,I4210150798,no
-" Genetic Medicine, Manchester Academic Health Sciences Centre, Central Manchester University Hospitals NHS Foundation Trust",1,Manchester Academic Health Science Centre,I2799725268,no
+"Consultant Anaesthetist, South Manchester University Hospitals NHS Trust, Wythenshawe, UK",1,Wythenshawe Hospital,I4210150798,no
+"Genetic Medicine, Manchester Academic Health Sciences Centre, Central Manchester University Hospitals NHS Foundation Trust",1,Manchester Academic Health Science Centre,I2799725268,no
 "— Department of Chemistry, Manchester Polytechnic, Chester Street, Manchester, M1 5GD, U.K",1,,,no
 "†Department of Computer science, The University of ManChester England",1,,,no
 "‡Department of Geriatric Medicine, University Hospital of South Manchester, Manchester, UK",1,,,no

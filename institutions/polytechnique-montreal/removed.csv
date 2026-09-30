@@ -97,7 +97,7 @@ DESY Ecole Polytechnique/LLR IN2P3,1,Institut National de Physique Nucléaire et
 "Department of Computer and Software Engineering, Ecole Polytechnique, P.O. Box 6079, Station Downtown, Mont-real, Quebec, Canada, H3C 3A7, Canada",1,,,no
 "Department of Computer and Software Engineering, École Polytechnique de Montral, Montral, QC, Canada",1,,,no
 "Department of Electrical Engineering , Ecole Polytechnique de Lomé (EPL) ,",1,,,no
-"Department of Electrical Engineering and Computer Sciences, University of California, Berkeley, USA 94720-1770 and School of Computer and Communication Sciences, Ecole Polytechnique Fédé ",1,"University of California, Berkeley",I95457486,no
+"Department of Electrical Engineering and Computer Sciences, University of California, Berkeley, USA 94720-1770 and School of Computer and Communication Sciences, Ecole Polytechnique Fédé",1,"University of California, Berkeley",I95457486,no
 "Department of Engineering Physics, Eole Polytechnique, Guided-Wave and Optoelectronics Group, Montreal, QUE, Canada",1,,,no
 "Department of Engineering Physics, École Polytechnique de Montreéal, C. P. 6079, Succ. Centre-Ville, Montreéal, Queébec H3C 3A7, Canada",1,,,no
 "Department of Human Genetics, McGill University, Montreal, Quebec, Canada. loic.binan@polytechnique.org",1,McGill University,I5023651,no
@@ -142,7 +142,7 @@ Docent libre. Institut lactologique de l'Ecole Polytechnique de Prague (Tchécos
 "Ecole Polytechnique (2007) M.Sc. , Ecole Polytechnique ( 2009",1,École Polytechnique,I142476485,no
 "Ecole Polytechnique , C . P. 6079 ,",1,École Polytechnique,I142476485,no
 "Ecole Polytechnique , IN",1,École Polytechnique,I142476485,no
-Ecole Polytechnique F ed erale de Lausanne ,1,École Polytechnique Fédérale de Lausanne,I5124864,no
+Ecole Polytechnique F ed erale de Lausanne,1,École Polytechnique Fédérale de Lausanne,I5124864,no
 "Ecole Polytechnique and University of Michigan, Michigan, USA",1,University of Michigan,I27837315,no
 "Ecole Polytechnique de Montre Âal , Montre Âal Qc. , H3C 3A7 , Canada",1,,,no
 "Ecole Polytechnique de Montreayl, University of Montreal",1,Université de Montréal,I70931966,no
@@ -168,11 +168,9 @@ Ecole Pomytechnique de Montréal,1,,,no
 "E´cole Polytechnique de Montre´al, Montre´al, QC Canada",1,,,no
 "E’ cole Polytechnique de Montre’al, Montre’al Canada",1,,,no
 "FABULAS, Department of Engineering Physics and Department of Electrical Engineering Centre-ville, Montreal, H3C 3A7, Canada",1,,,no
-"Facultyof Medicine, University of Montreal, Institute for Research in Immunology and Cancer, Chemin de Polytechnique, Montreal, Quebec H3T 1J4, Canada",1,Université de Montréal | Institute for Research in Immunology and Cancer,I70931966 I4210096154,no
+"Faculty of Medicine, University of Montreal, Institute for Research in Immunology and Cancer, Chemin de Polytechnique, Montreal, Quebec H3T 1J4, Canada",1,Université de Montréal | Institute for Research in Immunology and Cancer,I70931966 I4210096154,no
 "Faculty of Electrical Engineering and ComputerScience, Ningbo University, 315211, China, and Mistronix, 2500 Chemin de Polytechnique, Montréal, QC H3T1J4, Canada",1,Ningbo University,I109935558,no
-"Faculty of Engineering at El-Mattaria, Helwan University;
-Ecole Polytechnique, University of Montreal;
-RMTech for Environmental Solutions Inc",1,Université de Montréal | Helwan University,I70931966 I84058292,no
+"Faculty of Engineering at El-Mattaria, Helwan University; Ecole Polytechnique, University of Montreal; RMTech for Environmental Solutions Inc",1,Université de Montréal | Helwan University,I70931966 I84058292,no
 "Faculty of Medicine, University of Montreal, Institute for Research in Immunology and Cancer, Chemin de Polytechnique, Montreal, Quebec, H3T 1J4 Canada",1,Université de Montréal | Institute for Research in Immunology and Cancer,I70931966 I4210096154,no
 "Faculté de l'aménagement, Ecole de design industriel, Université Montréal, cp 6128 succursale, Centre ville, Montréal, H3C 3J7, Québec, Canada",1,Université de Montréal,I70931966,no
 "Fcole Polytechnique, Department Genie Industriel, Université                         de Montréal, C.P. 6079, Succursale “A”,                         Montreal, Québec H3C 3A7, Canada",1,Université de Montréal,I70931966,no
@@ -227,9 +225,7 @@ LLR -Ecole Polytechnique,1,École Polytechnique,I142476485,no
 "Mechanical Engineering Department, Ecole Poytechnique de Montreal, Montreal, Canada, H3T 1J4",1,,,no
 "Mechanical Engineering Department, E´cole Polytechnique de Montre´al, P.O. Box 6079, station “Centre-ville,” Montre´al, Que´bec, H3C 3A7 Canada",1,,,no
 "Mechanical Engineering Ecole Polytechnique , 2015",1,École Polytechnique,I142476485,no
-"Mila
-Polytechnique Montreal
-Canada CIFAR AI Chair",1,Mila - Quebec Artificial Intelligence Institute,I4210164802,no
+Mila Polytechnique Montreal Canada CIFAR AI Chair,1,Mila - Quebec Artificial Intelligence Institute,I4210164802,no
 "National Research Council Canada (NRC), Advanced Robotics and Mechatronic Systems (ARMS), Aerospace Manufacturing Technology Center (AMTC), 2107 Chem. de Polytechnique, Montréal, Québec, Canada, --- Select a Country ---",1,National Research Council Canada,I4210159778,no
 "National Research Council Canada (NRC), Advanced Robotics and Mechatronic Systems (ARMS), Aerospace Manufacturing Technology Center (AMTC), 2107 Chem. de Polytechnique, Montréal, Québec, H3T 1J4 Canada",1,National Research Council Canada,I4210159778,no
 "National Research Council Canada, Aerospace Manufacturing Technology Centre, 2107 ch. de la Polytechnique, Montreal, Quebec H3T 1J4, Canada",1,National Research Council Canada,I4210159778,no
@@ -316,7 +312,7 @@ professeur émérite de l'École polytechnique,1,École Polytechnique,I142476485
 "École de service social, Université de Montréal, C.P. 6128, Succ. Centre-ville Montréal (Quebec) H3C 3J7",1,Université de Montréal,I70931966,no
 École polytechnique ;,1,École Polytechnique,I142476485,no
 "École polytechnique de Montrial, Campus de l'Université de Montréal, Montréal, Québec, Canada",1,Université de Montréal,I70931966,no
-École polytechnique) ,1,École Polytechnique,I142476485,no
+École polytechnique),1,École Polytechnique,I142476485,no
 "Éditions de l'École polytechnique , 2007",1,École Polytechnique,I142476485,no
 "Éditions de l'École polytechnique , 2008",1,,,no
 "Éditions de l'École polytechnique , 2010",1,École Polytechnique,I142476485,no

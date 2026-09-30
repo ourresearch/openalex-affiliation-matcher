@@ -97,7 +97,7 @@ The UniversityLeeds,9,,,no
 "Department of Textile Industries , The University , Leeds, 2",8,Textile Research Institute,I4210111982,no
 "Faculty of Business and Information Technology, University of Western Sydney, Australia; Department of Management Science, University of Leeds, United Kingdom",8,,,no
 "Nuffield Institute for Health Services Studies, Leeds University",8,Nuffield Health,I4210109172,no
-"Rheumatism Research Unit , School of Medicine , 36 Clarendon Road , Leeds LS2 9PJ ",8,,,no
+"Rheumatism Research Unit , School of Medicine , 36 Clarendon Road , Leeds LS2 9PJ",8,,,no
 "Centre for Criminal Justice Studies, School of Law, Leeds LS2 9JT, United Kingdom",7,Centre for Social Justice,I4210143486,no
 "Centre for International Business, Leeds University Business School, UK",7,,,no
 "Department of Agriculture, Leeds University",7,,,no
@@ -117,10 +117,7 @@ Leeds Institute for Data Analytics,7,,,no
 "Astbury Cent. Struct. Mol. Biol., Sch. Chem., Univ. Leeds, Leeds LS2 9JT, UK",6,,,no
 "Astbury Department of Biophysics, The University, Leeds LS2 9JT, United Kingdom",6,,,no
 "Centre for Employment Relations, Innovation and Change, Leeds University Business School, Leeds, UK",6,,,no
-"Charterhouse Professor of Rehabilitation Medicine,
-        Consultant, Senior Lecturer in Rehabilitation Medicine,
-        Charterhouse Principal Research Fellow,
-        Rheumatology and Rehabilitation Research Unit, Leeds University, UK",6,,,no
+"Charterhouse Professor of Rehabilitation Medicine, Consultant, Senior Lecturer in Rehabilitation Medicine, Charterhouse Principal Research Fellow, Rheumatology and Rehabilitation Research Unit, Leeds University, UK",6,,,no
 "Department of Metallurgy , The University , Leeds",6,,,no
 "Department of Textile Industries, The University, Leeds, England",6,The Textile Institute,I4210120895,no
 "Department of Textile Industries, The University, Leeds, LS2 9JT, England",6,,,no
@@ -214,8 +211,7 @@ Leeds Law School,4,,,no
 School of Molecular and Cellular Biology and Astbury Centre for Structural Molecular Biology,4,,,no
 "School of Textile Industries, The University, Leeds LS2 9JT, UK",4,,,no
 "Section of Epidemiology and Biostatistics, Leeds Institute of Molecular Medicine, Leeds, United Kingdom",4,,,no
-"Senior Lecturer,
-        Leeds University Business School, UK",4,,,no
+"Senior Lecturer, Leeds University Business School, UK",4,,,no
 TEXTILE PHYSICS LABORATORY LEEDS UNIVERSITY,4,,,no
 "Textile Chemistry Laboratory, Department of Textile Industries, The University, Leeds",4,Textile Research Institute | The Textile Institute,I4210111982 I4210120895,no
 "Textile Chemistry Laboratory, Leeds University ,",4,,,no
@@ -272,8 +268,7 @@ Department of Textile Industries The University Leeds LS2 9JT,3,,,no
 "Department of Textile Industries, The University, Leeds, LS2 9JT, UK",3,,,no
 "Dept. Physics and Astonomy, U. Leeds, Leeds, UK",3,,,no
 "Dept. of Coal Gas and Fuel Industries with Metallurgy, University, Leeds,",3,,,no
-"Director, Robertson Cooper Professor of Organizational Psychology,
-        Leeds University Business School, UK",3,The Robertson Trust,I4210152914,no
+"Director, Robertson Cooper Professor of Organizational Psychology, Leeds University Business School, UK",3,The Robertson Trust,I4210152914,no
 "From the Departments of Surgery , University ofLeeds , and University College Hospital Medical School , London",3,University College Hospital | University College London,I1289784979 I45129253,no
 "Head of the Religious Studies Department , James Graham College of Education , Leeds, Yorkshire",3,,,no
 "IRC in Polymer Science and Technology, Universities of Leeds, Bradford and Durham, UK",3,University of Bradford,I139894009,no
@@ -282,8 +277,7 @@ Institute for Geophysics and Tectonics University of Leeds  Leeds UK,3,"Centre f
 "Institute for Transport Studies, Leeds University, United Kingdom",3,,,no
 "Institute of Geological Sciences, Leeds, Great Britain",3,Institute of Geological Sciences,I4210148445,no
 "International Institute of Banking and Financial Services, Leeds University Business School, UK",3,,,no
-"Jean Monnet Professor,
-        European Integration and International Business Management, Leeds University Business School, UK",3,,,no
+"Jean Monnet Professor, European Integration and International Business Management, Leeds University Business School, UK",3,,,no
 "LEEDS COLLEGE OF MUSIC,",3,Leeds College of Music,I148357934,no
 Leeds Centre for Victorian Studies,3,Leeds Arts University,I2801351888,no
 Leeds Institute of Cardiovascular & Metabolic Medicine,3,,,no
@@ -303,8 +297,7 @@ Leeds University Business School UK,3,,,no
 "Nuffield Centre for International Health and Development, Institute of Health Sciences, Leeds University, Leeds, UK",3,Nuffield Health,I4210109172,no
 "Pathology and Tumour Biology, Leeds Institute of Molecular Medicine, Leeds, UK",3,,,no
 "Professor of Chemistry in the Yorkshire College of Science, Leeds",3,,,no
-"Reader in Physiology,
-        The Department of Physiology, The Worksley Medical and Dental Building, The University, LS2 9NQ, Leeds, UK",3,Leeds Dental Hospital,I4210166811,no
+"Reader in Physiology, The Department of Physiology, The Worksley Medical and Dental Building, The University, LS2 9NQ, Leeds, UK",3,Leeds Dental Hospital,I4210166811,no
 "Rheumatology and Rehabilitation Research Unit, School of Medicine, Leeds",3,Rheumatology Consultants,I4210142674,no
 "Sch. of Textile Ind., Leeds Univ., UK",3,,,no
 School of Biomedical Sciences and Astbury Centre for Structural Molecular Biology,3,,,no
@@ -356,8 +349,7 @@ BLeeds Institute of Cardiovascular and Metabolic Medicine,2,Institut des Maladie
 "Biological Research Unit, Leeds University Denial School and Hospital",2,,,no
 Bradford and Ilkley College and Leeds University,2,,,no
 Bretton Hall College of Leeds University,2,Eston College,I4210096660,no
-"British Rail Lecturer in Rail Transport,
-        Institute for Transport Studies, Leeds University, UK",2,,,no
+"British Rail Lecturer in Rail Transport, Institute for Transport Studies, Leeds University, UK",2,,,no
 "CADCAM Data Exchange Technical Centre, Leeds, UK",2,,,no
 CLOTHWORKERS RESEARCH LABORATORY LEEDS UNIVERSITY,2,,,no
 "CLeeds Institute of Medical Education, Leeds, UK",2,,,no
@@ -516,8 +508,7 @@ Leeds School of Medicine ; etc,2,Leeds College of Building,I3130725698,no
 Leeds School of healthcare,2,Leeds Community Healthcare NHS Trust,I2801480486,no
 "Leeds Teaching Hospitals NHS Trust, Leeds, UK (Faculty of Intensive Care Medicine); Leeds University, Leeds, UK",2,Leeds Teaching Hospitals NHS Trust,I2799390153,no
 "Leeds Teaching Hospitals NHS Trust, Leeds, UK; Leeds University, Leeds, UK (Faculty of Intensive Care Medicine)",2,Leeds Teaching Hospitals NHS Trust,I2799390153,no
-"Leeds Teaching Hospitals, NHS Trust;
-Leeds University",2,Leeds Teaching Hospitals NHS Trust,I2799390153,no
+"Leeds Teaching Hospitals, NHS Trust; Leeds University",2,Leeds Teaching Hospitals NHS Trust,I2799390153,no
 "Leeds Teaching Hospitals, NHS Trust; Leeds University, Great Britain",2,Leeds Teaching Hospitals NHS Trust,I2799390153,no
 Leeds U. Business SchoolHong Kong Polytechnic U.Thammasat U,2,,,no
 Leeds U. Business SchoolU. of LeedsU. of Leeds,2,,,no
@@ -588,9 +579,7 @@ School of Physics and Astronomy [Leeds],2,,,no
 "Section of Musculoskeletal Disease, Leeds Institute of Molecular Medicine, United Kingdom",2,NIHR Leeds Musculoskeletal Biomedical Research Unit,I4210114713,no
 "Section of Musculoskeletal Diseases, Leeds Institute of Molecular Medicine, Leeds, United Kingdom",2,NIHR Leeds Musculoskeletal Biomedical Research Unit,I4210114713,no
 "Section of Oncology and Clinical Research, Leeds Institute of Molecular Medicine, Leeds, UK",2,,,no
-"Senior Lecturer in International Business,
-        Roberts Academic Research Fellow,
-        Leeds University Business School, UK",2,,,no
+"Senior Lecturer in International Business, Roberts Academic Research Fellow, Leeds University Business School, UK",2,,,no
 "Senior Medical Statistician, Nuffield Centre for International Health and Development, Leeds Institute of Health Sciences, Leeds, UK",2,Nuffield Health,I4210109172,no
 "Specialty Chemical Group, Department of Colour Chemistry, The University, Leeds LS2 9JT, UK",2,,,no
 T extile C hemistry L aboratory L eeds U niversity,2,,,no
@@ -606,8 +595,7 @@ Textile Chemistry Laboratory Department of Textile Industries The University Lee
 "Textile Physics Laboratory, Leeds University",2,,,no
 "Textile Physics Laboratory, The University, Leeds, England",2,The Textile Institute,I4210120895,no
 "The Arthritis and Rheumatism Council, Bioengineering Group for the Study of Human Joints, Leeds University, Leeds, England",2,Arthritis and Rheumatism Associates,I4210115237,no
-"The Astbury Biostructure Laboratory (Faculty of Biological Sciences
-Leeds - United Kingdom)",2,,,no
+The Astbury Biostructure Laboratory (Faculty of Biological Sciences Leeds - United Kingdom),2,,,no
 "The Astbury Department of Biophysics, The University, Leeds",2,,,no
 "The Astbury Department of Biophysics, The University, Leeds 2 Great Britain",2,,,no
 "The Astbury Department of Biophysics, The UniversityLeeds, LS2 9JT",2,,,no
@@ -651,11 +639,8 @@ g.d.love@leeds.ac.uk,2,,,no
 r.m.wilkie@leeds.ac.uk,2,,,no
 "the Cranfield School of Management., University of Leeds, Blenheim Terrace, Bedford, MK43 0AL, UK",2,Cranfield University,I82284825,no
 "tornou professor titular da Universidade de Leeds, cargo que ocupou por vinte anos",2,,,no
-"
-             4Centre of Excellence for Advanced Materials and Processing (CEAMP), Iran University of Science and Technology, Iran/2Institute for Materials Research, Leeds University, U.K    
-	",1,,,no
-"
-Jim House, historien, directeur du Centre for French and Francophone Cultural Studies, université de Leeds (Royaume-Uni)",1,,,no
+"4Centre of Excellence for Advanced Materials and Processing (CEAMP), Iran University of Science and Technology, Iran/2Institute for Materials Research, Leeds University, U.K",1,,,no
+"Jim House, historien, directeur du Centre for French and Francophone Cultural Studies, université de Leeds (Royaume-Uni)",1,,,no
 "' Unive rs ity of Leed s,",1,,,no
 "'Leukaemia Research Fund Centre for Clinical Epidemiology, Universities of Leeds and Southampton, Royal South Hants Hospital, Southampton; 2Scottish Health Services,",1,Royal South Hants Hospital,I2801859090,no
 "'University Department of Radiotherapy, Tunbridge Building, Regional Radiotherapy Centre, Cookridge Hospital, Leeds LS16 6QB; and 2Postgraduate Studies in Pharmacology, The School of Pharmacy,",1,Cook Medical (Denmark),I899146839,no
@@ -708,16 +693,10 @@ Jim House, historien, directeur du Centre for French and Francophone Cultural St
 ". Nuffield Centre for International Health and Development, Leeds Institute for Health Sciences,",1,Nuffield Health,I4210109172,no
 "., Uniwersytet Warszawski; Guest Professor, Leeds University",1,University of Warsaw,I4654613,no
 ".Division of Steroid Endocrinology, Departmnent of Chemical Pathology, The Mledical School, Leeds L82 9LN, the tDepartment of Pathology and the tDepartment of (Trological Surgery,",1,,,no
-"1
-            Stephen Ackroyd is in the Lancaster University Management School, University of Lancaster. 2Ian Kirkpatrick in the Leeds University Business School. 3Richard M. Walker is in the Centre of Urban Planning and Environmental Management, University of Hong Kong and in the Centre for Local and Regional Government Research, Cardiff University",1,Lancaster University | University of Hong Kong | Cardiff University,I67415387 I889458895 I79510175,no
-"1
-            University of Durham Business School, UK miguel.martinezlucio@durham.ac.uk, 2Leeds University Business School, UK",1,Durham University,I190082696,no
-"1
-            University of Warwick anne-marie.greene@wbs.warwick.ac.uk, 2University of Leeds Business School, 3Napier University",1,University of Warwick,I39555362,no
-"1
-Leeds
-UK
-traka@leeds.ac.uk",1,,,no
+"1 Stephen Ackroyd is in the Lancaster University Management School, University of Lancaster. 2Ian Kirkpatrick in the Leeds University Business School. 3Richard M. Walker is in the Centre of Urban Planning and Environmental Management, University of Hong Kong and in the Centre for Local and Regional Government Research, Cardiff University",1,Lancaster University | University of Hong Kong | Cardiff University,I67415387 I889458895 I79510175,no
+"1 University of Durham Business School, UK miguel.martinezlucio@durham.ac.uk, 2Leeds University Business School, UK",1,Durham University,I190082696,no
+"1 University of Warwick anne-marie.greene@wbs.warwick.ac.uk, 2University of Leeds Business School, 3Napier University",1,University of Warwick,I39555362,no
+1 Leeds UK traka@leeds.ac.uk,1,,,no
 "1 Leeds University Business School p.j.nolan@leeds.ac.uk, 2University of Sheffield and the Centre for Economic Performance, LSE s.j.wood@Sheffield.ac.uk",1,University of Sheffield,I91136226,no
 "1 This study benefited from helpful criticism by Dr W. E. J. McCarthy, B. J. McCormick, Professor E. H. Phelps Brown, D. Robinson and Professor H. A. Turner, as well as from colleagues at Warwick University and seminars at Leeds University and the SSRC Labour Economics Study Group. The author is also grateful to Margaret Morgan for her clerical assistance",1,,,no
 "1 University of Durham Business School, UK miguel.martinezlucio@durham.ac.uk, 2Leeds University Business School, UK",1,Durham University,I190082696,no
@@ -862,8 +841,7 @@ AUTHOR EMAIL ADDRESS FOR WALS: m.wiggen@leeds.ac.uk,1,,,no
 "Academic Unit of Musculoskeletal Disease, Leeds University, Leeds, United Kingdom",1,NIHR Leeds Musculoskeletal Biomedical Research Unit,I4210114713,no
 "Academic Unit of Musculoskeletal Disease, Leeds University, UK",1,NIHR Leeds Musculoskeletal Biomedical Research Unit,I4210114713,no
 "Academic Unit of Musculoskeletal Disease, School of Medicine, Leeds University, Leeds, United Kingdom",1,NIHR Leeds Musculoskeletal Biomedical Research Unit,I4210114713,no
-"Academic Unit of Musculoskeletal Nursing (ACUMeN)
-LeedsUK",1,NIHR Leeds Musculoskeletal Biomedical Research Unit,I4210114713,no
+Academic Unit of Musculoskeletal Nursing (ACUMeN) LeedsUK,1,NIHR Leeds Musculoskeletal Biomedical Research Unit,I4210114713,no
 "Academic Unit of Musculoskeletal and Rehabilitation MedicineUniversity of Leeds, UK;Pinderfields General HospitalMid Yorkshire NHS Trust, Wakefield, West Yorkshire, UK",1,Mid Yorkshire Hospitals NHS Trust | Pinderfields Hospital,I4210160067 I4210160796,no
 "Academic Unit of Obstetrics and Gynaecology, Department of Clinical Medicine, Leeds, UK",1,,,no
 "Academic Unit of Palliative Care, Leeds Institute of Health Science, Worsley Building, Clarendon Way, PPIE Co-Author, Leeds, UK",1,Leeds Dental Hospital,I4210166811,no
@@ -983,7 +961,7 @@ Attached Part-Time to the Adult Education Department at Leeds University and is 
 "Authors’Address: Procter Department of Food and Leather Science, The University, Leeds",1,Leatherhead Food Research,I4210147562,no
 B.Bhakta{at}leeds.ac.uk,1,,,no
 "BROJESH C. PAKRASHI From the Department of Cardio-thoracic Surgery and Cardiology, The General Infirmary at Leeds and Leeds University, Leeds, Great Britain",1,Leeds General Infirmary,I1295121038,no
-"BSc in Physics , Inner Mongolia Normal University ; MSc in Physics and Business Management , University of Leeds ; Part time lecture of Inner Mongolia University ",1,Inner Mongolia University | Inner Mongolia Normal University,I2722730 I22046295,no
+"BSc in Physics , Inner Mongolia Normal University ; MSc in Physics and Business Management , University of Leeds ; Part time lecture of Inner Mongolia University",1,Inner Mongolia University | Inner Mongolia Normal University,I2722730 I22046295,no
 "Bacteriology Department, School of Medicine, Leeds, and Department of Microbiology, The Children′s Hospital, Birmingham",1,,,no
 "Barcelona Institute of Global Health, Air Pollution, Barcelona 08003, Spain; Faculty of Environment, Research Institute for Transport Studies, University of Leeds, Leeds, UK",1,,,no
 "Barnaby King is a theatre director, teacher, and performer living in Portland, Oregon. He has an MA in Theatre Studies from Leeds University, England, and was Associate and Artistic director of The Theatre Company Blah Blah Blah in Leeds for eight years, producing theatre for children and young people. In 2003 he set up his own company, Yellow Belly, dedicated to exploring clown theatre, and continues to perform and teach clowning internationally. He has also been a regular visiting lecturer and guest",1,,,no
@@ -1033,8 +1011,7 @@ Bretton Hall College of Leeds UniversityEngland,1,Eston College,I4210096660,no
 "CBLU, The Univesity, Leeds, England",1,,,no
 "CENTRE FOR INDUSTRIAL POLICY AND PERFORMANCE, LEEDS UNIVERSITY BUSINESS SCHOOL",1,,,no
 "CERS, Centre for Ethnicity and Racism Studies",1,,,no
-"CERS, Universidad de Leeds, Reino Unido.
-International Society For Philosophers, Sheffield, Reino Unido",1,,,no
+"CERS, Universidad de Leeds, Reino Unido. International Society For Philosophers, Sheffield, Reino Unido",1,,,no
 "CISTIB-Center for Computational Imaging & Simulation Technologies in Biomedicine, School of Engineering, Leeds, LS2 9JT, UK",1,CE Technologies (United Kingdom),I4210126929,no
 "CLOTH WORKRRB' RESEARCH LABORATORY, LEEDS UNIYERBITY",1,,,no
 CLOTHWORKERS' RESEARCH LABORATORY AND TEXTILE CHEMISTRY LABORATORY LEEDS UNIVERSITY,1,,,no
@@ -1082,7 +1059,7 @@ Center for High Performance Computing pernice Department of Computer Science Dep
 "Center for Operations and Supply Chain Research, Leeds University Business School, Maurice Keyworth Building, Leeds, United Kingdom",1,,,no
 "Center for the Observation and Modeling of Earthquakes, Volcanoes and Tectonics, School of Earth and Environment, University of Leeds, Leeds, U.K",1,"Centre for the Observation and Modelling of Earthquakes, Volcanoes and Tectonics",I4210147017,yes
 "Central Technical School, Leeds",1,,,no
-"Centreof Decision Research, LeedsUniversity Business School, Leeds LS2 9JT, Leeds, United Kingdom,and Department of Engineering and Public Policy, Carnegie Mellon University, Pittsburgh, Pennsylvania 15213, UnitedStates",1,Decision Research | Carnegie Mellon University,I4210121621 I74973139,no
+"Centre of Decision Research, Leeds University Business School, Leeds LS2 9JT, Leeds, United Kingdom, and Department of Engineering and Public Policy, Carnegie Mellon University, Pittsburgh, Pennsylvania 15213, United States",1,Decision Research | Carnegie Mellon University,I4210121621 I74973139,no
 "Centre For Interdisciplinary Gender Studies , Leeds University , Leeds , UK",1,,,no
 "Centre For Interdisciplinary Gender Studies, Leeds University, Leeds, UK",1,,,no
 "Centre for Advanced Studies in Finance, Leeds University Business School",1,,,no
@@ -1276,7 +1253,7 @@ Competition and Markets Authority and Leeds University Business School,1,,,no
 "Consultant in Restorative Dentistry and Honorary Senior Lecturer, Leeds Dental Institute, The Worsley Building, Clarendon Way, Leeds, LS2 9LU, United Kingdom",1,Leeds Dental Hospital,I4210166811,no
 "Consumer Data Research Centre, Leeds Institute for Data Analytics, LS2 9JT, United Kingdom",1,Health Data Research UK,I4210142469,no
 "Cookridge Hospital, Hospital Lane, Cookridge, West Yorkshire LS16 6QB and The Department of Biochemistry and Molecular Biology, Leeds University, Leeds, U.K",1,Cook Medical (Denmark),I899146839,no
-"Cornell University's School of Industrial and LaborRelations, Leeds University Business School's Centre for EmploymentRelations Innovation and Change,",1,New York State School of Industrial and Labor Relations | Cornell University,I4210098983 I205783295,no
+"Cornell University's School of Industrial and Labor Relations, Leeds University Business School's Centre for Employment Relations Innovation and Change,",1,New York State School of Industrial and Labor Relations | Cornell University,I4210098983 I205783295,no
 Correspondenced.a.pirmasari@leeds.ac.uk,1,,,no
 Correspondencej.pitches@leeds.ac.uk,1,,,no
 Correspondenceo.s.pickering@leeds.ac.uk,1,,,no
@@ -1503,7 +1480,7 @@ Department of East Asian Studies der Universität Leeds,1,,,no
 "Department of Experimental Pathology and Cancer Research, The University, Leeds",1,,,no
 "Department of Experimental Pathology and Cancer Research, The University, Leeds, England",1,,,no
 "Department of Experimental Pathology, and Cancer Research, School of Medicine, Leeds, United Kingdom",1,Yorkshire Cancer Research,I2801288256,no
-"Department of Experimtental Pathology andl Cancer Research , ETniversity of Leeds ",1,,,no
+"Department of Experimtental Pathology andl Cancer Research , ETniversity of Leeds",1,,,no
 "Department of Fisheries, University of Dhaka, Dhaka, Bangladesh; School of Earth and Environment, Leeds University, Leeds, UK",1,University of Dhaka,I205746353,no
 "Department of Food and Leather Science, Leeds University Great Britain",1,,,no
 "Department of Food and Leather Science, The University, Leeds",1,,,no
@@ -1616,7 +1593,7 @@ Department of Obstetrics and GynæcologyUniversity of Leeds,1,,,no
 "Department of Ophthalmology, Faculty of Medicine, University of Alexandria, Egypt  & Leeds teaching Hospitals, NHS Trust, England & Leeds University, England",1,Leeds Teaching Hospitals NHS Trust,I2799390153,no
 "Department of Ophthalmology, Faculty of Medicine, University of Alexandria, Egypt   & Leeds teaching Hospitals, NHS Trust, England  & Leeds University, England",1,,,no
 "Department of Oral Biology, Leeds Dental Institute, Leeds, UK, and Oral Research Laboratory, Faculty of Dentistry, University of Oslo, Norway. s.j.brookes@leeds.ac.uk",1,Leeds Dental Hospital | University of Oslo,I4210166811 I184942183,no
-"Department of Oral Biology, Leeds Dental School, BlundellStreet, Leeds, Great Britain",1,Leeds Dental Hospital,I4210166811,no
+"Department of Oral Biology, Leeds Dental School, Blundell Street, Leeds, Great Britain",1,Leeds Dental Hospital,I4210166811,no
 "Department of Oral Biology, Leeds Dental School, Blundell#R#Street, Leeds, Great Britain",1,Leeds Dental Hospital,I4210166811,no
 "Department of Oral Biology, School of Dentistry, Leeds",1,,,no
 "Department of Oral Biology, School of Dentistry, Leeds, UK",1,,,no
@@ -1930,7 +1907,7 @@ Division of Management Leeds University Business School  Leeds UK,1,,,no
 "Doctor en estudios de la comunicación de la Universidad de Leeds , de Reino Unido . Es profesor investigador en el Instituto de Ciencias de Gobierno y Desarrollo Estratégico",1,,,no
 "Doctor, The University of Leeds, Application and R&D Coordinator, Refractories Technical Department, Saint-Gobain do Brasil Ltda, Vinhedo, São Paulo, Brazil",1,,,no
 "Doctora en Educación (University of Leeds), Reino Unido. Investigadora Postdoctoral BioGeoArt (ANID-PIA Anillos SOC180040 project (2018–2021)), Pontificia Universidad Católica de Valparaíso, Chile. Investigadora adjunta MOVYT (Iniciativa Científica Milenio, ANID- NCS17_027 (Núcleo Milenio Movilidades y Territorios_MOVYT))",1,Pontificial Catholic University of Valparaiso,I4210116133,no
-"Doctoral Researcher, Choice Modelling Centre, Institute for Transport Studies, Univ. of Leeds, Leeds LS2 9JT, UK; Assistant Professor, Dept. of Urban and Regional Planning, Chittagong Univ. of Engineering and Technology (CUET), Chittagong 4349, Bangladesh. ORCID: ",1,Chittagong University of Engineering & Technology,I102782458,no
+"Doctoral Researcher, Choice Modelling Centre, Institute for Transport Studies, Univ. of Leeds, Leeds LS2 9JT, UK; Assistant Professor, Dept. of Urban and Regional Planning, Chittagong Univ. of Engineering and Technology (CUET), Chittagong 4349, Bangladesh. ORCID:",1,Chittagong University of Engineering & Technology,I102782458,no
 "Doctorante de la Universidad de Leeds, Reino Unido",1,United Nations Industrial Development Organization,I1325620243,no
 Doutor em Engenharia Civil (Hidráulica e Saneamento) -University of Leeds. Departamento de Engenharia Civil e Ambiental da Universidade Federal da Paraíba,1,Universidade Federal da Paraíba,I169045520,no
 "Doutor em História, University of Leeds, UK/CAPES. Mestre em História Social,  Universidade de São Paulo (USP) Membro do LABORA-USP e do INSULAE",1,,,no
@@ -2045,12 +2022,12 @@ Faculty of Medicine and Health Leeds Institute of Rheumatic and Musculoskeletal 
 "Forest Research Institute, Govt. of India State Scholar at University of LeedsDehra Dun",1,Forest Research Institute,I128076159,no
 "Formerly Consultant Psychiatrist , University Health Service , Leeds",1,,,no
 "Formerly Department of Earth Sciences, Leeds University. Now British Gas, 100 Thames Valley Park Road, Reading RG6 1PT, UK",1,,,no
-"Formerly GETECH, c/o University of Leeds, School of Earth Sciences; presently Reid Geophysics, 49 Carr Bridge Dr., Leeds LS16 7LB, U.K. E-mail: ",1,,,no
+"Formerly GETECH, c/o University of Leeds, School of Earth Sciences; presently Reid Geophysics, 49 Carr Bridge Dr., Leeds LS16 7LB, U.K. E-mail:",1,,,no
 "Formerly Professor of Structural and Inorganic Chemistry at Leeds University,",1,,,no
 "Formerly School of Geography, University of Leeds, Leeds LS2 9JT, U.K., now School of the Environment and Society, University of Wales Swansea 3 3 Singleton Park, Swansea SA2 8PP",1,Swansea University,I39586589,no
 "Formerly Université Laval, Department of Geology and Engineering Geology, Québec, Canada; presently University of Leeds, School of Earth and Environment, Leeds, U. K",1,,,no
 "Formerly at Department of Zoology, University of Leeds, Now at Department of Zoology, McGill University, Montreal",1,McGill University,I5023651,no
-"Formerly at University of Leeds, School of Earth and Environment: Earth Sciences, Leeds, U. K., presently at University of Alberta, Department of Physics, Edmonton, Alberta, Canada. ",1,University of Alberta,I154425047,no
+"Formerly at University of Leeds, School of Earth and Environment: Earth Sciences, Leeds, U. K., presently at University of Alberta, Department of Physics, Edmonton, Alberta, Canada.",1,University of Alberta,I154425047,no
 "Formerly at University of Leeds, now with National Coal Board",1,,,no
 "Formerly of Rothamsted Experimental Station, now of Department of Agriculture, The University, Leeds",1,Experimental Station,I4210105766,no
 "Foundation Studies,Leeds College of Nursing, UK",1,,,no
@@ -2202,8 +2179,7 @@ Hasselt University ‡ and Leeds University,1,Hasselt University,I878454856,no
 "Health and Applied Sciences, Leeds Institute of Rheumatic and Musculoskeletal Medicine, Leeds, UNITED KINGDOM",1,NIHR Leeds Musculoskeletal Biomedical Research Unit,I4210114713,no
 "Health and Social Care Centre, Leeds University Health Sciences Institute",1,NHS Digital,I4210129883,no
 "Heather Wallis, Teaching Fellow in Cinema, Institute of Communications Studies, Leeds co",1,China Institute Of Communications,I4210130954,no
-"Hedley Atkins Breast Pathology Laboratory, Guy's Hospital, London, and
-1Academic Unit of Pathology, Leeds University, c/o Department of Pathology, St James' University Hospital, Leeds, UK",1,St James's University Hospital | Atkins (United Kingdom) | Guy's Hospital,I2801331674 I4210094877 I1298207432,no
+"Hedley Atkins Breast Pathology Laboratory, Guy's Hospital, London, and 1Academic Unit of Pathology, Leeds University, c/o Department of Pathology, St James' University Hospital, Leeds, UK",1,St James's University Hospital | Atkins (United Kingdom) | Guy's Hospital,I2801331674 I4210094877 I1298207432,no
 "Hedley Atkins Breast Pathology Laboratory, Guy's Hospital, London, and 1Academic Unit of Pathology, Leeds University, c/o Department of Pathology, St James' University Hospital, Leeds, UK",1,Guy's Hospital,I1298207432,no
 "Helen Rodgers is a lecturer and Vikki Smith is a researcher, at  Leeds Business School, Leeds, UK",1,,,no
 "Helen Thornham is a Research Fellow at Leeds University and PI of a RCUK EPSRC led Communities and Culture Network+. Within the CCNetwork+ she is leading a number of projects including an investigation of the impacts of the Welfare Reforms on young people. She is the author of Ethnographies of the Videogame: Narrative, Gender and Praxis (2011) and co-editor, with Elke Weissmann of Renewing Feminisms (I.B.Tauris, 2013). Her research focuses on gender and technological mediations, narrative, discourse and power, embodiment, youth, space and place, and community",1,Engineering and Physical Sciences Research Council,I1299528221,no
@@ -2211,10 +2187,8 @@ Hasselt University ‡ and Leeds University,1,Hasselt University,I878454856,no
 "Hepatopancreatobiliary and Transplant Unit, St James's University Hospital, Leeds University, Leeds, UK",1,St James's University Hospital,I2801331674,no
 "Heriot-Watt University School of Management and Languages, School of Management and Languages, Riccarton, Midlothian, EH14 4AS, Scotland ; The University of Leeds, USA",1,Heriot-Watt University,I32062511,no
 Hongik U. / U. of Leeds,1,Hongik University,I94588446,no
-"Honorary Fellow,
-        St Catherine's College, Leeds University, Oxford, UK",1,,,no
-"Honorary Fellow,
-        St Catherine’s College, Leeds University, Oxford, UK",1,St. Catherine University,I142767807,no
+"Honorary Fellow, St Catherine's College, Leeds University, Oxford, UK",1,,,no
+"Honorary Fellow, St Catherine’s College, Leeds University, Oxford, UK",1,St. Catherine University,I142767807,no
 "Honorary Surgeon, Hospital for Women and Children, LeedsDemonstrator in Obstetrics and Gynæcology, Leeds University",1,,,no
 "Honorary Surgeon, Hospital for Women and, Children, LeedsDemonstrator in Obstetrics and Gynaœcology, Leeds University",1,,,no
 "Houldsworth School of Applied Science, Dept. of Chemical Engineering, The University, Leeds, 2",1,Applied Science Private University,I146367977,no
@@ -2248,7 +2222,7 @@ I. M. Ward holds a Joint Appointment between Leeds University and I. C. I,1,,,no
 "IRC in Polymer Science and Technology, School of Chemistry, University ofLeeds, Leeds, West Yorkshire, LS2 9JT, England ; Technical University of Budapest, H-1521, Budapest, Hungary",1,Budapest Institute,I4210161853,no
 "ISCTE, INESC-ID and CBLU—University of Leeds, Rua Alves Redol, 9, 1000, Lisboa, Portugal",1,Instituto de Engenharia de Sistemas e Computadores Investigação e Desenvolvimento,I121345201,no
 "Imperial Cancer Research Fund Cancer Medicine Research Centre, School of Medicine, University of Leeds , Leeds,",1,,,no
-"Imperial College London 1 Formerly , Department of Earth Science and Engineering, South Kensington Campus, London, ; presently , School of Earth and Environment, Leeds, . E-mail: a.booth@imperial.ac.uk ",1,Imperial College London,I47508984,no
+"Imperial College London 1 Formerly , Department of Earth Science and Engineering, South Kensington Campus, London, ; presently , School of Earth and Environment, Leeds, . E-mail: a.booth@imperial.ac.uk",1,Imperial College London,I47508984,no
 "Inclusive Special Educational Needs (ISEN) Team, Education Leeds",1,Leeds City Council,I2803041740,no
 "Independent nursing and healthcare management consultant, and visiting Professor, At Leeds University institute of nursing",1,,,no
 "Indira Gandhi Institute of Development Research, Gen. Vaidya Marg, Santosh Nagar, Goregaon (East), Mumbai 400 065, India ; Leeds University Business School, Maurice Keyworth Building, Leeds LS2 9JT, UK",1,Indira Gandhi Institute of Development Research,I16319596,no
@@ -2283,7 +2257,7 @@ Institute for Innovation in Professional Practice in the School of Healthcare Le
 "Institute for Research on Contemporary China, Leeds University, Leeds, UK",1,China Institutes of Contemporary International Relations,I928283767,no
 "Institute for Transport Studies (ITS) , leeds , uK",1,Department for Transport,I3144123604,no
 "Institute for Transport Studies (ITS), leeds, uK",1,,,no
-"Institute for Transport Studies , Universidad de Leeds ÍNDICE 1 ",1,,,no
+"Institute for Transport Studies , Universidad de Leeds ÍNDICE 1",1,,,no
 "Institute for Transport Studies and Leeds University Business School, UK",1,,,no
 "Institute for Transport Studies, 34-40 University Rd, LS2 9JT, Leeds, United Kingdom",1,,,no
 "Institute for Transport Studies, 34-40University Road,Leeds LS2 9JT, United Kingdom",1,,,no
@@ -2372,11 +2346,9 @@ International Institute of Banking and Financial Services (IIBFS) Leeds Universi
 "International coordinator at Adel Primary School, Leeds",1,,,no
 "Inter‐faith Adviser to the Anglican Bishop of Bradford; Theology and Religious Studies Department, Leeds University, UK",1,,,no
 "Investigador Independiente. PhD, History of Science, University of Leeds",1,Universidad Independiente,I4210140695,no
-"Investigador titular de Crimen y Gobierno.
-Universidad de Leeds (GB)",1,Gobierno de Chile,I4210122724,no
+Investigador titular de Crimen y Gobierno. Universidad de Leeds (GB),1,Gobierno de Chile,I4210122724,no
 Investigador titular de Crimen y Gobierno.#R##N#Universidad de Leeds (GB),1,Gobierno de Chile,I4210122724,no
-"Investigador titular de Delincuencia y Gobernación
-Universidad de Leeds",1,,,no
+Investigador titular de Delincuencia y Gobernación Universidad de Leeds,1,,,no
 Investigador titular de Delincuencia y Gobernación#R##N#Universidad de Leeds,1,,,no
 Invisible? Leeds Doctoral College Showcase :,1,,,no
 "Ioannis Mavroudis -Leeds Teaching Hospitals, NHS Trust, Leeds University, United Kingdom Alin Cîobică -Department of Biology, Faculty of Biology,",1,Leeds Teaching Hospitals NHS Trust,I2799390153,no
@@ -2478,8 +2450,7 @@ Lecturer in Clinical Psychology Leeds,1,,,no
 "Lecturer on Diseases of the Skin, University of Leedls",1,,,no
 "Lecturer on Geology at Yorkshire College, Leeds",1,,,no
 Lecturer on Practice of Physic at the Leeds School of Medicine; Consulting Physician to the Leeds Hospital for Women and Children,1,,,no
-"Lecturer,
-        Work and Employment Division, Leeds University Business School, UK",1,Universities UK,I185658715,no
+"Lecturer, Work and Employment Division, Leeds University Business School, UK",1,Universities UK,I185658715,no
 "Lecturer, At the School of Healthcare Studies, Leeds University",1,,,no
 "Lecturer, Division of Child Dental Health, Leeds Dental Institute, Leeds",1,Leeds Dental Hospital,I4210166811,no
 "Lecturer, Division of Child Dental Health, Leeds Dental Institute, Leeds, LS2 9LU",1,Leeds Dental Hospital,I4210166811,no
@@ -2583,7 +2554,7 @@ Leeds Institute of Biomedical and Clinical Sciences (Mebrahtu),1,,,no
 "Leeds Institute of Cancer & PathologyUniversity of Leeds, St James's University Hospital, Leeds, UK v.speirs@leeds.ac.uk",1,St James's University Hospital,I2801331674,no
 "Leeds Institute of Cancer Medicine and Pathology, Leeds, United Kingdom",1,,,no
 "Leeds Institute of Cancer Medicine and Pathology, Univeristy of Leeds and St. James University Hospital, Leeds, UK",1,St James's University Hospital,I2801331674,no
-"Leeds Institute of Cancer Studies &amp; Pathology, St James‘s Hospital,Leeds University,LS9 7TF,UK",1,St James's University Hospital,I2801331674,no
+"Leeds Institute of Cancer Studies &amp; Pathology, St James‘s Hospital,Leeds University, LS9 7TF, UK",1,St James's University Hospital,I2801331674,no
 "Leeds Institute of Cancer and Pathology and Leeds Experimental Cancer Medical Centre, Leeds, United Kingdom",1,,,no
 "Leeds Institute of Cancer and Pathology, St James's University Hospital, Leeds University, Leeds, UK",1,St James's University Hospital,I2801331674,no
 "Leeds Institute of Cancer and Pathology, St James’s University Hospital, Leeds University, Leeds, UK",1,St James's University Hospital,I2801331674,no
@@ -2677,10 +2648,8 @@ Leeds Institute of Rheumatology and Musculoskeletal Medicine,1,NIHR Leeds Muscul
 "Leeds Law School, G01, Queen Square House, 80 Woodhouse Lane City Campus, Leeds LS2 8NU, United Kingdom",1,,,no
 "Leeds Law School, Leeds, UK",1,,,no
 "Leeds Mathematics School, 105, Albion Street, Leeds LS1 5AP, UK",1,,,no
-"Leeds Medical School
-Leeds",1,,,no
-"Leeds Medical School
-Leeds",1,,,no
+Leeds Medical School Leeds,1,,,no
+Leeds Medical School Leeds,1,,,no
 "Leeds Medical School, Leeds, UK; Leeds Medical School, Leeds, UK",1,,,no
 "Leeds Medical School, UK",1,,,no
 "Leeds Molecular Institute of Molecular Medecine, Leeds, United Kingdom",1,,,no
@@ -2700,7 +2669,7 @@ Leeds School of Law,1,,,no
 Leeds School of Medicine Leeds UK,1,,,no
 "Leeds School of Medicine Level 7, The Worsley Medical and Dental Building, Leeds, LS2 9NQ, Great Britain",1,Leeds Dental Hospital,I4210166811,no
 Leeds School of Medicine etc,1,Leeds College of Building,I3130725698,no
-Leeds School of Medicine etc ,1,Leeds College of Building,I3130725698,no
+Leeds School of Medicine etc,1,Leeds College of Building,I3130725698,no
 "Leeds School of Medicine, Leeds",1,,,no
 Leeds School of Medicine; Consulting,1,,,no
 Leeds School of Medicine; etc,1,Leeds College of Building,I3130725698,no
@@ -2805,10 +2774,8 @@ Leeds University's Palestine Solidarity Group,1,University of Palestine,I5920644
 "Leeds University, India",1,Jagran Lakecity University,I3130958653,no
 "Leeds University, Institute of Geophysics and Tectonics, School of Earth and Environment, Leeds, United Kingdom",1,,,no
 "Leeds University, Leeds LS2 9JT, UK, and School of Oriental and African Studies, London WC1H OXG, UK",1,SOAS University of London,I31575130,no
-"Leeds University, Leeds School of Medicine, Academic Orthopaedic Department,
-Leeds General Infirmary, LS1 3EX, UK",1,Leeds General Infirmary,I1295121038,no
-"Leeds University, Leeds School of Medicine, Academic Orthopaedic Department, Leeds General Infirmary,
-Leeds, LS1 3EX, UK",1,Leeds General Infirmary,I1295121038,no
+"Leeds University, Leeds School of Medicine, Academic Orthopaedic Department, Leeds General Infirmary, LS1 3EX, UK",1,Leeds General Infirmary,I1295121038,no
+"Leeds University, Leeds School of Medicine, Academic Orthopaedic Department, Leeds General Infirmary, Leeds, LS1 3EX, UK",1,Leeds General Infirmary,I1295121038,no
 "Leeds University, Leeds School of Medicine, Academic Orthopaedic Department, Leeds General Infirmary, LS1 3EX, UK",1,Leeds General Infirmary,I1295121038,no
 "Leeds University, Leeds School of Medicine, Academic Orthopaedic Department, Leeds General Infirmary, Leeds, LS1 3EX, UK",1,Leeds General Infirmary,I1295121038,no
 "Leeds University, Leeds, England and Rolls-Royce Limited, Derby, England",1,Rolls-Royce (United Kingdom),I866009140,no
@@ -2925,8 +2892,7 @@ Mental Health Course Leeds University,1,,,no
 "Middlesex Hospital Medical School, c/o Department of Zoology, University, Leeds,",1,Middlesex Hospital,I4210096452,no
 "Mike Fletcher graduated from Leeds University in 1972 and taught in schools for twelve years. He was a schoolteacher fellow at the Centre for Statistical Education in Sheffield and obtained his MSc in Applied Statistics. He was a research fellow at the Assessment Performance Unit, Goldsmith's College, and is now Senior Lecturer in mathematics education at Canterbury Christ Church College. He is an OFSTED inspector, Chief Examiner for Statistics and Open University tutor",1,Goldsmiths University of London,I55521800,no
 "Milena Schwab-Graham received her UKRI-funded doctorate, on walking as feminist intellectual praxis in George Eliot, May Sinclair, and Sylvia Townsend Warner, from the University of Leeds",1,,,no
-"Minister and Psychotherapist,
-        Dep't of Psychiatry, Leeds University, USA",1,,,no
+"Minister and Psychotherapist, Dep't of Psychiatry, Leeds University, USA",1,,,no
 "Ministry of Education 1 School of Geosciences, , Qingdao 266580, China; School of Earth and Environment, , LS2 9JT Leeds, West Yorkshire, United Kingdom; Key Laboratory of Tectonics and Petroleum Resources, , Wuhan 430074, China; peiyangwen@upc.edu.cn",1,,,no
 "Molecular Epidemiology Unit, Centre for Epidemiology and Biostatistics, Leeds Institute of Genetics, Health and Therapeutics",1,,,no
 "Molecular Gastroenterology , Leeds Institute of Molecular Medicine , Leeds , UK;",1,Institute of Molecular Medicine,I4210146488,no
@@ -2938,8 +2904,7 @@ Mental Health Course Leeds University,1,,,no
 "Molecular Innovation, Diversity and Automated Synthesis (MIDAS) Centre, School of Chemistry, Leeds University, UK",1,,,no
 "Molecular Materials Centre, School of Chemical Engineering and Analytical Science, and Molecular Materials Centre, School of Chemistry, University of Manchester, Sackville Street, Manchester M60 1QD, U.K., and Food Colloids Group, Procter Department of Food Science, University of Leeds, Leeds LS2 9JT, U.K",1,University of Manchester,I28407311,no
 "Molecular Medicine Unit, CSB, St James's University Hospital, Leeds University, Leeds LS9 7TF UK",1,St James's University Hospital,I2801331674,no
-"Molecular Medicine Unit, CSB, St James's University Hospital, Leeds University, Leeds, 
-bDepartment of Ophthalmology, Inverclyde Royal Hospital, Greenock",1,Inverclyde Royal Hospital | St James's University Hospital,I2799288798 I2801331674,no
+"Molecular Medicine Unit, CSB, St James's University Hospital, Leeds University, Leeds, bDepartment of Ophthalmology, Inverclyde Royal Hospital, Greenock",1,Inverclyde Royal Hospital | St James's University Hospital,I2799288798 I2801331674,no
 "Molecular Medicine Unit, CSB, St James's University Hospital, Leeds University, Leeds, LS9 7TF, UK",1,St James's University Hospital,I2801331674,no
 "Molecular Medicine Unit, Clinical Sciences Building, St James's University Hospital, Leeds University, Leeds, and",1,St James's University Hospital,I2801331674,no
 "Molecular Medicine Unit, Clinical Sciences Building, St James's University Hospital, Leeds University, UK",1,St James's University Hospital,I2801331674,no
@@ -2998,7 +2963,7 @@ Mr Husein is a medical student at Leeds Medical School in the United Kingdom,1,H
 "National Head of Employment Law, Pinsent Curtis Labour Law, University of Leeds, Leeds, UK",1,,,no
 "Natural Products and Organic Synthesis Research Unit (NPOS), Department of Chemistry, Faculty of Science, Kasetsart University, Bangkok, 10900, Thailand, Molecular Innovation, Diversity and Automated Synthesis (MIDAS) Centre, School of Chemistry, Leeds University, Leeds, LS2 9JT, U.K., Department of Chemistry, Faculty of Science, Mahidol University, Bangkok, 10400, Thailand, and Natural Products Research Section, Research Division, National Cancer Institute, Bangkok, 10400, Thailand",1,Kasetsart University | Mahidol University,I198105771 I25399158,no
 "Network of Researchers on the Chemical Emergence of Life, NoRCEL, Leeds, UK",1,,,no
-"Nexen Inc. 1 Formerly University of Leeds, School of Earth and Environment, Leeds, U. K.; presently , Calgary, . E-mail: carl_reine@nexeninc.com ",1,Nexen (Canada),I206093572,no
+"Nexen Inc. 1 Formerly University of Leeds, School of Earth and Environment, Leeds, U. K.; presently , Calgary, . E-mail: carl_reine@nexeninc.com",1,Nexen (Canada),I206093572,no
 "Né en 1938 à Svenljunga, en Suède. Licencié en philosophie sur le thème d‘études ethnologiques nordiques et comparatives. Assistant au bureau central des Antiquités nationales à Stockholm en 1959, 1960 et 1961. Assistant de recherche de 1961 à 1963. Secrétaire au Musée nordique de Stockholm en 1963/64. Lecteur d'ethnologie à l'Université de Leeds (Royaume-Uni), 1964/65. Chef du Département d'histoire de la culture de Skansen de 1966 à 1973. Directeur de programme à Skansen depuis 1974. A produit ou collaboré à un grand nombre de programmes de radio, ou de TV suédois ou étrangers. A écrit des ouvrages et des articles, principalement en ethnologie et dans le domaine du folklore",1,,,no
 "Niall Shanks is a Killam Pre-doctoral Fellow at the University of Alberta, having received his B.A. from the University of Leeds and his M. Phil from the University of Liverpool. His research interests include Semantics, Philosophy of Mathematics and Quantum Mechanics",1,University of Liverpool,I146655781,no
 "Nihr Lmbru, LTHT and LIRMM, UoL, Leeds, United Kingdom",1,,,no
@@ -3016,7 +2981,7 @@ Mr Husein is a medical student at Leeds Medical School in the United Kingdom,1,H
 "Norwegian Institute for Water Research (NIVA), 0349 Oslo, Norway; Freshwater Biological Section, Department of Biology, Universitetsparken 4, 3rd floor, 2100 Copenhagen, Denmark; water@leeds, School of Geography, Leeds LS2 9JT, UK. Electronic address: nikolai.friberg@niva.no",1,Norwegian Institute for Water Research,I2802939387,no
 Nottingham Trent U.U. of Leeds,1,Nottingham Trent University,I52590639,no
 "NowN at the University Departmenit of Radiothlerapy, Cookridge Hospital, Leeds 16",1,,,no
-"Nuclear Materials Authority 1 , Leeds, ; , School of Earth and Environment, Leeds, ; and , Cairo, . E-mail: ahmedsalem30@yahoo.com ",1,,,no
+"Nuclear Materials Authority 1 , Leeds, ; , School of Earth and Environment, Leeds, ; and , Cairo, . E-mail: ahmedsalem30@yahoo.com",1,,,no
 "Nuffield Centre for Health Services Studies, 71-75 Clarendon Road, Leeds LS2 9PL, United Kingdom",1,Nuffield Health,I4210109172,no
 "Nuffield Centre for International Health & Development, Leeds Institute of Health Sciences, 6 Clarendon Way, Woodhouse, Leeds LS2 9NL, UK",1,,,no
 "Nuffield Centre for International Health & Development, Leeds Institute of Health Sciences, Leeds, UK",1,Nuffield Health,I4210109172,no
@@ -3171,24 +3136,20 @@ Professor Ayscough holds a personal chair in the Department of Physical Chemistr
 "Professor Emeritus, Univ. of Hertfordshire, Hatfield, U.K., and School of Civil Engineering, Univ. of Leeds, U.K",1,University of Hertfordshire,I141584323,no
 Professor at the Earth and Biosphere Institute at Leeds University,1,Sphere Institute,I4210146527,no
 Professor do Departamento de Economia da Universidade Federal do Pará. Doutor em Economia pelo programa de pós-graduação do CEDEPLAR/UFMG com período de estágio no exterior na University of Leeds (Reino Unido). As áreas de interesse de pesquisa são macroeconomia e desenvolvimento econômico,1,Universidade Federal do Pará,I59606676,no
-"Professor in Mechanical and Systems Eng. (PhD, M.Sc Leeds Uni. U.K,
-B.Sc Baghdad Uni.), Head of Industrial Systems Engineering Department/
-Engineering Faculty/ Mutah University/ Jordan",1,Mutah University,I21173400,no
-"Professor in Mechanical and systems engineering (B.Sc Mech., PhD, M.Sc
-Leeds University, U.K), Engineering Faculty, Muta'h University, Jordan",1,Mutah University,I21173400,no
+"Professor in Mechanical and Systems Eng. (PhD, M.Sc Leeds Uni. U.K, B.Sc Baghdad Uni.), Head of Industrial Systems Engineering Department/ Engineering Faculty/ Mutah University/ Jordan",1,Mutah University,I21173400,no
+"Professor in Mechanical and systems engineering (B.Sc Mech., PhD, M.Sc Leeds University, U.K), Engineering Faculty, Muta'h University, Jordan",1,Mutah University,I21173400,no
 "Professor in Mechanical and systems engineering (B.Sc Mech., PhD, M.Sc#R##N#Leeds University, U.K)/ Head of Industrial systems engineering department /#R##N#Engineering Faculty /Mutah University / Jordan",1,Mutah University,I21173400,no
 "Professor in the Department of Colour Chemistry, University ofleeds, UK",1,,,no
 "Professor of Astrophysics at the Univ. Leeds ( ). Steve Rawlings, Professor of Physics, Univ. Oxford",1,,,no
 "Professor of Biology in The Yorkshire College, and Curator to The Leeds Museum",1,,,no
 "Professor of Business Excellence and Quality Management, Leeds University Business School",1,,,no
-"Professor of Chemistry in the Yorkshire College of Science , Leeds ",1,,,no
+"Professor of Chemistry in the Yorkshire College of Science , Leeds",1,,,no
 "Professor of Clinical Genetics, Leeds Institute for Molecular Medicine, Leeds",1,Institute for Molecular Medicine,I4210156620,no
 "Professor of Dementia Studies Faculty of Health and Social Sciences Portland 512, City Campus Leeds",1,,,no
 "Professor of Finance, Leeds, Leeds University Business School, Maurice Keyworth Building,",1,,,no
 "Professor of Food Safety and Consumer Behaviour at Wageningen University in the Netherlands. Lynn was awarded a BSc in psychology from the University of Bristol (1981), an MSc in Ergonomics from University College London (1982), and a PhD in Applied Psychology from the University of Leeds (1986",1,Wageningen University & Research | University College London,I913481162 I45129253,no
 "Professor of French à l’université de Leeds. Elle a notamment publié Colette (Macmillan, 1991)",1,,,no
-"Professor of French,
-        Leeds University, UK",1,,,no
+"Professor of French, Leeds University, UK",1,,,no
 "Professor of Health Sciences at St George's, University of London and collaborates on statistical issues with Mark Gilthorpe and colleagues at the University of Leeds. His work on the use of racial and ethnic categories in biomedical research has been funded by two grants from the Wellcome Trust's Biomedical Ethics Research Programme (057182 and 073524/2/03/2/AW/HH)—the latter with Richard Tutton and Paul Martin from the University of Nottingham, Andrew Smart from Bath Spa University, and Richard Ashcroft from Queen Mary's, University of London. See: http://www.nottingham.ac.uk/igbis/reg/",1,Wellcome Trust,I87048295,no
 "Professor of International Business, U. of Leeds Business School",1,,,no
 "Professor of International History , Leeds University, Chairman of the School of History and Dean of the Faculty of Arts ,",1,,,no
@@ -3213,7 +3174,7 @@ Professor of Social and Critical Histories of Art at Leeds University,1,,,no
 "Professor of Sport Management and Finance , Leeds University Business School , UK",1,,,no
 "Professor of Sport Management and Finance, Leeds University Business School, UK",1,,,no
 "Professor, School of Civil Engineering, Univ. of Leeds, Leeds LS2 9JT, U.K.; State Key Laboratory of Hydraulics and Natural River Engineering, Sichuan Univ., Chengdu 610065, People?s Republic of China; formerly, Nottingham Centre for Geomechanics, Univ. of Nottingham, Nottingham NG7 2RD, U.K",1,University of Nottingham,I142263535,no
-"Professor, School of Civil Engineering, Univ. of Leeds, Leeds LS2 9JT, UK; Professor Emeritus, Gillings School of Global Public Health, Univ. of North Carolina at Chapel Hill, Chapel Hill, NC 27599 (corresponding author). ORCID: ",1,University of North Carolina at Chapel Hill,I114027177,no
+"Professor, School of Civil Engineering, Univ. of Leeds, Leeds LS2 9JT, UK; Professor Emeritus, Gillings School of Global Public Health, Univ. of North Carolina at Chapel Hill, Chapel Hill, NC 27599 (corresponding author). ORCID:",1,University of North Carolina at Chapel Hill,I114027177,no
 "Professor, School of Civil Engineering, Univ. of Leeds, Leeds LS29JT, U.K; and Professor, UNESCO-IHE, Institute for Water Education, P.O. Box 3015, 2601 DA Delft, Netherlands",1,IHE Delft Institute for Water Education,I2799973717,no
 "Professor, School of Civil Engineering, Univ. of Leeds, Leeds, U.K.; and UNIESCO–IHE/Faculty of Civil Engineering and Geosciences, Technical University of Delft, Delft, The Netherlands",1,Delft University of Technology,I98358874,no
 "Professor, School of Mechanical and Building Science, Vellore Institute of Technology Univ., G-01, SMBS, Vellore, Tamil Nadu 632014, India; and Institute for Climate and Atmospheric Science Associate, School of Earth and Environment, Univ. of Leeds, U.K. (corresponding author)",1,Vellore Institute of Technology University,I876193797,no
@@ -3245,23 +3206,7 @@ R.Killick@leeds.ac.uk,1,,,no
 "RESTORATIVE DENTISTRY & DIRECTOR OF STUDENT EDUCATION, LEEDS DENTAL INSTITUTE",1,Leeds Dental Hospital,I4210166811,no
 "RICHARD FULLER, MA, MBChB, FRCP, is a consultant physician and Director of the Leeds MBChB undergraduate degree programme at Leeds Institute of Medical Education. His research interests focus on monitoring and improving the quality of assessment at programme levels, with particular focus on performance assessment",1,,,no
 "ROGER W. CATCHPOLE From the Department of Cardio-thoracic Surgery and Cardiology, The General Infirmary at Leeds and Leeds University, Leeds, Great Britain",1,Leeds General Infirmary,I1295121038,no
-"Radcliffe Infirmary, Oxford, UK, 
-
-bHunters Moor Regional Rehabilitation Centre, Newcastle-upon-Tyne, UK, 
-
-cUniversity of Leeds, UK, 
-
-dSouthampton General Hospital, UK, 
-
-eUniversitätsklinik für Neurologie, Innsbruck, Austria, 
-
-fUniversitätsklinik für Neurologie, Virchow-Klinikum, Berlin, Germany, 
-
-gCharing Cross Hospital, London, UK, 
-
-hRoyal Hospital for Neurodisability, Putney, UK, 
-
-iIpsen Limited, Maidenhead, UK",1,Southampton General Hospital | Royal Hospital for Neuro-disability | Medical University of Vienna,I2801388914 I2800516724 I76134821,no
+"Radcliffe Infirmary, Oxford, UK, bHunters Moor Regional Rehabilitation Centre, Newcastle-upon-Tyne, UK, cUniversity of Leeds, UK, dSouthampton General Hospital, UK, eUniversitätsklinik für Neurologie, Innsbruck, Austria, fUniversitätsklinik für Neurologie, Virchow-Klinikum, Berlin, Germany, gCharing Cross Hospital, London, UK, hRoyal Hospital for Neurodisability, Putney, UK, iIpsen Limited, Maidenhead, UK",1,Southampton General Hospital | Royal Hospital for Neuro-disability | Medical University of Vienna,I2801388914 I2800516724 I76134821,no
 "Radiobiology Department, Regional Radiotherapy Centre, and Leeds University Department of Radiotherapy, Cookridge Hospital, Leeds LS16 6QB",1,Cook Medical (Denmark),I899146839,no
 "Radiotherapy Research Group, Leeds Institute of Medical Research, St James's Hospital and School of Medicine, Leeds University, Leeds, UK",1,St James's University Hospital,I2801331674,no
 "Ramlan Zailani graduated with a Bachelor of Mechanical Engineering and a Ph.D. in Fuel and Energy from the University of Leeds, United Kingdom. He is currently a Professor in the School of Mechanical Engineering, Universiti Teknologi MARA. His fields",1,,,no
@@ -3269,8 +3214,7 @@ iIpsen Limited, Maidenhead, UK",1,Southampton General Hospital | Royal Hospital 
 "Reader in Clinical Information Science, University Department of Surgery, St. James Hospital, LS9 7TF, Leeds, England",1,St James's University Hospital,I2801331674,no
 "Reader in English Language Teaching, Macaulay Hall, Headingley Campus, Leeds",1,,,no
 "Reader in Government, London School of Economics ; Visiting Research Fellow at the Centre for Television Research, Leeds University",1,Government of the United Kingdom,I2802373619,no
-"Reader in X-ray Physics, Researcli Professor of Mineral Sciences,
-        Physics Laboratories, The University, Leeds, England",1,,,no
+"Reader in X-ray Physics, Researcli Professor of Mineral Sciences, Physics Laboratories, The University, Leeds, England",1,,,no
 "Reader in the History and Philosophy of Science, Leeds University, UK",1,,,no
 "Reading Academy, University of Leeds of Electrical and electronic engineering, No. 11, Jiangcui Road, 529000, China",1,,,no
 "Received an M.A. in Geography from Cambridge University and a M.A. in International Political Studies from the University of Leeds. After undertaking doctoral research he has worked for TNO in The Netherlands. His main research interests are telecommunications, service sector innovation, and electronic commerce",1,,,no
@@ -3278,7 +3222,7 @@ iIpsen Limited, Maidenhead, UK",1,Southampton General Hospital | Royal Hospital 
 "Received the BSc. and Ph.D. degrees in Electrical Engineering and Microwave Systems from the University of Leeds in 1965/1968. He was British Telecom Lecturer-Reader in Telecommunications Systems at the University of Essex from 1969–1983. In 1983 he was appointed to the Alec Harley Reeves Chair of Information Systems Engineering at the University of Surrey, and in 1990 became the first Director of the post-graduate centre for Satellite Engineering Research which houses some 100 researchers. In 1992, he was made a Fellow of the Royal Academy of Engineers in the U.K. and is a Fellow of IEE and a member of IEEE and AIAA, USA. Barry Evans is editor of the International Journal of Satellite Communications and author of three books and over 200 journal papers. He is also Director of SATCONSULT and SPEKA Ltd",1,Institute of Electrical and Electronics Engineers,I3132238960,no
 Recently Retired from Leeds University Information Systems Services,1,,,no
 "Rehabilitation Studies, Director of the Leeds Rasch Studies Centre and",1,,,no
-"Reid Geophysics Ltd. 1 , School of Earth & Environment, Leeds, and , Eastbourne, . E-mail: alan@reid-geophys.co.uk ",1,,,no
+"Reid Geophysics Ltd. 1 , School of Earth & Environment, Leeds, and , Eastbourne, . E-mail: alan@reid-geophys.co.uk",1,,,no
 Reid Geophysics/U of Leeds,1,Reid Health,I4210140854,no
 "Religious Education , James Graham College of Education , Leeds",1,,,no
 "Religious Education Department , Cross Green School , Leeds",1,,,no
@@ -3292,7 +3236,7 @@ Reid Geophysics/U of Leeds,1,Reid Health,I4210140854,no
 Research Fellow at Leeds University Business School where she works on green supply chains. Her PhD analysed women worker empowerment within the Kenyan tea and floriculture industries,1,,,no
 "Research Fellow, Centre for Disability Studies, Department of Sociology and Social Policy, Leeds University, Woodhouse Lane, Leeds LS2 9JT, United Kingdom, email: splrg@leeds.ac.uk, tel: +44 113 343 8070",1,,,no
 "Research Group, en la Universidad de Leeds,. Actualmente, es fellow en el Institut d'Études Avancées de l'Université de Strasbourg (USIAS). . Es directora de Thélème. Revista Complutense de Estudios Franceses. Su currículum puede consultarse en <https",1,Université de Strasbourg,I68947357,no
-"Research Institute for African Geology, Department of Earth Sciences, The UniversityLeeds 2",1,,,no
+"Research Institute for African Geology, Department of Earth Sciences, The University Leeds 2",1,,,no
 "Research Institute for African Geology, Department of Earth Sciences, The University#N#Leeds 2",1,,,no
 "Research Institute of African Geology, Department of Geology, The University, Leeds",1,"Czech Academy of Sciences, Institute of Geology",I4210141937,no
 "Research Institute of African Geology, Leeds University, England",1,,,no
@@ -3321,7 +3265,7 @@ Research partnership between Aon Hewitt and Leeds University Business School Aon
 "Restorative dentistry, Leeds Dental Institute, Clarendon Way, Leeds LS2 9LU. p.a.brunton@leeds.ac.uk",1,Leeds Dental Hospital,I4210166811,no
 "Rheuma- tism Research Unit and Department of Mechanical Engineering , University ofLeeds)",1,,,no
 "Rheumatism Research Unit , Department ofMedicine , University ofLeeds ; and2Roche Products Limited , Welwyn Garden City , Hertfordshire",1,Hertfordshire Community NHS Trust,I4210104384,no
-"Rheumatism Research Unit , University Depart- ment of Clinical Medicine , Leeds ",1,,,no
+"Rheumatism Research Unit , University Depart- ment of Clinical Medicine , Leeds",1,,,no
 Rheumatism Research Unit School of Medicine 36 Clarendon Road Leeds LS2,1,,,no
 Rheumatism Research Unit School of Medicine 36 Clarendon Road Leeds LS2 PJ England,1,,,no
 "Rheumatism Research Unit, 36 Clarendon Road, Leeds LS2 9JT",1,,,no
@@ -3373,7 +3317,7 @@ Rheumatism Research Unit School of Medicine 36 Clarendon Road Leeds LS2 PJ Engla
 "Robertson Cooper Ltd and Leeds University Business School, USA",1,,,no
 "Robertson Cooper Ltd, Manchester, UK and Leeds University Business School, Leeds, UK",1,The Robertson Trust,I4210152914,no
 "Robertson Cooper Ltd, and Professor of Organisational Psychology, Leeds University",1,The Robertson Trust,I4210152914,no
-"Rock Deformation Research, Leeds UniversityLeeds LS2 9JT, UK",1,,,no
+"Rock Deformation Research, Leeds University Leeds LS2 9JT, UK",1,,,no
 "Rock Deformation Research, Leeds University, UK",1,,,no
 "Rock Deformation Research, School of Earth Sciences, The University, Leeds LS2 9JT, UK",1,,,no
 "Rodanthi Tzanelli est professeur associé de sociologie culturelle et directrice du secteur Mobilités à l’Institut Bauman de l’Université de Leeds, au Royaume-Uni. Elle est une t",1,,,no
@@ -3420,7 +3364,7 @@ School of Civil Engineering [Leeds] (Leeds - United Kingdom),1,,,no
 "School of Computing , University of Leeds Plantage Muidergracht 24 , 1018 TV Amsterdam , NL",1,,,no
 "School of Computing and Engineering, University of Leeds, Huddersfield, U.K",1,University of Huddersfield,I133837150,no
 "School of Computing, University of Leedds, Leedds, UK",1,,,no
-"School of Computing, University of Leeds, Leeds LS2 9JT, UK and Institute for Logic, Language and Computation, University of Amsterdam, Nieuwe Achtergracht 166, 1018 WV Amsterdam, NL e-mail: rens@ ",1,University of Amsterdam,I887064364,no
+"School of Computing, University of Leeds, Leeds LS2 9JT, UK and Institute for Logic, Language and Computation, University of Amsterdam, Nieuwe Achtergracht 166, 1018 WV Amsterdam, NL e-mail: rens@",1,University of Amsterdam,I887064364,no
 "School of Cultural Studies and Humanities, A214 Broadcasting Place, Woodhouse Lane, LeedsLS2 9EN, UK",1,,,no
 "School of Dentistry, Clarendon Way, Leeds, LS2 9JT",1,Clarendon College,I2800007677,no
 "School of Dentistry, Clarendon Way, Leeds, LS2 9JT, UK",1,,,no
@@ -3431,7 +3375,7 @@ School of Civil Engineering [Leeds] (Leeds - United Kingdom),1,,,no
 "School of Design, Leeds University  Leeds UK",1,,,no
 "School of Design, Leeds University, UK",1,,,no
 "School of Design, Universtiy of Leeds , Leeds, UK",1,,,no
-"School of Earth and Environment 1 Formerly , Department of Physics, Toronto, Ontario, ; presently , , Leeds, . E-mail: l.a.n.roach@leeds.ac.uk ",1,,,no
+"School of Earth and Environment 1 Formerly , Department of Physics, Toronto, Ontario, ; presently , , Leeds, . E-mail: l.a.n.roach@leeds.ac.uk",1,,,no
 School of Earth and Environment COMET University of Leeds  England UK,1,"Centre for the Observation and Modelling of Earthquakes, Volcanoes and Tectonics",I4210147017,yes
 "School of Earth and Environment, Leeds University, UK; Charney School of Marine Sciences, Haifa University, Israel",1,University of Haifa,I91203450,no
 "School of Earth and Environment, University of Leeds, Leeds, USA",1,,,no
@@ -3502,7 +3446,7 @@ School of Media and Communication [Leeds],1,,,no
 "School of Medicine and NIHR-Leeds Biomedical Research Unit, Chapel Allerton Hospital, Leeds, LS7 4SA, West Yorkshire, UK. s.g.martin@leeds.ac.uk",1,Chapel Allerton Hospital,I2799279645,no
 "School of Medicine and NIHR-Leeds Biomedical Research Unit, Chapel Allerton Hospital, Leeds, LS7 4SA, West Yorkshire, UK. s.l.mackie@leeds.ac.uk",1,Chapel Allerton Hospital,I2799279645,no
 "School of Medicine, 36 Clarendon Rd., Leeds LS2 9PJ",1,Clarendon College,I2800007677,no
-"School of Medicine, 36 Clarendon Road, Leeds LS2 9NZ = . . . ",1,Clarendon College,I2800007677,no
+"School of Medicine, 36 Clarendon Road, Leeds LS2 9NZ = . . .",1,Clarendon College,I2800007677,no
 "School of Medicine, 36 Clarendon Road, Leeds LS2 9PJ",1,Clarendon College,I2800007677,no
 "School of Medicine, Leeds University, Leeds General Infirmary, Great George Street, LS1 3EX, Leeds, UK",1,Leeds General Infirmary,I1295121038,no
 "School of Medicine, Leeds University, Leeds, United Kingdom; Leeds Teaching Hospitals NHS, Leeds, United Kingdom",1,Leeds Teaching Hospitals NHS Trust,I2799390153,no
@@ -3580,8 +3524,7 @@ Section of Musculoskeletal Disease Leeds Institute of Molecular Medicine Leeds U
 "Senior Fellow at Leeds University, and Co-Director of the SERC-ESRC “Risks” project,",1,,,no
 "Senior Lecturer School of Healthcare Studies Leeds University Leeds, England",1,,,no
 "Senior Lecturer and Academic Lead for e-learning, School of Medicine, Leeds, UK",1,,,no
-"Senior Lecturer and Consultant Psychotherapist in Cognitive-Behavioural Psychotherapy,
-        Division of Psychiatry, Psychotherapy Department Leeds University, 15 Hyde Terrace, Leeds, England",1,Association of Child Psychotherapists,I4210133970,no
+"Senior Lecturer and Consultant Psychotherapist in Cognitive-Behavioural Psychotherapy, Division of Psychiatry, Psychotherapy Department Leeds University, 15 Hyde Terrace, Leeds, England",1,Association of Child Psychotherapists,I4210133970,no
 "Senior Lecturer and Honorary Consultant Orthodontist, Leeds Dental Institute, Clarendon Way, LS2 9LU Leeds, UK. F.Luther@Leeds.ac.uk",1,Leeds Dental Hospital,I4210166811,no
 "Senior Lecturer and Honorary Consultant in Orthodontics, Department of Orthodontics, Leeds Dental Institute,",1,Leeds Dental Hospital,I4210166811,no
 "Senior Lecturer in Arabic Studies , Leeds University",1,,,no
@@ -3604,10 +3547,10 @@ Senior Lecturer in Public Health Nuffield Institute for Health University of Lee
 "Senior Lecturer, Leeds Business School",1,,,no
 "Senior Lecturer, Nuffield Health and Social Care Policy Group, Health Sciences and Public Health Research Institute, Leeds University, Leeds, UK",1,Nuffield Health,I4210109172,no
 "Senior Medical Statistician, Nuffield Centre for International Health and Development, Leeds Institute of Health Sciences",1,Nuffield Health,I4210109172,no
-"Senior Pharmacist , Pharmacy Academic Practice Unit , Leeds University. Formerly Senior Pharmacist , Seacroft Hospital ",1,American Pharmacists Association | Seacroft Hospital,I275847375 I2801121064,no
+"Senior Pharmacist , Pharmacy Academic Practice Unit , Leeds University. Formerly Senior Pharmacist , Seacroft Hospital",1,American Pharmacists Association | Seacroft Hospital,I275847375 I2801121064,no
 "Senior Registrar and Tutor Leeds University Department of Psychiatry , the General",1,,,no
 "Senior Registrar in Oral and Maxillofacial Surgery Department of Oral Surgery The Dental School at Leeds Clarendon Way Leeds LS2 9LU, UK",1,Leeds Dental Hospital,I4210166811,no
-"Senior Registrar in Rheumatology , Oxford Regional Hospital Board (lately Research Assistant , Rheumatism Research Unit , University ofLeeds) ",1,,,no
+"Senior Registrar in Rheumatology , Oxford Regional Hospital Board (lately Research Assistant , Rheumatism Research Unit , University ofLeeds)",1,,,no
 "Senior Registrar in Rheumatology, Oxford Regional Hospital Board (lately Research Assistant, Rheumatism Research Unit, University ofLeeds)",1,,,no
 "Senior Research Fellow, Leeds University Centre for Employment Relations, Innovation and Change",1,Institute for Employment Studies,I3150277712,no
 "Senior Research Fellow, Leeds University Department of Psychiatry USA",1,,,no
@@ -3687,7 +3630,7 @@ Student. Leeds School of Physiotherapy,1,,,no
 "Supra Regional Lead Laboratory, Dept. of Chemical Pathology, Old Medical School, Leeds, England",1,Supra-Regional Assay Service,I4210142001,no
 "Supraregional Assay Centre for Steroid Hormones, Department of Clinical Biochemistry and Immunology, Old Medical School, Thoresby Place, Leeds LS1 3EX, UK",1,,,no
 "Surgeon to the Leeds Eye and Ear Infirmary, and Lecturer on Anatomy in the Leeds School of Medicine",1,Leeds General Infirmary,I1295121038,no
-"Sussex University) , Frits Kalshoven (Leiden University) , Dino Kritsiotis (Nottingham University) , Dominic McGoldrick (Liverpool University) , Anne Orford (Melbourne University) , and Steven Wheatley (Leeds University) ",1,University of Liverpool,I146655781,no
+"Sussex University) , Frits Kalshoven (Leiden University) , Dino Kritsiotis (Nottingham University) , Dominic McGoldrick (Liverpool University) , Anne Orford (Melbourne University) , and Steven Wheatley (Leeds University)",1,University of Liverpool,I146655781,no
 "Sustainability Research Institute &amp; ESRC Centre for Climate Change Economics and Policy, School of Earth and Environment University of Leeds  Leeds UK",1,Centre for Climate Change Economics and Policy,I4392738207,yes
 "Sustainability Research Institute and ESRC Centre for Climate Change Economics and Policy, School of Earth and Environment, University of Leeds, Leeds, LS2 9JT UK ; Geography & Environment, University of Southampton, (Highfield Campus), Southampton, SO17 1BJ UK",1,University of Southampton | Centre for Climate Change Economics and Policy,I43439940 I4392738207,yes
 "Sustainability Research Institute and ESRC Centre for Climate Change Economics and Policy, School of Earth and Environment, University of Leeds, Leeds, United Kingdom; Climate Change Impacts, Adaptation, and Mitigation Research Group, Faculty of Sciences, University of Lisbon, Lisbon, Portugal",1,Centre for Climate Change Economics and Policy,I4392738207,yes
@@ -3726,7 +3669,7 @@ Textile Chemistry Laboratory and Practical Dyehouse Leeds University,1,,,no
 "Textile Chemistry Laboratory and Textile Physics Laboratory, Department of Textile Industries, The University, Leeds England",1,,,no
 "Textile Chemistry Laboratory, Department of Textile Industries , Leeds University ,",1,,,no
 "Textile Chemistry Laboratory, Department of Textile Industries, The University Leeds",1,Textile Research Institute,I4210111982,no
-"Textile Chemistry Laboratory, Department of Textile Industries, The University, Leeds ",1,Textile Research Institute | The Textile Institute,I4210111982 I4210120895,no
+"Textile Chemistry Laboratory, Department of Textile Industries, The University, Leeds",1,Textile Research Institute | The Textile Institute,I4210111982 I4210120895,no
 "Textile Chemistry Laboratory, Leeds University,",1,,,no
 "Textile Chemistry Laboratory, Leeds University, Department of Textile Industries",1,Textile Research Institute | The Textile Institute,I4210111982 I4210120895,no
 "Textile Chemistry Laboratory, Leeds University, Department of Textile Industries ,",1,Textile Research Institute,I4210111982,no
@@ -4002,7 +3945,7 @@ University Department of ImmunologyLeeds,1,,,no
 University Department of MedicineLeeds,1,,,no
 "University Department of Obstetrics and Gynaecology Leeds Maternity Hospital, Leeds",1,,,no
 "University Department of Obstetrics and Gynaecology, Level D, Clarendon Wing, Belmont Grove, Leeds LS2 9NS, UK",1,,,no
-"University Department of Paediatrics and Child Health , D Floor , Clarendon Wing , The General Infirmary , Belmont Grove , Leeds LS2 9NS ",1,Leeds General Infirmary,I1295121038,no
+"University Department of Paediatrics and Child Health , D Floor , Clarendon Wing , The General Infirmary , Belmont Grove , Leeds LS2 9NS",1,Leeds General Infirmary,I1295121038,no
 "University Department of Paediatrics and Child Health, and Department of Pathology, Maternity Hospital, Leeds LS2 9LW, England",1,,,no
 "University Department of Psychiatry and High Royds Hospital, Leeds",1,UF Health Shands Hospital,I1335043937,no
 "University Department of Radiotherapy and Cookridge Hospital, Leeds, U.K",1,,,no
@@ -4122,24 +4065,8 @@ Victoria Infants School Leeds,1,Infant,I4210101467,no
 "Wayne State Univ, Detroit, MI; US Environmental Protection Agency, Research Triangle Park, NC; NICHD Reproductive Medicine Network and Wayne State Univ, Detroit, MI; Univ of Leeds, Leeds, UK",1,Wayne State University,I185443292,no
 Web page: http://leva.leeds.ac.uk/www/staff/index_academic.html,1,,,no
 "West End Junior and Infant School , Leeds",1,Infant,I4210101467,no
-"West Middlesex University Hospital, Isleworth, 
-
-bNuffield Institute for Health, Leeds University, 
-
-cRoyal Aberdeen Children's Hospital, 
-
-dDepartment of Epidemiology and Public Health, Queen's University of Belfast, 
-
-ePublic Health Medicine, Aberdeen",1,West Middlesex University Hospital | Royal Aberdeen Children's Hospital,I2801629893 I4210111047,no
-"West Middlesex University Hospital, Isleworth, 
-
-bNuffield Institute for Health, Leeds University, 
-
-cRoyal Aberdeen Children’s Hospital, 
-
-dDepartment of Epidemiology and Public Health, Queen’s University of Belfast, 
-
-ePublic Health Medicine, Aberdeen",1,West Middlesex University Hospital | Royal Aberdeen Children's Hospital,I2801629893 I4210111047,no
+"West Middlesex University Hospital, Isleworth, bNuffield Institute for Health, Leeds University, cRoyal Aberdeen Children's Hospital, dDepartment of Epidemiology and Public Health, Queen's University of Belfast, ePublic Health Medicine, Aberdeen",1,West Middlesex University Hospital | Royal Aberdeen Children's Hospital,I2801629893 I4210111047,no
+"West Middlesex University Hospital, Isleworth, bNuffield Institute for Health, Leeds University, cRoyal Aberdeen Children’s Hospital, dDepartment of Epidemiology and Public Health, Queen’s University of Belfast, ePublic Health Medicine, Aberdeen",1,West Middlesex University Hospital | Royal Aberdeen Children's Hospital,I2801629893 I4210111047,no
 "West Yorkshire School of Christian Studies, 2 Dale Villas, Leeds LS18 4JN, UK",1,,,no
 "West Yorkshire School of Christian Studies, Outwood House, Leeds LS18 4JN, UK",1,,,no
 "White Rose College of the Arts &amp; Humanities at York University, York, UK; Royal Armouries Museum, Leeds, UK; Leeds Arts and Humanities Research Institute at Leeds University, Leeds, UK",1,Royal Armouries | White Rose College of the Arts and Humanities,I2801420419 I4394709194,no
@@ -4154,8 +4081,7 @@ Work and Employment Relations Division Leeds University Business School Leeds UK
 "Work and Employment Relations Division, Leeds University Bussiness School, Leeds, UK",1,Universities UK,I185658715,no
 Written while a student at Leeds School of Physiotherapy,1,,,no
 Wydział Teorii Mody Uniwersytet Leeds / Wielka Brytania,1,,,no
-"Xian Jiao Tong University (China) and Leeds University.(UK)
-, China",1,Xi’an Jiaotong-Liverpool University | Xi'an Jiaotong University,I69356397 I87445476,no
+"Xian Jiao Tong University (China) and Leeds University.(UK) , China",1,Xi’an Jiaotong-Liverpool University | Xi'an Jiaotong University,I69356397 I87445476,no
 "Xian Jiao Tong University (China) and Leeds University.(UK) , China",1,Xi’an Jiaotong-Liverpool University | Xi'an Jiaotong University,I69356397 I87445476,no
 "Xian Jiao Tong University (China) and Leeds University.(UK),Shaanxi, china",1,Xi’an Jiaotong-Liverpool University | Xi'an Jiaotong University,I69356397 I87445476,no
 "YCR and Liz Dawn Pathology and Translational Sciences Centre, Leeds Institute of Molecular Medicine,",1,Institute of Molecular Medicine,I4210146488,no
@@ -4163,7 +4089,7 @@ Wydział Teorii Mody Uniwersytet Leeds / Wielka Brytania,1,,,no
 "Yeliz Biber Vangölü completed her doctoral studies in 2008 at the University of Leeds, England, and began teaching at Ataturk University, Turkey, as an Assistant Professor in 2010. Since April 2016, she is a postdoctoral fellow at RCSSD, University of London",1,,,no
 "Yorkshire & the Humber Postgraduate Deanery, Leeds",1,,,no
 "Yorkshire Centre for Psychological Medicine, Leeds, United Kingdom",1,,,no
-"Yorkshire College of Science, Leeds) ",1,Leeds College of Building | Yorkshire Cancer Research,I3130725698 I2801288256,no
+"Yorkshire College of Science, Leeds)",1,Leeds College of Building | Yorkshire Cancer Research,I3130725698 I2801288256,no
 "Yorkshire Electr. Group plc, Leeds Univ., UK",1,,,no
 "Yorkshire Regional Blood Transfusion Service, Senior Clinical Lecturer, Department of Medicine, Leeds University, Leeds, U.K",1,Leeds Beckett University,I84027002,no
 "Yorkshire Regional Bone Marrow Transplant Group and tthe Unit for Cancer Research , University ofLeeds , Leeds",1,Yorkshire Cancer Research,I2801288256,no

@@ -60,7 +60,7 @@ From Universities of Aberdeen & Sheffield,2,University of Aberdeen,I195460627,no
 "Research student, Sheffield",2,,,no
 "ScHARR, Trials Unit, Sheffield, United Kingdom;",2,,,no
 "School of Health and Related Research, University of #TAB##TAB##TAB##TAB##TAB#Sheffield, United Kingdom",2,,,no
-Sheffield ,2,,,no
+Sheffield,2,,,no
 "Sheffield Centre for Health and Related Research, UK",2,,,no
 Sheffield Haemostasis and Thrombosis Centre  Sheffield UK,2,,,no
 Sheffield Institute for Translational Neuroscience Sheffield UK,2,,,no
@@ -102,8 +102,7 @@ a  Sheffield,2,,,no
 ", Western Bank, Sheffield, S10 2TN, UK",1,,,no
 -Sheffield S14ET,1,,,no
 ". Academic Unit of Neurology, Sheffield Institute for Translational Neuroscience,",1,,,no
-"1
-            Faculty of Life Sciences, University of Manchester, Manchester, U.K., 2Department of Parasitology, Faculty of Medicine, Chiang Mai University, Chiang Mai, Thailand, 3Department of Entomology, Natural History Museum, London, U.K., 4School of Biology, University of Leeds, Leeds, U.K., 5Institute of Medical Research, Colombo, Sri Lanka, 6Centre of Malariology, Parasitology and Entomology, Vientiane, Laos, 7National Centre for Malaria, Parasitology and Entomology, Phnom Penh, Cambodia, 8Department of Medical Research, Yangon, Myanmar, 9School of Life Sciences, South-west University, Chongqing, China and 10Animal and Plant Sciences, University of Sheffield, Sheffield, U.K",1,University of Manchester | Chiang Mai University | University of Leeds | Natural History Museum,I28407311 I48076826 I130828816 I1336856363,no
+"1 Faculty of Life Sciences, University of Manchester, Manchester, U.K., 2Department of Parasitology, Faculty of Medicine, Chiang Mai University, Chiang Mai, Thailand, 3Department of Entomology, Natural History Museum, London, U.K., 4School of Biology, University of Leeds, Leeds, U.K., 5Institute of Medical Research, Colombo, Sri Lanka, 6Centre of Malariology, Parasitology and Entomology, Vientiane, Laos, 7National Centre for Malaria, Parasitology and Entomology, Phnom Penh, Cambodia, 8Department of Medical Research, Yangon, Myanmar, 9School of Life Sciences, South-west University, Chongqing, China and 10Animal and Plant Sciences, University of Sheffield, Sheffield, U.K",1,University of Manchester | Chiang Mai University | University of Leeds | Natural History Museum,I28407311 I48076826 I130828816 I1336856363,no
 "1 Department of Imaging and Interventional Radiology, Faculty of Medicine, The Chinese University of Hong Kong, Prince of Wales Hospital, Shatin, New Territories, Hong Kong SAR, China ; 2 Department of Radiology and Imageology, Nizam's Institute of Medical Sciences, Hyderabad, India ; 3 Molecular Imaging and Therapy Branch, National Cancer Center, 323 Ilsan-ro, Goyang-si, Gyeonggi-do 410-769, Korea ; 4 Department of Electrical Engineering, National Taiwan University, Taipei 106, Taiwan ; 5 Department of Surgical Oncology, Moscow City Hospital No. 5, Sechenov First Moscow State Medical University, Stromynka Street 7, Moscow 107076, Russia ; 6 Biomedizinische NMR Forschungs GmbH am Max-Planck-Institut für biophysikalische Chemie, Göttingen, Germany ; 7 Division of Information Engineering, Faculty of Engineering, Information and Systems, University of Tsukuba, Tsukuba, Japan ; 8 Department of Medical Biology, Faculty of Medicine, Sifa University, Izmir, Turkey ; 9 NMR and Molecular Imaging Laboratory, Department of General, Organic and Biomedical Chemistry, Université de Mons, B-7000, Mons, Belgium ; 10 Department of Vascular, Oncologic and Interventional Radiology, Le2i UMR CNRS 6306, Bocage Teaching Hospital, University of Dijon School of Medicine, Dijon Cedex, France ; 11 Dipartimento di Scienze Biomediche Avanzate, Università degli Studi di Napoli Federico II (UNINA), Istituto di Biostrutture e Bioimmagini-Consiglio Nazionale delle Ricerche (IBB-CNR); Fondazione SDN (IRCCS), Napoli, Italy ; 12 Department of Diagnostic Imaging, the University of Sheffield, Sheffield, UK ; 13 Theragnostic Laboratory, Department of Imaging and Pathology, and Radiology Section, University Hospital, Campus Gasthuisberg, KU Leuven, Belgium ; 14 Department of Radiology, Erasmus University Medical Center Rotterdam, Rotterdam, The Netherlands ; 15 Diagnostic Imaging & Radiotherapy Programme, School of Diagnostic and Applied Health Sciences, Faculty of Health Sciences, Universiti Kebangs",1,National Taiwan University | University of Naples Federico II | Nizam's Institute of Medical Sciences | University of Tsukuba | Chinese University of Hong Kong | Prince of Wales Hospital,I16733864 I71267560 I139669409 I146399215 I177725633 I4210114914,no
 1 Sheffield,1,,,no
 "1 Sheffield Institute for Translational Neuroscience (SITraN), Sheffield, UK,",1,,,no
@@ -263,8 +262,7 @@ Department of Haematology Sheffield University Teaching Hospitals NHS Foundation
 Department of Materials University of Oxford  Sheffield OX1 3PH UK,1,University of Oxford,I40120149,no
 Department of Materials University of Oxford Sheffield OX1 3PH UK,1,University of Oxford,I40120149,no
 "Department of Medical Sciences, University of Liverpool; Department of Renal Transplantation, Sheffield Teaching Hospitals, Sheffield, UK",1,University of Liverpool | Sheffield Teaching Hospitals NHS Foundation Trust,I146655781 I4210102902,no
-"Department of Medicine, Guy's, King's, St Thomas' Medical School, London, UK and 
-*Department of Biological Sciences, Sheffield Hallam University, Sheffield, UK",1,Sheffield Hallam University | King's College Hospital,I71422933 I4210153400,no
+"Department of Medicine, Guy's, King's, St Thomas' Medical School, London, UK and *Department of Biological Sciences, Sheffield Hallam University, Sheffield, UK",1,Sheffield Hallam University | King's College Hospital,I71422933 I4210153400,no
 "Department of Medicine, Surgery & Science, Harcourt House Sheffield, Sheffield, United Kingdom",1,,,no
 "Department of Microbiology, The University ,Western Bank, Sheffield S10 2TN",1,,,no
 "Department of Microbiology, The University, Western Bank, Sheffield S10 2TN, U.K",1,,,no
@@ -310,17 +308,7 @@ Department of Radiology Sheffield UK,1,,,no
 "Department of Urology, Sheffield, UK,",1,,,no
 "Department of Vitreoretial surgery, Royal Hallamshire Hospital, Sheffield University Hospital NHS Foundation Trust, Sheffield, UK",1,Royal Hallamshire Hospital,I2801732343,no
 "Department of Zoology, The University, Western Bank, Sheffield S10, 2TN, U.K",1,,,no
-"Departments of Child Health, Epidemiology and Ophthalmology, University of Leicester, Leicester, UK, 
-
-bImperial College School of Medicine, London, 
-
-cLiverpool Women's Hospital, Liverpool, UK, 
-
-dQueens Medical Centre, Nottingham, UK, 
-
-eCentral Sheffield University Hospitals NHS Trust, Sheffield, UK, 
-
-fBirmingham Maternity Hospital, Birmingham, UK",1,University of Leicester | Liverpool Women's Hospital | Queen's Medical Centre,I153648349 I4210093008 I4210137227,no
+"Departments of Child Health, Epidemiology and Ophthalmology, University of Leicester, Leicester, UK, bImperial College School of Medicine, London, cLiverpool Women's Hospital, Liverpool, UK, dQueens Medical Centre, Nottingham, UK, eCentral Sheffield University Hospitals NHS Trust, Sheffield, UK, fBirmingham Maternity Hospital, Birmingham, UK",1,University of Leicester | Liverpool Women's Hospital | Queen's Medical Centre,I153648349 I4210093008 I4210137227,no
 "Departments of Dermatology, Sheffield University Teaching Hospitals NHS Foundation Trust, Sheffield, UK",1,Sheffield Teaching Hospitals NHS Foundation Trust,I4210102902,no
 "Departments of Medicine, Haematology and Immunology, Sheffield",1,,,no
 "Departments of Medicine, Sheffield S10 2IF, UK",1,,,no
@@ -344,39 +332,13 @@ Dermatology Department Sheffield University Teaching Hospitals NHS Foundation Tr
 "Division of Clinical Medicine , , Sheffield S10 2RX,",1,,,no
 "Division of Clinical Sciences , Sheffield , UK",1,,,no
 "Division of Clinical Sciences, Sheffield, S. York, United Kingdom",1,,,no
-"Division of Gastroenterology, University Hospital, Nottingham, UK, 
-
-bLetchworth, Herts SG6 1DG, UK, 
-
-cCleveland General Hospital, Middlesborough, Cleveland, UK, 
-
-dSt Mark's Hospital, Northwick Park, UK, 
-
-eDigestive Diseases Research Centre, St Bartholomew's Hospital, London, UK, 
-
-fDepartment of Medicine, University of Bristol, Bristol, UK, 
-
-gCentre for Health Studies, University of Durham, Durham, UK, 
-
-hSt George's Hospital, Tooting, London, UK, 
-
-iDepartment of Gastroenterology and Psychological Medicine, St Bartholomew's Hospital, London, UK, 
-
-jDivision of Gastroenterology, University Hospital, Queen's Medical Centre, Nottingham, UK, 
-
-kDepartment of Human Physiology and Nutrition, University of Sheffield, Northern General Hospital, Sheffield, UK, 
-
-lDepartment of Gastroenterology and Nutrition, Central Middlesex Hospital, London, UK, 
-
-mDepartment of Medicine, Withington Hospital, University Hospital of South Manchester, UK",1,University of Bristol | Durham University | St Bartholomew's Hospital | Nottingham University Hospitals NHS Trust | Queen's Medical Centre | St Mark's Hospital,I36234482 I190082696 I1307195382 I1334287468 I4210137227 I4210161740,no
+"Division of Gastroenterology, University Hospital, Nottingham, UK, bLetchworth, Herts SG6 1DG, UK, cCleveland General Hospital, Middlesborough, Cleveland, UK, dSt Mark's Hospital, Northwick Park, UK, eDigestive Diseases Research Centre, St Bartholomew's Hospital, London, UK, fDepartment of Medicine, University of Bristol, Bristol, UK, gCentre for Health Studies, University of Durham, Durham, UK, hSt George's Hospital, Tooting, London, UK, iDepartment of Gastroenterology and Psychological Medicine, St Bartholomew's Hospital, London, UK, jDivision of Gastroenterology, University Hospital, Queen's Medical Centre, Nottingham, UK, kDepartment of Human Physiology and Nutrition, University of Sheffield, Northern General Hospital, Sheffield, UK, lDepartment of Gastroenterology and Nutrition, Central Middlesex Hospital, London, UK, mDepartment of Medicine, Withington Hospital, University Hospital of South Manchester, UK",1,University of Bristol | Durham University | St Bartholomew's Hospital | Nottingham University Hospitals NHS Trust | Queen's Medical Centre | St Mark's Hospital,I36234482 I190082696 I1307195382 I1334287468 I4210137227 I4210161740,no
 "Division of Public Health Sciences (APT, LO, TLV) and Division of Human Biology (BJR), Fred Hutchinson Cancer Research Center, Seattle, WA; Cancer Control Group (APT, DCW) and Statistical Genetics (WEE, SM), QIMR Berghofer Medical Research Institute, Brisbane, Queensland, Australia; Division of Gastroenterology and Hepatology, UNC School of Medicine (NJS) and Department of Epidemiology, School of Public Health (MDG), University of North Carolina, Chapel Hill, NC; Department of Population Sciences, Beckman Research Institute and City of Hope Comprehensive Cancer Center, Duarte, CA (LB); Yale School of Public Health, Department of Chronic Disease Epidemiology, New Haven, CT (HAR); Division of Medical Oncology and Hematology, Princess Margaret Cancer Centre-Ontario Cancer Institute, University of Toronto, Toronto, ON, Canada (GL); Department of Oncology, The Medical School, University of Sheffield, Sheffield, UK (NCB); Department of Preventive Medicine, University of Southern California K",1,University of North Carolina at Chapel Hill | QIMR Berghofer Medical Research Institute | Fred Hutch Cancer Center | Beckman Research Institute,I114027177 I217937681 I4210089486 I4387156432,no
 "Dore, Sheffield S17 3NN, UK",1,,,no
 "Dore, Sheffield S17 3QP",1,,,no
 Editor-in-Chiefemail: k.g.smith@sheffield.ac.uk,1,,,no
 Email: c.r.chapple@shef.ac.uk,1,,,no
-"Endovascular Fellow,
-        Professor of Radiology,
-        Sheffield Vascular Institute, Sheffield, UK",1,,,no
+"Endovascular Fellow, Professor of Radiology, Sheffield Vascular Institute, Sheffield, UK",1,,,no
 "Enrolled Nurse, Department of Gynaecology, Jessop Hospital for Women, Central Sheffield University Hospitals NHS Trust",1,Jessop Hospital,I2799303376,no
 "Faculty of Social and Health Sciences, Leeds Trinity University, Leeds, LS18 5HD, UK; Food and Nutrition Group, Sheffield Business School, Sheffield Hallam University, Sheffield, S1 1WB, UK. Electronic address: j.beaumont@shu.ac.uk",1,Sheffield Hallam University | Leeds Trinity University,I71422933 I339756655,no
 "Food Group Sheffield Business School, Sheffield Hallam University, Sheffield S1 1WB, UK. Electronic address: t.simper@shu.ac.uk",1,Sheffield Hallam University,I71422933,no
@@ -500,8 +462,7 @@ Opteran  Sheffield UK,1,,,no
 "Practical Control Ltd., Sheffield, U.K",1,,,no
 "Present Address: NHS Sheffield Clinical Commissioning Group, Sheffield, S9 4EU, UK",1,,,no
 Primary Care Sheffield Ltd  Sheffield UK,1,,,no
-"Primary Care Sheffield, 
-Sheffield",1,,,no
+"Primary Care Sheffield, Sheffield",1,,,no
 "Primary Care Sheffield, Sheffield",1,,,no
 "Primary Care Sheffield, Sheffield, UK",1,,,no
 "Princess Royal Hospital , Shropshire & Sheffield University Teaching Hospitals NHS Foundation Trust , Sheffield , UK",1,Sheffield Teaching Hospitals NHS Foundation Trust,I4210102902,no
@@ -521,21 +482,19 @@ Regather Co‐Operative Sheffield  Sheffield S11 8BU UK,1,,,no
 "Reproductive Medicine and Surgery Unit, Sheffield Teaching Hospitals, Jessop Wing, Tree Root Walk, Sheffield, S10 2SF, UK",1,Jessop Hospital,I2799303376,no
 "Research Department, Central Sheffield University Hospitals Trust, Sheffield",1,,,no
 "Research Fellow, Sheffield Centre for Health and Related Research, Sheffield, UK",1,,,no
-"Research Institute , Sheffield ",1,,,no
+"Research Institute , Sheffield",1,,,no
 "Research Social Worker, Department of Child Health, The University, Western Bank, Sheffield S10 2TH",1,,,no
 "Researcher, Medical Economics and Research Centre, Sheffield (MERCS), Intensive Care Unit, Royal Hallamshire Hospital, Central Sheffield University Hospitals NHS Trust, Sheffield S10 2JF, UK,",1,Royal Hallamshire Hospital,I2801732343,no
 "Resident Doctor (FY1), Sheffield Health Partnership University, Sheffield",1,,,no
 "Responsable scientifiqueÉquipe impliquée : Claude Caron (Groupe de Géobusiness, Université de Sherbrooke, Canada), Rina Ghose (Geography Department, University of Wisconsin, Milwaukee, USA), Julien Larfouilloux (CARTA CNRS – UMR ESO, Université d’Angers, France), Arnaud Lecourt (RESO CNRS – UMR ESO, Université de Rennes, France), Guillaume Métais (CERIPSA, Université Catholique de l’Ouest, Angers, France), Carine Péribois (CARTA CNRS – UMR ESO, Université d’Angers, France),Stéphane ROCHE (Centre de Recherche en Géomatique, Université Laval, Québec, Canada), Benoît Raveleau (CERIPSA, Université Catholique de l’Ouest, Angers, France), Robin Smith (Department of Town and Regional Planning, University of Sheffield, UK), Jean Soumagne (CARTA CNRS – UMR ESO, Université d’Angers, France)",1,Université catholique de l'ouest | University of Wisconsin–Milwaukee | Université d'Angers | Université de Rennes | Université de Sherbrooke | Centre National de la Recherche Scientifique | Espaces et Sociétés,I32956416 I43579087 I49451733 I56067802 I135117807 I1294671590 I4387153532,no
-"Road , Sheffield S10 3TH ",1,,,no
+"Road , Sheffield S10 3TH",1,,,no
 "Road, Sheffield S10 5DN",1,,,no
 "Royal Hallamshire Hospital, Central Sheffield University Teaching Hospital Trust and",1,Royal Hallamshire Hospital,I2801732343,no
-"Royal Liverpool Children’s NHS Trust Alder Hey, Eaton Road, Liverpool L12 2AP, 
-
-bUniversity of Sheffield, Department of Biomedical Science, Sheffield",1,Alder Hey Children's Hospital,I4210157731,no
+"Royal Liverpool Children’s NHS Trust Alder Hey, Eaton Road, Liverpool L12 2AP, bUniversity of Sheffield, Department of Biomedical Science, Sheffield",1,Alder Hey Children's Hospital,I4210157731,no
 "Royal Netherlands Institute for Sea Research (NIOZ), Landsdiep 4,1797 SZ 't Horntje (Texel), The Netherlands z Dr. Remeis-Sternwarte and ECAP, Universität Erlangen-Nürnberg, Sternwartstr. 7, 96049 Bamberg, Germany aa Universiteit Utrecht, Faculteit Betawetenschappen, Princetonplein 5, 3584 CC Utrecht, The Netherlands ab Universiteit van Amsterdam, Instituut voor Hoge-Energie Fysika, Science Park 105, 1098 XG Amsterdam, The Netherlands ac Moscow State University,Skobeltsyn Institute of Nuclear Physics,Leninskie gory, 119991 Moscow, Russia ad INFN -Sezione di Catania, Viale Andrea Doria 6, 95125 Catania, Italy ae Dipartimento di Fisica ed Astronomia dell'Università, Viale Andrea Doria 6, 95125 Catania, Italy af Direction des Sciences de la Matière -Institut de recherche sur les lois fondamentales de l'Univers -Service de Physique des Particules, CEA Saclay, 91191 Gif-sur-Yvette Cedex, France ag Department of Physics and Astronomy, University of Sheffield, Hicks Building, Hounsfield Road, Sheffield S3 7RH, UK ah DPNC, Université de Genève, Quai Ernest-Ansermet 24, 1211 Genève, Switzerland ai Institute for Space Sciences, R-77125 Bucharest, Mȃgurele, Romania aj IPHC-Institut Pluridisciplinaire Hubert Curien -Université de Strasbourg et CNRS/IN2P3 23 rue du Loess, BP 28, 67037 Strasbourg Cedex 2, France ak ITEP -Institute for Theoretical and Experimental Physics, B. Cheremushkinskaya 25, 117218 Moscow, Russia aℓ Dipartimento di Fisica dell'Università, Via Dodecaneso 33, 16146 Genova, Italy",1,Lomonosov Moscow State University | University of Geneva | Friedrich-Alexander-Universität Erlangen-Nürnberg | Utrecht University | University of Amsterdam | Institut Pluridisciplinaire Hubert Curien | Royal Netherlands Institute for Sea Research | Institut de Recherche sur les Lois Fondamentales de l'Univers,I19880235 I114457229 I181369854 I193662353 I887064364 I2899451211 I4210107283 I4210165232,no
 "SAPU, Sheffield",1,,,no
 "SHINE, Sheffield, UK",1,,,no
-"ScHARR , 30 Regent Street , Sheffield S1 4DA ",1,,,no
+"ScHARR , 30 Regent Street , Sheffield S1 4DA",1,,,no
 "ScHARR, Sheffield",1,,,no
 "ScHARR, Trial Unit, Sheffield, United Kingdom;",1,,,no
 "Scharr, Sheffield",1,,,no
@@ -795,8 +754,8 @@ University of SheffieldMetabolic Bone CentreNorthern General HospitalSheffieldUn
 WHO Collaborating Centre for Metabolic Bone Diseases (Western Bank Sheffield S10 2TN - Royaume-Uni),1,,,no
 WHO Collaborating Centre for Metabolic Bone Diseases Sheffield United Kingdom,1,,,no
 "WHO/WFH, IEQAS, Sheffield",1,,,no
-"Washington Road , Sheffield ",1,,,no
-"West Street , Sheffield , ",1,,,no
+"Washington Road , Sheffield",1,,,no
+"West Street , Sheffield ,",1,,,no
 "Western Bank , Sheffield , S10 2TN , U.K",1,,,no
 "Western Bank, Sheffield S10 2TN, UK 2 , ,",1,,,no
 "Western Bank, Sheffield, S10 2TN, UK",1,,,no
@@ -806,7 +765,7 @@ WHO Collaborating Centre for Metabolic Bone Diseases Sheffield United Kingdom,1,
 "a    Sheffield,  UK",1,,,no
 a  Sheffield Scientific School of Yale University,1,Yale University,I32971472,no
 "a Department of Experimental and Clinical Microbiology Beech Hill Road, Sheffield S10 2RX, UK",1,,,no
-"a Environmental Measurement Group , Sheffield , U.K ",1,,,no
+"a Environmental Measurement Group , Sheffield , U.K",1,,,no
 "a GP , Sheffield , UK",1,,,no
 "a Sheffield, UK",1,,,no
 c     Sheffield,1,,,no

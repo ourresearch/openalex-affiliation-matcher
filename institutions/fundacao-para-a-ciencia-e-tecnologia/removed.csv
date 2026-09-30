@@ -7,7 +7,7 @@ FCT/UNL,39,,,no
 FCT I FCCN,33,,,no
 "Centro de Matemática e Aplicações (CMA), FCT, UNL, Portugal",23,Universidade Nova de Lisboa | Centro de Matemática e Aplicações,I83558840 I4405257427,no
 Fundo Regional para a Ciência e Tecnologia,20,Fundo Regional para a Ciência e Tecnologia,I4405252796,no
-FCT ,18,,,no
+FCT,18,,,no
 "FCT, Universidade Nova de Lisboa",17,Universidade Nova de Lisboa,I83558840,no
 FCT-FCCN,15,,,no
 (FCT/UNESP/Pres. Prudente),14,Universidade Estadual Paulista (Unesp),I879563668,no
@@ -108,7 +108,7 @@ CITI/DI - FCT - Universidade Nova de Lisboa,2,Universidade Nova de Lisboa,I83558
 "CTS/UNINOV A FCT/UNL, Caparica, Portugal",2,Uninova,I4210127031,no
 "CTS/UNINOVA and FCT, UNL, Lisboa, Portugal",2,Uninova,I4210127031,no
 "CTS/UNINOVA and FCT, Univ. Nova of Lisbon, Caparica, Portugal",2,Universidade Nova de Lisboa | Uninova,I83558840 I4210127031,no
-"Centrode Matemática Aplicações Fundamentais e InvestigaçãoOperacional, Faculdade de Ciências, Universidade de Lisboa, 1749-016 Lisboa, Portugal",2,University of Lisbon,I141596103,no
+"Centro de Matemática Aplicações Fundamentais e Investigação Operacional, Faculdade de Ciências, Universidade de Lisboa, 1749-016 Lisboa, Portugal",2,University of Lisbon,I141596103,no
 "Centro de Ciências do Mar (CCMAR), Universidade do Algarve, FCT, Campus de Gambelas, 8005-139 Faro, Portugal",2,University of Algarve | Centro de Ciências do Mar do Algarve,I71503853 I4387154462,no
 "Centro de Ciências do Mar - CCMAR, Universidade do Algarve, FCT, Campus de Gambelas, 8005-139 Faro, Portugal",2,University of Algarve | Centro de Ciências do Mar do Algarve,I71503853 I4387154462,no
 "Centro de F sica das Interacções Fundamentais, Instituto Superior Técnico, Universidade de Lisboa, Av. Rovisco Pais, 1049-001 Lisboa, Portugal",2,University of Lisbon | Instituto Superior Técnico,I141596103 I4387152517,no
@@ -245,7 +245,7 @@ Fundo Regional para a Ciência e Tecnologia (FRCT),2,Fundo Regional para a Ciên
 "IBB-CBME and DQBF-FCT, Universidade do Algarve, Campus de Gambelas, 8005-139 Faro, Portugal",2,University of Algarve,I71503853,no
 "ICAAM, Universidade do Algarve, FCT, Ed 8, Campus de Gambelas, 8005-139 Faro, Portugal",2,University of Algarve,I71503853,no
 IEF/FCT e ESE-IPC,2,,,no
-INCITE -Associação Portuguesa para Desenvolvimento de Informação Cientifica e Técnica de Ciências e Tecnologia da Universidade Nova de Lisboa ... ,2,Universidade Nova de Lisboa,I83558840,no
+INCITE -Associação Portuguesa para Desenvolvimento de Informação Cientifica e Técnica de Ciências e Tecnologia da Universidade Nova de Lisboa ...,2,Universidade Nova de Lisboa,I83558840,no
 INESC & FCT/UNL,2,Institute for Systems Engineering and Computers,I4210125590,no
 INESC and FCT/UNL,2,Institute for Systems Engineering and Computers,I4210125590,no
 "IPC-ESEC, IEF-UC/FCT",2,,,no
@@ -287,9 +287,7 @@ Universidade de Évora e financiado pela Fundação para a Ciência e a Tecnolog
 "University Hospital Santa Maria, Department of Cardiology, Lisbon Academic Medical Centre, CCUL, Lisbon University, Lisbon, Portugal; Programme for Advanced Medical Education, Fundação Calouste Gulbenkian, Ministry of Health and Foundation for Science and Technology, Lisbon, Portugal",2,University of Lisbon | Calouste Gulbenkian Foundation | Centro Cardiovascular da Universidade de Lisboa,I141596103 I2802805223 I4405252434,no
 "University of Minho, Portugal; FCT/FCCN;",2,University of Minho,I99682543,no
 "[FCT, University of Algarve]",2,University of Algarve,I71503853,no
-"
-       Doutorando na Universidade Nova de Lisboa (Departamento de Ciências Sociais Aplicadas da Faculdade de Ciências e Tecnologia) com o apoio da Fundação para a Ciência e Tecnologia (SFRH/BD/46463/2008)  
-",1,Universidade Nova de Lisboa,I83558840,no
+Doutorando na Universidade Nova de Lisboa (Departamento de Ciências Sociais Aplicadas da Faculdade de Ciências e Tecnologia) com o apoio da Fundação para a Ciência e Tecnologia (SFRH/BD/46463/2008),1,Universidade Nova de Lisboa,I83558840,no
 'elle fct,1,,,no
 "(Escola Profissional do Fundão, Fundão, Portugal)",1,,,no
 (FCT),1,,,no
@@ -306,14 +304,8 @@ Universidade de Évora e financiado pela Fundação para a Ciência e a Tecnolog
 ". Disserta-ção (Mestrado em Ciências -Ciências de Computação e Matemática Computacional) -Instituto de Ciências Matemáticas e de Computação, Universidade de São Paulo, São Carlos -SP, 2019. Modelos de propagação de epidemias e rumores são fundamentais para a previsão",1,Universidade de São Paulo,I17974374,no
 . Pesquisa financiada pela Fundação para a Ciência e a Tecnologia,1,,,no
 "/ BD/152442/2022]. Foi também apoiado pelo Governo português, através da FCT e através do financiamento plurianual do Centro de Investigação em Tecnologias e Serviços de Saúde [UIDB/04255/2020 e UIDP/04255/2020], do Centro de Investigação e Intervenção Educativas [UIDB/00167/2020 e UIDP/00167/2020], do Instituto de Sociologia da Universidade do Porto [UIDB/00727/2020 e UIDP/00727/2020],",1,Universidade do Porto | Centre for Health Technology and Services Research,I182534213 I4210137384,no
-"1
-            Department of Ophthalmology and 
-
-            
-              2
-            Institute of Pharmacology and Therapeutics, Faculdade de Medicina da Universidade do Porto, and U38-FCT, 4200 Porto, Portugal",1,Universidade do Porto,I182534213,no
-"1 - Departamento de Psiquiatria e Saúde Mental do Centro Hospitalhar Baixo Vouga, Aveiro. 
-2 - Investigadora do CINTESIS (Centro de Investigação em Tecnologias e Serviços de Saúde), com afiliação à FCT, no Grupo NursID",1,Centre for Health Technology and Services Research | Centro Hospitalar do Baixo Vouga,I4210137384 I4210166095,no
+"1 Department of Ophthalmology and 2 Institute of Pharmacology and Therapeutics, Faculdade de Medicina da Universidade do Porto, and U38-FCT, 4200 Porto, Portugal",1,Universidade do Porto,I182534213,no
+"1 - Departamento de Psiquiatria e Saúde Mental do Centro Hospitalhar Baixo Vouga, Aveiro. 2 - Investigadora do CINTESIS (Centro de Investigação em Tecnologias e Serviços de Saúde), com afiliação à FCT, no Grupo NursID",1,Centre for Health Technology and Services Research | Centro Hospitalar do Baixo Vouga,I4210137384 I4210166095,no
 "1 Department of Ophthalmology and 2 Institute of Pharmacology and Therapeutics, Faculdade de Medicina da Universidade do Porto, and U38‐FCT, 4200 Porto, Portugal",1,Universidade do Porto,I182534213,no
 "16 August 1991, Royal Society, London; Foundation for Science and Technology",1,Royal Society,I1289762815,no
 "1Centro de Biodiversidade, Genómica Integrativa e Funcional (BioFIG), Fundação da Faculdade de Ciências de Lisboa, Edifício ICAT – Campus da FCUL, Campo Grande, 1749-016 Lisboa, Portugal",1,University of Lisbon,I141596103,no
@@ -341,13 +333,7 @@ Universidade de Évora e financiado pela Fundação para a Ciência e a Tecnolog
 "Adilson Semedo é doutorando em Sociologia na Faculdade de Letras da Universidade do Porto, investigador integrado no Instituto de Sociologia da mesma faculdade e bolseiro da Fundação para a Ciência e Tecnologia.adiguido@hotmail.com",1,Universidade do Porto,I182534213,no
 Aluna do Programa Interuniversitário de Doutoramento em Psicologia Clínica – Temática Psicologia da Família e Intervenção Familiar da Faculdade de Psicologia e de Ciências da Educação da Universidade de Coimbra e da Faculdade de Psicologia da Universidade de Lisboa; Bolseira da Fundação para a Ciência e Tecnologia (SFRH/BD/68912/2010),1,University of Coimbra | University of Lisbon,I76903346 I141596103,no
 "Anthropologist, Associate professor–Fernando Pessoa University, Porto, Portugal (pseixas@ufp.edu.pt), Project PTDC/ANT/81065/2006 (Fundação Para a Ciência e a Tecnologia)Paulo Castro Seixas has a master in Sociology and a PhD in Anthropology. Associate Professor at Fernando Pessoa University since 2004, he is coordinator of the Cultural Studies Programs and of Humanitarian Action, Cooperation and Development Master. Researcher in projects funded by World Bank, EU and Portuguese Science and Technology Foundation, he is author/co-author of 6 books and organizer of other 5. He is also author and Director of six anthropological documentaries. His main interests are Transnational Urban studies and Timor-Leste Anthropology. Books on Timor-Leste: Timor-Leste. Viagens, Transições, Mediações, Porto, Univ. Fernando Pessoa Ed., 2006",1,Fernando Pessoa University,I157071867,no
-"Anthropologue, spécialiste de développement international et de la
-religion, surtout en Afrique de l’Est. Il est basé à l’Iscte (Institut universitaire de Lisbonne), où
-il dirige un projet ERC AfDevLives : The Afterlives of Development Interventions in Eastern
-Africa (Kenya, Tanzania, Mozambique), et un projet FCT individuel sur l’activisme climatique des jeunes en Afrique. Depuis 2019, il codirige le projet SALMEA : Self-Accomplishment
-and Local Moralities in East Africa financé par l’ANR et le FNS (https://salmea.hypotheses.org). Avec Yvan Droz, Valérie Golaz et Clémentine Rossier, il dirige le projet FamilEA :
-The Remaking of the Family in East Africa (FNS) qui étudie les nouvelles configurations
-familiales au Kenya et en Ouganda",1,,,no
+"Anthropologue, spécialiste de développement international et de la religion, surtout en Afrique de l’Est. Il est basé à l’Iscte (Institut universitaire de Lisbonne), où il dirige un projet ERC AfDevLives : The Afterlives of Development Interventions in Eastern Africa (Kenya, Tanzania, Mozambique), et un projet FCT individuel sur l’activisme climatique des jeunes en Afrique. Depuis 2019, il codirige le projet SALMEA : Self-Accomplishment and Local Moralities in East Africa financé par l’ANR et le FNS (https://salmea.hypotheses.org). Avec Yvan Droz, Valérie Golaz et Clémentine Rossier, il dirige le projet FamilEA : The Remaking of the Family in East Africa (FNS) qui étudie les nouvelles configurations familiales au Kenya et en Ouganda",1,,,no
 "Ao longo da história, diferentes áreas da ciência foram fundamentais para lidar com problemas de saúde",1,,,no
 Aplicações Fundamentais e Investigação Operacional CMAF‐CIO – Centro de Matemática Portugal,1,Centro de Matemática,I4405256450,no
 Aplicações Fundamentais e Investigação Operacional Framework,1,,,no
@@ -412,7 +398,7 @@ CEAA | Centro de Estudos Arnaldo Araújo (FCT uRD 4041 ),1,Centro de Estudos Arn
 CEAACP/FCT/UC,1,,,no
 CECH. Universidade de Coimbra. FCT. Funda&ccedil,1,University of Coimbra,I76903346,no
 CECH. Universidade de Coimbra. FCT. Funda&ccedil;&atilde;o para a Ci&ecirc;ncia e Tecnologia (SFRH/BD/145422/2019),1,University of Coimbra,I76903346,no
-CEDIS Centro de Investigação e Desenvolvimento sobre Direito e Sociedade (and FCT) ,1,Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade,I4405259923,no
+CEDIS Centro de Investigação e Desenvolvimento sobre Direito e Sociedade (and FCT),1,Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade,I4405259923,no
 "CEFITEC, FCT, New University of Lisbon; Caparica, Portugal",1,University of Lisbon,I141596103,no
 CEHCP-ISCTE / FCT,1,,,no
 "CEMDRX, FCT, Universidade de Coimbra, P-3004-516 Coimbra, Portugal",1,University of Coimbra,I76903346,no
@@ -486,7 +472,7 @@ CIMA‐FCT Universidade do Algarve Faro 8005‐139 Portugal and School of Geogra
 "CINEICC - Centro de Investigação do Núcleo de Estudos e Intervenção Cognitivo-Comportamental/Research & Development Unit (FCT): Cognitive and Behavioural Center for Research and Intervention, Coimbra, Portugal",1,,,no
 "CINEICC – FCT R&D Unit: Center for Research in Neuropsychology and Cognitive Behavioral Intervention (FPCE-UC), Coimbra, Portugal",1,University of Coimbra,I76903346,no
 "CINEICC – FCT R&D Unit: Center for Research in Neuropsychology and Cognitive Behavioral Intervention, Coimbra, Portugal",1,,,no
-"CIQA,FCT, University of Algarve, Campus de Gambelas, 8005-139 Faro, Portugal",1,University of Algarve | Centro de Investigacao em Quimica do Algarve,I71503853 I4405260240,no
+"CIQA, FCT, University of Algarve, Campus de Gambelas, 8005-139 Faro, Portugal",1,University of Algarve | Centro de Investigacao em Quimica do Algarve,I71503853 I4405260240,no
 "CIRN/FCT and Departamento de Biologia, Universidade dos Açores (UAC), Portugal",1,Universidade dos Açores,I115891769,no
 "CITI / FCT, Universidade Nova de Lisboa, Caparica, Portugal",1,Universidade Nova de Lisboa,I83558840,no
 "CITI, FCT, New University of Lisbon, Portugal",1,Universidade Nova de Lisboa | University of Lisbon,I83558840 I141596103,no
@@ -554,7 +540,7 @@ CMAF ‐ Centro de Matemática e Aplicações Fundamentais da Universidade de Li
 "Ce3C-Centre for Ecology, Evolution and Environmental Changes / Azorean Biodiversity Group and FCT, Universidade dos Açores, 9501-801 Ponta Delgada, Portugal",1,Universidade dos Açores,I115891769,no
 "CeFEMA, Campus de Gambelas, Universidade do Algarve, FCT, 8005-139 Faro, Portugal",1,University of Algarve,I71503853,no
 "Center for Biodiversity, Functional & Integrative Genomics (BioFIG), FCT, Universidade do Algarve, Campus de Gambelas, 8005-139 Faro, Portugal",1,University of Algarve,I71503853,no
-"Center for Psychology at University of Porto , R&D unit funded by FCT , and Vice-president of the International Academy of Family Psychology ",1,Universidade do Porto,I182534213,no
+"Center for Psychology at University of Porto , R&D unit funded by FCT , and Vice-president of the International Academy of Family Psychology",1,Universidade do Porto,I182534213,no
 "Center of Marine Sciences, Foundation for Science and Technology, University of Algarve, Campus Gambelas, Faro, Portugal",1,University of Algarve,I71503853,no
 "Center of Research and Intervention in Neuropsychology and Cognitive Behavioral Intervention CINEICC - FCT Unit I&D, Portugal",1,,,no
 "Center of Technology and Systems - CTS/UNINOVA, FCT, NOVA University of Lisbon, Caparica, Portugal",1,Universidade Nova de Lisboa | Uninova,I83558840 I4210127031,no
@@ -586,8 +572,7 @@ Centro de Estudios Arquelógicos das universidades de Coimbra e Porto. Bolseira 
 "Centro de Estudo de Medicina Dentária Baseada na Evidência, Faculdade de Medicina Dentária, Universidade de Lisboa, Lisbon, Portugal; Instituto de Implantologia, Lisbon, Portugal; LIBPhys-FCT UID/FIS/04559/2013, Lisbon, Portugal",1,University of Lisbon | Instituto de Implantologia | Laboratório de Instrumentação Engenharia Biomédica e Física da Radiação,I141596103 I4210146822 I4405258619,no
 "Centro de Estudo de Medicina Dentária Baseada na Evidência, Faculdade de Medicina Dentária, Universidade de Lisboa, Lisbon, Portugal; LIBPhys-FCT UID/FIS/04559/2013, Lisbon, Portugal",1,University of Lisbon,I141596103,no
 "Centro de Estudo de Medicina Dentária Baseada na Evidência, Faculdade de Medicina Dentária, Universidade de Lisboa, Portugal; Instituto de Implantologia, Lisboa, Portugal; LIBPhys-FCT UID/FIS/04559/2013, Lisboa, Portugal",1,University of Lisbon | Instituto de Implantologia | Laboratório de Instrumentação Engenharia Biomédica e Física da Radiação,I141596103 I4210146822 I4405258619,no
-"Centro de Estudos Clássicos e Humanísticos, Faculdade de Letras, Universidade de Coimbra
-Bolseira de Doutoramento da Fundação para a Ciência e Tecnologia",1,University of Coimbra | Centro de Estudos Clássicos e Humanísticos | Centro de Estudos Clássicos,I76903346 I4405252576 I4405261037,no
+"Centro de Estudos Clássicos e Humanísticos, Faculdade de Letras, Universidade de Coimbra Bolseira de Doutoramento da Fundação para a Ciência e Tecnologia",1,University of Coimbra | Centro de Estudos Clássicos e Humanísticos | Centro de Estudos Clássicos,I76903346 I4405252576 I4405261037,no
 "Centro de Estudos Clássicos e Humanísticos,#R##N#Universidade de Coimbra.#R##N#Fundação para a Ciência e a Tecnologia",1,University of Coimbra | Centro de Estudos Clássicos e Humanísticos | Centro de Estudos Clássicos,I76903346 I4405252576 I4405261037,no
 "Centro de Estudos da População, Economia e Sociedade / FCT / Universidade do Porto",1,Universidade do Porto | Centro de Estudos da População Economia e Sociedade,I182534213 I4405252555,no
 "Centro de Estudos de Teatro da Faculdade de Letras da Universidade de Lisboa, com trabalho desenvolvido no âmbito do projecto CETbase -Base de Dados sobre o Teatro em Portugal. Como doutoranda, bolseira da Fundação para a Ciência e a Tecnologia, dedica-se, no momento, ao estudo de",1,University of Lisbon | Centro de Estudos de Teatro,I141596103 I4405261555,no
@@ -626,8 +611,7 @@ Bolseira de Doutoramento da Fundação para a Ciência e Tecnologia",1,Universit
 "Centro de Genética Médica Doutor Jacinto de Magalhães, CHP EPE, Porto, Portugal; Multidisciplinary Unit for Biomedical Research, UMIB-FCT, Porto, Portugal",1,Centro Hospitalar do Porto,I4210154840,no
 Centro de Geofísica da Universidade de Coimbra; Fundação para a Ciência e a Tecnologia,1,University of Coimbra,I76903346,no
 Centro de História de Além-Mar – FCSH-UNL / FCT,1,,,no
-"Centro de História de Além-Mar, Universidade Nova de Lisboa.
-Bolsista da Fundação para a Ciência e a Tecnologia",1,Universidade Nova de Lisboa,I83558840,no
+"Centro de História de Além-Mar, Universidade Nova de Lisboa. Bolsista da Fundação para a Ciência e a Tecnologia",1,Universidade Nova de Lisboa,I83558840,no
 "Centro de Investigac ¸a ˜o em Sau ´de Comunita ´ria , Fundac ¸a ˜o para a Cie ˆncia e a Technologia , Lisbon , Portugal;",1,,,no
 "Centro de Investigação ""Minerais Industriais e Argilas"" da FCT , Universidade de Aveiro , 3810-193 Aveiro , Portugal",1,University of Aveiro,I60858718,no
 "Centro de Investigação Interdisciplinar Egas Moniz (CiiEM, U4585 FCT), Applied Nutrition Studies Group (G.E.N.A.-IUEM), Egas Moniz Higher Education School, Instituto Universitário Egas Moniz, Monte de Caparica, Portugal",1,Centro de Investigação Interdisciplinar Egas Moniz,I4405256092,no
@@ -637,13 +621,12 @@ Bolsista da Fundação para a Ciência e a Tecnologia",1,Universidade Nova de Li
 "Centro de Investigação Marinha e Ambiental (CIMA), FCT, Universidade do Algarve, 8005-139, Faro, Portugal",1,University of Algarve | Centro de Investigação Marinha e Ambiental,I71503853 I4405252798,no
 "Centro de Investigação Marinha e Ambiental (CIMA), Universidade do Algarve, FCT, 8005-139, Faro, Portugal",1,University of Algarve | Centro de Investigação Marinha e Ambiental,I71503853 I4405252798,no
 "Centro de Investigação Marinha e Ambiental (CIMA), Universidade do Algarve, FCT, Faro, Portugal",1,University of Algarve | Centro de Investigação Marinha e Ambiental,I71503853 I4405252798,no
-"Centro de Investigação Transdisciplinar Cultura , Espaço e Memória (unidade de I&D 4059 da FCT) ",1,Centro de Investigação Transdisciplinar Cultura Espaço e Memória,I4405256310,no
+"Centro de Investigação Transdisciplinar Cultura , Espaço e Memória (unidade de I&D 4059 da FCT)",1,Centro de Investigação Transdisciplinar Cultura Espaço e Memória,I4405256310,no
 "Centro de Investigação e Intervenção em Educação, Faculdade de Psicologia e Ciências da Educação da Universidade do Porto. Email: mrodrigues@fpce.up.pt. O trabalho apresentado neste artigo foi apoiado pela Fundação para a Ciência e Tecnologia através de uma bolsa de doutoramento (SFRH/BD/87458/2012) da primeira autora",1,Universidade do Porto,I182534213,no
 "Centro de Investigação em Geociências Aplicadas, FCT/UNL, Monte Caparica, Portugal",1,,,no
 "Centro de Linguística da UNL - CLUNL , FCT",1,Centro de Linguística,I4405254965,no
 Centro de Linguística da Universidade Nova de Lisboa Fundação para Ciência e Tecnologia,1,Universidade Nova de Lisboa | Centro de Linguística,I83558840 I4405254965,no
-"Centro de Linguística da Universidade do Porto / Faculdade de Letras da Universidade do Porto
-Unidade FCT, PEst-OE/LIN/UI0022/2011",1,Centro de Linguística da Universidade do Porto,I4405252412,no
+"Centro de Linguística da Universidade do Porto / Faculdade de Letras da Universidade do Porto Unidade FCT, PEst-OE/LIN/UI0022/2011",1,Centro de Linguística da Universidade do Porto,I4405252412,no
 "Centro de Literaturas y Culturas Lusófonas y Europeas (CLEPUL) de la Facultad de Letras de la Universidad de Lisboa (uno de los más importantes centros de investigación de la Fun- dación para la Ciencia y la Tecnología (FCT) de Portugal , en el campo de la Ciencias Sociales y Humanidades)",1,University of Lisbon | Centro de Literaturas e Culturas Lusófonas e Europeias,I141596103 I4405258118,no
 "Centro de Matem ática e Aplicac ¸ões Fundamentais, University of Lisbon, P 1649-003 Lisbon, Portugal",1,University of Lisbon,I141596103,no
 "Centro de Matematica Aplicações Fundamentais e Investigação Operacional, Faculdade de Ciências, Universidade de Lisboa, 1749-016 Lisboa, Portugal",1,University of Lisbon,I141596103,no
@@ -763,8 +746,7 @@ Centro de Matemática e Aplicações Fundamentais da Universidade de Lisboa,1,Un
 "Centro de Matemática e Aplicações Fundamentais, Lisboa, Portugal",1,University of Lisbon,I141596103,no
 "Centro de Matemática e Aplicações Fundamentais, Lisbon - Portugal",1,University of Lisbon,I141596103,no
 "Centro de Matemática e Aplicações Fundamentais, Lisbon University",1,University of Lisbon,I141596103,no
-"Centro de Matemática e Aplicações Fundamentais, Lisbon University, Av. Prof. Gama Pinto 2, 1649-003 Lisboa, Portugal
-, , , , , , PT",1,University of Lisbon,I141596103,no
+"Centro de Matemática e Aplicações Fundamentais, Lisbon University, Av. Prof. Gama Pinto 2, 1649-003 Lisboa, Portugal , , , , , , PT",1,University of Lisbon,I141596103,no
 "Centro de Matemática e Aplicações Fundamentais, Lisbon University, Av. Prof. Gama Pinto 2, 1649-003 Lisboa, Portugal#N#, , PT",1,University of Lisbon,I141596103,no
 "Centro de Matemática e Aplicações Fundamentais, Lisbon University, Portugal",1,University of Lisbon,I141596103,no
 "Centro de Matemática e Aplicações Fundamentais, Univ. Lisboa, Av. Gama Pinto 2, 1649-003 Lisboa, Portugal",1,University of Lisbon,I141596103,no
@@ -1023,24 +1005,19 @@ ESE-IPC - IEF/FCT,1,,,no
 ESE-IPC/ IEF-UC-FCT,1,,,no
 "Eastern Africa Regional Coordinating Centre, Africa CDC, FCT, Abuja, Nigeria",1,Africa Centres for Disease Control and Prevention,I4210103980,no
 "Educação Infantil e Básica Inicial e Mestrado em Ciências da Educação. Concluiu o Doutoramento em Estudos da Criança, nesta Universidade, em 2003. É também membro integrado do CIEC -Centro de Investigação em Estudos da Criança (Unidade de I&D da FCT), no qual coordena o Grupo de Investigação ""Contextos, Quotidianos e Bem-Estar da Criança""",1,Centro de Investigação em Estudos da Criança,I4405252637,no
-"Educação para a Ciência (UNESP) , 2013 ",1,Universidade Estadual Paulista (Unesp),I879563668,no
+"Educação para a Ciência (UNESP) , 2013",1,Universidade Estadual Paulista (Unesp),I879563668,no
 "Egas Moniz School of Health and Science, Egas Moniz Center for Interdisciplinary Research (CiiEM, U4585 FCT), Caparica, Portugal",1,Escola Superior de Saúde Egas Moniz | Centro de Investigação Interdisciplinar Egas Moniz,I3132158377 I4405256092,no
 "Egas Moniz School of Health and Science, Nutritional Immunology – Clinical and Experimental Lab (NICE Lab), Clinical Research Unit, Egas Moniz Center for Interdisciplinary Research (CiiEM, U4585 FCT), Caparica, Portugal",1,Escola Superior de Saúde Egas Moniz | Centro de Investigação Interdisciplinar Egas Moniz,I3132158377 I4405256092,no
 "Environmental Chemistry Department, IDAEA-CSIC, C/Jordi Girona 18-26, 08034 Barcelona, Spain; FCT, CIMA, University of Algarve, Campus de Gambelas, 8005-139 Faro, Portugal. Electronic address: deniseferna@gmail.com",1,University of Algarve | Consejo Superior de Investigaciones Científicas | Institute of Environmental Assessment and Water Research,I71503853 I134820265 I4210143256,no
 Erzini (UAlg -FCT/CCMAR) ;,1,,,no
-"Escola Brasileira de Direito- EBRADI
-Pontífice Universidade Católica - PUC-MG
-Fundação Educacional de Além Paraíba-FEAP",1,Pontifícia Universidade Católica de Minas Gerais,I170935008,no
+Escola Brasileira de Direito- EBRADI Pontífice Universidade Católica - PUC-MG Fundação Educacional de Além Paraíba-FEAP,1,Pontifícia Universidade Católica de Minas Gerais,I170935008,no
 "Escola Náutica Infante D. Henrique and FCT, Oeiras, Portugal",1,,,no
 "Escola Profissional do Fundão, Fundão, Portugal",1,,,no
 Escola Superior Agrária de Bragança Fundação para a Ciência e Tecnologia Associação Portuguesa de Horticultura Câmara Municipal de Bragança Governo Civil de Bragança Caixa Geral de Depósitos,1,,,no
 "Escola Superior de Ciências Empresariais, Instituto Politécnico de Setúbal (IPS); RESILIENCE - Center for Regional Resilience and Sustainability ; NovaMath – Centre for Mathematics and Applications at FCT/UNL, Universidade Nova de Lisboa",1,Universidade Nova de Lisboa | Universidade Politécnica de Setúbal | NOVAMath Center for Mathematics and Applications,I83558840 I4210102653 I4405256643,no
 "Escola Superior de Ciências Empresariais, Instituto Politécnico de Setúbal (IPS); RESILIENCE – Centre for Regional Resilience and Sustainability; NovaMath - Centre for Mathematics and Applications at FCT/UNL, Universidade Nova de Lisboa",1,Universidade Nova de Lisboa | Universidade Politécnica de Setúbal | NOVAMath Center for Mathematics and Applications,I83558840 I4210102653 I4405256643,no
 "Escola Superior de Ciências Empresariais, Instituto Politécnico de Setúbal,, CMA/FCT/UNL, Center for Mathematic and Applications CICE, Centre for Research in Business Sciences",1,Universidade Politécnica de Setúbal | Centro de Investigação em Ciências Empresariais,I4210102653 I4405256505,no
-"Escola Superior de Educação 
-Instituto Politécnico de Castelo Branco, Portugal
-
-FCT and CI&DETS (Pest-OE/CED/UI4016/2011)",1,Polytechnic Institute of Castelo Branco,I144926016,no
+"Escola Superior de Educação Instituto Politécnico de Castelo Branco, Portugal FCT and CI&DETS (Pest-OE/CED/UI4016/2011)",1,Polytechnic Institute of Castelo Branco,I144926016,no
 "Escola Superior de Educação #R##N#Instituto Politécnico de Castelo Branco, Portugal#R##N##R##N#FCT and CI&DETS (Pest-OE/CED/UI4016/2011)",1,Polytechnic Institute of Castelo Branco,I144926016,no
 "Escola Superior de Educação do Instituto Politécnico de Castelo Branco, #R##N#FCT and CI&DETS (Pest-OE/CED/UI4016/2011)",1,Polytechnic Institute of Castelo Branco,I144926016,no
 "Escola Superior de Educação do Instituto Politécnico de Castelo Branco, Portugal.#R##N#FCT and CI&DETS (Pest-OE/CED/UI4016/2011)",1,Polytechnic Institute of Castelo Branco,I144926016,no
@@ -1152,10 +1129,8 @@ FCT),1,,,no
 "FCT, UNL, 2829-516, Caparica, Portugal",1,,,no
 "FCT, UNL-Univ. Nova de Lisboa, Lisboa, Portugal",1,Universidade Nova de Lisboa,I83558840,no
 "FCT, Uniarq (Faculdade de Letras, Universidade de Lisboa)",1,University of Lisbon | Centro de Arqueologia,I141596103 I4405257591,no
-"FCT, Uniarq (Faculdade de Letras, Universidade de Lisboa)
-Departamento de Prehistoria y Arqueología de la Universidad de Sevilla",1,Universidad de Sevilla | University of Lisbon | Centro de Arqueologia,I79238269 I141596103 I4405257591,no
-"FCT, Uniarq (Faculdade de Letras, Universidade de Lisboa)
-Museo de Cáceres",1,University of Lisbon | Centro de Arqueologia,I141596103 I4405257591,no
+"FCT, Uniarq (Faculdade de Letras, Universidade de Lisboa) Departamento de Prehistoria y Arqueología de la Universidad de Sevilla",1,Universidad de Sevilla | University of Lisbon | Centro de Arqueologia,I79238269 I141596103 I4405257591,no
+"FCT, Uniarq (Faculdade de Letras, Universidade de Lisboa) Museo de Cáceres",1,University of Lisbon | Centro de Arqueologia,I141596103 I4405257591,no
 "FCT, Uniarq, Universidade de Lisboa, Universidad de Sevilla",1,Universidad de Sevilla | University of Lisbon | Centro de Arqueologia,I79238269 I141596103 I4405257591,no
 "FCT, Univ Estadual Paulista (UNESP), Presidente Prudente, Brazil",1,Universidade Estadual Paulista (Unesp),I879563668,no
 "FCT, Univ. NOVA de Lisboa, Lisbon, Portugal",1,Universidade Nova de Lisboa,I83558840,no
@@ -1185,7 +1160,7 @@ Museo de Cáceres",1,University of Lisbon | Centro de Arqueologia,I141596103 I44
 "FCT, Universidade do Algarve, Ed. 8, Campus de Gabelas, 8005-139 Faro, Portugal",1,University of Algarve,I71503853,no
 "FCT, Universidade do Algarve, Faro, PORTUGAL",1,University of Algarve,I71503853,no
 "FCT, Universidade do Algarve, Faro, Portugal. jpsilva@ualg.pt",1,University of Algarve,I71503853,no
-"FCT, Universidade do Algarve, Portugal. E-mail: ",1,University of Algarve,I71503853,no
+"FCT, Universidade do Algarve, Portugal. E-mail:",1,University of Algarve,I71503853,no
 "FCT, Universidade do Algarve, Portugal. E-mail: holivei@ualg.pt",1,University of Algarve,I71503853,no
 "FCT, Universidade do Algarve, campus de Gambelas, 8005-139 Faro, Portugal",1,University of Algarve,I71503853,no
 "FCT, Universidade do Minho e Escola Secundária Camilo Castelo Branco",1,University of Minho,I99682543,no
@@ -1349,12 +1324,8 @@ Fundação de Apoio à Capacitação em Tecnologia da Informação – Facti,1,,
 "Fundação de Ciência, Aplicações e Tecnologia Espaciais, FUNCATE",1,"Fundação de Ciência, Aplicações e Tecnologia Espaciais",I4210094270,no
 Fundação de Ciências Aplicadas e Tecnologia Espacial,1,"Fundação de Ciência, Aplicações e Tecnologia Espaciais",I4210094270,no
 Fundação de apoio para projetos de pesquisa de ciência e tecnologia espacial,1,,,no
-"Fundação para a Ciência e Tecnologia
-CECH-Universidade de Coimbra",1,University of Coimbra | Centro de Estudos Clássicos e Humanísticos,I76903346 I4405252576,no
-"Fundação para a Ciência e Tecnologia
-Instituto de Investigação em Arte, Design e Sociedade 
-Doutoramento em Educação Artística
-Faculdade de Belas Artes - Universidade do Porto",1,Universidade do Porto | Instituto de Investigação em Arte Design e Sociedade,I182534213 I4405257530,no
+Fundação para a Ciência e Tecnologia CECH-Universidade de Coimbra,1,University of Coimbra | Centro de Estudos Clássicos e Humanísticos,I76903346 I4405252576,no
+"Fundação para a Ciência e Tecnologia Instituto de Investigação em Arte, Design e Sociedade Doutoramento em Educação Artística Faculdade de Belas Artes - Universidade do Porto",1,Universidade do Porto | Instituto de Investigação em Arte Design e Sociedade,I182534213 I4405257530,no
 Fundação para a Ciência e a Tecnologia - Faculdade de Psicologia e de Ciências da Educação da Universidade de Coimbra,1,University of Coimbra,I76903346,no
 "Fundação para a Ciência e a Tecnologia Instituto de Estudos Medievais , FCSH-NOVA",1,,,no
 "Fundação para a Ciência e a Tecnologia, Centre for Ethics, Politics and Society, Minho University, Braga, Portugal",1,University of Minho,I99682543,no
@@ -1399,8 +1370,7 @@ IEF/FCT - ESE-IPC,1,,,no
 "IELT/Universidade Nova de Lisboa, FCT",1,Universidade Nova de Lisboa,I83558840,no
 IHC-UNL/FCT,1,,,no
 "IMAR, FCT, Gambelas Campus, University Algarve, Faro 8000-117, Portugal",1,University of Algarve,I71503853,no
-"IMAR, Instituto do Mar- Centro Interdisciplinar de Coimbra
-Bolseira da Fundação para a Ciência e a Tecnologia",1,,,no
+"IMAR, Instituto do Mar- Centro Interdisciplinar de Coimbra Bolseira da Fundação para a Ciência e a Tecnologia",1,,,no
 "IMAR-Centro de Modelação Ecológica , DCEA, FCT , Universidade Nova de Lisboa , 2829-516 Caparica , Portugal",1,Universidade Nova de Lisboa,I83558840,no
 "IN2PAST - Laboratório Associado para a Investigação e Inovação em Património, Artes, Sustentabilidade e Território (FCT LA/P/0132/2020)",1,,,no
 "INESC-ID, FCT/Universidade do Algarve",1,University of Algarve | Instituto de Engenharia de Sistemas e Computadores Investigação e Desenvolvimento,I71503853 I121345201,no
@@ -1408,8 +1378,7 @@ Bolseira da Fundação para a Ciência e a Tecnologia",1,,,no
 "INRIA, Domaine de Voluceau Le Chesnay Cedex, France and University of Algarve and CEMAT, FCT, Faro, Portugal",1,University of Algarve | Institut national de recherche en sciences et technologies du numérique | Centro de Matemática Computacional e Estocástica,I71503853 I1326498283 I4405257227,no
 IPCB e FCT and CI&DETS (PEst-OE/CED/UI4016/2011),1,Polytechnic Institute of Castelo Branco | Centro de Estudos em Educação Tecnologia e Saúde,I144926016 I4405253177,no
 "IPHES, Institut Català de Paleoecologia Humana i Evolució Social, Tarragona, Spain; Área de Prehistoria, Universitat Rovira i Virgili (URV), Tarragona, Spain; GQP-CG, Grupo Quaternário e Pré-História do Centro de Geociências (uI and D 73-FCT), Tomar, Portugal; Unit associated to Consejo Superior de Investigaciones Ciéntíficas (CSIC), Departamento de Paleobiologia, Museo de Ciencias Naturales (MNCN), Madrid, Spain",1,Universitat Rovira i Virgili | Institut Català de Paleoecologia Humana i Evolució Social | Museo Nacional de Ciencias Naturales,I55952717 I4210113357 I4210120109,no
-"ISCSP, ULisboa 
-CAPP/FCT",1,,,no
+"ISCSP, ULisboa CAPP/FCT",1,,,no
 "ISCTE — Instituto Universitário de Lisboa, Business Research Unit, FCT (PEst-OE/EGE/UI0315/2011), Portugal",1,Iscte – Instituto Universitário de Lisboa | Unidade de Investigação em Desenvolvimento Empresarial,I110026055 I4405257716,no
 "ISEL- Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa, CTS Uninova, FCT, Universidade Nova de Lisboa, Portugal",1,Universidade Nova de Lisboa | Instituto Politécnico de Lisboa | Uninova,I83558840 I203847022 I4210127031,no
 ISMAI ; FCT-CIDESD; CIDAF ;,1,Instituto Superior da Maia,I52066220,no
@@ -1421,20 +1390,15 @@ ISMAI ; FCT-CIDESD; CIDAF ;,1,Instituto Superior da Maia,I52066220,no
 "Institute of Marine Research (IMAR). New University of Lisbon. FCT, Campus da Caparica, 2829-516 Caparica, Portugal",1,Universidade Nova de Lisboa,I83558840,no
 "Instituto Nacional de Engenharia, Tecnologia e Inovação (INETI), Estrada do Paço do Lumiar, Edifício F, 1649-038 Lisboa, Portugal, CNR−Istituto di Chimica Biomolecolare (ICB), Via Campi Flegrei 34, 80078 Pozzuoli (Naples), Italy, and Centro de Modelação Ecológica IMAR, FCT/UNL, Quinta da Torre, 2825-114 Monte da Caparica, Portugal",1,"National Institute of Engineering, Technology and Innovation | Istituto di Chimica Biomolecolare",I122205739 I4210147106,no
 "Instituto Politécnico de Beja, Departamento de Artes; Humanidades e Desporto, Beja, Portugal I SPRINT - Centro de Investigação & Inovação em Desporto Atividade Física e Saúde, Portugal | FCT - UID/6185/2025",1,Instituto Politécnico de Beja,I2802390120,no
-"Instituto Politécnico de Castelo Branco - Escola Superior de Educação
-FCT and CI&DETS (PEst-OE/CED/UI4016/2011)",1,Polytechnic Institute of Castelo Branco,I144926016,no
-"Instituto Politécnico de Castelo Branco - Escola Superior de Educação
-FCT and CI&DETS (PEst-OE/CED/UI4016/2011)",1,Polytechnic Institute of Castelo Branco,I144926016,no
+Instituto Politécnico de Castelo Branco - Escola Superior de Educação FCT and CI&DETS (PEst-OE/CED/UI4016/2011),1,Polytechnic Institute of Castelo Branco,I144926016,no
+Instituto Politécnico de Castelo Branco - Escola Superior de Educação FCT and CI&DETS (PEst-OE/CED/UI4016/2011),1,Polytechnic Institute of Castelo Branco,I144926016,no
 "Instituto Politécnico de Castelo Branco, Escola Superior de Educação. Departamento de Desporto e Bem-estar. Portugal/ FCT and CI&DETS (PEst-OE/CED/UI4016/2011)",1,Polytechnic Institute of Castelo Branco,I144926016,no
 "Instituto Politécnico de Tomar, Departamento de Matemática e Física, Quinta do Contador – Estrada da Serra, 2300-313, Tomar, Portugal (and Centro de Matemática e Aplicações (CMA), FCT, UNL)",1,Instituto Politécnico de Tomar,I4210126619,no
 "Instituto Politécnico de Tomar, Departamento de Matemática e Física, Quinta do Contador – Estrada da Serra, 2300-313, Tomar, and Centro de Matemática e Aplicações (CMA), FCT, UNL, Portugal",1,Instituto Politécnico de Tomar | Centro de Matemática e Aplicações,I4210126619 I4405257427,no
 "Instituto Superior Técnico, Centro de Física das Interacções Fundamentais, Edifício Ciência, 1049-001, Lisboa Codex, Portugal",1,Instituto Superior Técnico,I4387152517,no
 "Instituto Superior Técnico, Universidade de Lisboa. Bolseiro de doutoramento em Engenharia e Gestão, com financiamento pela Fundação para a Ciência e Tecnologia, referência SFRH/BD/113038/2015",1,University of Lisbon | Instituto Superior Técnico,I141596103 I4387152517,no
-"Instituto Superior de Ciências Sociais e Políticas
-Universidade de Lisboa
-CAPP/FCT",1,University of Lisbon | Centro de Administração e Políticas Públicas,I141596103 I4405254187,no
-"Instituto Superior de Ciências Sociais e Políticas, Universidade de Lisboa
-CAPP/FCT",1,University of Lisbon | Centro de Administração e Políticas Públicas,I141596103 I4405254187,no
+Instituto Superior de Ciências Sociais e Políticas Universidade de Lisboa CAPP/FCT,1,University of Lisbon | Centro de Administração e Políticas Públicas,I141596103 I4405254187,no
+"Instituto Superior de Ciências Sociais e Políticas, Universidade de Lisboa CAPP/FCT",1,University of Lisbon | Centro de Administração e Políticas Públicas,I141596103 I4405254187,no
 "Instituto Superior de Engenharia de Lisboa and Centro de Matemática, Aplicações Fundamentais e Investigação, Operacional Portugal",1,Instituto Politécnico de Lisboa,I203847022,no
 "Instituto de Arqueologia. Faculdade de Letras da Universidade de Coimbra (Portugal). CEAACP – Centro de Estudos em Arqueologia, Artes e Ciências do Património / FCT",1,University of Coimbra,I76903346,no
 "Instituto de Ciência Aplicada e Tecnologia, Universidade de Lisboa, Campo Grande, Lisboa, Portugal",1,University of Lisbon,I141596103,no
@@ -1509,8 +1473,8 @@ Lispector foram fundamentais para a consolidação da mulher escritora,1,,,no
 "Lusófona University/HEI-Lab: Digital Human-environment Interaction Labs, Portugal (FCT; UIDB/05380/2020)",1,Universidade Lusófona,I88596544,no
 "M A F , Centro de Matematica e Aplicaçôes Fundamentais, INIC, Av Prof Gama Pinto 2, 1699 Lisboa Codex, Portugal (",1,,,no
 "MARE - Centro de Ciências do Mar e do Ambiente (FCT/NOVA), Campus da Caparica, Caparica, Portugal",1,Universidade Nova de Lisboa | MARE - Centro de Ciências do Mar e do Ambiente,I83558840 I4387153947,no
-"MARE - Marine and Environmental Sciences Centre            and FCT            University of the Azores            Ponta Delgada            Portugal",1,Universidade dos Açores,I115891769,no
-"MARE - Marine and Environmental Sciences Centre and FCT University of the Azores Ponta Delgada Portugal",1,Universidade dos Açores,I115891769,no
+MARE - Marine and Environmental Sciences Centre and FCT University of the Azores Ponta Delgada Portugal,1,Universidade dos Açores,I115891769,no
+MARE - Marine and Environmental Sciences Centre and FCT University of the Azores Ponta Delgada Portugal,1,Universidade dos Açores,I115891769,no
 MARE/ DCT-FCT/ U. Coimbra,1,University of Coimbra,I76903346,no
 "MED, FCT, Universidade do Algarve, Campus de Gambelas, 8005-139 Faro, Portugal",1,University of Algarve,I71503853,no
 "Madeira-ITI and FCT/Universidade Nova de Lisboa, Portugal",1,Universidade Nova de Lisboa,I83558840,no
@@ -1520,7 +1484,7 @@ MARE/ DCT-FCT/ U. Coimbra,1,University of Coimbra,I76903346,no
 "MeditBio , FCT , Universidade do Algarve , Campus de Gambelas , Faro ;",1,University of Algarve,I71503853,no
 "MeditBio, FCT, Universidade do Algarve, Campus de Gambelas, Faro, Portugal",1,University of Algarve,I71503853,no
 "MeditBio/FCT , Universidade do Algarve , Campus de Gambelas , 8005-139 Faro , Portugal,",1,University of Algarve,I71503853,no
-"Meditbio,FCT, Universidade do Algarve, Campus de Gambelas, 8005-139 Faro, Portugal",1,University of Algarve,I71503853,no
+"Meditbio, FCT, Universidade do Algarve, Campus de Gambelas, 8005-139 Faro, Portugal",1,University of Algarve,I71503853,no
 "Meditbio, FCT, Universidade do Algarve, Campus de Gambelas, 8005-139 Faro, Portugal",1,University of Algarve,I71503853,no
 "Meditbio,#R#FCT, Universidade do Algarve, Campus de Gambelas, 8005-139 Faro, Portugal",1,University of Algarve,I71503853,no
 "Mediterranean Institute for Agriculture, Environment & Development , FCT , University of Algarve , Campus de Gambelas , 8005 Faro , Portugal",1,University of Algarve,I71503853,no
@@ -1576,7 +1540,7 @@ Nossa justificativa para aquela fundamentação teórica,1,,,no
 "PNPD/CAPES na FCT/UNESP,",1,Universidade Estadual Paulista (Unesp) | Coordenação de Aperfeicoamento de Pessoal de Nível Superior,I879563668 I4210097716,no
 "Paraná , Fundação de Ciência , Aplicações e Tecnologia",1,,,no
 "Paulo Estudante is a member of the Patrimoines Musicaux research team at Paris University IV–Sorbonne, where he is completing, as part of a joint programme with the University of Évora, a doctoral thesis on 16th- and 17th-century instrumentalists at Portuguese cathedrals. He holds a scholarship from the Fundação para a Ciência e a Tecnologia, Portugal",1,University of Évora | Paris-Sorbonne University,I21803372 I4405264515,no
-"Paulo J Bártolo is Professor of Advanced Manufacturing Processes at the Polytechnic Institute of Leiria (Portugal), Director of the Centre for Rapid and Sustainable Product Development and Centre of Excellence in Mechanical Engineering of the Portuguese Foundation for Science and Technology, Adjunct Professor at Queensland University of Technology (Brisbane, Australia), Visiting Professor at the Nanyang University (Singapore), Professor of the ‘Catedra UNESCO’ of Biomaterials at the University of Havana ",1,University of Havana | Queensland University of Technology | Instituto Politécnico de Leiria,I2656126 I160993911 I169427155,no
+"Paulo J Bártolo is Professor of Advanced Manufacturing Processes at the Polytechnic Institute of Leiria (Portugal), Director of the Centre for Rapid and Sustainable Product Development and Centre of Excellence in Mechanical Engineering of the Portuguese Foundation for Science and Technology, Adjunct Professor at Queensland University of Technology (Brisbane, Australia), Visiting Professor at the Nanyang University (Singapore), Professor of the ‘Catedra UNESCO’ of Biomaterials at the University of Havana",1,University of Havana | Queensland University of Technology | Instituto Politécnico de Leiria,I2656126 I160993911 I169427155,no
 "Paulo Joaquim Pina Queirós Professor Coordenador na ESEnfC, Investigador UICISA:E/FCT. Pós-doutoramento em Ciências de Enfermagem pelo ICBAS-UP. Doutor pela UEX (Espanha) com registo em Ciências da Educação na Universidade de Coimbra. Mestre em Saúde Ocupacional pela Faculdade de Medicina de Coimbra. Enfermeiro Especialista em Enfermagem de Reabilitação. 3000-135 Coimbra",1,Escola Superior de Enfermagem de Coimbra | University of Coimbra,I56243300 I76903346,no
 Paulo Lopes FCT -Unidade de Computação Científica ;,1,,,no
 "Pensamento Computacional no Cotidiano Feminino, criado com o objetivo de atrair mulheres para conhecer os fundamentos da Ciência da Computação. Os resultados apresentaram o público feminino como maioria participante e certificado, apontando que a utilização de situações cotidianas enfatizando o",1,,,no
@@ -1614,7 +1578,7 @@ Professora Catedrática da Universidade do Porto. Investigadora do Instituto de 
 "REQUIMTE/CQFB, FCT, Universidade Nova de Lisboa, 2829-516, Caparica, Portugal",1,Universidade Nova de Lisboa,I83558840,no
 "REQUIMTE/CQFB, FCT, Universidade Nova de Lisboa, Campus de Caparica, 2829-516, Caparica, Portugal",1,Universidade Nova de Lisboa,I83558840,no
 "ReQuimte, Centro de Química Física e Biotecnologia, FCT/UNL, Quinta da Torre, 2829-516 Caparica, Portugal, Royal (Dick) School of Veterinary Studies, The University of Edinburgh, Summerhall, Edinburgh, EH9 1QH, Scotland, U.K., Unité de Bioénergétique et Ingénierie des Protéines, IBSM-CNRS, 31 Chemin Joseph Aiguier, 13402, Marseille Cedex 20, France, and Laboratory of Protein Biochemistry, State University of Gent, B-9000 Gent, Belgium",1,Ghent University | University of Edinburgh | Centre National de la Recherche Scientifique | Bioénergétique et Ingénierie des Protéines,I32597200 I98677209 I1294671590 I4210089214,no
-"Renato Gomes Cavalho, Secretaria Regional de 						Educação, Ciência e Tecnologia, 						Rua D. João n.o, 57, Quinta Olinda, 						9054-510 Funchal, Portugal[email protected] Secretaria Regional de Educação, 					Ciência e Tecnologia, Funchal, Portugal  Ordem dos Psicólogos Portugueses, Lisbon, 						Portugal",1,Ordem dos Psicólogos Portugueses,I4405252416,no
+"Renato Gomes Cavalho, Secretaria Regional de Educação, Ciência e Tecnologia, Rua D. João n.o, 57, Quinta Olinda, 9054-510 Funchal, Portugal[email protected] Secretaria Regional de Educação, Ciência e Tecnologia, Funchal, Portugal  Ordem dos Psicólogos Portugueses, Lisbon, Portugal",1,Ordem dos Psicólogos Portugueses,I4405252416,no
 "Research Project DIWASTE, Fundação da FCUL, Edifício C7, 1749-016, Lisboa, Portugal",1,University of Lisbon,I141596103,no
 "Research Project DIWASTE, Fundação da FCUL, Lisbon, Portugal",1,,,no
 "Rita Sampaio da Novoa e bolseira de pos-doutoramento da Fundacao para a Ciencia e Tecnologia de Portugal (SFRH/BPD/114904/2016). Maria de Lurdes Rosa e Professora Auxiliar na FCSH-UNL. As autoras agradecem a colaboracao de Maria Joao da Camara Andrade e Sousa, Margarida Leme, Alice Gago, Filipa Lopes e Judit Gutierrez de Armas. Instituto de Estudos Medievais, Faculdade de Ciencias Sociais e Humanas, Universidade Nova de Lisboa, Lisboa, Portugal",1,Universidade Nova de Lisboa | Instituto de Estudos Medievais,I83558840 I4405257113,no
@@ -1642,8 +1606,7 @@ Seminário Medieval de Literatura Pensamento e Sociedade (SMELPS)/IF/FCT,1,,,no
 Sponsorship: This work was supported by Praxis XXI from Fundação para a Ciência e a Tecnologia (R.M.R.) and the Wellcome Trust (S.B.),1,Wellcome Trust,I87048295,no
 "Sponsorship: This work was supported by the following grants: Conselleria de Sanitat, Centro Superior de Investigación en Salud Pública (CSISP), Generalitat Valenciana; Ministerior de Sanidad y Consumo, Instituto de Salud ‘Carlos III’ (FIS), Redes temáticas de investigación Cooperativa (G03/005); Ministerio de Educación y Ciencia and FEDER (ref. BSO2002-00106) (Spain). B.R.DoC. was supported by grant SFRH/BD/4559/2001 of the Fundação Para a Ciência e a Tecnologia, Ministério da Ciência e da Tecnologia (Portugal)",1,,,no
 "Sport Physical Activity and Health Research & Innovation Center -SPRINT , Portugal ; FCT|UID / 6185/2025",1,,,no
-"Superior School of Education - Polytechnic Institute of Castelo Branco
-FCT and CI&DETS (Pest-OE/CED/UI4016/2011)",1,Polytechnic Institute of Castelo Branco,I144926016,no
+Superior School of Education - Polytechnic Institute of Castelo Branco FCT and CI&DETS (Pest-OE/CED/UI4016/2011),1,Polytechnic Institute of Castelo Branco,I144926016,no
 "Supported by Fundação de Ciência e Tecnologia, Ministério da Saúde, Portugal",1,Ministry of Health,I4210157859,no
 "Supported in part by a grant from the Science and Technology Foundation (FCT), Ministry of Science and Superior Education (MCES) and European Social Fund (ESF) under contract 8281/2002 granted to Dr. González-Méijome. Equipment acquisition was supported by the First International Conference of Optometry and Visual Sciences, University of Minho, Braga, Portugal, April 29–May 1, 2004",1,,,no
 "Sustain.RD, ESTSetubal Polytechnic Inst. Setubal, Portugal and FCT / Nova Lincs, NOVA University of Lisbon, Portugal",1,Universidade Nova de Lisboa | Universidade Politécnica de Setúbal | Laboratório para a Ciência da Computação e Informática,I83558840 I4210102653 I4405257428,no
@@ -1674,8 +1637,7 @@ UIED – FCT/Universidade Nova de Lisboa,1,Universidade Nova de Lisboa,I83558840
 "ULisboa, Faculdade de Ciências, Dept de Estatística e Investigação Operacional, and Centro de Matemática, Aplicações Fundamentais e Investigação Operacional (CMAF+CIO), Lisbon, Portugal",1,University of Lisbon,I141596103,no
 UNIARQ - Centro de Arqueologia da Universidade de Lisboa; Faculdade de Letras da Universidade de Lisboa; FCT,1,University of Lisbon | Centro de Arqueologia,I141596103 I4405257591,no
 UNIARQ -Centro de Arqueologia da Universidade de Lisboa; FCT resumen,1,University of Lisbon | Centro de Arqueologia,I141596103 I4405257591,no
-"UNIARQ/FLUL (Centro de Arqueologia da Universidade de Lisboa/Faculdade de Letras da Universidade de Lisboa) - LAQU (Laboratori d'Arqueologia Quantitativa da Universitat Autònoma de Barcelona)
-FCT Scholarship (Bolseiro da Fundação para a Ciência e Tecnologia)",1,University of Lisbon | Centro de Arqueologia,I141596103 I4405257591,no
+UNIARQ/FLUL (Centro de Arqueologia da Universidade de Lisboa/Faculdade de Letras da Universidade de Lisboa) - LAQU (Laboratori d'Arqueologia Quantitativa da Universitat Autònoma de Barcelona) FCT Scholarship (Bolseiro da Fundação para a Ciência e Tecnologia),1,University of Lisbon | Centro de Arqueologia,I141596103 I4405257591,no
 UNIARQ; CFUL; FCT,1,Centro de Arqueologia,I4405257591,no
 "UNIDEMI, DEMI, FCT-UNL 2829-516 Caparica",1,,,no
 "UNIDEMI, FCT, NOVA, Lisbon, Portugal",1,Universidade Nova de Lisboa,I83558840,no
@@ -1692,7 +1654,7 @@ UNIARQ; CFUL; FCT,1,Centro de Arqueologia,I4405257591,no
 "Unidade De I&d N° 70/94–Química-física Molecular/fct, Mct, Portugal",1,,,no
 "Unidade Departamental de Matemática e Física, Instituto Politécnico de Tomar Estrada da Serra - Quinta do Contador, 2300-313 Tomar, Portugal and Centro de Matemática e Aplicações (CMA), FCT, UNL, Portugal",1,Instituto Politécnico de Tomar | Centro de Matemática e Aplicações,I4210126619 I4405257427,no
 "Unidade de I&D nº70/94 , Química-Física Molecular/FCT , PEst-OE/QUI/UIOO / 700 / 2011 ;",1,,,no
-"Unidade de Investigac ¸ão em Eco-Etologia , Unidade FCT N o 331/94 ",1,,,no
+"Unidade de Investigac ¸ão em Eco-Etologia , Unidade FCT N o 331/94",1,,,no
 "Unidade de Investigação em Governança, Competitividade e Políticas Públicas da Universidade de Aveiro, financiado por fundos nacionais através da FCT/MCTES (PIDDAC) e co -financiado pelo Fundo Europeu de Desenvolvimento Regional (FEDER) através do COMPETE -Programa Operacional Fatores de Competitividade (POFC)",1,University of Aveiro,I60858718,no
 "Uninova and FCT, Universidade Nova de Lisboa, Monte Caparica, Portugal",1,Universidade Nova de Lisboa | Uninova,I83558840 I4210127031,no
 "Uninova at FCT, Monte da Caparica, Portugal",1,Uninova,I4210127031,no
@@ -1730,8 +1692,7 @@ Universidade de Lisboa#R##N#Instituto Superior de Ciências Sociais e Políticas
 "Universidade de Lisboa, Faculdade de Ciências, Departamento de Matemática, Centro de Matemática e Aplicações Fundamentais, Av. Prof. Gama Pinto 2, 1649-003 Lisboa, Portugal",1,University of Lisbon,I141596103,no
 "Universidade de Lisboa, Faculdade de Ciências, Departamento de Matemática, Centro de Matemática e Aplicações Fundamentais, Avenida Professor Gama Pinto, 2, 1649-003 Lisboa, Portugal",1,University of Lisbon,I141596103,no
 "Universidade de Lisboa, Faculdade de Ciências, Departamento de Matemática, Centro de Matemática e Aplicações Fundamentais, Lisboa, Portugal",1,University of Lisbon,I141596103,no
-"Universidade de Lisboa, Faculdade de Psicologia (doutorando)
-Fundação de Apoio à Ciência e à Tecnologia (bolsista)",1,University of Lisbon,I141596103,no
+"Universidade de Lisboa, Faculdade de Psicologia (doutorando) Fundação de Apoio à Ciência e à Tecnologia (bolsista)",1,University of Lisbon,I141596103,no
 "Universidade de Lisboa, Faculdade de Psicologia (doutorando)#R##N#Fundação de Apoio à Ciência e à Tecnologia (bolsista)",1,University of Lisbon,I141596103,no
 "Universidade de Passo Fundo , Faculdade de Agronomia e Medicina Veterinária , Programa de Pós Graduação em Ciência e Tecnologia de Alimentos E-mail para contato",1,Universidade de Passo Fundo,I16371252,no
 "Universidade de Évora, CHAIA [2023] – Research financed with Nacional Funds through FCT – Portuguese Foundation for Science and Technology, within the scope of the fallow projects: Ref.ª UIDB/00112/2020",1,University of Évora | Centro de História de Arte e Investigação Artística,I21803372 I4405254032,no
@@ -1780,7 +1741,7 @@ artista e investigadora do Instituto de História da Arte da Faculdade de Ciênc
 "b FCT, DQF, and CIQA, Universidade do Algarve , Faro , Portugal",1,University of Algarve | Centro de Investigacao em Quimica do Algarve,I71503853 I4405260240,no
 "b FCT, Universidade Nova de Lisboa, Quinta da Torre , 2825 , Monte da Caparica , Portugal",1,Universidade Nova de Lisboa,I83558840,no
 "barragem de Fundão. Simultaneamente, foram realizadas pesquisas",1,,,no
-"c FCT, Universidade do Algarve, Faro, Portugal",1,University of Algarve,I71503853,no
+"c FCT, Universidade do Algarve , Faro, Portugal",1,University of Algarve,I71503853,no
 cCMAF‐Centro de Matemática e Aplicações Fundamentais da Universidade Lisboa,1,University of Lisbon,I141596103,no
 "cCentro de Matemática e Aplicações Fundamentais, Faculdade de Ciências, Universidade de Lisboa, Av. Prof. Gama Pinto 2, 1649‐003 Lisboa, Portugal",1,University of Lisbon,I141596103,no
 chercheuse dans une unité FCT (WJCR et ISAMB),1,,,no

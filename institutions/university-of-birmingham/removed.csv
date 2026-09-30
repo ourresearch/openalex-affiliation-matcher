@@ -135,13 +135,12 @@ Doctoral Researcher Birmingham City University Birmingham United Kingdom,2,Birmi
 "STREET, BIRMINGHAM",2,,,no
 "School of English, University of Central England in Birmingham Birmingham B42 2SU, UK",2,Birmingham City University,I12870472,no
 "School of Medicine, Birmingham, USA",2,,,no
-"Southern University of Science and Technology
-University of Birmingham",2,,,no
+Southern University of Science and Technology University of Birmingham,2,,,no
 "The Department of Microbiology and The Institute of Dental Research, The University of Alabama in Birmingham, University Station, Birmingham, AL 35294, U.S.A",2,University of Alabama at Birmingham,I32389192,no
 "The Liver Unit, Queen Elizabeth Hospital Birmingham, University Hospitals Birmingham NHS Foundation Trust, Birmingham, United Kingdom",2,University Hospitals Birmingham NHS Foundation Trust | Queen Elizabeth Hospital Birmingham,I1308923049 I2799307867,no
 "Therapy Services, Queen Elizabeth Hospital Birmingham, University Hospitals Birmingham Foundation Trust, Birmingham, UK",2,University Hospitals Birmingham NHS Foundation Trust | Queen Elizabeth Hospital Birmingham,I1308923049 I2799307867,no
 "University Final Program, 52nd ACSM Annual Meeting of Birmingham, Birmingham, United Kingdom",2,,,no
-"University Hospital Birmingham Birmingham B15 2TH, UK ",2,University Hospitals Birmingham NHS Foundation Trust,I1308923049,no
+"University Hospital Birmingham Birmingham B15 2TH, UK",2,University Hospitals Birmingham NHS Foundation Trust,I1308923049,no
 "University Hospitals Birmingham, University Hospitals Birmingham, Birmingham, UK",2,University Hospitals Birmingham NHS Foundation Trust,I1308923049,no
 University Scholar Birmingham,2,,,no
 University of Aalabama at Birmingham,2,University of Alabama at Birmingham,I32389192,no
@@ -214,7 +213,7 @@ University of Birmingham NHS Foundation Trust,2,,,no
 "Birmingham , 2011",1,,,no
 "Birmingham , Birmingham ,",1,,,no
 "Birmingham , U.K",1,,,no
-Birmingham 15 ,1,,,no
+Birmingham 15,1,,,no
 Birmingham 28,1,,,no
 "Birmingham B15 2TT, UK 1 , ,",1,,,no
 "Birmingham B15 2TT, UK 19 , ,",1,,,no
@@ -594,21 +593,7 @@ Diabetes Translational Research Group Diabetes Centre Queen Elizabeth Hospital B
 "Division of Dental Biomaterials, Department of Clinical and Community Sciences, School of Dentistry, The University of Alabama at Birmingham, Birmingham, USA",1,University of Alabama at Birmingham,I32389192,no
 "Division of Medical Sciences, Institute of Biomedical Research, Endocrinology, Birmingham, UK",1,,,no
 "Division of Pediatric Plastic Surgery, Cleft and Craniofacial Center, University of Birmingham, Children’s of Alabama Hospital, Birmingham, AL, USA",1,Children's of Alabama,I320755355,no
-"Division of Surgical Oncology, The Ohio State University, 410 W 10th Avenue, N-924 Doan Hall, Columbus, OH 43210, USA, 
-
-bHuman Cancer Genetics Program, Comprehensive Cancer Center, The Ohio State University, 420 W 12th Avenue, Suite 646, Columbus, OH 43210, USA, 
-
-cDepartment of Internal Medicine, Universita di Modena, Via del Pozzo 71, 41100 Modena, Italy, 
-
-dDepartment of Medical Genetics, St Mary's Hospital, Hathersage Road, Manchester M13 0JH, UK, 
-
-eDepartment of Biochemistry, Tokyo Metropolitan Institute of Medical Sciences, 3-18-22 Honkomagome, Bunkyo-ku, Tokyo 113, Japan, 
-
-fDepartment of Pathology, Queen Mary Hospital, The University of Hong Kong, Pokfulam, Hong Kong, 
-
-gDepartment of Experimental Oncology, Istituto Nazionale Tumori, Via Venezian 1, 20133 Milano, Italy, 
-
-hSection of Medical and Molecular Genetics, Department of Paediatrics and Child Health, University of Birmingham, The Medical School, Edgbaston, Birmingham B15 2TT, UK",1,The Ohio State University | University of Modena and Reggio Emilia | University of Hong Kong | St Mary's Hospital | Tokyo Metropolitan Institute of Medical Science,I52357470 I122346577 I889458895 I4210087748 I4210098918,no
+"Division of Surgical Oncology, The Ohio State University, 410 W 10th Avenue, N-924 Doan Hall, Columbus, OH 43210, USA, bHuman Cancer Genetics Program, Comprehensive Cancer Center, The Ohio State University, 420 W 12th Avenue, Suite 646, Columbus, OH 43210, USA, cDepartment of Internal Medicine, Universita di Modena, Via del Pozzo 71, 41100 Modena, Italy, dDepartment of Medical Genetics, St Mary's Hospital, Hathersage Road, Manchester M13 0JH, UK, eDepartment of Biochemistry, Tokyo Metropolitan Institute of Medical Sciences, 3-18-22 Honkomagome, Bunkyo-ku, Tokyo 113, Japan, fDepartment of Pathology, Queen Mary Hospital, The University of Hong Kong, Pokfulam, Hong Kong, gDepartment of Experimental Oncology, Istituto Nazionale Tumori, Via Venezian 1, 20133 Milano, Italy, hSection of Medical and Molecular Genetics, Department of Paediatrics and Child Health, University of Birmingham, The Medical School, Edgbaston, Birmingham B15 2TT, UK",1,The Ohio State University | University of Modena and Reggio Emilia | University of Hong Kong | St Mary's Hospital | Tokyo Metropolitan Institute of Medical Science,I52357470 I122346577 I889458895 I4210087748 I4210098918,no
 "Divisions of Reproductive and Child Health (K.J.B., M.D.K.), Birmingham B15 2TT, United Kingdom",1,,,no
 "Doctor Jamison is professor, Birmingham",1,,,no
 "Doutor em Clinical Dentistry pela University of Birmingham UK Instituição: Universidade Federal da Bahia Endereço: Av Araújo Pinho, 62, Canela, Salvador -BA, CEP: 40110",1,Universidade Federal da Bahia,I126158947,no
@@ -795,7 +780,7 @@ NIHR Clinical Research Facility Birmingham University Hospitals Birmigham NHS Fo
 "Primary Care Clinical Sciences Building , Edgbaston , Birmingham , B15 2TT , UK",1,,,no
 "Professor of Building, College of Advanced Technology, Birmingham. University of Aston in Birminghan (designate), UK",1,Aston University,I169199633,no
 "Professor of Dentistry and Senior Scientist, Institute of Dental Research, School of Dentistry, University of Alabama in Birmingham, Birmingham, AL 35294",1,University of Alabama at Birmingham,I32389192,no
-"Professor of Medicine , Mason University College , Birmingham ",1,,,no
+"Professor of Medicine , Mason University College , Birmingham",1,,,no
 "Professor of Medicine and Cardiovascular Disease, Heersink School of Medicine, University of Alabama at Birmingham (UAB), Birmingham, United Kingdom",1,University of Alabama at Birmingham,I32389192,no
 "Professor of Medicine, Mason University College, Birmingham",1,,,no
 "Professor of Small Business, and Director of the Enterprise Research Centre, Department of Management, University of Central England in Birmingham, Perry Barr, Birmingham, B42 2SU E-mail: monder.ram@uce.ac.uk",1,Birmingham City University,I12870472,no
@@ -804,12 +789,7 @@ NIHR Clinical Research Facility Birmingham University Hospitals Birmigham NHS Fo
 "Queen Elisabeth Hospital Birmingham, University Hospitals Birmingham National Health Service Foundation Trust, Cancer Unit, Edgbaston Birmingham, United Kingdom (P.F.I., F.A.L.)",1,National Health Service | University Hospitals Birmingham NHS Foundation Trust | Queen Elizabeth Hospital Birmingham,I125671874 I1308923049 I2799307867,no
 "Queen Elizabeth Hospital Birmingham (University Hospital Birmingham NHS Foundation Trust) , Mindelsohn Way, Edgbaston, Birmingham, B15 2WB, UK",1,University Hospitals Birmingham NHS Foundation Trust | Queen Elizabeth Hospital Birmingham,I1308923049 I2799307867,no
 Queen Elizabeth Hospital Birmingham University Hospital Birmingham NHS Foundation Trust  Birmingham UK,1,Queen Elizabeth Hospital Birmingham,I2799307867,no
-"Queen Elizabeth Hospital Birmingham,
-University Hospitals Birmingham NHS Foundation Trust,
-Mindelsohn Way,
-Edgbaston,
-Birmingham
-B15 2WB",1,University Hospitals Birmingham NHS Foundation Trust | Queen Elizabeth Hospital Birmingham,I1308923049 I2799307867,no
+"Queen Elizabeth Hospital Birmingham, University Hospitals Birmingham NHS Foundation Trust, Mindelsohn Way, Edgbaston, Birmingham B15 2WB",1,University Hospitals Birmingham NHS Foundation Trust | Queen Elizabeth Hospital Birmingham,I1308923049 I2799307867,no
 "Queen Elizabeth Hospital Birmingham, Birmingham University Hospitals, Birmigham, U.K. Cancer Research Centre, University of Warwick, Warwick, U.K",1,University of Warwick | Queen Elizabeth Hospital Birmingham,I39555362 I2799307867,no
 "Queen Elizabeth Hospital Birmingham, University Hospital Birmingham NHS Foundation Trust, Birmingham",1,University Hospitals Birmingham NHS Foundation Trust | Queen Elizabeth Hospital Birmingham,I1308923049 I2799307867,no
 "Queen Elizabeth Hospital Birmingham, University Hospital Birmingham NHS Foundation Trust, Birmingham, United Kingdom. 2",1,University Hospitals Birmingham NHS Foundation Trust | Queen Elizabeth Hospital Birmingham,I1308923049 I2799307867,no
@@ -857,7 +837,7 @@ Queen Elizabeth Hospital/Univ. of Birmingham (United Kingdom),1,Queen Elizabeth 
 "Rheumatology Research Group, Department of Inflammation and Ageing, Birmingham B15 2TT, UK",1,,,no
 "Rheumatology, Queen Elizabeth Hospital Birmingham, University Hospitals Birmingham, Birmingham, UNITED KINGDOM",1,Queen Elizabeth Hospital Birmingham,I2799307867,no
 "Ritika Rana MBBS MRCP is a Renal Registrar at the Queen Elizabeth Hospital Birmingham, University Hospitals Birmingham NHS Foundation Trust, UK. Competing interests: none declared",1,University Hospitals Birmingham NHS Foundation Trust | Queen Elizabeth Hospital Birmingham,I1308923049 I2799307867,no
-"Road , Edgbaston , Birmingham B15 2TT ) ",1,,,no
+"Road , Edgbaston , Birmingham B15 2TT )",1,,,no
 "Royal Birmingham Conservatoire , Birmingham City University , Birmingham and UK ;",1,Birmingham City University | Royal Birmingham Conservatoire,I12870472 I4405257679,no
 "Royal Birmingham Conservatoire, Birmingham City University, 200 Jennens Road, Birmingham B4 7XR, UK",1,Birmingham City University | Royal Birmingham Conservatoire,I12870472 I4405257679,no
 "Royal Orthopaedic Hospital, Birmingham, University Hospital, Selly Oak, Birmingham,",1,Selly Oak Hospital | Royal Orthopaedic Hospital,I2799661921 I2801914139,no
@@ -885,7 +865,7 @@ School of Engineering and Applied ScienceAston University Birmingham UK,1,Aston 
 School of Nursing Midwifery and Social Work Birmingham City University Edgbaston UK,1,Birmingham City University,I12870472,no
 "School of Nursing Studies, University of Central England, Westbourne Road, Edgbaston, Birmingham",1,,,no
 "School of Nursing University of Alabama-Birmingham, UK",1,University of Alabama at Birmingham,I32389192,no
-"School of Pharmacy, College of Health and Life SciencesAston UniversityBirminghamUK",1,Aston University,I169199633,no
+"School of Pharmacy, College of Health and Life SciencesAston University Birmingham UK",1,Aston University,I169199633,no
 "School of Property, Construction and Planning, Birmingham City University, Birmingham, B42 2SU, UK E-mail: peter.larkham@bcu.ac.uk",1,Birmingham City University,I12870472,no
 School of Public Health University of Alabama at Birmingham UK,1,University of Alabama at Birmingham,I32389192,no
 "School of Public Health, University of Birmingham, AL",1,,,no
@@ -931,8 +911,7 @@ UK Birmingham,1,,,no
 "Ulster University, Birmingham Campus, Birmingham, UK",1,University of Ulster,I138801177,no
 "Undergraduate Student, School of Visual Communication. Birmingham City University, Birmingham, United Kingdom",1,Birmingham City University,I12870472,no
 "Unit of Lung Investigation, NHS Foundation Trust, Queen Elizabeth Hospital Birmingham, University Hospitals of Birmingham, Birmingham, UK",1,Queen Elizabeth Hospital Birmingham,I2799307867,no
-"Universitas Trunojoyo Madura
-University of Birmingham",1,Universitas Trunodjoyo Madura,I3132710747,no
+Universitas Trunojoyo Madura University of Birmingham,1,Universitas Trunodjoyo Madura,I3132710747,no
 University Department of Surgery Dudley Road Hospital Birmingham B18 7QH UK,1,Birmingham City Hospital,I2799802789,no
 "University Department of Surgery, Queen Elizabeth Medical Centre. Birmingham B15 2TH, UK",1,Queen Elizabeth Hospital Birmingham,I2799307867,no
 "University Hospital Birmingham & Institute of Translational Medicine, Edgbaston, Birmingham, UK. Electronic address: Wasim.Hanif@uhb.nhs.uk",1,University Hospitals Birmingham NHS Foundation Trust,I1308923049,no
@@ -970,8 +949,8 @@ University of Birmingham Hospitals NHS Trust,1,University Hospitals Birmingham N
 University of Birmingham at Alabama,1,University of Alabama at Birmingham,I32389192,no
 "University of Birmingham at Alabama, Department of Biology, Birmingham, AL 35294-1170, USA,",1,University of Alabama at Birmingham,I32389192,no
 "University of California, Wolfson EQA Laboratory, Institute of Research and Development, University of Birmingham Hospital NHS Trust,",1,,,no
-"University of Central England Business SchoolBirminghamUK",1,Birmingham City University,I12870472,no
-"University of Central England in Birmingham, WestbourneRoad Campus, Edgbaston, Birmingham B15 3TN",1,Birmingham City University,I12870472,no
+University of Central England Business School Birmingham UK,1,Birmingham City University,I12870472,no
+"University of Central England in Birmingham, Westbourne Road Campus, Edgbaston, Birmingham B15 3TN",1,Birmingham City University,I12870472,no
 "University of Exeter, Birmingham, B4 7ET",1,University of Exeter,I23923803,no
 "University of Law Business School, Birmingham, United Kingdom",1,,,no
 "University of Nottingham, Nottingham; Univeristy of Dundee, Dundee; University of Sheffield, Sheffield; Royal Liverpool University Hospital, Liverpool; King's Mill Hospital, Nottingham; Leeds General Infirmary, Leeds; Weston Park Hospital, Sheffield; Leicester Royal Infirmary, Leicester; Royal Bournemouth & Christchurch NHS Foundation; Poole Hospital NHS Foundation Trust; University of Birmingham; Royal Derby Hospital; Derriford Hospital; AstraZeneca; Cardiff University",1,Cardiff University | University of Sheffield | University of Nottingham | University of Dundee | Leeds General Infirmary | Leicester Royal Infirmary | Royal Liverpool University Hospital | Poole Hospital NHS Foundation Trust,I79510175 I91136226 I142263535 I177639307 I1295121038 I2800281165 I2802775644 I4210136519,no
@@ -1010,5 +989,5 @@ k Birmingham,1,,,no
 s.bull@bham.ac.uk,1,,,no
 "the Department of Orthopaedic Surgery, The Johns Hopkins University School of Medicine, Baltimore, MD (Aiyer and LaPorte), Drexel University College of Medicine, Columbia Business School, Philadelphia, PA (Mody), The University of Alabama at Birmingham School of Medicine, Birmingham, AL (Dib), The Hoag Orthopaedic Specialty Institute, Orange, CA (Kaplan), Penn Highlands Healthcare System, Du Bois, PA (Varacallo), and the Department of Orthopaedic Surgery, Columbia University, New York, NY (Levine)",1,University of Alabama at Birmingham | Drexel University | Columbia University | Johns Hopkins University | Johns Hopkins Medicine | Penn Highlands Healthcare | UAB Medicine,I32389192 I72816309 I78577930 I145311948 I2799853436 I4210102094 I4390039250,no
 "the Department of Sport and Exercise Science, University of Binninpham, B15 2TT, UK",1,,,no
-" University of Alabama at Birmingham, UK",1,University of Alabama at Birmingham,I32389192,no
+"University of Alabama at Birmingham, UK",1,University of Alabama at Birmingham,I32389192,no
 "‡ Department of Medicine Birmingham, England",1,,,no

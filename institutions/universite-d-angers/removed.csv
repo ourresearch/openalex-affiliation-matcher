@@ -514,7 +514,7 @@ INSERM Unit 1063  Angers France,2,Inserm,I154526488,no
 "Intensive Care Unit, Angers Teaching Hospital, Angers, France",2,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Intensive Care Unit, Angers University Hospital, Angers, France",2,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Internal Medicine Department, Angers University Hospital, Angers, France",2,Centre Hospitalier Universitaire d'Angers,I4210112910,no
-"LCABIE/CNRS UMR 5034 1 , 2, Avenue P. Angot, 64053Pau Cedex 9, France ",2,Centre National de la Recherche Scientifique,I1294671590,no
+"LCABIE/CNRS UMR 5034 1 , 2, Avenue P. Angot, 64053Pau Cedex 9, France",2,Centre National de la Recherche Scientifique,I1294671590,no
 "LUNAM Université - Micro et Nanomédecines Biomimétiques, F-49933 Angers, France; INSERM U1066, IBS-CHU, 4 Rue Larrey, F-49933 Angers Cedex 9, France",2,Inserm | Université Nantes Angers Le Mans | Micro et Nanomédecines translationnelles,I154526488 I234216984 I4387153258,yes
 LUNAM Université GEROM‐LHEA Institut de Biologie en Santé Angers France,2,Université Nantes Angers Le Mans,I234216984,no
 "LUNAM Université — Micro et Nanomédecines Biomimétiques, F-49933 Angers, France",2,Université Nantes Angers Le Mans | Micro et Nanomédecines translationnelles,I234216984 I4387153258,yes
@@ -581,7 +581,7 @@ Poison Control Center Angers University Hospital Angers France,2,Centre Hospital
 "Poison Control Centre, Angers University Hospital CHU Angers, Angers, France",2,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Private Practice, Angers, France",2,,,no
 "Prof. (Angers, France)",2,,,no
-"Psychiatre , Angers ",2,,,no
+"Psychiatre , Angers",2,,,no
 "Pulmonary Dept, Angers University Hospital, Angers, France",2,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Pôle de  Neurosciences - Service de Gériatrie [Angers] (4 Rue Larrey, 49100 Angers. - France)",2,,,no
 "Reproductive Biology Unit, Angers University Hospital, Angers 49000, France",2,Centre Hospitalier Universitaire d'Angers,I4210112910,no
@@ -640,21 +640,11 @@ University Hospital of Angers Angers France,2,,,no
 "Virology Department, Angers University Hospital, Angers, France; HIFIH Laboratory EA 3859, LUNAM, Angers, France",2,Université Nantes Angers Le Mans | Centre Hospitalier Universitaire d'Angers,I234216984 I4210112910,no
 "hematology department Angers, Angers, France,",2,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "the Department of Digestive Surgery, Angers University Hospital, Angers, France",2,Centre Hospitalier Universitaire d'Angers,I4210112910,no
-"
-	Université populaire de parents, Angers.
-	",1,,,no
-"
- Université d’AngersLaboratoire Ligérien de Linguistique - UMR 7270
-",1,Laboratoire Ligérien de Linguistique,I4387152351,no
-"
-Angers
-",1,,,no
-"
-CFPPA d’Angers
-",1,,,no
-"
-UCO, Angers
-",1,Université catholique de l'ouest,I32956416,no
+"Université populaire de parents, Angers.",1,,,no
+Université d’AngersLaboratoire Ligérien de Linguistique - UMR 7270,1,Laboratoire Ligérien de Linguistique,I4387152351,no
+Angers,1,,,no
+CFPPA d’Angers,1,,,no
+"UCO, Angers",1,Université catholique de l'ouest,I32956416,no
 """Grand Ouest"" Poison Control Center, University Hospital of Angers, 4 Rue Larrey, F-49933, Angers 9, France",1,,,no
 "#Division of Anaesthesiology and Reanimation, University Hospital Angers, Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "#N#1#N#Department of Ophthalmology, LUNAM University, Angers Hospital, Angers, France#N#",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
@@ -672,7 +662,7 @@ UCO, Angers
 ") Department of Genetics , Centre Angers University Hospital , Angers , France (",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 ) Département universitaire de santé publique - CHU Angers - UFR Médecine Angers -Rue Haute de Reculée - 49045 Angers cedex 09 . (,1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 ) Médecin généraliste -Chargée d' enseignement à l'UFR médecine d'Angers - 49045 Angers . (,1,,,no
-) Pôle des spécialités et des neurosciences -service d'ORL -CHU Angers - 49933 Angers cedex 09 ,1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
+) Pôle des spécialités et des neurosciences -service d'ORL -CHU Angers - 49933 Angers cedex 09,1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 ")UFR médecine, rue Haute de reculée, 49045 Angers, France",1,,,no
 "*Liver-Gastroenterology Department, CHU Angers †HIFIH Laboratory, LUNAM University, Angers ‡Liver-Gastroenterology Department, University Hospital §INSERM/UJF U823, IAPC, IAB, University, Grenoble ∥Liver-Gastroenterology Unit, University Hospital, Pessac ¶INSERM U1053, Bordeaux University, Bordeaux, France",1,Inserm | Université Joseph Fourier | Centre Hospitalier Universitaire d'Angers | Institut pour l'avancée des biosciences,I154526488 I177483745 I4210112910 I4210160510,no
 ", Angers, Rennes, France",1,,,no
@@ -1094,8 +1084,7 @@ Angevin Research Laboratory in Systems Engineering Angers France,1,,,no
 "Bacteriology department, Universitary Hospital, Larrey St, Angers, 49000, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Bacteriology, Academic Hospital, Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Besançon, the Medical Intensive Care Unit, University Hospital of Angers, Angers",1,,,no
-"Bibliothèque municipale d'Angers (Direction des Bibliothèques municipales d’Angers
-49 rue Toussaint - 49100 Angers - France)",1,,,no
+Bibliothèque municipale d'Angers (Direction des Bibliothèques municipales d’Angers 49 rue Toussaint - 49100 Angers - France),1,,,no
 "Biobank Resource Center, CHU Angers, University Hospital of Angers, 4 rue Larrey, Cedex 9, BB-0033-00038, 49333, France; University Angers Nantes Université CHU Angers INSERM CNRS CRCI2NA SFR ICAT, Cedex 9, Angers 49333, France",1,Nantes Université | Inserm | Centre de Recherche en Cancérologie et Immunologie Intégrée Nantes Angers | Centre Hospitalier Universitaire d'Angers,I97188460 I154526488 I4210092509 I4210112910,yes
 "Biochemistry Department (G.S.), Angers University Hospital, 49933 Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 Biochemistry Department Angers University Hospital Angers France,1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
@@ -1636,8 +1625,7 @@ Department of Cardiology Angers,1,,,no
 "Department of Cell and Tissue Pathology, Angers University Hospital Center, Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Department of Cell and Tissue Pathology, Angers University Hospital, 4, rue Larrey, 49933 Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Department of Cellular and Tissue Pathology, University Hospital, Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
-"Department of Cellular and Tissular Pathology, Angers University Hospital
-AngersFrance",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
+"Department of Cellular and Tissular Pathology, Angers University Hospital AngersFrance",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Department of Child Psychiatry, Angers University Hospital, Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Department of Child and Adolescent Psychiatry C.H.U Angers, Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 Department of Child and Adolescent Psychiatry University Hospital of Angers Angers France,1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
@@ -1870,8 +1858,7 @@ Department of Hematology University Hospital Angers France,1,Centre Hospitalier 
 "Department of Hematology, CHU Angers, Angers, France. jerome.paillassa@chu-angers.fr",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Department of Hematology, INSERM U892/CNRS 6299, Angers University Hospital, Angers, France",1,Inserm | Centre National de la Recherche Scientifique | Centre Hospitalier Universitaire d'Angers,I154526488 I1294671590 I4210112910,no
 "Department of Hematology, Regional University Hospital Angers (Bocage Hospital), Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
-"Department of Hematology, University Hospital Center,
-Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
+"Department of Hematology, University Hospital Center, Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Department of Hematology, University Hospital, INSERM U892/CNRS 6299, Angers, France",1,Inserm | Centre National de la Recherche Scientifique,I154526488 I1294671590,no
 "Department of Hepato Gastroenterology Angers University Hospital, CHU d'Angers  Angers France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 Department of Hepato-Gastroenterology University Hospital Angers France,1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
@@ -2522,7 +2509,7 @@ Department of Urology Angers University Hospital France,1,Centre Hospitalier Uni
 "Department of Urology, Angers Hospital, Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Department of Urology, Angers University Hospital",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Department of Urology, Angers University Hospital , Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
-"Department of Urology, Angers University Hospital , Angers, France ",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
+"Department of Urology, Angers University Hospital , Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Department of Urology, Angers University Hospital, 4 rue Larrey, 49100, Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Department of Urology, Angers University Hospital, 4 rue Larrey, 49100, Angers, France. pa.l3rx@gmail.com",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Department of Urology, Angers University Hospital, 4 rue Larrey, Angers 49100, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
@@ -2744,8 +2731,7 @@ Dermatology Department University Hospital of Angers Angers France,1,Centre Hosp
 "Diabetes Unit, Medical Department B, University Hospital Angers",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Diabetes Unit, Medical Department B, and the Pediatric Department B, Regional University Hospital Angers, France",1,,,no
 Diabetology Department Angers University Hospital  Angers France,1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
-"Diabetology, University Hospital Centre Angers, Angers,
-                    France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
+"Diabetology, University Hospital Centre Angers, Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Diabetology-Medecine B, University Hospital, 4, rue Larrey, 49033 Angers Cedex, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Diag-gen, Angers, France",1,,,no
 "Digestive Surgery Department, Angers University Hospital, Angers 49100, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
@@ -3036,7 +3022,7 @@ From the Departments of Biological Sciences and annie.angers@umontreal.ca,1,,,no
 "GEROM (Groupe Etudes Remodelage Osseux et bioMatériaux), LHEA (Laboratoire d'Histologie Embryologie) IBS (Institut de Biologie en Santé), CHU d'Angers, LUNAM Université, 49933 Angers Cedex-France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "GEROM (Groupe Etudes Remodelage Osseux et bioMatériaux), LHEA (Laboratoire d'Histologie Embryologie) IBS (Institut de Biologie en Santé), CHU d'Angers, LUNAM Université, 49933 Angers Cedex—France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "GEROM - NextBone, IRIS-IBS Institut de Biologie en Santé, CHU d'Angers, 49933, Angers Cedex, France. daniel.chappard@univ-angers.fr",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
-"GEROM Groupe Etudes RemodelageOsseux et bioMatériaux−LHEA, IRIS-IBS Institut de Biologieen Santé, LUNAM Université, CHU d’Angers, 49933 Angers Cedex, France",1,Université Nantes Angers Le Mans,I234216984,no
+"GEROM Groupe Etudes Remodelage Osseux et bioMatériaux−LHEA, IRIS-IBS Institut de Biologie en Santé, LUNAM Université, CHU d’Angers, 49933 Angers Cedex, France",1,Université Nantes Angers Le Mans,I234216984,no
 "GEROM Groupe Etudes Remodelage Osseux et BioMatériaux-LHEA, IRIS-IBS Institut de Biologie en Santé, CHU d'Angers, LUNAM Université, 49933, Angers Cedex, France",1,Université Nantes Angers Le Mans | Centre Hospitalier Universitaire d'Angers,I234216984 I4210112910,no
 "GEROM Groupe Etudes Remodelage Osseux et BioMatériaux-LHEA, IRIS-IBS Institut de Biologie en Santé, CHU d'Angers, LUNAM Université, 49933, Angers Cedex, France. daniel.chappard@univ-angers.fr",1,Université Nantes Angers Le Mans | Centre Hospitalier Universitaire d'Angers,I234216984 I4210112910,no
 "GEROM Groupe Etudes Remodelage Osseux et bioMatériaux - LHEA, IRIS-IBS Institut de Biologie en Santé, CHU d'Angers, LUNAM Université, 49933 ANGERS Cedex, France",1,Université Nantes Angers Le Mans | Centre Hospitalier Universitaire d'Angers,I234216984 I4210112910,no
@@ -3520,7 +3506,7 @@ Infectious Diseases Department Angers University Hospital Angers France,1,Centre
 "Infectious Diseases Department, Angers Teaching Hospital, 49033, Angers cedex 1, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Infectious Diseases Department, Angers University Hospital, Angers FR-49100, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Infectious Diseases Department, Angers University Hospital, Angers, France. Electronic address: Rafael.mahieu@chu-angers.fr",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
-"Infectious Diseases Department,Angers University Hospital,Angers,France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
+"Infectious Diseases Department,Angers University Hospital, Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Infectious Diseases and Intensive Care Unit, Pontchaillou Hospital, University Hospital of Rennes, Rennes, France; Intensive Care Unit, University Hospital of Angers, Angers, France. Electronic address: david.luque.paz@chu-rennes.fr",1,Hôpital Pontchaillou | Centre Hospitalier Universitaire de Rennes,I4210124872 I4210155724,no
 "Infectious Diseases and Tropical Medicine Department, Angers University Hospital , 4, rue Larrey, Angers 49100 ,",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Infectious Diseases and Tropical Medicine Department, University Hospital of Angers, Angers, France. Electronic address: pierre.danneels@chu-angers.fr",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
@@ -3762,7 +3748,7 @@ LUNAM Neurology Department University Hospital Angers France,1,Centre Hospitalie
 "LUNAM University , Angers , France",1,,,no
 LUNAM University Hospital Angers,1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "LUNAM University, 49000 Angers, France",1,,,no
-"LUNAM University, Angers , France ",1,,,no
+"LUNAM University, Angers , France",1,,,no
 "LUNAM University, Angers >  >  >  >",1,,,no
 "LUNAM University, Angers, F-49000, France",1,,,no
 "LUNAM University, Angers, France ;",1,,,no
@@ -3891,7 +3877,7 @@ LUNAM Université – Equipe MINT: micro et nanomédecines biomimétiques IBS‐
 "LUNAM Université-Micro et Nanomédecines Biomimétiques, F-49933 Angers, France; INSERM U1066, IBS-CHU, 4 rue Larrey, F-49933 Angers Cedex 9, France",1,Inserm | Micro et Nanomédecines translationnelles,I154526488 I4387153258,yes
 "LUNAM Université-Micro et Nanomédecines Biomimétiques, F-49933 Angers, France; INSERM U1066, IBS-CHU, 4 rue Larrey, F-49933 Angers Cedex 9, France. Electronic address: jean-pierre.benoit@univ-angers.fr",1,Inserm | Micro et Nanomédecines translationnelles,I154526488 I4387153258,yes
 LUNAM Université; CHU Angers; Dermatology Department; 4 Rue Larrey 49933 Angers France,1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
-"LUNAM Université—Micro et Nanomédecines Biomimétiques, F-49933Angers, France",1,Micro et Nanomédecines translationnelles,I4387153258,yes
+"LUNAM Université—Micro et Nanomédecines Biomimétiques, F-49933 Angers, France",1,Micro et Nanomédecines translationnelles,I4387153258,yes
 "LUNAM université, 49100 Angers, France",1,,,no
 "LUNAM université, 49993 Angers, France",1,,,no
 "LUNAM université, GEROM-LHEA groupe études remodelage osseux et biomatériaux, IRIS-IBS institut de biologie en santé, CHU d'Angers, Angers cedex, France. daniel.chappard@univ-angers.fr",1,Université Nantes Angers Le Mans | Centre Hospitalier Universitaire d'Angers,I234216984 I4210112910,no
@@ -3969,9 +3955,7 @@ Laboratoire d'Anatomie Pathologique Angers France,1,,,no
 "Laboratoire d'anatomie, CRCINA, UMR 1232 Inserm/CNRS, CHU Angers, neurochirurgie, Angers, France",1,Inserm | Centre National de la Recherche Scientifique | Centre Hospitalier Universitaire d'Angers,I154526488 I1294671590 I4210112910,no
 "Laboratoire d'ergonomie et d'épidémiologie en santé au travail (LEEST), faculté de médecine d'Angers, université LUNAM, 49100 Angers, France",1,Université Nantes Angers Le Mans,I234216984,no
 "Laboratoire d'explorations fonctionnelles vasculaires, CHU d'Angers, France; Unité mixte de recherche INSERM 1083- CNRS 6015, Faculté de Médecine, Angers, France. Electronic address: piabraham@chu-angers.fr",1,Inserm | Centre National de la Recherche Scientifique | Centre Hospitalier Universitaire d'Angers,I154526488 I1294671590 I4210112910,no
-"Laboratoire d'histocompatibilité et d'immunogénétique [Angers] (EFS Angers
-16 Boulevard Mirault
-49103 ANGERS - France)",1,,,no
+Laboratoire d'histocompatibilité et d'immunogénétique [Angers] (EFS Angers 16 Boulevard Mirault 49103 ANGERS - France),1,,,no
 "Laboratoire d'hématologie biologique, Upres EA-3863, Angers. JeGerard@chu-angers.fr",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Laboratoire d'hématologie, centre hospitalouniversitaire d'Angers, Angers",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Laboratoire dIngénierie des Systèmes Automatisés-(LISA), LUNAM Université, Angers, France",1,Université Nantes Angers Le Mans,I234216984,no
@@ -4225,7 +4209,7 @@ Methodology and Biostatistics Department Angers University Hospital Angers Franc
 "Methodology and Biostatistics department, University Hospital of Angers UNAM, Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Methodology and Statistics Department, Angers University Hospital, Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Micro & Nanomédecines Translationelles-MINT , UNIV Angers , INSERM U1066 , CNRS UMR 6021 , UBL Université Bretagne Loire , Angers , F-49933 , France",1,Inserm | Centre National de la Recherche Scientifique | Université Bretagne Loire | Micro et Nanomédecines translationnelles,I154526488 I1294671590 I4210149833 I4387153258,yes
-"Micro etNanomédecines Biomimétiques, LUNAM Université, F-49933 Angers, France",1,Université Nantes Angers Le Mans | Micro et Nanomédecines translationnelles,I234216984 I4387153258,yes
+"Micro et Nanomédecines Biomimétiques, LUNAM Université, F-49933 Angers, France",1,Université Nantes Angers Le Mans | Micro et Nanomédecines translationnelles,I234216984 I4387153258,yes
 "Micro et Nanomédecines Biomimétiques (MINT), LUNAM Université, 49933, Angers, France",1,Université Nantes Angers Le Mans | Micro et Nanomédecines translationnelles,I234216984 I4387153258,yes
 "Micro et Nanomédecines Biomimétiques (MINT), LUNAM Université, 49933, Angers, France. claudia.montero-menei@univ-angers.fr",1,Université Nantes Angers Le Mans | Micro et Nanomédecines translationnelles,I234216984 I4387153258,yes
 "Micro et Nanomédecines Biomimétiques-MINT, INSERM U 1066, Angers F-49933, France. guillaume.bastiat@univ-angers.fr",1,Inserm | Micro et Nanomédecines translationnelles,I154526488 I4387153258,yes
@@ -4310,8 +4294,7 @@ Neuromuscular Reference Center Angers University Hospital Angers France,1,Centre
 "Neuropediatric Department, Angers Hospital, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Neuropediatric Department, University Hospital, Angers",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Neuropediatric Department, University Hospital, Angers, France. yann.mikaeloff@tnn.ap-hop-paris.fr",1,,,no
-"Neuropsychological Unit, Department of Neurology, University Hospital of Angers,
-Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
+"Neuropsychological Unit, Department of Neurology, University Hospital of Angers, Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Neuropsychology unit, Department of Neurology, Angers University Hospital, 49000 Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Neurosurgery (P.M.), 49000 Angers, France",1,,,no
 Neurosurgery Department Angers University Hospital  Angers France,1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
@@ -4493,7 +4476,7 @@ Pharmacology Department – Laboratory Angers University Hospital Angers France,
 "Pharmacy Department, CHU Angers, Angers University Hospital, Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Pharmacy Department, CHU Angers, Angers University Hospital, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Pharmacy Department, University hospital of angers,",1,,,no
-"Pharmacy Department,Angers University Hospital,Angers,France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
+"Pharmacy Department,Angers University Hospital, Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Pharmacy department, University Hospital of Angers, 4, rue Larrey, 49933 Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Pharmacy department, University Hospital of Angers, 4, rue Larrey, 49933 Angers, France; Laboratoire éducations et pratiques de santé, université de Paris 13, 93017 Bobigny, Île-de-France, France",1,Université Sorbonne Paris Nord | Centre Hospitalier Universitaire d'Angers,I4210091279 I4210112910,no
 "Pharmacy, Angers University Hospital, Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
@@ -5188,7 +5171,7 @@ University Hospital Orthopaedic Department Angers France,1,,,no
 "University Hospital and HIFIH Lab (UE3859), Angers, France",1,,,no
 "University Hospital of Angers , France, Angers ,",1,,,no
 "University Hospital of Angers - France, MINT UMR INSERM 1066/CNRS 6021 Health University, Pharmacy Department, France",1,Inserm | Centre National de la Recherche Scientifique | Micro et Nanomédecines translationnelles,I154526488 I1294671590 I4387153258,yes
-"University Hospital of Angers 4 Department of Pharmacology and Toxicology, , France ",1,,,no
+"University Hospital of Angers 4 Department of Pharmacology and Toxicology, , France",1,,,no
 University Hospital of Angers > Occupational Health Department,1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "University Hospital of Angers Department of Anesthesiology, , 4 rue Larrey , Angers 49933,",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "University Hospital of Angers Department of Cardiac Surgery, , 4 rue Larrey , Angers 49933,",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
@@ -5242,14 +5225,11 @@ University Hospital of Angers Department of Paediatric Surgery,1,Centre Hospital
 "University Hospital, INSERM U892, Angers, France",1,Inserm | Centre Hospitalier Universitaire d'Angers,I154526488 I4210112910,no
 "University Hospital, Lab Physiology and Vascular Investigations, 49000 Angers, France",1,,,no
 "University Hospital, Liver-Gastroenterology Department , 49933 Angers Cedex 09 , France +33 2 41 35 34 10 ; +33 2 41 35 41 19 ; JeBoursier@chu-angers.fr",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
-"University Hospital, Liver-Gastroenterology Department,
-49933 Angers Cedex 09, France +33 2 41 35 34 10",1,,,no
+"University Hospital, Liver-Gastroenterology Department, 49933 Angers Cedex 09, France +33 2 41 35 34 10",1,,,no
 "University Hospital, Liver-Gastroenterology Department, 49933 Angers Cedex 09, France+33 2 41 35 34 10; +33 2 41 35 41 19; JeBoursier@chu-angers.fr;HIFIH laboratory, SFR 4038, LUNAM University, Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
-"University Hospital, Pathology Department,
-Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
+"University Hospital, Pathology Department, Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "University Hospital, Poisons and Toxicovigilance Centre, Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
-"University Hospital, Radiology Department,
-Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
+"University Hospital, Radiology Department, Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "University Hospital, Sports Medicine Unit, Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "University Institute of Technology Angers (IUT) , Angers , France",1,,,no
 "University Medical School, UNAM, Angers, France",1,,,no
@@ -5430,7 +5410,7 @@ and Angers University Hospital (Dr Roquelaure),1,,,no
 "b Department of Cardio-Vascular and Thoracic surgery, University Hospital, 49033 Angers cedex 01, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "bDepartment of Radiology (J.-B.G.), Angers University Hospital, Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "bDivision of Cardiac Surgery, Angers University Hospital, Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
-"bUniversity Hospital Angers, Laboratoryof Bacteriology, France",1,,,no
+"bUniversity Hospital Angers, Laboratory of Bacteriology, France",1,,,no
 "c Department of Surgical Intensive Care Unit B, University Hospital of Angers, Angers, France",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 chercheur à ESO Angers (UMR CNRS 6590)[philippe.violier@univ-angers.fr],1,Centre National de la Recherche Scientifique | Espaces et Sociétés,I1294671590 I4387153532,yes
 "chu angers , angers,",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
@@ -5482,7 +5462,6 @@ nina.aubry@univ-angers.fr,1,,,no
 "†INSERM Unit 892, 49933 Angers, France;",1,Inserm,I154526488,no
 "∥∥Department of Digestive Surgery, University Hospital Center of Angers, Angers",1,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "CHU Angers, Cell and tissue pathology, Bone pathology unit, F-49000 Angers, France;",0,Centre Hospitalier Universitaire d'Angers,I4210112910,no
-"Department of Virology, Angers University Hospital, 4 Rue Larrey, 49933
-, Angers, France",0,Centre Hospitalier Universitaire d'Angers,I4210112910,no
+"Department of Virology, Angers University Hospital, 4 Rue Larrey, 49933 , Angers, France",0,Centre Hospitalier Universitaire d'Angers,I4210112910,no
 "Univ Angers, Institut Agro, INRAE, IRHS, SFR QUASAV, Angers;",0,"Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement | Institut de Recherche en Horticulture et Semences",I4210088668 I4210125447,yes
 "Univ Angers, Nantes Universite, Oniris, Inserm, RMeS, REGOS, SFR ICAT, F-49000 Angers, France;",0,Nantes Université | Inserm | Oniris,I97188460 I154526488 I4210157468,no

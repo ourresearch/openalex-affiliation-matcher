@@ -46,7 +46,7 @@ Limoges/FR,17,,,no
 SPCTS,15,Institut de Recherche sur les Céramiques,I4210153401,yes
 "de Limoges, France",15,,,no
 "Independent Researcher , Limoges , France;",14,,,no
-"Limoges , PULIM , 2007 , 437 p ",13,,,no
+"Limoges , PULIM , 2007 , 437 p",13,,,no
 "Department of Dermatology, Limoges University Hospital, Limoges, France",12,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 Centre Européen de la Céramique (CEC),9,Centre Européen de la Céramique,I4210142900,no
 "Department of Neurology, Limoges University Hospital, Limoges, France",9,Centre Hospitalier Universitaire de Limoges,I4210118469,no
@@ -474,31 +474,15 @@ de Limoges France,2,,,no
 "de Limoges, Limoges, France",2,,,no
 "limoges, France",2,,,no
 "rin, 87036 Limoges, France",2,,,no
-"
-					Professeur à la Faculté de Droit et des Sciences économiques de Limoges, O.M.I.J. - Limoges
-				",1,Observatoire des Mutations Institutionnelles et Juridiques,I4405253890,yes
-"
-ALSEA 87 – Limoges",1,,,no
-"
-Professeur à la Faculté de Droit et des Sciences économiques de Limoges, O.M.I.J. - Limoges
-",1,Observatoire des Mutations Institutionnelles et Juridiques,I4405253890,yes
-"
-Professeur à la Faculté de Droit et des Sciences économiques de Limoges, O.M.I.J. – Limoges
-",1,Observatoire des Mutations Institutionnelles et Juridiques,I4405253890,yes
+"Professeur à la Faculté de Droit et des Sciences économiques de Limoges, O.M.I.J. - Limoges",1,Observatoire des Mutations Institutionnelles et Juridiques,I4405253890,yes
+ALSEA 87 – Limoges,1,,,no
+"Professeur à la Faculté de Droit et des Sciences économiques de Limoges, O.M.I.J. - Limoges",1,Observatoire des Mutations Institutionnelles et Juridiques,I4405253890,yes
+"Professeur à la Faculté de Droit et des Sciences économiques de Limoges, O.M.I.J. – Limoges",1,Observatoire des Mutations Institutionnelles et Juridiques,I4405253890,yes
 "#N# 1Limoges University Hospital Center, Limoges, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "(CNRS, UMR 6615), Equipe Composants et Circuits Microélectroniques et Microoptiques, Faculté des Sciences et Techniques, IRCOM, 123, avenue Albert Thomas, Limoges Cedex, 87060, France",1,Centre National de la Recherche Scientifique,I1294671590,no
 "(IRCER, Limoges, FRA);",1,Institut de Recherche sur les Céramiques,I4210153401,yes
 "(Limoges, PULIM, 2009), co-dirigé avec Robert Descimon",1,,,no
-"*
-            Department of Physiology, Hôpital de Limoges, Limoges, 
-            
-              †
-            
-          INSERM U36, Collège de France and 
-            
-              ‡
-            
-          Department of Molecular Genetics, European Hospital Georges Pompidou, Paris, France",1,Collège de France | Hôpital Européen Georges-Pompidou | Centre Hospitalier Universitaire de Limoges | Pathologie vasculaire et endocrinologie rénale,I187986737 I4210102325 I4210118469 I4405278162,no
+"* Department of Physiology, Hôpital de Limoges, Limoges, † INSERM U36, Collège de France and ‡ Department of Molecular Genetics, European Hospital Georges Pompidou, Paris, France",1,Collège de France | Hôpital Européen Georges-Pompidou | Centre Hospitalier Universitaire de Limoges | Pathologie vasculaire et endocrinologie rénale,I187986737 I4210102325 I4210118469 I4405278162,no
 "**Department of Histology, Cytology, Cellular Biology, and Cytogenetics, Mother and Child (HME), University Hospital, Limoges, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "*Centre National de la Recherche Scientifique, Unité Mixte de Recherche CNRS 7276, Faculté de Médecine, 87025 Limoges Cedex, France; and",1,Centre National de la Recherche Scientifique | Contrôle de la Réponse Immune B et Lymphoproliférations,I1294671590 I4210132523,yes
 "*Faculté de Médecine, Unité Mixte de Recherche 6101, Centre National de la Recherche Scientifique, 87025 Limoges, France; and",1,Centre National de la Recherche Scientifique,I1294671590,no
@@ -517,7 +501,7 @@ Professeur à la Faculté de Droit et des Sciences économiques de Limoges, O.M.
 ". Maître de conférences à l'Université Pierre-Mendès France de Grenoble, Membre du CDES/OMIJ",1,Université Pierre Mendès France | Observatoire des Mutations Institutionnelles et Juridiques,I118618916 I4405253890,yes
 ". Service Régional d'Archéologie, DRAC Nouvelle Aquitaine, site de Limoges. 6, rue Haute de la Comédie, 87000 Limoges",1,,,no
 "0, Limoges, FRANCE",1,,,no
-"1 Medical-Surgical Intensive Care Unit, University Hospital of Limoges , Limoges, France ",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
+"1 Medical-Surgical Intensive Care Unit, University Hospital of Limoges , Limoges, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "11 Rue de l' Énéide , 87280 Limoges , France",1,,,no
 "11 rue de l' Énéide , 87280 Limoges , France",1,,,no
 "11CHU limoges, Limoges, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
@@ -633,8 +617,7 @@ A.L.U.R.A.D. Limoges,1,,,no
 "Addictology Department, Limoges, France",1,,,no
 "Adult and elder psychiatry Department, Limoges Hospital, Limoges, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "AirMems SAS, Limoges Cedex, France",1,,,no
-"All the authors are with UER des Sciences, 87060 Limoges Cedex, 
-France",1,,,no
+"All the authors are with UER des Sciences, 87060 Limoges Cedex, France",1,,,no
 "All the authors are with UER des Sciences, 87060 Limoges Cedex, #N#France",1,,,no
 "Alpes, Inserm 1300, Grenoble, France. Electronic address: thomas.egenod@chu-limoges.fr",1,Inserm,I154526488,no
 Analysis and Research Laboratory of Haute‐Vienne  Limoges France,1,,,no
@@ -1780,7 +1763,7 @@ Emergency Department Limoges University Hospital  Limoges France,1,Centre Hospit
 "Emergency Department, University Hospital Center of Limoges , 2 avenue Martin Luther King, 87042 Limoges , France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "Emergency Department, University Hospital of Limoges, 2 Avenue Martin-Luther King, 87024 Limoges cedex, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "Emergency Department/Inserm CIC 1435, Limoges University Hospital, Limoges, France",1,Inserm | Centre Hospitalier Universitaire de Limoges,I154526488 I4210118469,no
-"Emergency Unit, University Hospital 2 , Limoges, France ",1,,,no
+"Emergency Unit, University Hospital 2 , Limoges, France",1,,,no
 "Emergency Unit, University Hospital, Limoges, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "Emis Platform, Limoges University Hospital , Limoges, France",1,,,no
 "Emis Platform, Limoges University Hospital, Limoges, France",1,,,no
@@ -1798,11 +1781,9 @@ Emergency Department Limoges University Hospital  Limoges France,1,Centre Hospit
 "EpiMaCT, Inserm 1094, IRD, Limoges University Hospital, 87025 Limoges, France; Department of Endocrinology, Diabetology and Metabolism, Dupuytren University Hospital, 87025 Limoges, France",1,Inserm | Centre Hospitalier Universitaire de Limoges | Hôpital Universitaire Dupuytren,I154526488 I4210118469 I4210142031,no
 "EpiMaCT, Inserm 1094, IRD, Limoges University Hospital, 87025 Limoges, France; Department of Vascular Surgery and Medicine, Dupuytren University Hospital, 87025 Limoges, France",1,Inserm | Centre Hospitalier Universitaire de Limoges | Hôpital Universitaire Dupuytren,I154526488 I4210118469 I4210142031,no
 "Equipe Dynamique des ETM Hydr'Asa-Limoges UMR 6532 CNRS. 123 av. Thomas, 87000 Limoges, France",1,Centre National de la Recherche Scientifique,I1294671590,no
-"Equipe Optique, Institut de Recherches en Communications Optiques et Microondes, 123 rue Albert Thomas, Limoges 87060 Cedex, 
-France",1,,,no
+"Equipe Optique, Institut de Recherches en Communications Optiques et Microondes, 123 rue Albert Thomas, Limoges 87060 Cedex, France",1,,,no
 "Equipe Optique, Institut de Recherches en Communications Optiques et Microondes, 123 rue Albert Thomas, Limoges 87060 Cedex, #N#France",1,,,no
-"Equipe Optique, Institut de Recherches en Communications Optiques et Microondes, 123 rue Albert Thomas, Limoges 87060 Cédex, 
-France",1,,,no
+"Equipe Optique, Institut de Recherches en Communications Optiques et Microondes, 123 rue Albert Thomas, Limoges 87060 Cédex, France",1,,,no
 "Equipe Optique, Institut de Recherches en Communications Optiques et Microondes, 123 rue Albert Thomas, Limoges 87060 Cédex, #N#France",1,,,no
 "Equipe Optique, URA CNRS 356, IRCOM, 123 Rue Albert Thomas, Limoges, 87060, France",1,Centre National de la Recherche Scientifique,I1294671590,no
 "Equipe Thermodynamique et Plasmas, UA 320 CNRS, 123 avenue A. Thomas, 87060, Limoges Cedex, France",1,Centre National de la Recherche Scientifique,I1294671590,no
@@ -1918,7 +1899,7 @@ Groupe de Neurobiologie Cellulaire EA3842 Limoges France,1,,,no
 "Groupement de Recherche Eau Sol Environnement EA 4330, Site de l'ENSIL, Parc ESTER Technopôle, 16 rue Atlantis, 87068, Limoges Cedex, France; U12092 Inserm, Laboratoire debactériologie-virologie, Faculté de Médecine, 2 avenue du Docteur Marcland, 87000, Limoges Cedex, France",1,Inserm,I154526488,no
 "Gynaecology-Obstetric Department, Limoges University Hospital, Limoges, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "Gynecological Department, Limoges University Hospital, Limoges, 87000, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
-"Gynecological Department,Limoges University Hospital, Limoges,87000,France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
+"Gynecological Department,Limoges University Hospital, Limoges,87000,France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 Gynecology and Obstetrics Department Mother and Child Hospital University Hospital of Limoges  Limoges France,1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "Gynecology and Obstetrics and Nuclear Medicine Department, Limoges University Hospital Center, Limoges, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "Gynecology department of Limoges Teaching Hospital, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
@@ -2286,7 +2267,7 @@ Institut de Recherche sur les Céramiques (IRCER) UMR CNRS 7315 Centre Européen
 "Intensive Care Unit, Limoges University Hospital, 2 Avenue Martin Luther King, 87042, Limoges Cedex, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "Intensive Care Unit, Limoges University Hospital, Avenue Martin Luther King, Limoges Cedex, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "Intensive Care Unit, Limoges University Hospital, Limoges, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
-"Intensive Care Unit, University Hospital Limoges 2 , France ",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
+"Intensive Care Unit, University Hospital Limoges 2 , France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "Intensive Care Unit, University Hospital Rennes, France, FR",1,Centre Hospitalier Universitaire de Rennes,I4210155724,no
 "Intensive Care Unit, University Hospital of Limoges, Limoges, 87042, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "Intensive Care Unit, University Hospital of Limoges, Limoges, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
@@ -2598,7 +2579,7 @@ Maître de Conférences CREOP IUT du Limousin (France),1,"Centre de Recherche su
 "Medical Oncology Department, Limoges University Hospital, Limoges, 87000, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "Medical Oncology Department, Limoges University Hospital, Limoges, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "Medical Oncology Department, University Hospital, Limoges, France. elise.deluche@chu-limoges.fr",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
-"Medical Oncology Department,Limoges University Hospital, Limoges,87000,France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
+"Medical Oncology Department,Limoges University Hospital, Limoges,87000,France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "Medical Surgical Intensive Care Unit, Limoges University Hospital, Limoges, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "Medical Surgical Intensive Care Unit, Limoges University Hospital, Limoges, France. bruno.evrard@chu-limoges.fr",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "Medical oncology Department, Limoges University Hospital, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
@@ -2696,7 +2677,7 @@ Neuroradiology Department Limoges University Hospital  Limoges France,1,Centre H
 "Nuclear Medicine Department, Limoges University Hospital, 2 avenue Martin Luther King, 87042, Limoges, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "Nuclear Medicine Department, Limoges University Hospital, Limoges, 87000, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "Nuclear Medicine Department, Limoges University Hospital, Limoges, France. quelven-bertin.i@chu-toulouse.fr",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
-"Nuclear Medicine Department,Limoges University Hospital, Limoges,87000,France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
+"Nuclear Medicine Department,Limoges University Hospital, Limoges,87000,France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 Nutrition Unit University Hospital of Limoges Limoges,1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "Nutrition Unit, Limoges University Hospital, 2 avenue Martin Luther King, 87042, Limoges, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "Nutrition Unit, Limoges University Hospital, 87042 Limoges, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
@@ -2813,8 +2794,8 @@ Professeur à l’Université de LimogesMembre de l’Institut de droit europée
 "Psychiatre, Limoges, France",1,,,no
 "Public Health Care Department, University Hospital of Limoges, 87042 Limoges, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "Pulmonary Dept, University Hospital Limoges, Limoges, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
-"Pulmonary Diseases Department            Limoges University Hospital            Limoges            France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
-"Pulmonary Diseases Department Limoges University Hospital Limoges France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
+Pulmonary Diseases Department Limoges University Hospital Limoges France,1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
+Pulmonary Diseases Department Limoges University Hospital Limoges France,1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "Pulmonary Function Test Laboratory, and ++ Rheumato-logic Unit, University Hospital, Limoges, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "Pulmonology Department, Limoges University Hospital, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "Pulmonology Department, Limoges University Hospital, France. Electronic address: thomas.egenod@chu-limoges.fr",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
@@ -2828,12 +2809,12 @@ Professeur à l’Université de LimogesMembre de l’Institut de droit europée
 "RCOM UMR CNRS 6615, Limoges, France",1,Centre National de la Recherche Scientifique,I1294671590,no
 "Radar and Electromagnetism Department, IRCOM, Diffraction, Université des Sciences de Limoges and ONERA, Toulouse, France",1,Office National d'Études et de Recherches Aérospatiales,I2801658355,no
 "Radiation Therapy Department, Limoges University Hospital, Limoges, 87000, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
-"Radiation Therapy Department,Limoges University Hospital, Limoges,87000,France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
+"Radiation Therapy Department,Limoges University Hospital, Limoges,87000,France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "Radiology Department, University Hospital de Limoges, 2, avenue Martin-Luther-King, 87042 Limoges cedex, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "Radiology, University Hospital of Limoges, Limoges, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 Radiotherapy Department University Hospital Limoges France,1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "Reconstructive Surgery Department, Limoges University Hospital, Limoges, 87000, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
-"Reconstructive Surgery Department,Limoges University Hospital, Limoges,87000,France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
+"Reconstructive Surgery Department,Limoges University Hospital, Limoges,87000,France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "Rectorate of Limoges , 13 Rue Francois Chénieux , 87000 Limoges , France",1,,,no
 "Reference center for peripheral neuropathies, University Hospital, Limoges, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "Regional Center of Pharmacovigilance, Department of Pharmacology, Toxicology and Pharmacovigilance, Limoges' University Hospital, Limoges, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
@@ -2848,10 +2829,8 @@ Radiotherapy Department University Hospital Limoges France,1,Centre Hospitalier 
 "Respiratory Medicine Department, University Hospital, Limoges, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 Rheumatology Department Limoges University Hospital  Limoges France,1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 Rheumatology Department University Hospital  Limoges France,1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
-"Rheumatology Department, Limoges University Hospital, Limoges,
-                    France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
-"Rheumatology Department, Limoges University Hospital, Limoges,
- France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
+"Rheumatology Department, Limoges University Hospital, Limoges, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
+"Rheumatology Department, Limoges University Hospital, Limoges, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "Rheumatology Department, Limoges University Hospital, Limoges,#N#                    France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "Rheumatology Department, Limoges University Hospital, Limoges,#N# France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "Rheumatology Department, University Hospital of Limoges and Laboratory PEIRENE UR 22722 Institut OmegaHealth, 87042 Limoges, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
@@ -3137,8 +3116,7 @@ Toulouse-Limoges (France),1,,,no
 "U.E.R. des Sciences (LA 320), 87060 Limoges, France",1,,,no
 "U.E.R. des Sciences, 123 Avenue Albert Thomas, 87060 Limoges Cedex, France",1,,,no
 "U.E.R. des Sciences, 123 Rue Albert Thomas, 87060 Limoges Cédex, France",1,,,no
-"U.E.R. des Sciences, 123 rue Albert Thomas, 87060 Limoges Cedex, 
-France",1,,,no
+"U.E.R. des Sciences, 123 rue Albert Thomas, 87060 Limoges Cedex, France",1,,,no
 "U.E.R. des Sciences, 123, avenue Albert Thomas, 87060 Limoges Cedex, France",1,,,no
 "U.E.R. des Sciences, ERA au CNRS 535, Limoges, France",1,Centre National de la Recherche Scientifique,I1294671590,no
 "U.F.R. de Pharmacie , 2 rue du Docteur Marcland, 87025, Limoges, cedex, (France)",1,,,no
@@ -3291,7 +3269,7 @@ UMR‐850 INSERM University of Medicine  Limoges France,1,Inserm,I154526488,no
 "University Department of Psychogeriatrics & Memory Clinic CH Limoges, France. philippe.thomas.2004@interpc.fr",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "University Department of Psychogeriatrics and Memory Clinic CH Limoges, Limoges Cedex, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "University Hos- pital Centre Limoges , Dupuytren 2 , Limoges , France Jo€ el Lapeze , MD , Carmen ,",1,Centre Hospitalier Universitaire de Limoges | Hôpital Universitaire Dupuytren,I4210118469 I4210142031,no
-"University Hospital 1 Department of Pharmacology-Toxicology and Emergency Care Unit, , 2 av. Martin-Luther-King F-87042Limoges Cedex, France ",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
+"University Hospital 1 Department of Pharmacology-Toxicology and Emergency Care Unit, , 2 av. Martin-Luther-King F-87042Limoges Cedex, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 University Hospital Center Limoges France,1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "University Hospital Center Limoges, Limoges, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 University Hospital Center of Limoges,1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
@@ -3333,7 +3311,7 @@ University Hospital Limoges  Limoges France,1,Centre Hospitalier Universitaire d
 "University Hospital, CEBIMER, Limoges  France",1,,,no
 "University Hospital, CEBIMER; Limoges France",1,,,no
 "University Hospital, Department of Interventional Neuroradiology, Limoges, France",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
-"University Hospital, Limoges 1 Department of Pharmacology and Toxicology, , 2 Avenue Martin Luther King 87042Limoges CedexFrance ",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
+"University Hospital, Limoges 1 Department of Pharmacology and Toxicology, , 2 Avenue Martin Luther King 87042Limoges CedexFrance",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "University Hospital, Limoges and",1,Centre Hospitalier Universitaire de Limoges,I4210118469,no
 "University Hospital, Limoges, France. q.ballouhey@gmail.com",1,,,no
 "University Hospital, Limoges, France;",1,,,no

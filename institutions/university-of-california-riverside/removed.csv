@@ -7,8 +7,7 @@ raw_affiliation_string,works,now_assigned_to,now_assigned_ids,still_counts_via_l
 "University of California, Citrus Experiment Station, Riverside",25,Citrus Research Center and Agricultural Experiment Station,I4405279165,yes
 "Department of Biological Control, University of California Citrus Experiment Station, Riverside",22,Citrus Research Center and Agricultural Experiment Station,I4405279165,yes
 "Department of Biology, LaSierra University, Riverside, CA, USA",22,La Sierra University,I123200800,no
-"Consultant,
-        Riverside, California, USA",15,,,no
+"Consultant, Riverside, California, USA",15,,,no
 "University of California Citrus Experiment Station, Riverside, Calif",15,Citrus Research Center and Agricultural Experiment Station,I4405279165,yes
 "UNIVERSITY OF CALIFORNIA, CITRUS EXPERIMENT STATION, RIVERSIDE, CALIFORNIA",12,Citrus Research Center and Agricultural Experiment Station,I4405279165,yes
 "Department of Neurology, Riverside, CA, USA",10,,,no
@@ -48,7 +47,7 @@ Riverside Community Hospital/UCRiverside,3,Riverside Community Hospital,I4210105
 "Department of Entomology, University of California Citrus Research Center and Agricultural Experiment Station, Riverside, Calif. 92502",2,Citrus Research Center and Agricultural Experiment Station,I4405279165,yes
 "Department of Geography , Riverside Campus",2,,,no
 "Department of Mechanical Engineering, University of California, Berkeley, 6107 Etcheverry Hall, Riverside, CA, 94720-1740, USA",2,"University of California, Berkeley",I95457486,no
-"Division of Biological Control , Riverside ",2,,,no
+"Division of Biological Control , Riverside",2,,,no
 "Family Service Association of Riverside, Inc., Riverside, California",2,,,no
 "Loma Linda University, Riverside, CA, United States",2,Loma Linda University,I26347476,no
 "Private Practice, Riverside, Calif, USA",2,,,no
@@ -63,7 +62,7 @@ Ronin Institute  Riverside California USA,2,,,no
 "Soil Science and Agricultural Engineering, Riverside Laboratory of Nuclear Medicine and Radiation Biology, University of California, Los Angeles, USA",2,"University of California, Los Angeles",I161318765,no
 "U. S. Department of Agriculture Riverside, Calif",2,United States Department of Agriculture,I1336096307,no
 "UC-Riverside, Uppsala,",2,Uppsala University,I123387679,no
-"University of California 2 Cooperative Extension Specialist , , Riverside, CA92521 ",2,,,no
+"University of California 2 Cooperative Extension Specialist , , Riverside, CA92521",2,,,no
 "University of California Cooperative Extension - Riverside County 290 N. Broadway Blythe, CA 92225-1649 Phone: (760) 921-7884 Fax: (760) 921-7887 E-mail:",2,,,no
 "University of California Cooperative Extension - Riverside County 290 N. Broadway Blythe, CA 92225-1649 Phone: (760) 921-7884 Fax: (760) 921-7887 E-mail: mdrethwisch@ucdavis.edu",2,,,no
 "University of California Cooperative Extension -Riverside County 290 N. Broadway Blythe, CA 92225-1649",2,University of California System,I2803209242,no
@@ -79,12 +78,7 @@ Ronin Institute  Riverside California USA,2,,,no
 "-d,Agr!cultural E~gin-eering, Riverside",1,,,no
 ". Internal Medicine, HCA Riverside, Riverside, USA",1,,,no
 ". Pulmonary Critical Care, HCA Riverside, Riverside, USA",1,,,no
-"1
-            Centre for Values Ethics and the Law in Medicine, University of Sydney
-
-            
-               2
-            A. Gary Anderson Graduate School of Management and 3Haematology Department, Westmead Hospital, Sydney, New South Wales, Australia and 2University of California, Riverside, California, USA",1,The University of Sydney | Westmead Hospital,I129604602 I2803024705,no
+"1 Centre for Values Ethics and the Law in Medicine, University of Sydney 2 A. Gary Anderson Graduate School of Management and 3Haematology Department, Westmead Hospital, Sydney, New South Wales, Australia and 2University of California, Riverside, California, USA",1,The University of Sydney | Westmead Hospital,I129604602 I2803024705,no
 "1 University of Florida, Gainesville, Florida2 University of Houston, Houston, Texas3 University of California, Riverside4 Aarhus University, Aarhus, Denmark",1,University of Florida | University of Houston | Aarhus University,I33213144 I44461941 I204337017,no
 "1026 Coronet Dr., Riverside, CA, 92506, USA",1,,,no
 "1111 FRANKLIN STREET , OAKLAND , CA 94607-5200 ; 900 UNIVERSITY AVE , RIVERSIDE , CA 92521",1,,,no
@@ -101,10 +95,8 @@ Ronin Institute  Riverside California USA,2,,,no
 "2 Riverside Public Utilities - Resource Division, 3435 14th St., Riverside, CA 92501 USA",1,,,no
 "3146 Terrace Drive, 92507, Riverside, California, USA",1,,,no
 "3770 12th St., Riverside, Calif",1,,,no
-"3Department of Chemical and Environmental Engineering,
-          Riverside, California 92521, USA",1,,,no
-"3Department of Chemical and Environmental Engineering,
- Riverside, California 92521, USA",1,,,no
+"3Department of Chemical and Environmental Engineering, Riverside, California 92521, USA",1,,,no
+"3Department of Chemical and Environmental Engineering, Riverside, California 92521, USA",1,,,no
 "3Department of Chemical and Environmental Engineering, Riverside, California 92521, USA",1,,,no
 "900 University Ave, Riverside, CA, 92521, US",1,,,no
 "900 University Ave, Riverside, CA, USA 92521",1,,,no
@@ -130,7 +122,7 @@ Bldg. • Riverside CA 92521,1,,,no
 "COMPANY INCORPORATED Riverside , California",1,,,no
 "COS, UMR CNRS 172, Université Paris VI, boîte 45, 4 place Jussieu, 75252 Paris Cedex 05, France, Department of Chemistry, University of CaliforniaRiverside, Riverside, California 92521-0403, and DCMR, URA CNRS 1307, Ecole Polytechnique, 91128 Palaiseau, France",1,École Polytechnique | Centre National de la Recherche Scientifique | Université Pierre-et-Marie-Curie,I142476485 I1294671590 I4405264447,no
 "CVRS, Agricultural Operations Department, UCR, PO Box 67, Thermal, CA 92274",1,,,no
-"California , Riverside ",1,,,no
+"California , Riverside",1,,,no
 "California , Riverside , California",1,,,no
 "California , Riverside, 92521, USA",1,,,no
 "California , Riverside, California",1,,,no
@@ -175,7 +167,7 @@ California Department of Food and Agriculture  Riverside California USA,1,Califo
 "Current address: LaSierra University, Department of Biology, Riverside, CA 92515",1,La Sierra University,I123200800,no
 "DEPARTMENT OF SOILS AND PLANT NUTRITION, UNIVERSITY OF CALIFORNIA, CITRUS EXPERIMENT STATION, RIVERSIDE, CALIFORNIA",1,Citrus Research Center and Agricultural Experiment Station,I4405279165,yes
 "Department Electrical Engineering, University of California, Los Angeles, Riverside, CA, USA",1,"University of California, Los Angeles",I161318765,no
-"Department Plant Pathology , Citrns Experiment Sta- tion , Riverside ",1,,,no
+"Department Plant Pathology , Citrns Experiment Sta- tion , Riverside",1,,,no
 "Department of Agricul- ture , Riverside , California 92502",1,,,no
 "Department of Agriculture , Riverside , CA , USA",1,United States Department of Agriculture,I1336096307,no
 "Department of Agriculture , Riverside , California",1,,,no
@@ -197,7 +189,7 @@ California Department of Food and Agriculture  Riverside California USA,1,Califo
 "Department of Chemical Engineering, Riverside, CA",1,,,no
 "Department of Chemical and Environmental Engineering, Riverside, CA, USA",1,,,no
 Department of Chemistry University of California Davis  1 Shields Avenue Riverside 95616 USA,1,"University of California, Davis",I84218800,no
-"Department of Chemistry and Biochemistry, Center forPolymers and Organic Solids, University of California, Santa Barbra, California 93106, United States",1,"University of California, Santa Barbara",I154570441,no
+"Department of Chemistry and Biochemistry, Center for Polymers and Organic Solids, University of California, Santa Barbra, California 93106, United States",1,"University of California, Santa Barbara",I154570441,no
 "Department of Chemistry, Loma Linda University Riverside, California 92515",1,Loma Linda University,I26347476,no
 "Department of Chemistry, University of Chemistry, Riverside, CA, United States",1,,,no
 "Department of Computer Science and Engineering Riverside , CA 92521",1,,,no
@@ -207,7 +199,7 @@ Department of Chemistry University of California Davis  1 Shields Avenue Riversi
 "Department of Ecology and Evolutionary Biology, University of California at Irvine, Riverside, California",1,"University of California, Irvine",I204250578,no
 "Department of Electrical Engineering, University of Riverside, Riverside, CA, USA",1,,,no
 "Department of Electrical and Electronics Engineering, California State University, Riverside Hall 3008, 6000 J Street, Sacramento, CA, 95819–6019, USA",1,"California State University, Sacramento",I43522216,no
-"Department of Entomology , Riverside ",1,,,no
+"Department of Entomology , Riverside",1,,,no
 "Department of Entomology , Riverside , California 92521 , USA",1,,,no
 "Department of Entomology Department of Entomology Riverside, CA 92521 (714) 787-5624",1,,,no
 "Department of Entomology Riverside, CA 92521 (714) 787-5327",1,,,no
@@ -263,7 +255,7 @@ Department of Soils and Plant NutritionUniversity of CaliforniaRiversideCalif,1,
 "Division of Nursing, School of Health, California State University, Riverside 92505",1,,,no
 "Division of Sugar Plant Investigation, U. S. Department of Agriculture  Riverside California",1,United States Department of Agriculture,I1336096307,no
 "Division of Sugar Plant Investigations, U. S. Department of Agriculture, Riverside, Calif",1,United States Department of Agriculture,I1336096307,no
-"Dwmon of Biological Control. Deparlment of Entomology . Umversuv of CMtforma , Rwerstde . CA ",1,,,no
+"Dwmon of Biological Control. Deparlment of Entomology . Umversuv of CMtforma , Rwerstde . CA",1,,,no
 "Entomologist in the Department of Biological Control, University of California Citrus Research Center and Agricultural Experiment Station, Riverside",1,Citrus Research Center and Agricultural Experiment Station,I4405279165,yes
 "Entomology Research Museum (900 University Ave. Riverside, CA 92521 - United States)",1,Entomology Research Museum,I4405279388,yes
 "Entomology Research Museum, Dept of Entomology, Univ of Riverside, California, USA",1,Entomology Research Museum,I4405279388,yes
@@ -294,7 +286,7 @@ Environmental Toxicology Graduate Program  Riverside California USA,1,,,no
 "Krieger 3750 University Avenue Riverside , California 92502",1,,,no
 "Krieger and Stewart Incorporated, 3602 University Avenue, Suite 201, Riverside, CA 92501 U.S.A",1,,,no
 "Laboratory , Riverside , California",1,,,no
-"Laboratory, University of California . ~i v e h o r e , California ,94550. . ",1,University of California System,I2803209242,no
+"Laboratory, University of California . ~i v e h o r e , California ,94550. .",1,University of California System,I2803209242,no
 "Lawrence Berkeley Laboratory, Berkeley, California 94720 University of California, Davis, California 95616 University of California Intercampus Institute for Research at Particle Accelerators, Stanford, California 94305 University of California, Los Angeles, California 90024 University of California, Riverside, California 92521 University of California, San Diego, California 92093 University of California, Santa Barbara, California 93106 Ames Laboratory, Iowa State University, Ames, Iowa 50011 Johns Hopkins University, Baltimore, Maryland 21218 University of Massachusetts, Amherst, Massachusetts 01003 National Institute for Nuclear and High Energy Physics, Amsterdam, The Netherlands University of Tokyo, Tokyo, Japan",1,"University of California San Diego | University of California, Davis | University of California, Berkeley | Stanford University | Johns Hopkins University | Lawrence Berkeley National Laboratory | University of California, Los Angeles | Iowa State University | Ames National Laboratory",I36258959 I84218800 I95457486 I97018004 I145311948 I148283060 I161318765 I173911158 I2802789608,no
 Licenciada en Sociología. Tiene varias publicaciones sobre esta temáti---ca y actualmente es funcionaria del Programa Atención Integral de Salud UCR---CCSS,1,Universidad de Costa Rica,I31944674,no
 "Located at Riverside, Calif. 92507",1,,,no
@@ -346,7 +338,7 @@ Riverside Campus,1,,,no
 "Riverside Public Library, P.O. Box 468, Riverside, CA, 92502-0468 E-mail: jauth@ci.riverside.ca.us",1,,,no
 Riverside Public Utilities 3435 14th St. Riverside CA 92501,1,,,no
 "Riverside Public Utilities, Riverside, California, USA",1,,,no
-"Riverside Regional Laboratory, California Department of Justice 2 Criminalist , , Riverside, CA ",1,,,no
+"Riverside Regional Laboratory, California Department of Justice 2 Criminalist , , Riverside, CA",1,,,no
 "Riverside School of Medicine, Department of Social Medicine, Population and Public Health, University of California, San Diego, CA, United States",1,University of California San Diego,I36258959,no
 "Riverside University Family Practice, Minneapolis, MN",1,,,no
 "Riverside University Health System -Riverside , California , USA",1,,,no

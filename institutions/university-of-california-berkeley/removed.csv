@@ -9,7 +9,7 @@ raw_affiliation_string,works,now_assigned_to,now_assigned_ids,still_counts_via_l
 "Department of Chemistry and Biochemistry, University of California",83,,,no
 "California, University La Jolla, Calif., United States",70,,,no
 "Department of Psychology, University of California, USA",51,,,no
-Department of Psychology University of California,44,University of California System,I2803209242,no
+Department of Psychology University of California,44,University of California System,I2803209242,no
 "Berkeley, California USA",39,,,no
 "University of Arizona University of California University of California Tucson , AZ 85721 Berkeley , CA 94720 Los Angeles , CA 90024",38,University of Arizona,I138006243,no
 University of California Museum of Paleontology,35,,,no
@@ -186,7 +186,7 @@ Berkeley . California,3,,,no
 "Berkeley Sensor & Actuator Center, University of California, Davis, CA, USA",3,"University of California, Davis",I84218800,no
 Berkeley Sensor and Actuator Center  Berkeley CA 94704 USA,3,,,no
 "Berkeley, CA, USA 2 , ,",3,,,no
-"Berkeley, California ",3,,,no
+"Berkeley, California",3,,,no
 "Berkeley, California 94720 USA",3,,,no
 "Berkeley, California 94720-2020",3,,,no
 "California Univ., CA",3,,,no
@@ -238,8 +238,7 @@ Department of Political Science at the University of California,3,University of 
 "Paulo Freire Institute, University of California",3,University of California System,I2803209242,no
 "Physics Department, University of California, USA",3,University of California System,I2803209242,no
 "Policy and Management, University of California",3,University of California System,I2803209242,no
-"Professor of Economics and Operations Research,
-        University of California, USA",3,University of California System,I2803209242,no
+"Professor of Economics and Operations Research, University of California, USA",3,University of California System,I2803209242,no
 "Professor, University of California",3,University of California System,I2803209242,no
 School of Engineering University of California,3,University of California System,I2803209242,no
 "School of Social Welfare , University of California , USA",3,University of California System,I2803209242,no
@@ -255,7 +254,7 @@ University of California (UC),3,University of California System,I2803209242,no
 University of California - Paul Merage School of Business,3,University of California System,I2803209242,no
 "University of California 3 , , ,",3,University of California System,I2803209242,no
 "University of California 5 , ,",3,University of California System,I2803209242,no
-"University of California A , , , , ",3,University of California System,I2803209242,no
+"University of California A , , , ,",3,University of California System,I2803209242,no
 University of California CA,3,University of California System,I2803209242,no
 "University of California Cooperative Extension, Yuba City, CA, 95991, USA",3,University of California System,I2803209242,no
 "University of California Press. Berkeley , California , USA",3,,,no
@@ -264,7 +263,7 @@ University of California Space Sciences Laboratory,3,Space Sciences Laboratory,I
 "University of California White Mountain Research Station, 3000 East Line St, Bishop, California",3,University of California System,I2803209242,no
 "University of California White Mountain Research Station, 3000 East Line Street, Bishop, CA 93514, USA",3,University of California System,I2803209242,no
 University of California at Santa Barb,3,"University of California, Santa Barbara",I154570441,no
-University of California  ,3,University of California System,I2803209242,no
+University of California,3,University of California System,I2803209242,no
 University of California**,3,University of California System,I2803209242,no
 "University of California, Los Angeles and Berkeley",3,"University of California, Los Angeles",I161318765,no
 "University of California, San Bernardino, USA",3,University of California System,I2803209242,no
@@ -275,9 +274,7 @@ University of California. Department of Mathematics,3,University of California S
 "[Department of Surgery, University of California]",3,University of California System,I2803209242,no
 "a  Berkeley, California",3,,,no
 "the Biomechanics Laboratory, University of California, San Francisco and Berkeley",3,"University of California, San Francisco",I180670191,no
-"
-        University of California
-",2,University of California System,I2803209242,no
+University of California,2,University of California System,I2803209242,no
 ( University of California,2,University of California System,I2803209242,no
 ", University of California ,",2,University of California System,I2803209242,no
 ", University of California, , USA",2,University of California System,I2803209242,no
@@ -297,7 +294,7 @@ University of California. Department of Mathematics,3,University of California S
 "BERKELEY,CALIFORNIA",2,,,no
 "Berkeley , CA 94720 , U",2,,,no
 "Berkeley , California 94705 , USA",2,,,no
-"Berkeley , University of California Press , 2004 , 371 p ",2,,,no
+"Berkeley , University of California Press , 2004 , 371 p",2,,,no
 "Berkeley : University of California Press , 1999",2,,,no
 "Berkeley California, USA",2,,,no
 "Berkeley Engineering Research Institute, P.O. Box 9984, Berkeley, California, 94709, U.S.A",2,,,no
@@ -412,8 +409,7 @@ Email: mreich@econ.berkeley.edu,2,,,no
 "India by Design -Colonial History and Cultural Display , Berkeley , Los Angeles & London University of California",2,,,no
 "Inst. of Transp. Studies, California Univ., Richmond, CA, USA",2,,,no
 "Instructor in Entomology, University of California",2,,,no
-"Instructor,
-        University of California, USA",2,University of California System,I2803209242,no
+"Instructor, University of California, USA",2,University of California System,I2803209242,no
 "Joint UCSF/UCB Bioengineering Graduate Group and The Biosystems Group, Department of Biopharmaceutical Sciences, The University of California, San Francisco, CA 94143, USA",2,"University of California, San Francisco",I180670191,no
 "Kearney Agricultural Research Center, University of California, Parlier, USA",2,Kearney Agricultural Research and Extension Center,I4387154889,no
 "LBNL , Berkeley , CA 94720 , U.S.A",2,Lawrence Berkeley National Laboratory,I148283060,no
@@ -424,7 +420,7 @@ Laboratory UNIVERSITY OF CALIFORNIA,2,University of California System,I280320924
 "Modeling and Imaging Lab, IGPP, University of California",2,,,no
 "NIAAA (MEH), Rockville, Maryland; Syracuse University (SAM), Syracuse, New York; University of Pittsburgh Medical School (JC, MM, KK, MEK, RC), Pittsburgh, Pennsylvania; Boston University School of Medicine (JHS) and School of Public Health (JHS, J Savetsky, MW, LMS, RS), Boston, Massachusetts; New England Research Institute (MJL), Watertown, Massachusetts; University of California, San Francisco (CW); Northern California Kaiser Foundation Research Institute (CW, JM, SP, EH, J Selby), Oakland, California; Kaiser Permanente Medical Care Program (CM), Sacramento, California; University of California, Berkeley (T-WH); Decision Sciences Institute (RLS) and Brown University (RLS, W Zywiak), Providence, Rhode Island; Boston University (AR); Harvard-Vangard Health Associates (W Zwick), Boston; Brandeis University (DS), Waltham, Massachusetts",2,"New York University | Syracuse University | Boston University | University of Pittsburgh | University of California, San Francisco",I57206974 I70983195 I111088046 I170201317 I180670191,no
 "National Center for Ecological Analysis and Synthesis, University of California, CA, USA",2,National Center for Ecological Analysis and Synthesis,I4210100421,no
-"P.O. Box 12748, Berkeley, CA 94712 U.S.A. E-mail: ",2,,,no
+"P.O. Box 12748, Berkeley, CA 94712 U.S.A. E-mail:",2,,,no
 "P.O. Box 12748, Berkeley, CA 94712 U.S.A. E-mail: <>",2,,,no
 "P.O. Box 12748, Berkeley, CA 94712-3748, U.S.A",2,,,no
 "P.O. Box 30, Berkeley, CA 94701, USA",2,,,no
@@ -435,8 +431,7 @@ Political Science at the University of California,2,University of California Sys
 "Present address: Ecosystem Sciences Division, Environmental Science, Policy and Management, 151 Hilgard Hall, Berkeley, California 94720 USA",2,,,no
 "Prevention Research Center, 1995 University Ave., Suite 450, Berkeley, CA 94704",2,,,no
 "Private Practice Berkeley , CA , USA",2,,,no
-"Professor of Political Science,
-        University of California, USA",2,,,no
+"Professor of Political Science, University of California, USA",2,,,no
 "Professor, University of California, USA",2,University of California System,I2803209242,no
 "Program in Chemistry and Chemical Biology, University of California",2,University of California System,I2803209242,no
 "Psychology Department, University of California, USA",2,University of California System,I2803209242,no
@@ -527,19 +522,12 @@ Veteran’s Affairs Medical Center and University of California,2,,,no
 "a Berkeley , California",2,,,no
 "b     Berkeley ,  California",2,,,no
 "department of Plant and Microbial Biology, University of California",2,University of California System,I2803209242,no
-" University of California, Department of Chemistry, U.S.A",2,University of California System,I2803209242,no
+"University of California, Department of Chemistry, U.S.A",2,University of California System,I2803209242,no
 † University of California,2,University of California System,I2803209242,no
-"
-	University of California [1]
-",1,University of California System,I2803209242,no
-"
- University of California",1,University of California System,I2803209242,no
-"
-University of California
-",1,University of California System,I2803209242,no
-"
-        Berkeley, California
-",1,,,no
+University of California [1],1,University of California System,I2803209242,no
+University of California,1,University of California System,I2803209242,no
+University of California,1,University of California System,I2803209242,no
+"Berkeley, California",1,,,no
 "#Department of Biostatistics, University of Arkansas for Medical Sciences, Little Rock, Arkansas; **Apollo Institute of Medical Sciences and Research, Hyderabad, India.; *Department of Medicine, University of California, San Francisco, CA; Accepted September 04, 2015; All authors contributed to the interpretation of data and the overall intellectual content of the article and drafting and editing of the article. A.L.H., J.M.P., and D.M. also contributed to the study design. R.K. and M.S. also contributed to data collection. A.L.H., S.L., J.Y.L., and J.M.P. also contributed to data analysis. A.R., M.G., R.K., J.M.P., and P.A. also contributed to collecting, analyzing, and interpreting laboratory data.; Presented in part at the 27th International Papillomavirus Conference, September 17–21, 2011, Berlin, Germany.; Received April 23, 2015; Supported by National Cancer Institute's AIDS Malignancy Consortium grant number AMC—U01 CA121947. This study was also funded by the Indian Council of Medical Research Grant No: HIV/INDO-US/32/2007-ECD-II. A.L.H. was also supported through the University of California, Berkeley, Fogarty International AIDS/HIV International Training and Research grant (AITRP) 1-D43-TW000003.; The authors have no conflicts of interest to disclose.; §The Humsafar Trust, Mumbai, India; ¶Department of Cancer Biology and Pharmacology, University of Illinois, Chicago, IL; ‖Department of Clinical Virology, Christian Medical College, Vellore, India; †School of Public Health, Department of Epidemiology, University of California, Berkeley, CA",1,"University of Illinois Chicago | University of Arkansas for Medical Sciences | University of California, San Francisco",I39422238 I79620101 I180670191,no
 "#N#        Medical Center, University of California, San Deigo, California 92103",1,,,no
 "#N#2University of California, USA",1,,,no
@@ -549,7 +537,7 @@ University of California
 "#University of Washington, Seattle, WA; **Instituto Nacional de Salud Publica (INSP), Cuernavaca, Mexico.; From the *Office of the US Global AIDS Coordinator, US Department of State, Washington, DC; Received for publication February 13, 2011; The authors have no funding or conflicts of interest to disclose.; This report is a summary of the Evaluation of Complex, Combination Prevention Programs meeting held in Washington, DC, at The World Bank, October 6-7, 2010. The meeting was jointly sponsored by the Bill & Melinda Gates Foundation, the World Bank, the Joint United Nations Programme on HIV/AIDS (UNAIDS), and the US President's Emergency Plan for AIDS Relief (PEPFAR).; accepted April 21, 2011.; ¶Joint United Nations Programme on HIV/AIDS (UNAIDS), Geneva, Switzerland; †Institute of Business and Economic Research, University of California, Berkeley, CA",1,University of Washington | World Bank | Instituto Nacional de Salud Pública,I201448701 I1334329717 I4210128723,no
 ( Berkeley : University,1,,,no
 "( Berkeley : University of California Press , 1974",1,,,no
-"( Berkeley : University of California Press , 1990) ",1,,,no
+"( Berkeley : University of California Press , 1990)",1,,,no
 "( University of California ,",1,University of California System,I2803209242,no
 (A Contribution from the University of California Museum of Paleontology),1,,,no
 "(Berkeley, California, U.S.A.)",1,,,no
@@ -631,13 +619,13 @@ University of California
 "1670 University Ave, Berkeley, CA, 94703, U.S",1,,,no
 "169-184 . Berkeley University of California Press , 2016",1,,,no
 "1717 Hopkins Street, Berkeley, California 94707, USA",1,,,no
-"1721 University Avenue, Apartment 210, Berkeley, CA 94703. ",1,,,no
+"1721 University Avenue, Apartment 210, Berkeley, CA 94703.",1,,,no
 "1809 Eighth Street, Berkeley, CA 94710 USA",1,,,no
 "1919 Curtis, Berkeley, California 94702",1,,,no
 "1922/1923. Berkeley, 1923. 476 p",1,,,no
 "1941 Rose Street, Berkeley, CA 94709, USA",1,,,no
 "1949' Berkeley , California",1,,,no
-"1951 Berkeley , California ",1,,,no
+"1951 Berkeley , California",1,,,no
 "1987 , Berkeley , California",1,,,no
 "1Center for Population Biology and Department of Evolution and Ecology, University of California",1,University of California System,I2803209242,no
 "1Department of Electrical Engineering, University of California, USA",1,University of California System,I2803209242,no
@@ -653,7 +641,7 @@ University of California
 "2 Bodega Marine Laboratory, University of California, Box 247, Bodega Bay, California; and",1,University of California System,I2803209242,no
 "2 Department of Orthopaedics, University of California, Sacramento, CA",1,,,no
 "2 University of California, United States",1,,,no
-2.	University of California,1,University of California System,I2803209242,no
+2. University of California,1,University of California System,I2803209242,no
 "2014 Rose Street, Berkeley, CA 94709",1,,,no
 "2023 7th Street, Apt. B, Berkeley, California 94710",1,,,no
 "211 Cory Hall #1772, Berkeley, California, 94720-1772",1,,,no
@@ -751,8 +739,7 @@ Assistant Professor of Chemistry at the University of California,1,University of
 Assistant Professor of Pediatrics University of California,1,,,no
 Assistant Professor of Philosophy at the University of California,1,,,no
 "Assistant Professor of Speech, University of California",1,,,no
-"Assistant Professor,
-        Department of Political Science, University of California, USA",1,University of California System,I2803209242,no
+"Assistant Professor, Department of Political Science, University of California, USA",1,University of California System,I2803209242,no
 "Assistant Professor, Section of Oral Biology, University of California",1,University of California System,I2803209242,no
 "Assistant Professor, University of California",1,University of California System,I2803209242,no
 Assistant Professor. Department of Agricultural Economics. University of Gliforin. Berkeley,1,,,no
@@ -779,7 +766,7 @@ Astronomy Dept. University of California,1,University of California System,I2803
 "Author Affiliations: Department of Health Law, Policy and Management, Boston University School of Public Health Boston, Massachusetts (Dr Nguyen and Mr Yeh); Department of Health Policy and Management, Fielding School of Public Health, University of California (Drs Oronce and Ponce); UCLA Center for Health Policy Research (Drs Oronce and Ponce); Filipinx/a/o Community Health Association (Drs Oronce and Ponce, Mr Adia); Division of General Internal Medicine and Health Services Research, David Geffen School of Medicine at UCLA (Dr Oronce); Department of Medicine, VA Greater Los Angeles Healthcare System, Los Angeles, California (Dr Oronce); and Department of Health Policy and Management, University of California, Berkeley, California (Mr Adia)",1,"Boston University | University of California, Los Angeles | VA Greater Los Angeles Healthcare System",I111088046 I161318765 I4210156876,no
 "B. Romanowicz is at the Berkeley Seismological Laboratory, Berkeley, CA 94720-4760, USA",1,,,no
 "BELÉM DO PARÁ, BRAZIL UNIVERSITY OF CALIFORNIA BERKELEY, CALIFORNIA",1,,,no
-"BERKELEYCALIFORNIA",1,,,no
+BERKELEY CALIFORNIA,1,,,no
 "BERKELEY , CALIFORNIA , 1978",1,,,no
 "BERKELEY , CALIFORNIA :",1,,,no
 BERKELEY -CALIFORNIA,1,,,no
@@ -796,9 +783,9 @@ Berkeley (Californien),1,,,no
 "Berkeley , CA 94720 , U.S.A",1,,,no
 "Berkeley , CA 94720 , USA",1,,,no
 "Berkeley , CA 94720-1776 USA",1,,,no
-"Berkeley , CA : University of California Press , 2013.414 pp ",1,,,no
+"Berkeley , CA : University of California Press , 2013.414 pp",1,,,no
 "Berkeley , CA University of California Press , 2009 ,",1,,,no
-"Berkeley , California ",1,,,no
+"Berkeley , California",1,,,no
 "Berkeley , California ( USA",1,,,no
 "Berkeley , California , 1986",1,,,no
 "Berkeley , California 94710",1,,,no
@@ -806,23 +793,23 @@ Berkeley (Californien),1,,,no
 "Berkeley , California ;",1,,,no
 "Berkeley , California'",1,,,no
 "Berkeley , California, USA",1,,,no
-"Berkeley , California. 2025 ",1,,,no
+"Berkeley , California. 2025",1,,,no
 "Berkeley , University",1,,,no
 "Berkeley , University of California Press",1,,,no
-"Berkeley , University of California Press ",1,,,no
+"Berkeley , University of California Press",1,,,no
 "Berkeley , University of California Press , 1972",1,,,no
-"Berkeley , University of California Press , 1977 , pp ",1,,,no
+"Berkeley , University of California Press , 1977 , pp",1,,,no
 "Berkeley , University of California Press , 1997 , 480",1,,,no
 "Berkeley , University of California Press , 2002 , XIV",1,,,no
 "Berkeley , University of California Press , 2004 , 246",1,,,no
-"Berkeley , University of California Press , 2004 , 293 p ",1,,,no
-"Berkeley , University of California Press , 2004 , 380 p ",1,,,no
+"Berkeley , University of California Press , 2004 , 293 p",1,,,no
+"Berkeley , University of California Press , 2004 , 380 p",1,,,no
 "Berkeley , University of California Press , 2008",1,,,no
-"Berkeley , University of California Press , 2009 , 480 pp ",1,,,no
-"Berkeley , University of California Press , 2011 , 455 pp ",1,,,no
-"Berkeley , University of California Press , 2011 , 480 p ",1,,,no
-"Berkeley , University of California Press , 2018 , 368 p ",1,,,no
-"Berkeley , University of California Press , p. 285-290 ",1,,,no
+"Berkeley , University of California Press , 2009 , 480 pp",1,,,no
+"Berkeley , University of California Press , 2011 , 455 pp",1,,,no
+"Berkeley , University of California Press , 2011 , 480 p",1,,,no
+"Berkeley , University of California Press , 2018 , 368 p",1,,,no
+"Berkeley , University of California Press , p. 285-290",1,,,no
 "Berkeley , University of Los Angeles , 1969",1,,,no
 "Berkeley , at : 00 p .m",1,,,no
 "Berkeley , the University of Chicago , Columbia ,",1,University of Chicago,I40347166,no
@@ -833,22 +820,22 @@ Berkeley -California,1,,,no
 Berkeley 4,1,,,no
 "Berkeley 8,",1,,,no
 Berkeley : University of,1,,,no
-Berkeley : University of California Press ,1,,,no
+Berkeley : University of California Press,1,,,no
 "Berkeley : University of California Press , 1957. Pp",1,,,no
 "Berkeley : University of California Press , 1981",1,,,no
-"Berkeley : University of California Press , 1986) ",1,,,no
+"Berkeley : University of California Press , 1986)",1,,,no
 "Berkeley : University of California Press , 1995",1,,,no
 "Berkeley : University of California Press , 1998 , 210 p . ;",1,,,no
 "Berkeley : University of California Press , 2002",1,,,no
 "Berkeley : University of California Press , 2007",1,,,no
 "Berkeley : University of California Press , 2011",1,,,no
-Berkeley : University of California Press . 2009 ,1,,,no
-Berkeley : University of California Press . 2013 ,1,,,no
+Berkeley : University of California Press . 2009,1,,,no
+Berkeley : University of California Press . 2013,1,,,no
 "Berkeley : University of California Press, 1996. 495 p",1,,,no
 "Berkeley : University of California Press, 2001, 275p",1,,,no
 "Berkeley Advanced Biomaterials, Berkeley, California",1,,,no
 "Berkeley Appl. Sci. and Engrg., San Francisco, CA 94103",1,,,no
-Berkeley CA 2007 ,1,,,no
+Berkeley CA 2007,1,,,no
 "Berkeley CA, London: University of California Press, 1998",1,,,no
 Berkeley CA: University of California Press,1,,,no
 Berkeley California U.S.A,1,,,no
@@ -927,10 +914,9 @@ Berkeley Sensor and Actuator  Berkeley CA 94720 USA,1,,,no
 "Berkeley lab, Berkeley, 94720, CA, USA",1,Lawrence Berkeley National Laboratory,I148283060,no
 "Berkeley laboratory , Berkeley , California 94720",1,Lawrence Berkeley National Laboratory,I148283060,no
 Berkeley u,1,,,no
-Berkeley'-California ,1,,,no
-"Berkeley,California",1,,,no
-"Berkeley, CA
-",1,,,no
+Berkeley'-California,1,,,no
+"Berkeley, California",1,,,no
+"Berkeley, CA",1,,,no
 "Berkeley, CA 94702",1,,,no
 "Berkeley, CA 94703, USA",1,,,no
 "Berkeley, CA 94710",1,,,no
@@ -941,7 +927,7 @@ Berkeley'-California ,1,,,no
 "Berkeley, CA 94720-7360",1,,,no
 "Berkeley, CA, 94707",1,,,no
 "Berkeley, CA, 94720-1740, United States",1,,,no
-"Berkeley, CA, U.S.A. E-mail: ",1,,,no
+"Berkeley, CA, U.S.A. E-mail:",1,,,no
 "Berkeley, CA, U.S.A. E-mail: <>",1,,,no
 "Berkeley, CA, USA 5 , ,",1,,,no
 "Berkeley, CA: University of California Press, 1970",1,,,no
@@ -954,13 +940,13 @@ Berkeley'-California ,1,,,no
 "Berkeley, Californi a 94720",1,,,no
 "Berkeley, California (L.T.)",1,,,no
 "Berkeley, California -",1,,,no
-"Berkeley, California . ",1,,,no
+"Berkeley, California .",1,,,no
 "Berkeley, California 94 7 1 0 ,,,",1,,,no
 "Berkeley, California 94708, U.S",1,,,no
 "Berkeley, California 94720 --",1,,,no
 "Berkeley, California 94720-1760",1,,,no
 "Berkeley, California 94720-3202, USA",1,,,no
-"Berkeley, California 97420 ",1,,,no
+"Berkeley, California 97420",1,,,no
 "Berkeley, California July 31, 1985",1,,,no
 "Berkeley, California September 14, 2020",1,,,no
 "Berkeley, California US",1,,,no
@@ -974,7 +960,7 @@ Berkeley'-California ,1,,,no
 "Berkeley, California, July 15, 1940",1,,,no
 "Berkeley, California, September 5, 2022",1,,,no
 "Berkeley, California, U",1,,,no
-"Berkeley, California, USA E‐mail:",1,,,no
+"Berkeley, California, USA E‐mail:",1,,,no
 "Berkeley, California,US",1,,,no
 "Berkeley, California,USA",1,,,no
 "Berkeley, California. 282 p",1,,,no
@@ -1113,7 +1099,7 @@ Cardiac EP Service University of California San Fransisco San Fransisco Californ
 "Cardiovascular Research Institute, University of California, San Francisco/Berkeley, USA",1,"University of California, San Francisco",I180670191,no
 "Cardiovascular Research Institute, University of California, San Frareisoo",1,University of California System,I2803209242,no
 "Cardiovascular resarch institute and department of Physiology, 1315–M, University of California, San Fruncisco, CA 94143 USA",1,"University of California, San Francisco",I180670191,no
-"Care and Social Policy (Berkeley : University of California Press , 2001) ",1,,,no
+"Care and Social Policy (Berkeley : University of California Press , 2001)",1,,,no
 "Cell Culture Laboratory, School of Public Health, Naval Biomedical Research Laboratory, University of California, Oakland",1,University of California System,I2803209242,no
 "Cell Culture Laboratory, University of California School of Public Health, Naval Biosciences Laboratory, Oakland",1,University of California System,I2803209242,no
 "Cell Culture Laboratory, University of California, Naval Biosciences Laboratory, Oakland, USA",1,University of California System,I2803209242,no
@@ -1150,14 +1136,7 @@ Center for Embedded Computer Systems University of California,1,University of Ca
 Centre for Neuroscience University of California,1,,,no
 "Centro Nacional de Biotecnología-Consejo Superior de Investigaciones Científicas, Cantoblanco, E-28049 Madrid, Spain (R.M., Y.I., T.V., S.K., T.C., C.C.);Division of Physiological Chemistry II, Department of Medical Biochemistry and Biophysics, Karolinska Institutet, S-171 77 Stockholm, Sweden (M.H.); andEnergy Biosciences Institute and Plant and Microbial Biology Department, University of California, Berkeley, California 94720 (T.V.)",1,Karolinska Institutet | Consejo Superior de Investigaciones Científicas | Centro Nacional de Biotecnología,I28166907 I134820265 I4210104776,no
 "Centro Nacional de Biotecnología-Consejo Superior de Investigaciones Científicas, Cantoblanco, E-28049 Madrid, Spain (R.M., Y.I., T.V., S.K., T.C., C.C.);Division of Physiological Chemistry II, Department of Medical Biochemistry and Biophysics, Karolinska Institutet, S-171 77 Stockholm, Sweden (M.H.); andEnergy Biosciences Institute and Plant and Microbial Biology Department, University of California, Berkeley, California 94720 (T.V.) ccastresana@cnb.csic.es",1,Karolinska Institutet | Consejo Superior de Investigaciones Científicas | Centro Nacional de Biotecnología,I28166907 I134820265 I4210104776,no
-"Centro de Física de Materiales (CSIC-UPV/EHU)-Materials Physics Center (MPC), Paseo Manuel Lardizabal 5, 20018 San Sebastián, Spain;
-Donostia International Physics Center (DIPC), Paseo Manuel Lardizabal 4, San Sebastián, Spain;
-Nano-Bio Spectroscopy group and European Theoretical Spectroscopy Facility, Departamento Fisica de Materiales UPV/EHU, San Sebastián, Spain;
-Department of Physics, University of Johannesburg, Auckland Park, Johannesburg, South Africa;
-CNR-IOM, Laboratorio Nazionale TASC, Basovizza SS-14 Km. 163.5, I-34149, Trieste, Italy;
-Advanced Electronic Materials Center, National Institute for Materials Science, 1-1 Namiki, Tsukuba 305-0044, Japan;
-Departamento de Fisica Aplicada I, UPV/EHU, 20018 San Sebastián, Spain;
-Department of Physics, University of California at Berkeley, Berkeley, California, United States",1,University of Johannesburg | Donostia International Physics Center | Material Physics Center,I24027795 I47686490 I4210131160,no
+"Centro de Física de Materiales (CSIC-UPV/EHU)-Materials Physics Center (MPC), Paseo Manuel Lardizabal 5, 20018 San Sebastián, Spain; Donostia International Physics Center (DIPC), Paseo Manuel Lardizabal 4, San Sebastián, Spain; Nano-Bio Spectroscopy group and European Theoretical Spectroscopy Facility, Departamento Fisica de Materiales UPV/EHU, San Sebastián, Spain; Department of Physics, University of Johannesburg, Auckland Park, Johannesburg, South Africa; CNR-IOM, Laboratorio Nazionale TASC, Basovizza SS-14 Km. 163.5, I-34149, Trieste, Italy; Advanced Electronic Materials Center, National Institute for Materials Science, 1-1 Namiki, Tsukuba 305-0044, Japan; Departamento de Fisica Aplicada I, UPV/EHU, 20018 San Sebastián, Spain; Department of Physics, University of California at Berkeley, Berkeley, California, United States",1,University of Johannesburg | Donostia International Physics Center | Material Physics Center,I24027795 I47686490 I4210131160,no
 "Chair and Professor at University of California, LA, California,USA",1,"University of California, Los Angeles",I161318765,no
 "Chairman, University-wide Committee for the Natural Land and Water Reserves System, University of California, USA",1,,,no
 "Chemical & Biomolecular Engineering Department, University of California,Los Angles,USA",1,,,no
@@ -1714,7 +1693,7 @@ Department of Psychology sbunge@berkeley.edu kweiner@berkeley.edu,1,,,no
 "Department of Psychology, University of California Santa#R#Barbara, USA,",1,"University of California, Santa Barbara",I154570441,no
 "Department of Psychology, University of California at L. A., USA",1,University of California System,I2803209242,no
 "Department of Psychology, University of California#8211",1,University of California System,I2803209242,no
-"Department of Psychology, University of California,USA,",1,University of California System,I2803209242,no
+"Department of Psychology, University of California, USA,",1,University of California System,I2803209242,no
 "Department of Psychology, University of California, CA 94720-5050, USA",1,University of California System,I2803209242,no
 "Department of Psychology, University of California, CA 95616–8686, USA",1,University of California System,I2803209242,no
 "Department of Psychology, University of California, Davis, California; The Sperm Bank of California (TSBC), Berkeley, California",1,"University of California, Davis",I84218800,no
@@ -1880,8 +1859,7 @@ Der University of California,1,University of California System,I2803209242,no
 "Director, Built Environment, Dept. of Construction Management, Univ. of Washington, Berkeley Research Group LLC, 6125 37th Ave. NW, Unit 1, Seattle, WA 98107. ORCID: https://orcid.org/0000-0003-4010-7307",1,University of Washington,I201448701,no
 "Director, Health Priorities Research Group Assistant Professor, Urban and Regional Planning School of Social Ecology University of California, California, USA",1,University of California System,I2803209242,no
 "Director, Soteria AssociatesSan Diego, CA, and is Clinical Professor of Psychiatry, School of Medicine, University of California at San DiegoSan Diego, CA",1,University of California San Diego,I36258959,no
-"Direktor:Prof.,
-        Department of Entomology, Hartmann University of California, Wellman Hall 201, 94702, Berkeley, Calif., USA",1,,,no
+"Direktor:Prof., Department of Entomology, Hartmann University of California, Wellman Hall 201, 94702, Berkeley, Calif., USA",1,,,no
 "Distributed Cognition and Human Computer Interaction Lab, University of California, 9500 Gilman Drive #0515, La Jolla, CA 92093-0515, USA#TAB#",1,University of California System,I2803209242,no
 "Division of Agriculture and Natural Resources, University of California, Cooperative Extension, Napa, United States",1,University of California Division of Agriculture and Natural Resources,I4210141545,no
 "Division of Behavioral and Developmental Pediatrics, University of California,",1,University of California System,I2803209242,no
@@ -2004,18 +1982,13 @@ Fellowship programs at Berkeley and is senior research fellow at the center,1,,,
 "Forest Product Laboratory, University of California, Richmona",1,,,no
 "Formerly Cambridge University, now University of California",1,University of Cambridge | University of California System,I241749 I2803209242,no
 "Founder and CEO of Stratelytics, an investment research and consulting firm built on the application of analytic methods from management science, finance, and related fields. Prior to starting Stratelytics, he was EVP of Strategy at Xamplify, a consumer analytics startup focusing on the financial services industry. Earlier, he was a Partner at PricewaterhouseCoopers and leader of their Applied Decision Analysis Group. He holds a BS in Biochemistry from Yale, a Masters in Public Policy from Harvard, and a PhD in Management Science & Engineering from Stanford. He served as a Visiting Lecturer at UC Berkeley and is currently an Adjunct Associate Professor at Stanford",1,,,no
-"France Berkeley , University of California Press , 2009 , 817 p ",1,,,no
+"France Berkeley , University of California Press , 2009 , 817 p",1,,,no
 "From Berkeley, CA",1,,,no
 "From Berkeley, California",1,,,no
 "From Mount Sinai Heart (R.S.R., V.F.) and the Translational and Molecular Imaging Institute (Z.A.F.), Mount Sinai School of Medicine, New York, NY; Cardiovascular Research Institute, MedStar Research Institute, Washington Hospital Center, Washington, DC (H.B.B.); Center for Lipid and Arteriosclerosis Science, University of Cincinnati, Cincinnati, OH (W.S.D.); Oakland University William Beaumont School of Medicine, William Beaumont Hospital, Royal Oak, MI (J.G.); University of California Berkeley,",1,"University of Cincinnati | Icahn School of Medicine at Mount Sinai | Oakland University | University of California System | Beaumont Hospital, Royal Oak",I63135867 I98704320 I177721651 I2803209242 I4210128757,no
 "From VA Medical Center and UC San Francisco (Y.Z., N.S., G.-H.J., W.B., S. Mueller, A.-T.D., M.W.W.), CA; Johns Hopkins University (S. Mori), Baltimore, MD; German Cancer Research Institute (L.S.), Heidelberg, Germany; UC San Francisco (J.H.K., K.Y., B.L.M.), CA; University of Southern California (H.C.), Los Angeles; and Lawrence Berkeley National Laboratory and UC Berkeley (W.J.J.), CA",1,"University of Southern California | Johns Hopkins University | Lawrence Berkeley National Laboratory | University of California, San Francisco",I1174212 I145311948 I148283060 I180670191,no
 "From the *Sustainable Sciences Institute, Managua, Nicaragua; †Centro de Salud Sócrates Flores Vivas, Ministry of Health, Managua, Nicaragua; ‡Centers for Disease Control and Prevention, Atlanta, Georgia; §Laboratorio Nacional de Virología, Centro Nacional de Diagnóstico y Referencia, Ministry of Health, Managua, Nicaragua; ¶Department of Epidemiology, School of Public Health, University of Michigan, Ann Arbor, Michigan; and ‖ Division of Infectious Diseases and Vaccinology, School of Public Health, University of California, Berkeley, California",1,University of Michigan | Centers for Disease Control and Prevention | Ministerio de Salud,I27837315 I1289490764 I4210133564,no
-"From the Center for Primary Care and Prevention, The Warren Alpert Medical School of Brown University/Memorial Hospital of Rhode Island, Pawtucket, RI;1
-the Department of Community Health, The Warren Alpert Medical School of Brown University, Providence, RI;2
-the Department of Family Medicine, The Warren Alpert Medical School of Brown University, Providence, RI;3
-Abacus Management Technologies, LLC, Cranston, RI;4
-Health e-Technologies Initiative, Brigham and Women's Hospital/Harvard Medical School, Boston, MA;5
-University of California, Berkeley, Berkeley, CA;6 and Memorial Hospital of Rhode Island, Pawtucket, RI7",1,Brown University | Brigham and Women's Hospital | Memorial Hospital of Rhode Island,I27804330 I1283280774 I2801290373,no
+"From the Center for Primary Care and Prevention, The Warren Alpert Medical School of Brown University/Memorial Hospital of Rhode Island, Pawtucket, RI;1 the Department of Community Health, The Warren Alpert Medical School of Brown University, Providence, RI;2 the Department of Family Medicine, The Warren Alpert Medical School of Brown University, Providence, RI;3 Abacus Management Technologies, LLC, Cranston, RI;4 Health e-Technologies Initiative, Brigham and Women's Hospital/Harvard Medical School, Boston, MA;5 University of California, Berkeley, Berkeley, CA;6 and Memorial Hospital of Rhode Island, Pawtucket, RI7",1,Brown University | Brigham and Women's Hospital | Memorial Hospital of Rhode Island,I27804330 I1283280774 I2801290373,no
 "From the Department of Diagnostic Imaging and Nuclear Medicine (S.O., Y.F., K. Takakura, Y.Y., K. Togashi), Human Brain Research Center (T.O.), Department of Neurosurgery (Y.A., S.M.), and Department of Human Health Sciences (N.S.), Graduate School of Medicine, Kyoto University, 54 Shogoin Kawahara-cho, Sakyo-ku, Kyoto, 606-8507 Japan; and Department of Electrical Engineering and Computer Sciences and Helen Wills Neuroscience Institute, University of California, Berkeley, Calif (C.L.)",1,Kyoto University | University of California System,I22299242 I2803209242,no
 "From the Department of Family Medicine, Taichung Veterans General Hospital, Taichung, Taiwan (Y.-S.H., C.-F.L., W.-M.C.); Center for Geriatrics and Gerontology, Taichung Veterans General Hospital, Taichung, Taiwan (C.-F.L.); Division of Occupational Medicine, Department of Emergency Medicine, Taichung Veterans General Hospital, Taichung, Taiwan (C.-F.L., Y.-T.T.); Research Center for Geriatrics and Gerontology, College of Medicine, National Chung Hsing University, Taichung, Taiwan (C.-F.L., W.-M.C.); Department of Post-Baccalaureate Medicine, College of Medicine, National Chung Hsing University, Taichung, Taiwan (C.-F.L., W.-M.C.); School of Medicine, Chung Shan Medical University, Taichung, Taiwan (Y.-T.T.); Division of Environmental Health Sciences, Berkeley School of Public Health, University of California, Berkeley, California (S.-Y.W.); College of Healthcare and Management, Chung Shan Medical University, Taichung, Taiwan (T.-P.T., Y.-H.L.); School of Public Health, China Medical U",1,National Chung Hsing University | Taichung Veterans General Hospital,I162838928 I4210091773,no
 "From the Department of Medicine, Feinberg School of Medicine, Northwestern University, Chicago, IL (E.U., D.M.L.-J.); Department of Epidemiology, Center for Social Epidemiology and Population Health, University of Michigan School of Public Health, Ann Arbor (A.V.D.-R.); Department of Preventive Medicine, Feinberg School of Medicine, Northwestern University, Chicago, IL (D.M.L.-J., S.E.B., H.N., N.B.A.); Division of Epidemiology, University of California, Berkeley School of Public Health, Berkeley (M",1,University of Michigan | Northwestern University | University of California System,I27837315 I111979921 I2803209242,no
@@ -2039,7 +2012,7 @@ University of California, Berkeley, Berkeley, CA;6 and Memorial Hospital of Rhod
 "From the Division of Anesthesia, Department of Clinical Neurosciences, University of Cambridge, Addenbrooke's Hospital, Cambridge, United Kingdom (I.P., D.K.M., E.A.S.) the Department of Anesthesiology, Critical Care and Pain Medicine, Boston Children's Hospital, Boston, Massachusetts (L.C., C.B.B.) Department of Anesthesia, Harvard Medical School, Boston, Massachusetts (L.C., C.B.B.). Current affiliations: Helen Wills Neuroscience Institute, University of California Berkeley, Berkeley, California (I.P.)",1,University of Cambridge | Harvard University | Boston Children's Hospital | Addenbrooke's Hospital,I241749 I136199984 I1288882113 I4210156194,no
 "From the Division of Orthopedic Surgery, University of California, San Dicgo",1,University of California San Diego,I36258959,no
 "From the Drexel University College of Medicine, Department of Neurology, Philadelphia, PA, USA (B.L. Peterlin); University of Toledo-Health Science Campus, Department of Neurology, Toledo, OH, USA (G.E. Tietjen); Nashville Neuroscience Group, Nashville, TN, USA (J.L. Brandes); Evanston Northwestern Healthcare, Glenview, IL, USA (S.M. Rubin); Maimonides Medical Center, Division of Neurology, Brooklyn, NY, USA (E. Drexler); University of California at Berkeley, The Transportation Sustainability Research Center, (J.R. Lidicker); University of Medicine and Dentistry of New Jersey, Stratford, NJ, USA (S. Meng)",1,Drexel University | University of Toledo | Maimonides Medical Center,I72816309 I90871651 I1326872476,no
-"From the Francis I. Proctor Foundation (J.D.K., C.C., E.L., Y.L., K.J.R., K.S.O., T.D., C.E.O., T.C.P., T.M.L.), the Departments of Ophthalmology (J.D.K., T.D., C.E.O., T.C.P., T.M.L.) and Epidemiology and Biostatistics (K.J.R., C.E.O., T.C.P., T.M.L.), and the Institute for Global Health Sciences (C.E.O., T.M.L.), University of California, San Francisco, San Francisco, and the University of California, Berkeley, School of Public Health, Berkeley (K.S.O.) — both in California; and the Carter Center ",1,,,no
+"From the Francis I. Proctor Foundation (J.D.K., C.C., E.L., Y.L., K.J.R., K.S.O., T.D., C.E.O., T.C.P., T.M.L.), the Departments of Ophthalmology (J.D.K., T.D., C.E.O., T.C.P., T.M.L.) and Epidemiology and Biostatistics (K.J.R., C.E.O., T.C.P., T.M.L.), and the Institute for Global Health Sciences (C.E.O., T.M.L.), University of California, San Francisco, San Francisco, and the University of California, Berkeley, School of Public Health, Berkeley (K.S.O.) — both in California; and the Carter Center",1,,,no
 "From the Memory and Aging Center (G.D.R., C.A.R., T.A.P., H.J.R., B.L.M.) and Department of Neurology (G.D.R., C.A.R., H.J.R., B.L.M.), University of California at San Francisco; Helen Wills Neuroscience Institute (A.J.F., E.C.M., S.L.B., S.C., P.P., W.J.J.), University of California at Berkeley; Lawrence Berkeley National Laboratory (A.J.F., J.P.O., S.L.B., W.J.J.), Berkeley, CA; and Departments of Psychiatry (W.E.K.) and Radiology (C.A.M.), University of Pittsburgh, PA",1,"University of California, San Francisco",I180670191,no
 "From the Memory and Aging Center (S.S., D.R.S., W.W.S., R.O., A.L., H.J.R., A.L.B., D.C.P., B.L.M., G.D.R.), Department of Neurology, and Department of Pathology (W.W.S), University of California, San Francisco; Department of Neurology (B.F.B., J.E.P.), Mayo Clinic, Rochester, MN; Helen Wills Neuroscience Institute (R.O., W.J.J., G.D.R.), University of California Berkeley; Alzheimercenter (R.O.), VU University Medical Center, Amsterdam, the Netherlands; Lawrence Berkeley National Laboratory (J.P.O.,",1,"University of California, San Francisco | Mayo Clinic",I180670191 I1330342723,no
 "From the Memory and Aging Center and Department of Neurology (M.H.R., A.A., M.G., J.J., H.J.R., M.L.G.-T., B.L.M., W.J.J., G.D.R.), University of California San Francisco, San Francisco; Helen Wills Neuroscience Institute (A.A., N.A., C.M., E.C.M., W.J.J., G.D.R.), University of California Berkeley, Berkeley; Lawrence Berkeley National Laboratory (S.L.B., J.P.O., M.J., I.V.Y., W.J.J., G.D.R.), Berkeley; and Center for Imaging of Neurodegenerative Diseases (M.W.W.), Department of Veterans Affairs",1,"University of California, San Francisco",I180670191,no
@@ -2178,7 +2151,7 @@ Kearney Agri. Center; Univ. of California; Parlier CA 93648 USA,1,Kearney Agricu
 "Kearney Agricultural Center, Univ. of California, Parlier, CA 93648",1,,,no
 "Koegel Autism Center, University of California",1,,,no
 LABORATORY of the UNIVERSITY OF CALIFORNIA,1,University of California System,I2803209242,no
-LABORATORY of the University of California ,1,,,no
+LABORATORY of the University of California,1,,,no
 "LBL, Univ. of California, Ca., U.S.A",1,,,no
 "LBNL , Berkeley , CA , 94720 , USA,",1,Lawrence Berkeley National Laboratory,I148283060,no
 "LBNL , Berkeley , CA 94720 , U",1,Lawrence Berkeley National Laboratory,I148283060,no
@@ -2201,7 +2174,7 @@ LBNL and Department of Chemistry University of California,1,Lawrence Berkeley Na
 "Laboratories of Zoölogy, University of California",1,University of California System,I2803209242,no
 "Laboratory , Berkeley , California ,",1,,,no
 "Laboratory Orthopaedic Hospital and University of California, Los Angles California, LA, USA Tel.: +1‐213‐742‐1443 Fax: +1‐213‐742‐1365",1,"University of California, Los Angeles | Orthopaedic Hospital",I161318765 I4210116300,no
-Laboratory UNIVERSITY OF CALIFORNIA ,1,University of California System,I2803209242,no
+Laboratory UNIVERSITY OF CALIFORNIA,1,University of California System,I2803209242,no
 "Laboratory of Gene Regulation and Signal Transduction, Department of Pharmacology, School of Medicine, University of California",1,University of California System,I2803209242,no
 "Laboratory of Neuro ImagingDavid Geffen School of Medicine, University of California Los AngelesLos Angeles California USA",1,"University of California, Los Angeles",I161318765,no
 Laboratory of Soil Chemistry and Bacteriology University of California,1,University of California System,I2803209242,no
@@ -2231,8 +2204,7 @@ Mace Brown Museum of Natural History and University of California Museum of Pale
 "Management and Organizations and the Entrepreneurship and Innovation Group, Berkeley Haas, Berkeley, California 94720;",1,,,no
 "Marion Nestle University of California Press, Berkeley, California, USA. 2003",1,,,no
 "Marissa J. Smith is a sociocultural anthropologist specializing in the anthropology of science and technology, political economy, and postsocialism. In particular, her work is concerned with the cosmopolitan projects people of diverse backgrounds undertake in places remote from metropoles, especially as these combine, on the one hand, science, technology, and engineering and, on the other, knowledge practices framed as local, national, traditional or in other ways particular. Since completing her PhD work in 2015 she has collaborated with the ""Mongolia Initiative"" at UC-Berkeley and the Emerging Subjects of the New Economy project at University College London",1,University College London,I45129253,no
-"Martha O’Hara Conway  is Associate Director of the Special Collections Library at the University of Michigan, where she is responsible for a range of operations and services in support of internationally renowned collections of books, manuscripts, and archival and other materials. She has worked for the Newberry Library as well as at Yale University Library and the Library of Congress. An active member of ACRL’s Rare Books and Manuscripts Section, she currently co-chairs its metrics and assessment task force. Martha is a graduate of Mount Holyoke College and the University of Michigan. 
-  Merrilee Proffitt  is a Senior Program Officer at OCLC Research. She is an active member of the Society of American Archivists and ACRL’s Rare Books and Manuscripts Section, serving on ACRL’s Research Planning and Review Committee and other groups. Merrilee has authored or coauthored articles, guidelines, and reports for a variety of organizations and professional journals. Her current projects and interests include archival description, increasing access to special collections, the impact of copyright on primary source material, looking at how libraries and archives can work with the Wikipedia community, and digital library initiatives. Prior to joining OCLC Research in 2001, she served as director of digital archive development at the Bancroft Library, University of California, Berkeley",1,University of Michigan | Yale University,I27837315 I32971472,no
+"Martha O’Hara Conway  is Associate Director of the Special Collections Library at the University of Michigan, where she is responsible for a range of operations and services in support of internationally renowned collections of books, manuscripts, and archival and other materials. She has worked for the Newberry Library as well as at Yale University Library and the Library of Congress. An active member of ACRL’s Rare Books and Manuscripts Section, she currently co-chairs its metrics and assessment task force. Martha is a graduate of Mount Holyoke College and the University of Michigan. Merrilee Proffitt  is a Senior Program Officer at OCLC Research. She is an active member of the Society of American Archivists and ACRL’s Rare Books and Manuscripts Section, serving on ACRL’s Research Planning and Review Committee and other groups. Merrilee has authored or coauthored articles, guidelines, and reports for a variety of organizations and professional journals. Her current projects and interests include archival description, increasing access to special collections, the impact of copyright on primary source material, looking at how libraries and archives can work with the Wikipedia community, and digital library initiatives. Prior to joining OCLC Research in 2001, she served as director of digital archive development at the Bancroft Library, University of California, Berkeley",1,University of Michigan | Yale University,I27837315 I32971472,no
 "Masamitsu Kosaki received a B.S. from Nagoya University in 1962, an M.S. from Univ. of Calif., Berkeley, in 1966 and he has a Ph.D. He became an Associate Professor at Nagoya University in 1976, and a Professor at Toyohashi University of Technology in 1979. He has been involved in the study of the electrical properties of polymers, electrical insulation at extremely low temperature and superconductive power cables. He received a distinguished paper award from I.E.E. of Japan in 1979 and 1991. He is a member of I.E.E. of Japan; the Low Temperature Society; I.E.E.E.; and C.I.G.R.E",1,Nagoya University | Toyohashi University of Technology,I60134161 I136259955,no
 "Master's Degree in Moral and Political Theology, from Berkeley-California,",1,,,no
 "Materials Department and Materials Research Laboratory, University of California, Santa#N#Barbara, CA 93106,#N#USA",1,"University of California, Santa Barbara",I154570441,no
@@ -2312,7 +2284,7 @@ Office of Medical Education at University of California,1,University of Californ
 "P. O. Box 4202, Berkeley, CA 94704-0202,",1,,,no
 "P. O. Box 5265, Berkeley CA 94705, USA",1,,,no
 "P.O. BOX 5173 , BERKELEY , CA 94705",1,,,no
-"P.O. Box 12748, Berkeley, CA 94712, U.S.A. E-mail: ",1,,,no
+"P.O. Box 12748, Berkeley, CA 94712, U.S.A. E-mail:",1,,,no
 "P.O. Box 12748, Berkeley, CA 94712, U.S.A. E-mail: <>",1,,,no
 "P.O. Box 12748, Berkeley, CA 94712-3748, U.S.A. E-mail:",1,,,no
 "P.O. Box 12748, Berkeley, CA 94712-3748, U.S.A. E-mail:<>",1,,,no
@@ -2363,7 +2335,7 @@ Penn State University Communication and Space Sciences Lab University Park Penns
 "Pharmacology University of California, School of Medicine",1,University of California System,I2803209242,no
 "Philosophy and Psychology, University of California",1,University of California System,I2803209242,no
 "Philosophy at the University of California, USA",1,,,no
-"Philosophy of Listening , Berkeley (California) , University of California Press , 2019 , p. ",1,,,no
+"Philosophy of Listening , Berkeley (California) , University of California Press , 2019 , p.",1,,,no
 "Physical Education Department, University of California, San Ciego, USA",1,University of California System,I2803209242,no
 "Physics Department, University of California, CA, USA",1,University of California System,I2803209242,no
 "Policy and Management , Berkeley , California , USA",1,,,no
@@ -2371,7 +2343,7 @@ Penn State University Communication and Space Sciences Lab University Park Penns
 "Policy and Management, Mulford Hall, University of California",1,University of California System,I2803209242,no
 Political Science Department at University of California #8211,1,University of California System,I2803209242,no
 Political Science University of California,1,,,no
-"Politics and Diplomacy Berkeley & London , University of California Press , 2004 , 215 p ",1,,,no
+"Politics and Diplomacy Berkeley & London , University of California Press , 2004 , 215 p",1,,,no
 "Post-doctoral Research Associate, University of California, San Diego, USA berkeley.edu",1,University of California San Diego,I36258959,no
 "Postgraduate research surgeon and lecturer, University of California",1,University of California System,I2803209242,no
 "Present address: Department of Physics, University of California, Santa#N#Barbara, CA 93106",1,"University of California, Santa Barbara",I154570441,no
@@ -2386,51 +2358,8 @@ Princeton University and NBER  Berkeley California USA,1,Princeton University,I2
 "Private Practice, Berkeley, CA. Mailing address: Dept. of Social and Behavioral Sciences, Graduate Program in Sociology, N-631-Y, UCSF, San Francisco, CA 94143.Berkeley, CA",1,"University of California, San Francisco",I180670191,no
 "Pro-Tech, 125 University Avenue, Berkeley, California, 94710, USA",1,,,no
 "Prof., University of California, Los Angels",1,,,no
-"Professeur titulaire de la chaire d’Analyse
-sociologique du travail, de l’emploi et des organisations au
-Conservatoire national des arts et métiers (Cnam) depuis 2000,
-après avoir enseigné à l’ENS de Fontenay-Saint Cloud, l’université
-de Paris X et l’université de Rouen. Il a également été professeur
-invité (titulaire de la chaire Marc Bloch) à l’université Humboldt
-de Berlin (2009), Visiting Scholar au département de sociologie de
-l’université de Berkeley (UCB) et à l’Institut of Research on Labor
-and Employment de Los Angeles (UCLA) (2011-2012), titulaire de
-la chaire Jacques Leclercq de l’Université Catholique de Louvain
-(2013-2014) et Fellow au Wissenschaftskolleg zu Berlin (2020-2021).
-Il enseigne la sociologie du travail et de l’emploi, la sociologie de
-l’action collective et la sociologie générale. Ses travaux portent
-sur les transformations du travail dans ses dimensions multiples
-(organisation, temporalités, relations professionnelles, marché,
-trajectoires sociales…) ainsi que sur l’histoire de la sociologie.
-Particulièrement intéressé par les comparaisons internationales,
-il travaille actuellement sur les utopies concrètes du travail en
-France et aux États-Unis. Concernant l’utopie, il a notamment
-écrit les ouvrages suivants : Le travail de l’utopie. Godin et le
-familistère de Guise, Paris, Les Belles Lettres, 2009",1,Humboldt-Universität zu Berlin | Conservatoire National des Arts et Métiers,I39343248 I124158823,no
-"Professeur titulaire de la chaire d’Analyse
-sociologique du travail, de l’emploi et des organisations au
-Conservatoire national des arts et métiers (Cnam) depuis 2000,
-après avoir enseigné à l’ENS de Fontenay-Saint Cloud, l’université
-de Paris X et l’université de Rouen. Il a également été professeur
-invité (titulaire de la chaire Marc Bloch) à l’université Humboldt
-de Berlin (2009), Visiting Scholar au département de sociologie de
-l’université de Berkeley (UCB) et à l’Institut of Research on Labor
-and Employment de Los Angeles (UCLA) (2011-2012), titulaire de
-la chaire Jacques Leclercq de l’Université Catholique de Louvain
-(2013-2014) et Fellow au Wissenschaftskolleg zu Berlin (2020-2021).
-Il enseigne la sociologie du travail et de l’emploi, la sociologie de
-l’action collective et la sociologie générale. Ses travaux portent
-sur les transformations du travail dans ses dimensions multiples
-(organisation, temporalités, relations professionnelles, marché,
-trajectoires sociales…) ainsi que sur l’histoire de la sociologie.
-Particulièrement intéressé par les comparaisons internationales,
-il travaille actuellement sur les utopies concrètes du travail en
-France et aux États-Unis. Concernant l’utopie, il a notamment
-écrit les ouvrages suivants : Le travail de l’utopie. Godin et le
-familistère de Guise, Paris, Les Belles Lettres, 2009 ; L’âge du
-faire. Hacking, travail, anarchie, Paris, Seuil, 2015 ; Un désir
-d’égalité. Vivre et travailler dans des communautés utopiques,
-Paris, Seuil, 2019",1,Humboldt-Universität zu Berlin | Conservatoire National des Arts et Métiers,I39343248 I124158823,no
+"Professeur titulaire de la chaire d’Analyse sociologique du travail, de l’emploi et des organisations au Conservatoire national des arts et métiers (Cnam) depuis 2000, après avoir enseigné à l’ENS de Fontenay-Saint Cloud, l’université de Paris X et l’université de Rouen. Il a également été professeur invité (titulaire de la chaire Marc Bloch) à l’université Humboldt de Berlin (2009), Visiting Scholar au département de sociologie de l’université de Berkeley (UCB) et à l’Institut of Research on Labor and Employment de Los Angeles (UCLA) (2011-2012), titulaire de la chaire Jacques Leclercq de l’Université Catholique de Louvain (2013-2014) et Fellow au Wissenschaftskolleg zu Berlin (2020-2021). Il enseigne la sociologie du travail et de l’emploi, la sociologie de l’action collective et la sociologie générale. Ses travaux portent sur les transformations du travail dans ses dimensions multiples (organisation, temporalités, relations professionnelles, marché, trajectoires sociales…) ainsi que sur l’histoire de la sociologie. Particulièrement intéressé par les comparaisons internationales, il travaille actuellement sur les utopies concrètes du travail en France et aux États-Unis. Concernant l’utopie, il a notamment écrit les ouvrages suivants : Le travail de l’utopie. Godin et le familistère de Guise, Paris, Les Belles Lettres, 2009",1,Humboldt-Universität zu Berlin | Conservatoire National des Arts et Métiers,I39343248 I124158823,no
+"Professeur titulaire de la chaire d’Analyse sociologique du travail, de l’emploi et des organisations au Conservatoire national des arts et métiers (Cnam) depuis 2000, après avoir enseigné à l’ENS de Fontenay-Saint Cloud, l’université de Paris X et l’université de Rouen. Il a également été professeur invité (titulaire de la chaire Marc Bloch) à l’université Humboldt de Berlin (2009), Visiting Scholar au département de sociologie de l’université de Berkeley (UCB) et à l’Institut of Research on Labor and Employment de Los Angeles (UCLA) (2011-2012), titulaire de la chaire Jacques Leclercq de l’Université Catholique de Louvain (2013-2014) et Fellow au Wissenschaftskolleg zu Berlin (2020-2021). Il enseigne la sociologie du travail et de l’emploi, la sociologie de l’action collective et la sociologie générale. Ses travaux portent sur les transformations du travail dans ses dimensions multiples (organisation, temporalités, relations professionnelles, marché, trajectoires sociales…) ainsi que sur l’histoire de la sociologie. Particulièrement intéressé par les comparaisons internationales, il travaille actuellement sur les utopies concrètes du travail en France et aux États-Unis. Concernant l’utopie, il a notamment écrit les ouvrages suivants : Le travail de l’utopie. Godin et le familistère de Guise, Paris, Les Belles Lettres, 2009 ; L’âge du faire. Hacking, travail, anarchie, Paris, Seuil, 2015 ; Un désir d’égalité. Vivre et travailler dans des communautés utopiques, Paris, Seuil, 2019",1,Humboldt-Universität zu Berlin | Conservatoire National des Arts et Métiers,I39343248 I124158823,no
 Professor Practice of Medicine University of California,1,University of California System,I2803209242,no
 "Professor and Assistant Professor, Univ. of California",1,University of California System,I2803209242,no
 "Professor and Director, Forest Products Laboratory, University of California, 1301 South 46th Street, Richmond, CA 94804, USA e-mail: frank.beall.@ucop.edu, , US",1,University of California System | Forest Products Laboratory,I2803209242 I4210126421,no
@@ -2442,8 +2371,7 @@ Professor of History at the University of California,1,,,no
 Professor of Mathematics in the Department of Mathematics at the University of California,1,University of California System,I2803209242,no
 "Professor of Neurology, Psychiatry and Human Genetics, University of California, USA",1,,,no
 Professor of Philosophy and Research Professor of Psychiatry University of Pittsburgh UNIVERSITY OF CALIFORNIA PRESS Berkeley Los Angeles London,1,University of Pittsburgh,I170201317,no
-"Professor of Philosophy,
-        University of California, USA",1,,,no
+"Professor of Philosophy, University of California, USA",1,,,no
 "Professor of Physics and Director of the Radiation Laboratory, University of California",1,University of California System,I2803209242,no
 "Professor of Sociology, University of California",1,University of California System,I2803209242,no
 "Professor, Department of Psychology, University of California, USA",1,University of California System,I2803209242,no
@@ -2519,7 +2447,7 @@ School of Business University of California at,1,,,no
 "School of Pharmacy, University of California, San Fransisco, 513 Parnassus Avenue, Box 0446, Room S-1134, San Fransisco, CA 94143 USA, US",1,"University of California, San Francisco",I180670191,no
 "School of Public Health, Berkeley University, El Granada, CA 94018-1983, USA. froggydoc@comcast.net",1,,,no
 "School of Public Health, Naval Biological Laboratory, University of California, Oakland",1,University of California System,I2803209242,no
-"School of Public Health, University of Berkeley 1 Associate professor of forensic science and research associate , respectively, Department of Biomedical and Environmental Health Sciences, , Berkeley, Calif.94720 ",1,,,no
+"School of Public Health, University of Berkeley 1 Associate professor of forensic science and research associate , respectively, Department of Biomedical and Environmental Health Sciences, , Berkeley, Calif.94720",1,,,no
 "School of Public Health, University of California, Los#R#Angeles",1,"University of California, Los Angeles",I161318765,no
 "School of Public Health, University of California, San Francisco, California 94143, USA. ninah@berkeley.edu",1,"University of California, San Francisco",I180670191,no
 "School of Social Ecology, University of California, 3225 Berkeley Place, 92697-5800, Irvine, CA",1,"University of California, Irvine",I204250578,no
@@ -2588,7 +2516,7 @@ Supported in part by a grant from the Institute of Business and Economic Researc
 "Systems Biology Research Group, Department of Bioengineering, University of California, USA",1,University of California System,I2803209242,no
 T-013 University of California,1,University of California System,I2803209242,no
 "TENERA, 1995 University Avenue, Berkeley, CA 94704, U.S.A",1,,,no
-"TENERA, L.P. 2 Senior project manager , , 1995 University Ave., Berkeley, CA94704 ",1,,,no
+"TENERA, L.P. 2 Senior project manager , , 1995 University Ave., Berkeley, CA94704",1,,,no
 "TENERA, L.P., 1995 University Ave., Berkeley, CA 94708, U.S.A",1,,,no
 THE UNIVERSITY OF CALIFORNIA,1,University of California System,I2803209242,no
 "Teacher at the Anna Head School in Berkeley, California",1,,,no
@@ -2677,7 +2605,7 @@ UCSF/UCB Graduate Group in Bioengineering  San Francisco California USA,1,"Unive
 "UCSF/UCB Nanomedicine Development Center, San Francisco, CA 94158, USA",1,"University of California, San Francisco",I180670191,no
 "UJI Castellon, & EBEL, University of California",1,Universitat Jaume I,I10902133,no
 "UNI'T hU ... ERS Berkeley, California 94720",1,,,no
-UNIVERSITY OF CALIFORNIA ,1,University of California System,I2803209242,no
+UNIVERSITY OF CALIFORNIA,1,University of California System,I2803209242,no
 UNIVERSITY OF CALIFORNIA AT,1,University of California System,I2803209242,no
 "UNIVERSITY OF CALIFORNIA PRESS  BERKELEY, LOS ANGELES, LONDON",1,,,no
 UNIVERSITY OF CALIFORNIA PRESS BERKELEY  LOS ANGELES  LONDON,1,,,no
@@ -2694,7 +2622,7 @@ UNIVERSITY OF CALIFORNIA PRESS BERKELEY UNIVERSITY OF CALIFORNIA,1,,,no
 "UNIVERSITY OF CALIFORNIA PRESS Berkeley  Los Angeles  London University of California Prat Berkeley and Los Angeles,",1,,,no
 UNIVERSITY OF CALIFORNIA PRESS Berkeley & Los Angeles,1,,,no
 "UNIVERSITY OF CALIFORNIA PRESS Berkeley , Los Angeles ,",1,,,no
-UNIVERSITY OF CALIFORNIA PRESS Berkeley . Los Angeles ,1,,,no
+UNIVERSITY OF CALIFORNIA PRESS Berkeley . Los Angeles,1,,,no
 UNIVERSITY OF CALIFORNIA PRESS Berkeley Los Angeles London University,1,,,no
 "UNIVERSITY OF CALIFORNIA PRESS Berkeley Los Angeles London University of California Press , Berkeley and Los Angeles ,",1,,,no
 "UNIVERSITY OF CALIFORNIA PRESS Berkeley Los Angeles University of California Press Berkeley and Los Angeles , California",1,,,no
@@ -2708,26 +2636,7 @@ UNIVERSITY OF CALIFORNIA PRESS Berkeley and Los Angeles i960,1,,,no
 "UNIVERSITY UNIVERSITY OF CALIFORNIA PRESS Berkeley and, Los Angeles T 949",1,,,no
 UNIvERSIty oF CALIFoRNIA PRESS Berkeley Los Angeles London,1,,,no
 UNiversity of California,1,University of California System,I2803209242,no
-"USDA Forest Service, PSW Research Station, Berkeley, CA 94701, U.S.A.,
-
-            *
-            USDA Forest Service, Forest Health Technology, Morgantown, WV 26505, U.S.A.,
-          
-
-            †
-            California Department of Forestry and Fire Protection, Redding, CA 96002, U.S.A.,
-          
-
-            ‡
-            Total Forestry, Anderson, CA 96007, U.S.A.,
-          
-
-            §
-            USDA Forest Service, Redding Silviculture Laboratory, Redding, CA 96002, U.S.A. and
-          
-
-            ¶
-            Dept. Environmental Science, Policy, and Management, University of California, Berkeley, CA 94720, U.S.A",1,US Forest Service | California Department of Forestry and Fire Protection,I1313416372 I4387155236,no
+"USDA Forest Service, PSW Research Station, Berkeley, CA 94701, U.S.A., * USDA Forest Service, Forest Health Technology, Morgantown, WV 26505, U.S.A., † California Department of Forestry and Fire Protection, Redding, CA 96002, U.S.A., ‡ Total Forestry, Anderson, CA 96007, U.S.A., § USDA Forest Service, Redding Silviculture Laboratory, Redding, CA 96002, U.S.A. and ¶ Dept. Environmental Science, Policy, and Management, University of California, Berkeley, CA 94720, U.S.A",1,US Forest Service | California Department of Forestry and Fire Protection,I1313416372 I4387155236,no
 "Umea ˚Center for Molecular Pathogenesis , UCMP ,",1,Umeå University,I90267481,no
 "Undergraduate Program, University of California",1,University of California System,I2803209242,no
 "UniVersity of California, USA",1,University of California System,I2803209242,no
@@ -2787,8 +2696,7 @@ Univ.of California,1,University of California System,I2803209242,no
 "Univeristy of California, Irvine, United States. Electronic address: esmeralda.garcia@berkeley.edu",1,"University of California, Irvine",I204250578,no
 UniversIty of Callforma - Berkeley,1,,,no
 "Universidad de Washington, Berkeley, EEUU",1,University of Washington,I201448701,no
-"University
-of California",1,University of California System,I2803209242,no
+University of California,1,University of California System,I2803209242,no
 "University , California",1,,,no
 "University , the University of Washington , New York University , the University of California at Los Angeles and at Berkeley , Indiana University , Harvard University",1,"Indiana University | New York University | Harvard University | University of California, Los Angeles | University of Washington",I592451 I57206974 I136199984 I161318765 I201448701,no
 "University Herbarium (UC), University of California",1,University of California System,I2803209242,no
@@ -2819,10 +2727,10 @@ University of California  California USA,1,University of California System,I2803
 University of California  California United States,1,University of California System,I2803209242,no
 "University of California (Retired), 5112 MacArthur Blvd. NW. Suite 105, Washington, DC 20016 USA",1,University of California System,I2803209242,no
 University of California (SF),1,"University of California, San Francisco",I180670191,no
-University of California (UC) Berke- ley in 2011 ,1,,,no
+University of California (UC) Berke- ley in 2011,1,,,no
 "University of California (UCB), 650",1,University of California System,I2803209242,no
 University of California *,1,University of California System,I2803209242,no
-"University of California , , , , ",1,University of California System,I2803209242,no
+"University of California , , , ,",1,University of California System,I2803209242,no
 "University of California , , , , ;",1,,,no
 "University of California , , , 94720,",1,University of California System,I2803209242,no
 "University of California , , 3508 Bren Hall , , ,",1,,,no
@@ -2844,12 +2752,12 @@ University of California *,1,University of California System,I2803209242,no
 "University of California , and , , ,",1,University of California System,I2803209242,no
 "University of California , and the , , ,",1,University of California System,I2803209242,no
 University of California - Department of Psychology,1,University of California System,I2803209242,no
-University of California . ,1,University of California System,I2803209242,no
-University of California .- . ,1,University of California System,I2803209242,no
+University of California .,1,University of California System,I2803209242,no
+University of California .- .,1,University of California System,I2803209242,no
 University of California 1 CA 94720 USA,1,University of California System,I2803209242,no
-University of California 11 ,1,University of California System,I2803209242,no
+University of California 11,1,University of California System,I2803209242,no
 University of California 2 3,1,University of California System,I2803209242,no
-"University of California 2 Department of Civil Engineering, , USA ",1,University of California System,I2803209242,no
+"University of California 2 Department of Civil Engineering, , USA",1,University of California System,I2803209242,no
 "University of California 2 The Space Sciences Laboratory, , Berkeley, California 94720, USA",1,Space Sciences Laboratory,I4405256501,yes
 "University of California 5 , , ,",1,University of California System,I2803209242,no
 "University of California 6 , , ,",1,University of California System,I2803209242,no
@@ -2901,9 +2809,9 @@ University of California Davis Berkeley,1,"University of California, Davis",I842
 University of California DavisOne Shields AvenueDavisCA95616,1,"University of California, Davis",I84218800,no
 "University of California Department of Chemical and Biomolecular Engineering, ,",1,University of California System,I2803209242,no
 University of California Department of Dermatology Sacramento California,1,,,no
-"University of California Department of Mechanical and Aerospace Engineering, , ,  ",1,University of California System,I2803209242,no
+"University of California Department of Mechanical and Aerospace Engineering, , ,",1,University of California System,I2803209242,no
 "University of California Department of Mechanical and Aerospace Engineering, , ,   ;",1,University of California System,I2803209242,no
-"University of California Department of Mechanical, & Aerospace Engineering, , ,  ",1,University of California System,I2803209242,no
+"University of California Department of Mechanical, & Aerospace Engineering, , ,",1,University of California System,I2803209242,no
 University of California Department of Psychiatry,1,University of California System,I2803209242,no
 University of California Department of Sociology California,1,University of California System,I2803209242,no
 "University of California Education Abroad Program, Florence, Italy",1,,,no
@@ -2940,15 +2848,15 @@ University of California Obs/Lick Observatory,1,,,no
 "University of California Observatories/Lick Observatory, Board of Studies in Astronomy and Astrophysics, University of California",1,University of California Observatories,I4405271789,no
 "University of California Pavement Research Center, Davis and Berkeley, 1353 South 46th Street, Building 452, Richmond, CA 94804",1,,,no
 University of California Press # Berkeley • Los Angeles •,1,,,no
-"University of California Press , Berkeley & Los Angeles , 2003 , 332 p ",1,,,no
+"University of California Press , Berkeley & Los Angeles , 2003 , 332 p",1,,,no
 "University of California Press , Berkeley , 1988",1,,,no
 "University of California Press , Berkeley , California ,",1,,,no
 "University of California Press , Berkeley , California , USA ;",1,,,no
 "University of California Press , Berkeley , Los Angeles",1,,,no
-"University of California Press , Berkeley , Los Angeles , London 2008 ",1,,,no
+"University of California Press , Berkeley , Los Angeles , London 2008",1,,,no
 "University of California Press , Berkeley , Los Angeles , USA",1,,,no
 "University of California Press , Berkeley 1988",1,,,no
-"University of California Press , Berkeley 2017 , 336 s ",1,,,no
+"University of California Press , Berkeley 2017 , 336 s",1,,,no
 "University of California Press , Berkeley and Los Angeles",1,,,no
 "University of California Press , Berkeley and Los Angeles 1969",1,,,no
 "University of California Press , Berkeley-Los Angeles",1,,,no
@@ -3084,8 +2992,7 @@ University of California – Florence#R##N#Piazza Santo Spirito 10#R##N#50125 Fi
 "University of California, Department of Electrical Engineering, USA",1,University of California System,I2803209242,no
 "University of California, Department of Integrative Biology, Cancer Research Laboratory, and Group in Endocrinology",1,University of California System,I2803209242,no
 "University of California, Department of Mathematics, USA#TAB#",1,University of California System,I2803209242,no
-"University of California, Department of Mechanical Engineering,
-                    USA",1,University of California System,I2803209242,no
+"University of California, Department of Mechanical Engineering, USA",1,University of California System,I2803209242,no
 "University of California, Department of Plant Pathology, , USA",1,University of California System,I2803209242,no
 "University of California, Department of Radiology",1,University of California System,I2803209242,no
 "University of California, Department of Sociology, USA",1,University of California System,I2803209242,no
@@ -3154,7 +3061,7 @@ University of California – Florence#R##N#Piazza Santo Spirito 10#R##N#50125 Fi
 "University of California, USA;",1,University of California System,I2803209242,no
 "University of California, Veterinary Medicine and Research Center, Tulare 93274",1,University of California System,I2803209242,no
 "University of California, Visalia 93291",1,University of California System,I2803209242,no
-"University of California, White Mountain Research Station, 3000 E. Line Street, Bishop, CA 93514, U.S.A., email      johnw@wmrs.edu",1,University of California System,I2803209242,no
+"University of California, White Mountain Research Station, 3000 E. Line Street, Bishop, CA 93514, U.S.A., email      johnw@wmrs.edu",1,University of California System,I2803209242,no
 "University of California, White Mountain Research Station, 3000 East Line Street, Bishop, CA 93514,",1,University of California System,I2803209242,no
 "University of California, White Mountain Research Station, Bishop, CA 93514, USA;",1,University of California System,I2803209242,no
 "University of California, and Chemical Sciences Division",1,University of California System,I2803209242,no
@@ -3209,7 +3116,7 @@ University of Southern California Berkeley,1,University of Southern California,I
 "University of Wisconsin Berkeley, CA 94720 Madison, WI 53706",1,University of Wisconsin–Madison,I135310074,no
 "University of Wisconsin, the Graduate School of Public Policy at Berkeley, and the University of New South Wales",1,UNSW Sydney,I31746571,no
 University of  California,1,University of California System,I2803209242,no
-University • of • California• ,1,University of California System,I2803209242,no
+University • of • California•,1,University of California System,I2803209242,no
 "University-Wide AIDS Research Program , University of California ; AARS",1,University of California System,I2803209242,no
 University. California,1,University of California System,I2803209242,no
 University. of California,1,University of California System,I2803209242,no
@@ -3259,7 +3166,7 @@ West Side Research and Extension Center Univ. of California  Five Points CA 9362
 [University of California at Los Angles],1,University of California System,I2803209242,no
 [University of California at Santa],1,,,no
 "[University of California, Los Angles, Los Angles, CA, USA]",1,University of California System,I2803209242,no
-"a                                94704,                2151 Berkeley Way, Berkeley               ,                CA",1,,,no
+"a 94704, 2151 Berkeley Way, Berkeley , CA",1,,,no
 "a    Berkeley, CA",1,,,no
 "a   Department of Physics , University of California",1,University of California System,I2803209242,no
 "a   Department of Physiology , University of California ,  USA",1,University of California System,I2803209242,no
@@ -3270,7 +3177,7 @@ a  Graduate School of Management at the University of California,1,,,no
 "a Associate Research Specialist, Institute for Health & Aging, Department of Social and Behavioral Sciences, University of California, San Fransisco, CA, 94143-0612",1,"University of California, San Francisco",I180670191,no
 "a Department of Physics , University of California",1,University of California System,I2803209242,no
 "a Field Crops Advisor, University of California , Cooperative Extension, 290 N. Broadway, Blythe , CA , 92225",1,,,no
-"a University of California , USA ",1,University of California System,I2803209242,no
+"a University of California , USA",1,University of California System,I2803209242,no
 a University of California School of Medicine,1,University of California System,I2803209242,no
 "a University of California, USA",1,University of California System,I2803209242,no
 "aDivision of HIV, ID and Global Medicine bCenter for AIDS Prevention Studies, University of California, San Francisco, San Francisco, California, USA cKenya Medical Research Institute, Kwale, Kenya dInfectious Diseases Research Collaboration eDivision of HIV Prevention, Makerere University Joint AIDS Program, Kampala, Uganda fDepartment of Pediatrics, Division of Infectious Diseases gDepartment of Obstetrics, Gynecology & Reproductive Sciences, Bixby Center for Global Reproductive Health, University of California San Francisco, San Francisco, California, USA hSchool of Medicine, Makerere University College of Health Sciences, Kampala, Uganda iDivision of Biostatistics and Epidemiology, University of California, Berkeley, Berkeley, California, USA",1,"Makerere University | University of California, San Francisco",I72227227 I180670191,no
@@ -3302,13 +3209,13 @@ exo@me.berkeley.edu,1,,,no
 lecturer at the University of California,1,,,no
 m  University of California,1,University of California System,I2803209242,no
 "n University of California Press Berkeley and Los Angeles ,",1,,,no
-of the University of California .• ,1,University of California System,I2803209242,no
+of the University of California .•,1,University of California System,I2803209242,no
 "part of UCB , Emeryville , CA , USA",1,,,no
 "policy, and Management, University of Berkeley), Vicente Dalmau",1,,,no
 professor of medicine at the University of California,1,University of California System,I2803209242,no
 professor of political science at the University of California,1,,,no
 rui@haas.berkeley.edu,1,,,no
-"study of practices Berkeley , University of California Press , 1999 , 406 p ",1,,,no
+"study of practices Berkeley , University of California Press , 1999 , 406 p",1,,,no
 "the Berkeley Cardiovascular Group (P.D.T.), Berkeley, Calif",1,,,no
 "the Department of Chemical Engineering and Materials Science, University of California, Irving,",1,University of California System,I2803209242,no
 the Department of Psychiatry at the University of California,1,University of California System,I2803209242,no
@@ -3317,12 +3224,12 @@ university of california press Berkeley Los Angeles London University of Califor
 university of california press Berkeley • Los Angeles • London,1,,,no
 wakelab@uclink.berkeley.edu,1,,,no
 "~on Laboratory Berkeley, California",1,,,no
-" Stable Isotope Facility, University of California at DavisDavis, CA 95616USA",1,"University of California, Davis",I84218800,no
+"Stable Isotope Facility, University of California at DavisDavis, CA 95616USA",1,"University of California, Davis",I84218800,no
 "Калифорнийский университет Беркли , Беркли , Калифорния , 94720 , США",1,,,no
-" Department of Medical Pathology, University of California, Sacramento, CA, USA",1,,,no
-" Department of Plant Science, University of California, Kearney, CA, USA",1,,,no
-" University of California Agriculture and Natural Resources, Cooperative Extension, Fresno County, Fresno, CA, USA",1,,,no
-" University of California, U.S.A",1,University of California System,I2803209242,no
+"Department of Medical Pathology, University of California, Sacramento, CA, USA",1,,,no
+"Department of Plant Science, University of California, Kearney, CA, USA",1,,,no
+"University of California Agriculture and Natural Resources, Cooperative Extension, Fresno County, Fresno, CA, USA",1,,,no
+"University of California, U.S.A",1,University of California System,I2803209242,no
 "† Department of Mathematics, University of California",1,University of California System,I2803209242,no
 "†Prevention Research Center, 1995 University Avenue, Suite 450, Berkeley, CA 94704",1,,,no
 "†University of Berkeley‐SSL, Berkeley, CA",1,,,no
